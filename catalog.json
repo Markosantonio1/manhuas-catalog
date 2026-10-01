@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "manhuas-catalog-v1",
-  "updated_at": "2026-10-01T15:14:14.774158+00:00",
+  "updated_at": "2026-10-01T16:01:13.328076+00:00",
   "source": {
     "type": "telegram",
     "channel": "manhuasgratis",
@@ -281,7 +281,7 @@
       "synopsis": "Sinopsis: Vlad era un niño vagabundo de los barrios bajos que siempre admiraba a los caballeros. Después de un incidente en el que fue golpeado por un relámpago negro, comenzó a escuchar una voz. Un caballero de luz de luna azul apareció un día, y la vida de Vlad en los callejones oscuros cambió por completo... Incluso una estrella oscura que no brilla en las cimas más altas del cielo nocturno sigue siendo una estrella si desea brillar.",
       "genres": [],
       "latest_chapter": 140,
-      "package_count": 39,
+      "package_count": 42,
       "packages": [
         {
           "name": "1",
@@ -296,6 +296,94 @@
           "download_ready": true,
           "chapters": [
             1
+          ]
+        },
+        {
+          "name": "21-30",
+          "first": 21,
+          "last": 30,
+          "channel_id": 3003829878,
+          "message_id": 4754,
+          "filename": "el maestro de la espada acogedor de estrellas 21-30.pdf",
+          "size": 98636761,
+          "date": "2026-10-01T15:35:15+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4754",
+          "download_ready": true,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "name": "31-40",
+          "first": 31,
+          "last": 40,
+          "channel_id": 3003829878,
+          "message_id": 4755,
+          "filename": "el maestro de la espada acogedor de estrellas 31-40.pdf",
+          "size": 104620940,
+          "date": "2026-10-01T15:35:15+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4755",
+          "download_ready": true,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "name": "41-66",
+          "first": 41,
+          "last": 66,
+          "channel_id": 3003829878,
+          "message_id": 4756,
+          "filename": "el maestro de la espada acogedor de estrellas 41-66.pdf",
+          "size": 262224160,
+          "date": "2026-10-01T15:35:15+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4756",
+          "download_ready": true,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
           ]
         },
         {
