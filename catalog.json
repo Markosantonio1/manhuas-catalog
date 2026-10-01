@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "manhuas-catalog-v1",
-  "updated_at": "2026-09-30T23:49:34.914886+00:00",
+  "updated_at": "2026-10-01T15:14:14.774158+00:00",
   "source": {
     "type": "telegram",
     "channel": "manhuasgratis",
@@ -17,8 +17,8 @@
       "cover_telegram_link": "https://t.me/c/4187372773/4",
       "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
       "genres": [],
-      "latest_chapter": 38,
-      "package_count": 14,
+      "latest_chapter": 39,
+      "package_count": 15,
       "packages": [
         {
           "name": "1-10",
@@ -252,6 +252,631 @@
           "chapters": [
             37,
             38
+          ]
+        },
+        {
+          "name": "39",
+          "first": 39,
+          "last": 39,
+          "channel_id": 3003829878,
+          "message_id": 4741,
+          "filename": "39 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 6077481,
+          "date": "2026-10-01T04:11:13+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4741",
+          "download_ready": true,
+          "chapters": [
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "id": "el_maestro_de_la_espada_acogedor_de_estrellas",
+      "name": "El Maestro de la Espada Acogedor de Estrellas",
+      "hashtag": "#El_Maestro_de_la_Espada_Acogedor_de_Estrellas",
+      "cover": null,
+      "cover_message_id": 6,
+      "cover_telegram_link": "https://t.me/c/4187372773/6",
+      "synopsis": "Sinopsis: Vlad era un niño vagabundo de los barrios bajos que siempre admiraba a los caballeros. Después de un incidente en el que fue golpeado por un relámpago negro, comenzó a escuchar una voz. Un caballero de luz de luna azul apareció un día, y la vida de Vlad en los callejones oscuros cambió por completo... Incluso una estrella oscura que no brilla en las cimas más altas del cielo nocturno sigue siendo una estrella si desea brillar.",
+      "genres": [],
+      "latest_chapter": 140,
+      "package_count": 39,
+      "packages": [
+        {
+          "name": "1",
+          "first": 1,
+          "last": 1,
+          "channel_id": 3003829878,
+          "message_id": 70,
+          "filename": "El maestro de la espada acogedor de estrellas 1 a 20.pdf",
+          "size": 202016350,
+          "date": "2025-10-11T02:09:35+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/70",
+          "download_ready": true,
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "name": "67",
+          "first": 67,
+          "last": 67,
+          "channel_id": 3003829878,
+          "message_id": 76,
+          "filename": "67 a 83 el maestro de la espada acogedor de estrellas.pdf",
+          "size": 168458778,
+          "date": "2025-10-11T11:54:50+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/76",
+          "download_ready": true,
+          "chapters": [
+            67
+          ]
+        },
+        {
+          "name": "84",
+          "first": 84,
+          "last": 84,
+          "channel_id": 3003829878,
+          "message_id": 77,
+          "filename": "84_a_96_fin_1tem_el_maestro_de_la_espada_acogedor_de_estrellas.pdf",
+          "size": 124639703,
+          "date": "2025-10-11T11:56:30+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/77",
+          "download_ready": true,
+          "chapters": [
+            84
+          ]
+        },
+        {
+          "name": "96-97",
+          "first": 96,
+          "last": 97,
+          "channel_id": 3003829878,
+          "message_id": 169,
+          "filename": "96_97_El_maestro_de_la_espada_acogedor_de_estrellas@KaydopKingmanhwa.pdf",
+          "size": 31240557,
+          "date": "2025-12-23T23:21:39+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/169",
+          "download_ready": true,
+          "chapters": [
+            96,
+            97
+          ]
+        },
+        {
+          "name": "97-102",
+          "first": 97,
+          "last": 102,
+          "channel_id": 3003829878,
+          "message_id": 170,
+          "filename": "┊97-102┊El Maestro De La Espada Acogedor De Estrellas.pdf",
+          "size": 39736045,
+          "date": "2026-01-11T02:29:52+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/170",
+          "download_ready": true,
+          "chapters": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+          ]
+        },
+        {
+          "name": "103",
+          "first": 103,
+          "last": 103,
+          "channel_id": 3003829878,
+          "message_id": 171,
+          "filename": "[103] El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 13091937,
+          "date": "2026-01-11T02:29:52+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/171",
+          "download_ready": true,
+          "chapters": [
+            103
+          ]
+        },
+        {
+          "name": "104",
+          "first": 104,
+          "last": 104,
+          "channel_id": 3003829878,
+          "message_id": 172,
+          "filename": "[104] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 7228869,
+          "date": "2026-01-11T02:29:52+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/172",
+          "download_ready": true,
+          "chapters": [
+            104
+          ]
+        },
+        {
+          "name": "105",
+          "first": 105,
+          "last": 105,
+          "channel_id": 3003829878,
+          "message_id": 173,
+          "filename": "[105] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 6949264,
+          "date": "2026-01-22T03:58:53+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/173",
+          "download_ready": true,
+          "chapters": [
+            105
+          ]
+        },
+        {
+          "name": "108",
+          "first": 108,
+          "last": 108,
+          "channel_id": 3003829878,
+          "message_id": 638,
+          "filename": "[108] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 7796991,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/638",
+          "download_ready": true,
+          "chapters": [
+            108
+          ]
+        },
+        {
+          "name": "109",
+          "first": 109,
+          "last": 109,
+          "channel_id": 3003829878,
+          "message_id": 639,
+          "filename": "│109│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 8807387,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/639",
+          "download_ready": true,
+          "chapters": [
+            109
+          ]
+        },
+        {
+          "name": "110",
+          "first": 110,
+          "last": 110,
+          "channel_id": 3003829878,
+          "message_id": 640,
+          "filename": "│110│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 9623454,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/640",
+          "download_ready": true,
+          "chapters": [
+            110
+          ]
+        },
+        {
+          "name": "111",
+          "first": 111,
+          "last": 111,
+          "channel_id": 3003829878,
+          "message_id": 641,
+          "filename": "[111] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 6227992,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/641",
+          "download_ready": true,
+          "chapters": [
+            111
+          ]
+        },
+        {
+          "name": "112",
+          "first": 112,
+          "last": 112,
+          "channel_id": 3003829878,
+          "message_id": 642,
+          "filename": "[112] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 7953167,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/642",
+          "download_ready": true,
+          "chapters": [
+            112
+          ]
+        },
+        {
+          "name": "113",
+          "first": 113,
+          "last": 113,
+          "channel_id": 3003829878,
+          "message_id": 643,
+          "filename": "[113] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 6524235,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/643",
+          "download_ready": true,
+          "chapters": [
+            113
+          ]
+        },
+        {
+          "name": "114",
+          "first": 114,
+          "last": 114,
+          "channel_id": 3003829878,
+          "message_id": 644,
+          "filename": "│114│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 10981685,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/644",
+          "download_ready": true,
+          "chapters": [
+            114
+          ]
+        },
+        {
+          "name": "115",
+          "first": 115,
+          "last": 115,
+          "channel_id": 3003829878,
+          "message_id": 645,
+          "filename": "[115] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 8548102,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/645",
+          "download_ready": true,
+          "chapters": [
+            115
+          ]
+        },
+        {
+          "name": "116",
+          "first": 116,
+          "last": 116,
+          "channel_id": 3003829878,
+          "message_id": 646,
+          "filename": "[116] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 7577577,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/646",
+          "download_ready": true,
+          "chapters": [
+            116
+          ]
+        },
+        {
+          "name": "117",
+          "first": 117,
+          "last": 117,
+          "channel_id": 3003829878,
+          "message_id": 647,
+          "filename": "[117] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 8552496,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/647",
+          "download_ready": true,
+          "chapters": [
+            117
+          ]
+        },
+        {
+          "name": "118",
+          "first": 118,
+          "last": 118,
+          "channel_id": 3003829878,
+          "message_id": 648,
+          "filename": "118 - El maestro de la espada acogedor de estrellas.pdf",
+          "size": 12488510,
+          "date": "2026-04-22T03:53:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/648",
+          "download_ready": true,
+          "chapters": [
+            118
+          ]
+        },
+        {
+          "name": "119",
+          "first": 119,
+          "last": 119,
+          "channel_id": 3003829878,
+          "message_id": 652,
+          "filename": "[119] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 9338645,
+          "date": "2026-04-25T17:49:02+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/652",
+          "download_ready": true,
+          "chapters": [
+            119
+          ]
+        },
+        {
+          "name": "120",
+          "first": 120,
+          "last": 120,
+          "channel_id": 3003829878,
+          "message_id": 659,
+          "filename": "[120] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "size": 8595246,
+          "date": "2026-05-05T12:30:07+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/659",
+          "download_ready": true,
+          "chapters": [
+            120
+          ]
+        },
+        {
+          "name": "121-122",
+          "first": 121,
+          "last": 122,
+          "channel_id": 3003829878,
+          "message_id": 742,
+          "filename": "121-122 El maestro de la espada acogedor de estrellas.pdf",
+          "size": 22823500,
+          "date": "2026-08-13T19:32:51+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/742",
+          "download_ready": true,
+          "chapters": [
+            121,
+            122
+          ]
+        },
+        {
+          "name": "121-122",
+          "first": 121,
+          "last": 122,
+          "channel_id": 3003829878,
+          "message_id": 743,
+          "filename": "121-122 El maestro de la espada acogedor de estrellas.pdf",
+          "size": 22823500,
+          "date": "2026-08-13T19:32:54+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/743",
+          "download_ready": true,
+          "chapters": [
+            121,
+            122
+          ]
+        },
+        {
+          "name": "123-124",
+          "first": 123,
+          "last": 124,
+          "channel_id": 3003829878,
+          "message_id": 744,
+          "filename": "[✦123-124] • El Maestro D L Espada Acogedor Estre🏮JMX.pdf",
+          "size": 16169710,
+          "date": "2026-08-13T19:33:00+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/744",
+          "download_ready": true,
+          "chapters": [
+            123,
+            124
+          ]
+        },
+        {
+          "name": "125",
+          "first": 125,
+          "last": 125,
+          "channel_id": 3003829878,
+          "message_id": 746,
+          "filename": "│125│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 11527935,
+          "date": "2026-08-13T19:33:13+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/746",
+          "download_ready": true,
+          "chapters": [
+            125
+          ]
+        },
+        {
+          "name": "126",
+          "first": 126,
+          "last": 126,
+          "channel_id": 3003829878,
+          "message_id": 878,
+          "filename": "│126│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 9347143,
+          "date": "2026-08-13T20:22:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/878",
+          "download_ready": true,
+          "chapters": [
+            126
+          ]
+        },
+        {
+          "name": "127",
+          "first": 127,
+          "last": 127,
+          "channel_id": 3003829878,
+          "message_id": 879,
+          "filename": "│127│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 11025079,
+          "date": "2026-08-13T20:22:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/879",
+          "download_ready": true,
+          "chapters": [
+            127
+          ]
+        },
+        {
+          "name": "128",
+          "first": 128,
+          "last": 128,
+          "channel_id": 3003829878,
+          "message_id": 880,
+          "filename": "│128│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 8264589,
+          "date": "2026-08-13T20:22:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/880",
+          "download_ready": true,
+          "chapters": [
+            128
+          ]
+        },
+        {
+          "name": "129",
+          "first": 129,
+          "last": 129,
+          "channel_id": 3003829878,
+          "message_id": 881,
+          "filename": "│129│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 7563678,
+          "date": "2026-08-13T20:22:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/881",
+          "download_ready": true,
+          "chapters": [
+            129
+          ]
+        },
+        {
+          "name": "130",
+          "first": 130,
+          "last": 130,
+          "channel_id": 3003829878,
+          "message_id": 882,
+          "filename": "│130│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 10405761,
+          "date": "2026-08-13T20:22:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/882",
+          "download_ready": true,
+          "chapters": [
+            130
+          ]
+        },
+        {
+          "name": "130",
+          "first": 130,
+          "last": 130,
+          "channel_id": 3003829878,
+          "message_id": 884,
+          "filename": "│130│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 10405761,
+          "date": "2026-08-13T20:23:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/884",
+          "download_ready": true,
+          "chapters": [
+            130
+          ]
+        },
+        {
+          "name": "131",
+          "first": 131,
+          "last": 131,
+          "channel_id": 3003829878,
+          "message_id": 1705,
+          "filename": "│131│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 10854217,
+          "date": "2026-08-18T01:57:57+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/1705",
+          "download_ready": true,
+          "chapters": [
+            131
+          ]
+        },
+        {
+          "name": "132",
+          "first": 132,
+          "last": 132,
+          "channel_id": 3003829878,
+          "message_id": 1706,
+          "filename": "│132│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 9707778,
+          "date": "2026-08-18T01:57:59+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/1706",
+          "download_ready": true,
+          "chapters": [
+            132
+          ]
+        },
+        {
+          "name": "133",
+          "first": 133,
+          "last": 133,
+          "channel_id": 3003829878,
+          "message_id": 1707,
+          "filename": "│133│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 11600872,
+          "date": "2026-08-18T01:58:01+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/1707",
+          "download_ready": true,
+          "chapters": [
+            133
+          ]
+        },
+        {
+          "name": "134-135",
+          "first": 134,
+          "last": 135,
+          "channel_id": 3003829878,
+          "message_id": 3620,
+          "filename": "134_135_┊➤_El_Maestro_de_la_Espada_Acogedor_de_Estrellas.pdf",
+          "size": 20179975,
+          "date": "2026-08-26T14:24:45+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/3620",
+          "download_ready": true,
+          "chapters": [
+            134,
+            135
+          ]
+        },
+        {
+          "name": "136-137",
+          "first": 136,
+          "last": 137,
+          "channel_id": 3003829878,
+          "message_id": 4627,
+          "filename": "136-137 El maestro de la espada acogedor de estrellas.pdf",
+          "size": 29869196,
+          "date": "2026-09-25T14:03:40+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4627",
+          "download_ready": true,
+          "chapters": [
+            136,
+            137
+          ]
+        },
+        {
+          "name": "138",
+          "first": 138,
+          "last": 138,
+          "channel_id": 3003829878,
+          "message_id": 4628,
+          "filename": "138 El maestro de la espada acogedor de estrellas.pdf",
+          "size": 12741853,
+          "date": "2026-09-25T14:03:42+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4628",
+          "download_ready": true,
+          "chapters": [
+            138
+          ]
+        },
+        {
+          "name": "139",
+          "first": 139,
+          "last": 139,
+          "channel_id": 3003829878,
+          "message_id": 4629,
+          "filename": "139 El maestro de la espada acogedor de estrellas.pdf",
+          "size": 16111039,
+          "date": "2026-09-25T14:03:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4629",
+          "download_ready": true,
+          "chapters": [
+            139
+          ]
+        },
+        {
+          "name": "140",
+          "first": 140,
+          "last": 140,
+          "channel_id": 3003829878,
+          "message_id": 4747,
+          "filename": "140 - El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 13805347,
+          "date": "2026-10-01T12:11:29+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4747",
+          "download_ready": true,
+          "chapters": [
+            140
           ]
         }
       ]
