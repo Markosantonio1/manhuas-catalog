@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "manhuas-catalog-v1",
-  "updated_at": "2026-10-03T03:45:43.622121+00:00",
+  "updated_at": "2026-10-03T03:52:50.938920+00:00",
   "source": {
     "type": "telegram",
     "channel": "manhuasgratis",
