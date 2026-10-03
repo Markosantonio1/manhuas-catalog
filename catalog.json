@@ -1,17 +1,69 @@
 {
   "novels": [
     {
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/oredakehairerukakushidungeon.jpg",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/oredakehairerukakushidungeon.jpg",
       "cover_message_id": 2,
       "cover_telegram_link": "https://t.me/c/-1004334091126/2",
       "genres": [],
       "hashtag": "#OredakeHaireruKakushiDungeon",
       "id": "oredakehairerukakushidungeon",
-      "latest_chapter": 1,
+      "latest_chapter": 3,
       "name": "OredakeHaireruKakushiDungeon",
-      "package_count": 0,
-      "packages": [],
-      "synopsis": "",
+      "package_count": 3,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 6,
+          "name": "Volumen 2",
+          "size": 8906601,
+          "telegram_link": "https://t.me/c/-1004334091126/6"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 7,
+          "name": "Volumen 3",
+          "size": 8329192,
+          "telegram_link": "https://t.me/c/-1004334091126/7"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 8,
+          "name": "Volumen 4",
+          "size": 6397940,
+          "telegram_link": "https://t.me/c/-1004334091126/8"
+        }
+      ],
+      "synopsis": "Noir es hijo de un noble con muy poca fortuna, pero poseedor de un raro poder: comunicarse con un misterioso sabio, aunque esto le ocasione dolores de cabeza. Siguiendo el consejo del sabio, Noir encuentra una mazmorra secreta llena de extrañas criaturas y objetos mágicos. Allí, Noir entrenará, ganando experiencia y riqueza, hasta que tenga poder suficiente para cambiar su destino",
       "visible": true
     }
   ],
@@ -636,6 +688,6 @@
     "portadas_channel": "4187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-03T17:57:25.826739+00:00",
+  "updated_at": "2026-10-03T18:26:27.883809+00:00",
   "version": 2
 }
