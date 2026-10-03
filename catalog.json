@@ -1,36 +1,19 @@
 {
-  "version": 1,
   "schema": "manhuas-catalog-v1",
-  "updated_at": "2026-10-03T03:52:50.938920+00:00",
-  "source": {
-    "type": "telegram",
-    "channel": "manhuasgratis",
-    "portadas_channel": "4187372773"
-  },
   "series": [
     {
-      "id": "dominio_absoluto_del_nivel_0",
-      "name": "Dominio Absoluto del Nivel 0",
-      "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/dominio_absoluto_del_nivel_0.jpg",
       "cover_message_id": 4,
       "cover_telegram_link": "https://t.me/c/4187372773/4",
-      "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
       "genres": [],
-      "latest_chapter": 39,
-      "package_count": 15,
+      "hashtag": "#Dominio_Absoluto_del_Nivel_0",
+      "id": "dominio_absoluto_del_nivel_0",
+      "latest_chapter": 44,
+      "name": "Dominio Absoluto del Nivel 0",
+      "package_count": 17,
       "packages": [
         {
-          "name": "1-10",
-          "first": 1,
-          "last": 10,
           "channel_id": 3003829878,
-          "message_id": 4366,
-          "filename": "01-10 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 80175240,
-          "date": "2026-09-08T22:09:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4366",
-          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -42,258 +25,291 @@
             8,
             9,
             10
-          ]
+          ],
+          "date": "2026-09-08T22:09:55+00:00",
+          "download_ready": true,
+          "filename": "01-10 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4366,
+          "name": "1-10",
+          "size": 80175240,
+          "telegram_link": "https://t.me/manhuasgratis/4366"
         },
         {
-          "name": "11",
-          "first": 11,
-          "last": 11,
           "channel_id": 3003829878,
-          "message_id": 4367,
-          "filename": "11 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 9055080,
-          "date": "2026-09-08T22:09:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4367",
-          "download_ready": true,
           "chapters": [
             11
-          ]
+          ],
+          "date": "2026-09-08T22:09:55+00:00",
+          "download_ready": true,
+          "filename": "11 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 4367,
+          "name": "11",
+          "size": 9055080,
+          "telegram_link": "https://t.me/manhuasgratis/4367"
         },
         {
-          "name": "12",
-          "first": 12,
-          "last": 12,
           "channel_id": 3003829878,
-          "message_id": 4368,
-          "filename": "12 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 7884977,
-          "date": "2026-09-08T22:09:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4368",
-          "download_ready": true,
           "chapters": [
             12
-          ]
+          ],
+          "date": "2026-09-08T22:09:55+00:00",
+          "download_ready": true,
+          "filename": "12 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 12,
+          "last": 12,
+          "message_id": 4368,
+          "name": "12",
+          "size": 7884977,
+          "telegram_link": "https://t.me/manhuasgratis/4368"
         },
         {
-          "name": "13-14",
-          "first": 13,
-          "last": 14,
           "channel_id": 3003829878,
-          "message_id": 4369,
-          "filename": "13-14 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 14867404,
-          "date": "2026-09-08T22:09:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4369",
-          "download_ready": true,
           "chapters": [
             13,
             14
-          ]
+          ],
+          "date": "2026-09-08T22:09:55+00:00",
+          "download_ready": true,
+          "filename": "13-14 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 13,
+          "last": 14,
+          "message_id": 4369,
+          "name": "13-14",
+          "size": 14867404,
+          "telegram_link": "https://t.me/manhuasgratis/4369"
         },
         {
-          "name": "15",
-          "first": 15,
-          "last": 15,
           "channel_id": 3003829878,
-          "message_id": 4370,
-          "filename": "15 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 6980529,
-          "date": "2026-09-08T22:09:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4370",
-          "download_ready": true,
           "chapters": [
             15
-          ]
+          ],
+          "date": "2026-09-08T22:09:55+00:00",
+          "download_ready": true,
+          "filename": "15 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 15,
+          "last": 15,
+          "message_id": 4370,
+          "name": "15",
+          "size": 6980529,
+          "telegram_link": "https://t.me/manhuasgratis/4370"
         },
         {
-          "name": "16",
-          "first": 16,
-          "last": 16,
           "channel_id": 3003829878,
-          "message_id": 4371,
-          "filename": "16 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 8209865,
-          "date": "2026-09-08T22:09:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4371",
-          "download_ready": true,
           "chapters": [
             16
-          ]
+          ],
+          "date": "2026-09-08T22:09:55+00:00",
+          "download_ready": true,
+          "filename": "16 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 4371,
+          "name": "16",
+          "size": 8209865,
+          "telegram_link": "https://t.me/manhuasgratis/4371"
         },
         {
-          "name": "17",
-          "first": 17,
-          "last": 17,
           "channel_id": 3003829878,
-          "message_id": 4372,
-          "filename": "17 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 7197960,
-          "date": "2026-09-08T22:09:56+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4372",
-          "download_ready": true,
           "chapters": [
             17
-          ]
+          ],
+          "date": "2026-09-08T22:09:56+00:00",
+          "download_ready": true,
+          "filename": "17 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 17,
+          "last": 17,
+          "message_id": 4372,
+          "name": "17",
+          "size": 7197960,
+          "telegram_link": "https://t.me/manhuasgratis/4372"
         },
         {
-          "name": "18-20",
-          "first": 18,
-          "last": 20,
           "channel_id": 3003829878,
-          "message_id": 4673,
-          "filename": "18-20 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 17035721,
-          "date": "2026-09-30T12:34:29+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4673",
-          "download_ready": true,
           "chapters": [
             18,
             19,
             20
-          ]
+          ],
+          "date": "2026-09-30T12:34:29+00:00",
+          "download_ready": true,
+          "filename": "18-20 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 18,
+          "last": 20,
+          "message_id": 4673,
+          "name": "18-20",
+          "size": 17035721,
+          "telegram_link": "https://t.me/manhuasgratis/4673"
         },
         {
-          "name": "21-22",
-          "first": 21,
-          "last": 22,
           "channel_id": 3003829878,
-          "message_id": 4674,
-          "filename": "21-22 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 12009527,
-          "date": "2026-09-30T12:34:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4674",
-          "download_ready": true,
           "chapters": [
             21,
             22
-          ]
+          ],
+          "date": "2026-09-30T12:34:32+00:00",
+          "download_ready": true,
+          "filename": "21-22 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 21,
+          "last": 22,
+          "message_id": 4674,
+          "name": "21-22",
+          "size": 12009527,
+          "telegram_link": "https://t.me/manhuasgratis/4674"
         },
         {
-          "name": "23-26",
-          "first": 23,
-          "last": 26,
           "channel_id": 3003829878,
-          "message_id": 4675,
-          "filename": "23-26 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 23079316,
-          "date": "2026-09-30T12:34:34+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4675",
-          "download_ready": true,
           "chapters": [
             23,
             24,
             25,
             26
-          ]
+          ],
+          "date": "2026-09-30T12:34:34+00:00",
+          "download_ready": true,
+          "filename": "23-26 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 23,
+          "last": 26,
+          "message_id": 4675,
+          "name": "23-26",
+          "size": 23079316,
+          "telegram_link": "https://t.me/manhuasgratis/4675"
         },
         {
-          "name": "27-30",
-          "first": 27,
-          "last": 30,
           "channel_id": 3003829878,
-          "message_id": 4676,
-          "filename": "27-30 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 28092268,
-          "date": "2026-09-30T12:34:37+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4676",
-          "download_ready": true,
           "chapters": [
             27,
             28,
             29,
             30
-          ]
+          ],
+          "date": "2026-09-30T12:34:37+00:00",
+          "download_ready": true,
+          "filename": "27-30 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 27,
+          "last": 30,
+          "message_id": 4676,
+          "name": "27-30",
+          "size": 28092268,
+          "telegram_link": "https://t.me/manhuasgratis/4676"
         },
         {
-          "name": "31-35",
-          "first": 31,
-          "last": 35,
           "channel_id": 3003829878,
-          "message_id": 4677,
-          "filename": "31-35 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 30682238,
-          "date": "2026-09-30T12:34:40+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4677",
-          "download_ready": true,
           "chapters": [
             31,
             32,
             33,
             34,
             35
-          ]
+          ],
+          "date": "2026-09-30T12:34:40+00:00",
+          "download_ready": true,
+          "filename": "31-35 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 31,
+          "last": 35,
+          "message_id": 4677,
+          "name": "31-35",
+          "size": 30682238,
+          "telegram_link": "https://t.me/manhuasgratis/4677"
         },
         {
-          "name": "36",
-          "first": 36,
-          "last": 36,
           "channel_id": 3003829878,
-          "message_id": 4678,
-          "filename": "36 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 5467912,
-          "date": "2026-09-30T12:34:41+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4678",
-          "download_ready": true,
           "chapters": [
             36
-          ]
+          ],
+          "date": "2026-09-30T12:34:41+00:00",
+          "download_ready": true,
+          "filename": "36 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 4678,
+          "name": "36",
+          "size": 5467912,
+          "telegram_link": "https://t.me/manhuasgratis/4678"
         },
         {
-          "name": "37-38",
-          "first": 37,
-          "last": 38,
           "channel_id": 3003829878,
-          "message_id": 4679,
-          "filename": "37-38 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 13501102,
-          "date": "2026-09-30T12:34:43+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4679",
-          "download_ready": true,
           "chapters": [
             37,
             38
-          ]
+          ],
+          "date": "2026-09-30T12:34:43+00:00",
+          "download_ready": true,
+          "filename": "37-38 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 37,
+          "last": 38,
+          "message_id": 4679,
+          "name": "37-38",
+          "size": 13501102,
+          "telegram_link": "https://t.me/manhuasgratis/4679"
         },
         {
-          "name": "39",
-          "first": 39,
-          "last": 39,
           "channel_id": 3003829878,
-          "message_id": 4741,
-          "filename": "39 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 6077481,
-          "date": "2026-10-01T04:11:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4741",
-          "download_ready": true,
           "chapters": [
             39
-          ]
+          ],
+          "date": "2026-10-01T04:11:13+00:00",
+          "download_ready": true,
+          "filename": "39 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 4741,
+          "name": "39",
+          "size": 6077481,
+          "telegram_link": "https://t.me/manhuasgratis/4741"
+        },
+        {
+          "channel_id": 3003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-10-03T12:11:29+00:00",
+          "download_ready": true,
+          "filename": "40 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 4818,
+          "name": "40",
+          "size": 5738887,
+          "telegram_link": "https://t.me/manhuasgratis/4818"
+        },
+        {
+          "channel_id": 3003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44
+          ],
+          "date": "2026-10-03T12:11:31+00:00",
+          "download_ready": true,
+          "filename": "41-44 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 41,
+          "last": 44,
+          "message_id": 4819,
+          "name": "41-44",
+          "size": 20208494,
+          "telegram_link": "https://t.me/manhuasgratis/4819"
         }
-      ]
+      ],
+      "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad."
     },
     {
-      "id": "el_maestro_de_la_espada_acogedor_de_estrellas",
-      "name": "El Maestro de la Espada Acogedor de Estrellas",
-      "hashtag": "#El_Maestro_de_la_Espada_Acogedor_de_Estrellas",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_maestro_de_la_espada_acogedor_de_estrellas.jpg",
       "cover_message_id": 6,
       "cover_telegram_link": "https://t.me/c/4187372773/6",
-      "synopsis": "Sinopsis: Vlad era un niño vagabundo de los barrios bajos que siempre admiraba a los caballeros. Después de un incidente en el que fue golpeado por un relámpago negro, comenzó a escuchar una voz. Un caballero de luz de luna azul apareció un día, y la vida de Vlad en los callejones oscuros cambió por completo... Incluso una estrella oscura que no brilla en las cimas más altas del cielo nocturno sigue siendo una estrella si desea brillar.",
       "genres": [],
+      "hashtag": "#El_Maestro_de_la_Espada_Acogedor_de_Estrellas",
+      "id": "el_maestro_de_la_espada_acogedor_de_estrellas",
       "latest_chapter": 140,
+      "name": "El Maestro de la Espada Acogedor de Estrellas",
       "package_count": 39,
       "packages": [
         {
-          "name": "1-10",
-          "first": 1,
-          "last": 10,
           "channel_id": 3003829878,
-          "message_id": 4759,
-          "filename": "(01-10) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 120406534,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4759",
-          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -305,19 +321,19 @@
             8,
             9,
             10
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(01-10) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4759,
+          "name": "1-10",
+          "size": 120406534,
+          "telegram_link": "https://t.me/manhuasgratis/4759"
         },
         {
-          "name": "11-20",
-          "first": 11,
-          "last": 20,
           "channel_id": 3003829878,
-          "message_id": 4760,
-          "filename": "(11-20) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 110158242,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4760",
-          "download_ready": true,
           "chapters": [
             11,
             12,
@@ -329,19 +345,19 @@
             18,
             19,
             20
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(11-20) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4760,
+          "name": "11-20",
+          "size": 110158242,
+          "telegram_link": "https://t.me/manhuasgratis/4760"
         },
         {
-          "name": "21-30",
-          "first": 21,
-          "last": 30,
           "channel_id": 3003829878,
-          "message_id": 4761,
-          "filename": "(21-30) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 114311390,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4761",
-          "download_ready": true,
           "chapters": [
             21,
             22,
@@ -353,19 +369,19 @@
             28,
             29,
             30
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(21-30) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4761,
+          "name": "21-30",
+          "size": 114311390,
+          "telegram_link": "https://t.me/manhuasgratis/4761"
         },
         {
-          "name": "31-40",
-          "first": 31,
-          "last": 40,
           "channel_id": 3003829878,
-          "message_id": 4762,
-          "filename": "(31-40) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 114354438,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4762",
-          "download_ready": true,
           "chapters": [
             31,
             32,
@@ -377,19 +393,19 @@
             38,
             39,
             40
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(31-40) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4762,
+          "name": "31-40",
+          "size": 114354438,
+          "telegram_link": "https://t.me/manhuasgratis/4762"
         },
         {
-          "name": "41-50",
-          "first": 41,
-          "last": 50,
           "channel_id": 3003829878,
-          "message_id": 4763,
-          "filename": "(41-50) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 95733384,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4763",
-          "download_ready": true,
           "chapters": [
             41,
             42,
@@ -401,19 +417,19 @@
             48,
             49,
             50
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(41-50) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4763,
+          "name": "41-50",
+          "size": 95733384,
+          "telegram_link": "https://t.me/manhuasgratis/4763"
         },
         {
-          "name": "51-60",
-          "first": 51,
-          "last": 60,
           "channel_id": 3003829878,
-          "message_id": 4764,
-          "filename": "(51-60) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 106332885,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4764",
-          "download_ready": true,
           "chapters": [
             51,
             52,
@@ -425,19 +441,19 @@
             58,
             59,
             60
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(51-60) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 4764,
+          "name": "51-60",
+          "size": 106332885,
+          "telegram_link": "https://t.me/manhuasgratis/4764"
         },
         {
-          "name": "61-70",
-          "first": 61,
-          "last": 70,
           "channel_id": 3003829878,
-          "message_id": 4765,
-          "filename": "(61-70) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 108733534,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4765",
-          "download_ready": true,
           "chapters": [
             61,
             62,
@@ -449,19 +465,19 @@
             68,
             69,
             70
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(61-70) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 4765,
+          "name": "61-70",
+          "size": 108733534,
+          "telegram_link": "https://t.me/manhuasgratis/4765"
         },
         {
-          "name": "71-80",
-          "first": 71,
-          "last": 80,
           "channel_id": 3003829878,
-          "message_id": 4766,
-          "filename": "(71-80) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 108403485,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4766",
-          "download_ready": true,
           "chapters": [
             71,
             72,
@@ -473,19 +489,19 @@
             78,
             79,
             80
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(71-80) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 4766,
+          "name": "71-80",
+          "size": 108403485,
+          "telegram_link": "https://t.me/manhuasgratis/4766"
         },
         {
-          "name": "81-90",
-          "first": 81,
-          "last": 90,
           "channel_id": 3003829878,
-          "message_id": 4767,
-          "filename": "(81-90) El maestro de la espada acogedor de estrellas.pdf",
-          "size": 100252912,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4767",
-          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -497,19 +513,19 @@
             88,
             89,
             90
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "(81-90) El maestro de la espada acogedor de estrellas.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4767,
+          "name": "81-90",
+          "size": 100252912,
+          "telegram_link": "https://t.me/manhuasgratis/4767"
         },
         {
-          "name": "91-100",
-          "first": 91,
-          "last": 100,
           "channel_id": 3003829878,
-          "message_id": 4768,
-          "filename": "│91-100│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 81767405,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4768",
-          "download_ready": true,
           "chapters": [
             91,
             92,
@@ -521,19 +537,19 @@
             98,
             99,
             100
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "│91-100│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 4768,
+          "name": "91-100",
+          "size": 81767405,
+          "telegram_link": "https://t.me/manhuasgratis/4768"
         },
         {
-          "name": "101-106",
-          "first": 101,
-          "last": 106,
           "channel_id": 3003829878,
-          "message_id": 4769,
-          "filename": "│101-106│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 49251908,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4769",
-          "download_ready": true,
           "chapters": [
             101,
             102,
@@ -541,459 +557,459 @@
             104,
             105,
             106
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "│101-106│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 101,
+          "last": 106,
+          "message_id": 4769,
+          "name": "101-106",
+          "size": 49251908,
+          "telegram_link": "https://t.me/manhuasgratis/4769"
         },
         {
-          "name": "107",
-          "first": 107,
-          "last": 107,
           "channel_id": 3003829878,
-          "message_id": 4770,
-          "filename": "│107│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 9411027,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4770",
-          "download_ready": true,
           "chapters": [
             107
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "│107│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 107,
+          "last": 107,
+          "message_id": 4770,
+          "name": "107",
+          "size": 9411027,
+          "telegram_link": "https://t.me/manhuasgratis/4770"
         },
         {
-          "name": "108",
-          "first": 108,
-          "last": 108,
           "channel_id": 3003829878,
-          "message_id": 4771,
-          "filename": "[108] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 7796991,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4771",
-          "download_ready": true,
           "chapters": [
             108
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "[108] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 108,
+          "last": 108,
+          "message_id": 4771,
+          "name": "108",
+          "size": 7796991,
+          "telegram_link": "https://t.me/manhuasgratis/4771"
         },
         {
-          "name": "109",
-          "first": 109,
-          "last": 109,
           "channel_id": 3003829878,
-          "message_id": 4772,
-          "filename": "│109│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 8807387,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4772",
-          "download_ready": true,
           "chapters": [
             109
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "│109│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 109,
+          "last": 109,
+          "message_id": 4772,
+          "name": "109",
+          "size": 8807387,
+          "telegram_link": "https://t.me/manhuasgratis/4772"
         },
         {
-          "name": "110",
-          "first": 110,
-          "last": 110,
           "channel_id": 3003829878,
-          "message_id": 4773,
-          "filename": "│110│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 9623454,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4773",
-          "download_ready": true,
           "chapters": [
             110
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "│110│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 110,
+          "last": 110,
+          "message_id": 4773,
+          "name": "110",
+          "size": 9623454,
+          "telegram_link": "https://t.me/manhuasgratis/4773"
         },
         {
-          "name": "111",
-          "first": 111,
-          "last": 111,
           "channel_id": 3003829878,
-          "message_id": 4774,
-          "filename": "[111] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 6227992,
-          "date": "2026-10-01T16:17:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4774",
-          "download_ready": true,
           "chapters": [
             111
-          ]
+          ],
+          "date": "2026-10-01T16:17:08+00:00",
+          "download_ready": true,
+          "filename": "[111] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 111,
+          "last": 111,
+          "message_id": 4774,
+          "name": "111",
+          "size": 6227992,
+          "telegram_link": "https://t.me/manhuasgratis/4774"
         },
         {
-          "name": "112",
-          "first": 112,
-          "last": 112,
           "channel_id": 3003829878,
-          "message_id": 4775,
-          "filename": "[112] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 7953167,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4775",
-          "download_ready": true,
           "chapters": [
             112
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[112] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 112,
+          "last": 112,
+          "message_id": 4775,
+          "name": "112",
+          "size": 7953167,
+          "telegram_link": "https://t.me/manhuasgratis/4775"
         },
         {
-          "name": "113",
-          "first": 113,
-          "last": 113,
           "channel_id": 3003829878,
-          "message_id": 4776,
-          "filename": "[113] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 6524235,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4776",
-          "download_ready": true,
           "chapters": [
             113
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[113] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 113,
+          "last": 113,
+          "message_id": 4776,
+          "name": "113",
+          "size": 6524235,
+          "telegram_link": "https://t.me/manhuasgratis/4776"
         },
         {
-          "name": "114",
-          "first": 114,
-          "last": 114,
           "channel_id": 3003829878,
-          "message_id": 4777,
-          "filename": "│114│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 10981685,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4777",
-          "download_ready": true,
           "chapters": [
             114
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "│114│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 114,
+          "last": 114,
+          "message_id": 4777,
+          "name": "114",
+          "size": 10981685,
+          "telegram_link": "https://t.me/manhuasgratis/4777"
         },
         {
-          "name": "115",
-          "first": 115,
-          "last": 115,
           "channel_id": 3003829878,
-          "message_id": 4778,
-          "filename": "[115] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 8548102,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4778",
-          "download_ready": true,
           "chapters": [
             115
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[115] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 115,
+          "last": 115,
+          "message_id": 4778,
+          "name": "115",
+          "size": 8548102,
+          "telegram_link": "https://t.me/manhuasgratis/4778"
         },
         {
-          "name": "116",
-          "first": 116,
-          "last": 116,
           "channel_id": 3003829878,
-          "message_id": 4779,
-          "filename": "[116] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 7577577,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4779",
-          "download_ready": true,
           "chapters": [
             116
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[116] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 116,
+          "last": 116,
+          "message_id": 4779,
+          "name": "116",
+          "size": 7577577,
+          "telegram_link": "https://t.me/manhuasgratis/4779"
         },
         {
-          "name": "117",
-          "first": 117,
-          "last": 117,
           "channel_id": 3003829878,
-          "message_id": 4780,
-          "filename": "[117] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 8552496,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4780",
-          "download_ready": true,
           "chapters": [
             117
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[117] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 117,
+          "last": 117,
+          "message_id": 4780,
+          "name": "117",
+          "size": 8552496,
+          "telegram_link": "https://t.me/manhuasgratis/4780"
         },
         {
-          "name": "118",
-          "first": 118,
-          "last": 118,
           "channel_id": 3003829878,
-          "message_id": 4781,
-          "filename": "118 - El maestro de la espada acogedor de estrellas.pdf",
-          "size": 12488510,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4781",
-          "download_ready": true,
           "chapters": [
             118
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "118 - El maestro de la espada acogedor de estrellas.pdf",
+          "first": 118,
+          "last": 118,
+          "message_id": 4781,
+          "name": "118",
+          "size": 12488510,
+          "telegram_link": "https://t.me/manhuasgratis/4781"
         },
         {
-          "name": "119",
-          "first": 119,
-          "last": 119,
           "channel_id": 3003829878,
-          "message_id": 4782,
-          "filename": "[119] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 9338645,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4782",
-          "download_ready": true,
           "chapters": [
             119
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[119] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 119,
+          "last": 119,
+          "message_id": 4782,
+          "name": "119",
+          "size": 9338645,
+          "telegram_link": "https://t.me/manhuasgratis/4782"
         },
         {
-          "name": "120",
-          "first": 120,
-          "last": 120,
           "channel_id": 3003829878,
-          "message_id": 4783,
-          "filename": "[120] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
-          "size": 8595246,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4783",
-          "download_ready": true,
           "chapters": [
             120
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[120] El Maestro Acogedor de Estrellasﾟ𝒱𝒶𝓈.pdf",
+          "first": 120,
+          "last": 120,
+          "message_id": 4783,
+          "name": "120",
+          "size": 8595246,
+          "telegram_link": "https://t.me/manhuasgratis/4783"
         },
         {
-          "name": "121-122",
-          "first": 121,
-          "last": 122,
           "channel_id": 3003829878,
-          "message_id": 4784,
-          "filename": "121-122 El maestro de la espada acogedor de estrellas.pdf",
-          "size": 22823500,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4784",
-          "download_ready": true,
           "chapters": [
             121,
             122
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "121-122 El maestro de la espada acogedor de estrellas.pdf",
+          "first": 121,
+          "last": 122,
+          "message_id": 4784,
+          "name": "121-122",
+          "size": 22823500,
+          "telegram_link": "https://t.me/manhuasgratis/4784"
         },
         {
-          "name": "123-124",
-          "first": 123,
-          "last": 124,
           "channel_id": 3003829878,
-          "message_id": 4785,
-          "filename": "[✦123-124] • El Maestro D L Espada Acogedor Estre🏮JMX.pdf",
-          "size": 16169710,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4785",
-          "download_ready": true,
           "chapters": [
             123,
             124
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "[✦123-124] • El Maestro D L Espada Acogedor Estre🏮JMX.pdf",
+          "first": 123,
+          "last": 124,
+          "message_id": 4785,
+          "name": "123-124",
+          "size": 16169710,
+          "telegram_link": "https://t.me/manhuasgratis/4785"
         },
         {
-          "name": "125",
-          "first": 125,
-          "last": 125,
           "channel_id": 3003829878,
-          "message_id": 4786,
-          "filename": "│125│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 11527935,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4786",
-          "download_ready": true,
           "chapters": [
             125
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "│125│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 125,
+          "last": 125,
+          "message_id": 4786,
+          "name": "125",
+          "size": 11527935,
+          "telegram_link": "https://t.me/manhuasgratis/4786"
         },
         {
-          "name": "126",
-          "first": 126,
-          "last": 126,
           "channel_id": 3003829878,
-          "message_id": 4787,
-          "filename": "│126│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 9347143,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4787",
-          "download_ready": true,
           "chapters": [
             126
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "│126│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 126,
+          "last": 126,
+          "message_id": 4787,
+          "name": "126",
+          "size": 9347143,
+          "telegram_link": "https://t.me/manhuasgratis/4787"
         },
         {
-          "name": "127",
-          "first": 127,
-          "last": 127,
           "channel_id": 3003829878,
-          "message_id": 4788,
-          "filename": "│127│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 11025079,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4788",
-          "download_ready": true,
           "chapters": [
             127
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "│127│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 127,
+          "last": 127,
+          "message_id": 4788,
+          "name": "127",
+          "size": 11025079,
+          "telegram_link": "https://t.me/manhuasgratis/4788"
         },
         {
-          "name": "128",
-          "first": 128,
-          "last": 128,
           "channel_id": 3003829878,
-          "message_id": 4789,
-          "filename": "│128│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 8264589,
-          "date": "2026-10-01T16:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4789",
-          "download_ready": true,
           "chapters": [
             128
-          ]
+          ],
+          "date": "2026-10-01T16:17:09+00:00",
+          "download_ready": true,
+          "filename": "│128│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 128,
+          "last": 128,
+          "message_id": 4789,
+          "name": "128",
+          "size": 8264589,
+          "telegram_link": "https://t.me/manhuasgratis/4789"
         },
         {
-          "name": "129",
-          "first": 129,
-          "last": 129,
           "channel_id": 3003829878,
-          "message_id": 4790,
-          "filename": "│129│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 7563678,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4790",
-          "download_ready": true,
           "chapters": [
             129
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "│129│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 129,
+          "last": 129,
+          "message_id": 4790,
+          "name": "129",
+          "size": 7563678,
+          "telegram_link": "https://t.me/manhuasgratis/4790"
         },
         {
-          "name": "130",
-          "first": 130,
-          "last": 130,
           "channel_id": 3003829878,
-          "message_id": 4791,
-          "filename": "│130│El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 10405761,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4791",
-          "download_ready": true,
           "chapters": [
             130
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "│130│El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 130,
+          "last": 130,
+          "message_id": 4791,
+          "name": "130",
+          "size": 10405761,
+          "telegram_link": "https://t.me/manhuasgratis/4791"
         },
         {
-          "name": "131-133",
-          "first": 131,
-          "last": 133,
           "channel_id": 3003829878,
-          "message_id": 4792,
-          "filename": "131-133┇➣ El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 31618742,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4792",
-          "download_ready": true,
           "chapters": [
             131,
             132,
             133
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "131-133┇➣ El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 131,
+          "last": 133,
+          "message_id": 4792,
+          "name": "131-133",
+          "size": 31618742,
+          "telegram_link": "https://t.me/manhuasgratis/4792"
         },
         {
-          "name": "134-135",
-          "first": 134,
-          "last": 135,
           "channel_id": 3003829878,
-          "message_id": 4793,
-          "filename": "134_135_┊➤_El_Maestro_de_la_Espada_Acogedor_de_Estrellas.pdf",
-          "size": 20179975,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4793",
-          "download_ready": true,
           "chapters": [
             134,
             135
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "134_135_┊➤_El_Maestro_de_la_Espada_Acogedor_de_Estrellas.pdf",
+          "first": 134,
+          "last": 135,
+          "message_id": 4793,
+          "name": "134-135",
+          "size": 20179975,
+          "telegram_link": "https://t.me/manhuasgratis/4793"
         },
         {
-          "name": "136-137",
-          "first": 136,
-          "last": 137,
           "channel_id": 3003829878,
-          "message_id": 4794,
-          "filename": "136-137 El maestro de la espada acogedor de estrellas.pdf",
-          "size": 29869196,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4794",
-          "download_ready": true,
           "chapters": [
             136,
             137
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "136-137 El maestro de la espada acogedor de estrellas.pdf",
+          "first": 136,
+          "last": 137,
+          "message_id": 4794,
+          "name": "136-137",
+          "size": 29869196,
+          "telegram_link": "https://t.me/manhuasgratis/4794"
         },
         {
-          "name": "138",
-          "first": 138,
-          "last": 138,
           "channel_id": 3003829878,
-          "message_id": 4795,
-          "filename": "138 El maestro de la espada acogedor de estrellas.pdf",
-          "size": 12741853,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4795",
-          "download_ready": true,
           "chapters": [
             138
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "138 El maestro de la espada acogedor de estrellas.pdf",
+          "first": 138,
+          "last": 138,
+          "message_id": 4795,
+          "name": "138",
+          "size": 12741853,
+          "telegram_link": "https://t.me/manhuasgratis/4795"
         },
         {
-          "name": "139",
-          "first": 139,
-          "last": 139,
           "channel_id": 3003829878,
-          "message_id": 4796,
-          "filename": "139 El maestro de la espada acogedor de estrellas.pdf",
-          "size": 16111039,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4796",
-          "download_ready": true,
           "chapters": [
             139
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "139 El maestro de la espada acogedor de estrellas.pdf",
+          "first": 139,
+          "last": 139,
+          "message_id": 4796,
+          "name": "139",
+          "size": 16111039,
+          "telegram_link": "https://t.me/manhuasgratis/4796"
         },
         {
-          "name": "140",
-          "first": 140,
-          "last": 140,
           "channel_id": 3003829878,
-          "message_id": 4797,
-          "filename": "140 - El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 13805347,
-          "date": "2026-10-01T16:17:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4797",
-          "download_ready": true,
           "chapters": [
             140
-          ]
+          ],
+          "date": "2026-10-01T16:17:10+00:00",
+          "download_ready": true,
+          "filename": "140 - El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 140,
+          "last": 140,
+          "message_id": 4797,
+          "name": "140",
+          "size": 13805347,
+          "telegram_link": "https://t.me/manhuasgratis/4797"
         }
-      ]
+      ],
+      "synopsis": "Sinopsis: Vlad era un niño vagabundo de los barrios bajos que siempre admiraba a los caballeros. Después de un incidente en el que fue golpeado por un relámpago negro, comenzó a escuchar una voz. Un caballero de luz de luna azul apareció un día, y la vida de Vlad en los callejones oscuros cambió por completo... Incluso una estrella oscura que no brilla en las cimas más altas del cielo nocturno sigue siendo una estrella si desea brillar."
     },
     {
-      "id": "genio_espadachin_de_la_academia",
-      "name": "Genio Espadachín De La Academia",
-      "hashtag": "#Genio_Espadachín_De_La_Academia",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/genio_espadachin_de_la_academia.jpg",
       "cover_message_id": 10,
       "cover_telegram_link": "https://t.me/c/4187372773/10",
-      "synopsis": "Sinopsis: Tras una batalla trascendental contra gigantes por el destino del mundo, Ronan emerge victorioso como el último hombre en pie del ejército imperial.\nMientras lamenta esta victoria vacía junto a su moribundo comandante, el Gran Mariscal Adeshan, pronto descubren que la guerra está lejos de terminar y una fuerza abrumadora de gigantes desciende de los cielos.\nTemiendo lo peor, pero viendo esperanza en el valiente Ronan, Adeshan usa su último viaje en el tiempo para enviarlo al pasado, ¡para que pueda inscribirse en la prestigiosa Academia Phileon y convertirse en el espadachín más poderoso que el imperio haya visto jamás!",
       "genres": [],
+      "hashtag": "#Genio_Espadachín_De_La_Academia",
+      "id": "genio_espadachin_de_la_academia",
       "latest_chapter": 156,
+      "name": "Genio Espadachín De La Academia",
       "package_count": 33,
       "packages": [
         {
-          "name": "1-10",
-          "first": 1,
-          "last": 10,
           "channel_id": 3003829878,
-          "message_id": 4260,
-          "filename": "01-10 • Genio Espadachín De La Academia.pdf",
-          "size": 87248262,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4260",
-          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -1005,19 +1021,19 @@
             8,
             9,
             10
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "01-10 • Genio Espadachín De La Academia.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4260,
+          "name": "1-10",
+          "size": 87248262,
+          "telegram_link": "https://t.me/manhuasgratis/4260"
         },
         {
-          "name": "11-20",
-          "first": 11,
-          "last": 20,
           "channel_id": 3003829878,
-          "message_id": 4261,
-          "filename": "11-20 • Genio Espadachín De La Academia.pdf",
-          "size": 107958322,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4261",
-          "download_ready": true,
           "chapters": [
             11,
             12,
@@ -1029,19 +1045,19 @@
             18,
             19,
             20
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "11-20 • Genio Espadachín De La Academia.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4261,
+          "name": "11-20",
+          "size": 107958322,
+          "telegram_link": "https://t.me/manhuasgratis/4261"
         },
         {
-          "name": "21-30",
-          "first": 21,
-          "last": 30,
           "channel_id": 3003829878,
-          "message_id": 4262,
-          "filename": "21-30 • Genio Espadachín De La Academia.pdf",
-          "size": 98783083,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4262",
-          "download_ready": true,
           "chapters": [
             21,
             22,
@@ -1053,19 +1069,19 @@
             28,
             29,
             30
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "21-30 • Genio Espadachín De La Academia.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4262,
+          "name": "21-30",
+          "size": 98783083,
+          "telegram_link": "https://t.me/manhuasgratis/4262"
         },
         {
-          "name": "31-40",
-          "first": 31,
-          "last": 40,
           "channel_id": 3003829878,
-          "message_id": 4263,
-          "filename": "31-40 • Genio Espadachín De La Academia.pdf",
-          "size": 96914794,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4263",
-          "download_ready": true,
           "chapters": [
             31,
             32,
@@ -1077,19 +1093,19 @@
             38,
             39,
             40
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "31-40 • Genio Espadachín De La Academia.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4263,
+          "name": "31-40",
+          "size": 96914794,
+          "telegram_link": "https://t.me/manhuasgratis/4263"
         },
         {
-          "name": "41-50",
-          "first": 41,
-          "last": 50,
           "channel_id": 3003829878,
-          "message_id": 4264,
-          "filename": "41-50 • Genio Espadachín De La Academia.pdf",
-          "size": 102768666,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4264",
-          "download_ready": true,
           "chapters": [
             41,
             42,
@@ -1101,19 +1117,19 @@
             48,
             49,
             50
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "41-50 • Genio Espadachín De La Academia.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4264,
+          "name": "41-50",
+          "size": 102768666,
+          "telegram_link": "https://t.me/manhuasgratis/4264"
         },
         {
-          "name": "51-60",
-          "first": 51,
-          "last": 60,
           "channel_id": 3003829878,
-          "message_id": 4265,
-          "filename": "51-60 • Genio Espadachín De La Academia.pdf",
-          "size": 100429442,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4265",
-          "download_ready": true,
           "chapters": [
             51,
             52,
@@ -1125,19 +1141,19 @@
             58,
             59,
             60
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "51-60 • Genio Espadachín De La Academia.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 4265,
+          "name": "51-60",
+          "size": 100429442,
+          "telegram_link": "https://t.me/manhuasgratis/4265"
         },
         {
-          "name": "61-70",
-          "first": 61,
-          "last": 70,
           "channel_id": 3003829878,
-          "message_id": 4266,
-          "filename": "61-70 • Genio Espadachín De La Academia.pdf",
-          "size": 100078352,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4266",
-          "download_ready": true,
           "chapters": [
             61,
             62,
@@ -1149,19 +1165,19 @@
             68,
             69,
             70
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "61-70 • Genio Espadachín De La Academia.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 4266,
+          "name": "61-70",
+          "size": 100078352,
+          "telegram_link": "https://t.me/manhuasgratis/4266"
         },
         {
-          "name": "71-80",
-          "first": 71,
-          "last": 80,
           "channel_id": 3003829878,
-          "message_id": 4267,
-          "filename": "71-80 • Genio Espadachín De La Academia.pdf",
-          "size": 94076045,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4267",
-          "download_ready": true,
           "chapters": [
             71,
             72,
@@ -1173,19 +1189,19 @@
             78,
             79,
             80
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "71-80 • Genio Espadachín De La Academia.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 4267,
+          "name": "71-80",
+          "size": 94076045,
+          "telegram_link": "https://t.me/manhuasgratis/4267"
         },
         {
-          "name": "81-90",
-          "first": 81,
-          "last": 90,
           "channel_id": 3003829878,
-          "message_id": 4268,
-          "filename": "81-90 • Genio Espadachín De La Academia.pdf",
-          "size": 95418120,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4268",
-          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -1197,19 +1213,19 @@
             88,
             89,
             90
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "81-90 • Genio Espadachín De La Academia.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4268,
+          "name": "81-90",
+          "size": 95418120,
+          "telegram_link": "https://t.me/manhuasgratis/4268"
         },
         {
-          "name": "91-100",
-          "first": 91,
-          "last": 100,
           "channel_id": 3003829878,
-          "message_id": 4269,
-          "filename": "91-100 • Genio Espadachín De La Academia.pdf",
-          "size": 96892230,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4269",
-          "download_ready": true,
           "chapters": [
             91,
             92,
@@ -1221,19 +1237,19 @@
             98,
             99,
             100
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "91-100 • Genio Espadachín De La Academia.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 4269,
+          "name": "91-100",
+          "size": 96892230,
+          "telegram_link": "https://t.me/manhuasgratis/4269"
         },
         {
-          "name": "101-110",
-          "first": 101,
-          "last": 110,
           "channel_id": 3003829878,
-          "message_id": 4270,
-          "filename": "101-110 • Genio Espadachín De La Academia.pdf",
-          "size": 101692322,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4270",
-          "download_ready": true,
           "chapters": [
             101,
             102,
@@ -1245,19 +1261,19 @@
             108,
             109,
             110
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "101-110 • Genio Espadachín De La Academia.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 4270,
+          "name": "101-110",
+          "size": 101692322,
+          "telegram_link": "https://t.me/manhuasgratis/4270"
         },
         {
-          "name": "111-120",
-          "first": 111,
-          "last": 120,
           "channel_id": 3003829878,
-          "message_id": 4271,
-          "filename": "111-120 • Genio Espadachín De La Academia.pdf",
-          "size": 111533624,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4271",
-          "download_ready": true,
           "chapters": [
             111,
             112,
@@ -1269,19 +1285,19 @@
             118,
             119,
             120
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "111-120 • Genio Espadachín De La Academia.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 4271,
+          "name": "111-120",
+          "size": 111533624,
+          "telegram_link": "https://t.me/manhuasgratis/4271"
         },
         {
-          "name": "121-130",
-          "first": 121,
-          "last": 130,
           "channel_id": 3003829878,
-          "message_id": 4272,
-          "filename": "121-130 • Genio Espadachín De La Academia.pdf",
-          "size": 106033459,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4272",
-          "download_ready": true,
           "chapters": [
             121,
             122,
@@ -1293,19 +1309,19 @@
             128,
             129,
             130
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "121-130 • Genio Espadachín De La Academia.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 4272,
+          "name": "121-130",
+          "size": 106033459,
+          "telegram_link": "https://t.me/manhuasgratis/4272"
         },
         {
-          "name": "131-136",
-          "first": 131,
-          "last": 136,
           "channel_id": 3003829878,
-          "message_id": 4273,
-          "filename": "131-136 • Genio Espadachín De La Academia.pdf",
-          "size": 63135527,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4273",
-          "download_ready": true,
           "chapters": [
             131,
             132,
@@ -1313,319 +1329,319 @@
             134,
             135,
             136
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "131-136 • Genio Espadachín De La Academia.pdf",
+          "first": 131,
+          "last": 136,
+          "message_id": 4273,
+          "name": "131-136",
+          "size": 63135527,
+          "telegram_link": "https://t.me/manhuasgratis/4273"
         },
         {
-          "name": "137",
-          "first": 137,
-          "last": 137,
           "channel_id": 3003829878,
-          "message_id": 4274,
-          "filename": "137 • Genio Espadachín De La Academia.pdf",
-          "size": 11133519,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4274",
-          "download_ready": true,
           "chapters": [
             137
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "137 • Genio Espadachín De La Academia.pdf",
+          "first": 137,
+          "last": 137,
+          "message_id": 4274,
+          "name": "137",
+          "size": 11133519,
+          "telegram_link": "https://t.me/manhuasgratis/4274"
         },
         {
-          "name": "138",
-          "first": 138,
-          "last": 138,
           "channel_id": 3003829878,
-          "message_id": 4275,
-          "filename": "138 • Genio Espadachín De La Academia.pdf",
-          "size": 9035263,
-          "date": "2026-09-01T15:16:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4275",
-          "download_ready": true,
           "chapters": [
             138
-          ]
+          ],
+          "date": "2026-09-01T15:16:44+00:00",
+          "download_ready": true,
+          "filename": "138 • Genio Espadachín De La Academia.pdf",
+          "first": 138,
+          "last": 138,
+          "message_id": 4275,
+          "name": "138",
+          "size": 9035263,
+          "telegram_link": "https://t.me/manhuasgratis/4275"
         },
         {
-          "name": "139",
-          "first": 139,
-          "last": 139,
           "channel_id": 3003829878,
-          "message_id": 4277,
-          "filename": "139 • Genio Espadachín De La Academia.pdf",
-          "size": 9547408,
-          "date": "2026-09-01T15:37:43+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4277",
-          "download_ready": true,
           "chapters": [
             139
-          ]
+          ],
+          "date": "2026-09-01T15:37:43+00:00",
+          "download_ready": true,
+          "filename": "139 • Genio Espadachín De La Academia.pdf",
+          "first": 139,
+          "last": 139,
+          "message_id": 4277,
+          "name": "139",
+          "size": 9547408,
+          "telegram_link": "https://t.me/manhuasgratis/4277"
         },
         {
-          "name": "140",
-          "first": 140,
-          "last": 140,
           "channel_id": 3003829878,
-          "message_id": 4312,
-          "filename": "140 • Genio Espadachín De La Academia.pdf",
-          "size": 10327348,
-          "date": "2026-09-04T17:07:54+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4312",
-          "download_ready": true,
           "chapters": [
             140
-          ]
+          ],
+          "date": "2026-09-04T17:07:54+00:00",
+          "download_ready": true,
+          "filename": "140 • Genio Espadachín De La Academia.pdf",
+          "first": 140,
+          "last": 140,
+          "message_id": 4312,
+          "name": "140",
+          "size": 10327348,
+          "telegram_link": "https://t.me/manhuasgratis/4312"
         },
         {
-          "name": "141",
-          "first": 141,
-          "last": 141,
           "channel_id": 3003829878,
-          "message_id": 4313,
-          "filename": "141 • Genio Espadachín De La Academia.pdf",
-          "size": 7611757,
-          "date": "2026-09-04T17:07:56+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4313",
-          "download_ready": true,
           "chapters": [
             141
-          ]
+          ],
+          "date": "2026-09-04T17:07:56+00:00",
+          "download_ready": true,
+          "filename": "141 • Genio Espadachín De La Academia.pdf",
+          "first": 141,
+          "last": 141,
+          "message_id": 4313,
+          "name": "141",
+          "size": 7611757,
+          "telegram_link": "https://t.me/manhuasgratis/4313"
         },
         {
-          "name": "142",
-          "first": 142,
-          "last": 142,
           "channel_id": 3003829878,
-          "message_id": 4314,
-          "filename": "142 • Genio Espadachín De La Academia.pdf",
-          "size": 11005331,
-          "date": "2026-09-04T17:07:59+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4314",
-          "download_ready": true,
           "chapters": [
             142
-          ]
+          ],
+          "date": "2026-09-04T17:07:59+00:00",
+          "download_ready": true,
+          "filename": "142 • Genio Espadachín De La Academia.pdf",
+          "first": 142,
+          "last": 142,
+          "message_id": 4314,
+          "name": "142",
+          "size": 11005331,
+          "telegram_link": "https://t.me/manhuasgratis/4314"
         },
         {
-          "name": "143-144",
-          "first": 143,
-          "last": 144,
           "channel_id": 3003829878,
-          "message_id": 4315,
-          "filename": "143-144 • Genio Espadachín De La Academia.pdf",
-          "size": 23361955,
-          "date": "2026-09-04T17:08:01+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4315",
-          "download_ready": true,
           "chapters": [
             143,
             144
-          ]
+          ],
+          "date": "2026-09-04T17:08:01+00:00",
+          "download_ready": true,
+          "filename": "143-144 • Genio Espadachín De La Academia.pdf",
+          "first": 143,
+          "last": 144,
+          "message_id": 4315,
+          "name": "143-144",
+          "size": 23361955,
+          "telegram_link": "https://t.me/manhuasgratis/4315"
         },
         {
-          "name": "145",
-          "first": 145,
-          "last": 145,
           "channel_id": 3003829878,
-          "message_id": 4316,
-          "filename": "145 • Genio Espadachín De La Academia.pdf",
-          "size": 12148993,
-          "date": "2026-09-04T17:08:04+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4316",
-          "download_ready": true,
           "chapters": [
             145
-          ]
+          ],
+          "date": "2026-09-04T17:08:04+00:00",
+          "download_ready": true,
+          "filename": "145 • Genio Espadachín De La Academia.pdf",
+          "first": 145,
+          "last": 145,
+          "message_id": 4316,
+          "name": "145",
+          "size": 12148993,
+          "telegram_link": "https://t.me/manhuasgratis/4316"
         },
         {
-          "name": "146",
-          "first": 146,
-          "last": 146,
           "channel_id": 3003829878,
-          "message_id": 4317,
-          "filename": "146 • Genio Espadachín De La Academia.pdf",
-          "size": 11193070,
-          "date": "2026-09-04T17:08:06+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4317",
-          "download_ready": true,
           "chapters": [
             146
-          ]
+          ],
+          "date": "2026-09-04T17:08:06+00:00",
+          "download_ready": true,
+          "filename": "146 • Genio Espadachín De La Academia.pdf",
+          "first": 146,
+          "last": 146,
+          "message_id": 4317,
+          "name": "146",
+          "size": 11193070,
+          "telegram_link": "https://t.me/manhuasgratis/4317"
         },
         {
-          "name": "147",
-          "first": 147,
-          "last": 147,
           "channel_id": 3003829878,
-          "message_id": 4318,
-          "filename": "147 • Genio Espadachín De La Academia.pdf",
-          "size": 9917311,
-          "date": "2026-09-04T17:08:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4318",
-          "download_ready": true,
           "chapters": [
             147
-          ]
+          ],
+          "date": "2026-09-04T17:08:08+00:00",
+          "download_ready": true,
+          "filename": "147 • Genio Espadachín De La Academia.pdf",
+          "first": 147,
+          "last": 147,
+          "message_id": 4318,
+          "name": "147",
+          "size": 9917311,
+          "telegram_link": "https://t.me/manhuasgratis/4318"
         },
         {
-          "name": "148",
-          "first": 148,
-          "last": 148,
           "channel_id": 3003829878,
-          "message_id": 4319,
-          "filename": "148 • Genio Espadachín De La Academia.pdf",
-          "size": 10131399,
-          "date": "2026-09-04T17:08:10+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4319",
-          "download_ready": true,
           "chapters": [
             148
-          ]
+          ],
+          "date": "2026-09-04T17:08:10+00:00",
+          "download_ready": true,
+          "filename": "148 • Genio Espadachín De La Academia.pdf",
+          "first": 148,
+          "last": 148,
+          "message_id": 4319,
+          "name": "148",
+          "size": 10131399,
+          "telegram_link": "https://t.me/manhuasgratis/4319"
         },
         {
-          "name": "149",
-          "first": 149,
-          "last": 149,
           "channel_id": 3003829878,
-          "message_id": 4320,
-          "filename": "149 • Genio Espadachín De La Academia.pdf",
-          "size": 9237028,
-          "date": "2026-09-04T17:08:12+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4320",
-          "download_ready": true,
           "chapters": [
             149
-          ]
+          ],
+          "date": "2026-09-04T17:08:12+00:00",
+          "download_ready": true,
+          "filename": "149 • Genio Espadachín De La Academia.pdf",
+          "first": 149,
+          "last": 149,
+          "message_id": 4320,
+          "name": "149",
+          "size": 9237028,
+          "telegram_link": "https://t.me/manhuasgratis/4320"
         },
         {
-          "name": "150",
-          "first": 150,
-          "last": 150,
           "channel_id": 3003829878,
-          "message_id": 4321,
-          "filename": "150 • Genio Espadachín De La Academia.pdf",
-          "size": 11051777,
-          "date": "2026-09-04T17:08:14+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4321",
-          "download_ready": true,
           "chapters": [
             150
-          ]
+          ],
+          "date": "2026-09-04T17:08:14+00:00",
+          "download_ready": true,
+          "filename": "150 • Genio Espadachín De La Academia.pdf",
+          "first": 150,
+          "last": 150,
+          "message_id": 4321,
+          "name": "150",
+          "size": 11051777,
+          "telegram_link": "https://t.me/manhuasgratis/4321"
         },
         {
-          "name": "151",
-          "first": 151,
-          "last": 151,
           "channel_id": 3003829878,
-          "message_id": 4322,
-          "filename": "151 • Genio Espadachín De La Academia.pdf",
-          "size": 10212770,
-          "date": "2026-09-04T17:08:16+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4322",
-          "download_ready": true,
           "chapters": [
             151
-          ]
+          ],
+          "date": "2026-09-04T17:08:16+00:00",
+          "download_ready": true,
+          "filename": "151 • Genio Espadachín De La Academia.pdf",
+          "first": 151,
+          "last": 151,
+          "message_id": 4322,
+          "name": "151",
+          "size": 10212770,
+          "telegram_link": "https://t.me/manhuasgratis/4322"
         },
         {
-          "name": "152",
-          "first": 152,
-          "last": 152,
           "channel_id": 3003829878,
-          "message_id": 4323,
-          "filename": "152 • Genio Espadachín De La Academia.pdf",
-          "size": 9593691,
-          "date": "2026-09-04T17:08:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4323",
-          "download_ready": true,
           "chapters": [
             152
-          ]
+          ],
+          "date": "2026-09-04T17:08:19+00:00",
+          "download_ready": true,
+          "filename": "152 • Genio Espadachín De La Academia.pdf",
+          "first": 152,
+          "last": 152,
+          "message_id": 4323,
+          "name": "152",
+          "size": 9593691,
+          "telegram_link": "https://t.me/manhuasgratis/4323"
         },
         {
-          "name": "153",
-          "first": 153,
-          "last": 153,
           "channel_id": 3003829878,
-          "message_id": 4583,
-          "filename": "153 • Genio Espadachín De La Academia.pdf",
-          "size": 10991392,
-          "date": "2026-09-19T03:55:41+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4583",
-          "download_ready": true,
           "chapters": [
             153
-          ]
+          ],
+          "date": "2026-09-19T03:55:41+00:00",
+          "download_ready": true,
+          "filename": "153 • Genio Espadachín De La Academia.pdf",
+          "first": 153,
+          "last": 153,
+          "message_id": 4583,
+          "name": "153",
+          "size": 10991392,
+          "telegram_link": "https://t.me/manhuasgratis/4583"
         },
         {
-          "name": "154",
-          "first": 154,
-          "last": 154,
           "channel_id": 3003829878,
-          "message_id": 4584,
-          "filename": "154 • Genio Espadachín De La Academia.pdf",
-          "size": 10576354,
-          "date": "2026-09-19T03:55:43+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4584",
-          "download_ready": true,
           "chapters": [
             154
-          ]
+          ],
+          "date": "2026-09-19T03:55:43+00:00",
+          "download_ready": true,
+          "filename": "154 • Genio Espadachín De La Academia.pdf",
+          "first": 154,
+          "last": 154,
+          "message_id": 4584,
+          "name": "154",
+          "size": 10576354,
+          "telegram_link": "https://t.me/manhuasgratis/4584"
         },
         {
-          "name": "155",
-          "first": 155,
-          "last": 155,
           "channel_id": 3003829878,
-          "message_id": 4639,
-          "filename": "155 • Genio Espadachín De La Academia.pdf",
-          "size": 8778635,
-          "date": "2026-09-26T04:47:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4639",
-          "download_ready": true,
           "chapters": [
             155
-          ]
+          ],
+          "date": "2026-09-26T04:47:36+00:00",
+          "download_ready": true,
+          "filename": "155 • Genio Espadachín De La Academia.pdf",
+          "first": 155,
+          "last": 155,
+          "message_id": 4639,
+          "name": "155",
+          "size": 8778635,
+          "telegram_link": "https://t.me/manhuasgratis/4639"
         },
         {
-          "name": "156",
-          "first": 156,
-          "last": 156,
           "channel_id": 3003829878,
-          "message_id": 4648,
-          "filename": "156 • Genio Espadachín De La Academia.pdf",
-          "size": 11194974,
-          "date": "2026-09-27T15:16:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4648",
-          "download_ready": true,
           "chapters": [
             156
-          ]
+          ],
+          "date": "2026-09-27T15:16:32+00:00",
+          "download_ready": true,
+          "filename": "156 • Genio Espadachín De La Academia.pdf",
+          "first": 156,
+          "last": 156,
+          "message_id": 4648,
+          "name": "156",
+          "size": 11194974,
+          "telegram_link": "https://t.me/manhuasgratis/4648"
         }
-      ]
+      ],
+      "synopsis": "Sinopsis: Tras una batalla trascendental contra gigantes por el destino del mundo, Ronan emerge victorioso como el último hombre en pie del ejército imperial.\nMientras lamenta esta victoria vacía junto a su moribundo comandante, el Gran Mariscal Adeshan, pronto descubren que la guerra está lejos de terminar y una fuerza abrumadora de gigantes desciende de los cielos.\nTemiendo lo peor, pero viendo esperanza en el valiente Ronan, Adeshan usa su último viaje en el tiempo para enviarlo al pasado, ¡para que pueda inscribirse en la prestigiosa Academia Phileon y convertirse en el espadachín más poderoso que el imperio haya visto jamás!"
     },
     {
-      "id": "guia_de_supervivencia_del_extra_de_la_academia",
-      "name": "Guía de supervivencia del extra de la academia",
-      "hashtag": "#Guía_de_supervivencia_del_extra_de_la_academia",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/guia_de_supervivencia_del_extra_de_la_academia.jpg",
       "cover_message_id": 2,
       "cover_telegram_link": "https://t.me/c/4187372773/2",
-      "synopsis": "Soy un extra villano de tercera en mi juego favorito. No tengo ambiciones y sólo quiero vivir una vida tranquila. Pero vaya, este mundo es un lugar difícil para sobrevivir. Sobreviviré hasta el final de esta historia, de una forma que el protagonista no puede. Sobreviviré a la manera de un villano de tercera.",
       "genres": [],
+      "hashtag": "#Guía_de_supervivencia_del_extra_de_la_academia",
+      "id": "guia_de_supervivencia_del_extra_de_la_academia",
       "latest_chapter": 125,
+      "name": "Guía de supervivencia del extra de la academia",
       "package_count": 23,
       "packages": [
         {
-          "name": "0-15",
-          "first": 0,
-          "last": 15,
           "channel_id": 3003829878,
-          "message_id": 4377,
-          "filename": "0-15 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 162220147,
-          "date": "2026-09-08T22:15:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4377",
-          "download_ready": true,
           "chapters": [
             0,
             1,
@@ -1643,19 +1659,19 @@
             13,
             14,
             15
-          ]
+          ],
+          "date": "2026-09-08T22:15:13+00:00",
+          "download_ready": true,
+          "filename": "0-15 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 0,
+          "last": 15,
+          "message_id": 4377,
+          "name": "0-15",
+          "size": 162220147,
+          "telegram_link": "https://t.me/manhuasgratis/4377"
         },
         {
-          "name": "16-30",
-          "first": 16,
-          "last": 30,
           "channel_id": 3003829878,
-          "message_id": 4378,
-          "filename": "16-30 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 158269046,
-          "date": "2026-09-08T22:15:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4378",
-          "download_ready": true,
           "chapters": [
             16,
             17,
@@ -1672,19 +1688,19 @@
             28,
             29,
             30
-          ]
+          ],
+          "date": "2026-09-08T22:15:13+00:00",
+          "download_ready": true,
+          "filename": "16-30 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 16,
+          "last": 30,
+          "message_id": 4378,
+          "name": "16-30",
+          "size": 158269046,
+          "telegram_link": "https://t.me/manhuasgratis/4378"
         },
         {
-          "name": "31-52",
-          "first": 31,
-          "last": 52,
           "channel_id": 3003829878,
-          "message_id": 4379,
-          "filename": "31-52 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 246708933,
-          "date": "2026-09-08T22:15:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4379",
-          "download_ready": true,
           "chapters": [
             31,
             32,
@@ -1708,139 +1724,139 @@
             50,
             51,
             52
-          ]
+          ],
+          "date": "2026-09-08T22:15:13+00:00",
+          "download_ready": true,
+          "filename": "31-52 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 31,
+          "last": 52,
+          "message_id": 4379,
+          "name": "31-52",
+          "size": 246708933,
+          "telegram_link": "https://t.me/manhuasgratis/4379"
         },
         {
-          "name": "53",
-          "first": 53,
-          "last": 53,
           "channel_id": 3003829878,
-          "message_id": 4380,
-          "filename": "53 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 15207852,
-          "date": "2026-09-08T22:17:02+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4380",
-          "download_ready": true,
           "chapters": [
             53
-          ]
+          ],
+          "date": "2026-09-08T22:17:02+00:00",
+          "download_ready": true,
+          "filename": "53 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 53,
+          "last": 53,
+          "message_id": 4380,
+          "name": "53",
+          "size": 15207852,
+          "telegram_link": "https://t.me/manhuasgratis/4380"
         },
         {
-          "name": "54",
-          "first": 54,
-          "last": 54,
           "channel_id": 3003829878,
-          "message_id": 4381,
-          "filename": "54 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 15230227,
-          "date": "2026-09-08T22:17:03+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4381",
-          "download_ready": true,
           "chapters": [
             54
-          ]
+          ],
+          "date": "2026-09-08T22:17:03+00:00",
+          "download_ready": true,
+          "filename": "54 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 54,
+          "last": 54,
+          "message_id": 4381,
+          "name": "54",
+          "size": 15230227,
+          "telegram_link": "https://t.me/manhuasgratis/4381"
         },
         {
-          "name": "55",
-          "first": 55,
-          "last": 55,
           "channel_id": 3003829878,
-          "message_id": 4382,
-          "filename": "55 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 13676569,
-          "date": "2026-09-08T22:17:06+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4382",
-          "download_ready": true,
           "chapters": [
             55
-          ]
+          ],
+          "date": "2026-09-08T22:17:06+00:00",
+          "download_ready": true,
+          "filename": "55 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 55,
+          "last": 55,
+          "message_id": 4382,
+          "name": "55",
+          "size": 13676569,
+          "telegram_link": "https://t.me/manhuasgratis/4382"
         },
         {
-          "name": "56",
-          "first": 56,
-          "last": 56,
           "channel_id": 3003829878,
-          "message_id": 4383,
-          "filename": "56 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 14405018,
-          "date": "2026-09-08T22:17:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4383",
-          "download_ready": true,
           "chapters": [
             56
-          ]
+          ],
+          "date": "2026-09-08T22:17:09+00:00",
+          "download_ready": true,
+          "filename": "56 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 4383,
+          "name": "56",
+          "size": 14405018,
+          "telegram_link": "https://t.me/manhuasgratis/4383"
         },
         {
-          "name": "57",
-          "first": 57,
-          "last": 57,
           "channel_id": 3003829878,
-          "message_id": 4384,
-          "filename": "57 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 15933390,
-          "date": "2026-09-08T22:17:12+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4384",
-          "download_ready": true,
           "chapters": [
             57
-          ]
+          ],
+          "date": "2026-09-08T22:17:12+00:00",
+          "download_ready": true,
+          "filename": "57 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 4384,
+          "name": "57",
+          "size": 15933390,
+          "telegram_link": "https://t.me/manhuasgratis/4384"
         },
         {
-          "name": "58",
-          "first": 58,
-          "last": 58,
           "channel_id": 3003829878,
-          "message_id": 4385,
-          "filename": "58 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 10743237,
-          "date": "2026-09-08T22:17:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4385",
-          "download_ready": true,
           "chapters": [
             58
-          ]
+          ],
+          "date": "2026-09-08T22:17:13+00:00",
+          "download_ready": true,
+          "filename": "58 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 58,
+          "last": 58,
+          "message_id": 4385,
+          "name": "58",
+          "size": 10743237,
+          "telegram_link": "https://t.me/manhuasgratis/4385"
         },
         {
-          "name": "59",
-          "first": 59,
-          "last": 59,
           "channel_id": 3003829878,
-          "message_id": 4386,
-          "filename": "59 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 11431800,
-          "date": "2026-09-08T22:17:16+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4386",
-          "download_ready": true,
           "chapters": [
             59
-          ]
+          ],
+          "date": "2026-09-08T22:17:16+00:00",
+          "download_ready": true,
+          "filename": "59 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 4386,
+          "name": "59",
+          "size": 11431800,
+          "telegram_link": "https://t.me/manhuasgratis/4386"
         },
         {
-          "name": "60",
-          "first": 60,
-          "last": 60,
           "channel_id": 3003829878,
-          "message_id": 4387,
-          "filename": "60 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 11968526,
-          "date": "2026-09-08T22:17:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4387",
-          "download_ready": true,
           "chapters": [
             60
-          ]
+          ],
+          "date": "2026-09-08T22:17:19+00:00",
+          "download_ready": true,
+          "filename": "60 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 60,
+          "last": 60,
+          "message_id": 4387,
+          "name": "60",
+          "size": 11968526,
+          "telegram_link": "https://t.me/manhuasgratis/4387"
         },
         {
-          "name": "61-70",
-          "first": 61,
-          "last": 70,
           "channel_id": 3003829878,
-          "message_id": 4389,
-          "filename": "61-70 • The Extra’s Academy Survival Guide.pdf",
-          "size": 118723609,
-          "date": "2026-09-08T22:17:21+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4389",
-          "download_ready": true,
           "chapters": [
             61,
             62,
@@ -1852,19 +1868,19 @@
             68,
             69,
             70
-          ]
+          ],
+          "date": "2026-09-08T22:17:21+00:00",
+          "download_ready": true,
+          "filename": "61-70 • The Extra’s Academy Survival Guide.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 4389,
+          "name": "61-70",
+          "size": 118723609,
+          "telegram_link": "https://t.me/manhuasgratis/4389"
         },
         {
-          "name": "71-80",
-          "first": 71,
-          "last": 80,
           "channel_id": 3003829878,
-          "message_id": 4390,
-          "filename": "71-80 • The Extra’s Academy Survival Guide.pdf",
-          "size": 143383792,
-          "date": "2026-09-08T22:17:24+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4390",
-          "download_ready": true,
           "chapters": [
             71,
             72,
@@ -1876,19 +1892,19 @@
             78,
             79,
             80
-          ]
+          ],
+          "date": "2026-09-08T22:17:24+00:00",
+          "download_ready": true,
+          "filename": "71-80 • The Extra’s Academy Survival Guide.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 4390,
+          "name": "71-80",
+          "size": 143383792,
+          "telegram_link": "https://t.me/manhuasgratis/4390"
         },
         {
-          "name": "81-90",
-          "first": 81,
-          "last": 90,
           "channel_id": 3003829878,
-          "message_id": 4391,
-          "filename": "81-90 • The Extra’s Academy Survival Guide.pdf",
-          "size": 113250796,
-          "date": "2026-09-08T22:17:27+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4391",
-          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -1900,19 +1916,19 @@
             88,
             89,
             90
-          ]
+          ],
+          "date": "2026-09-08T22:17:27+00:00",
+          "download_ready": true,
+          "filename": "81-90 • The Extra’s Academy Survival Guide.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4391,
+          "name": "81-90",
+          "size": 113250796,
+          "telegram_link": "https://t.me/manhuasgratis/4391"
         },
         {
-          "name": "91-100",
-          "first": 91,
-          "last": 100,
           "channel_id": 3003829878,
-          "message_id": 4392,
-          "filename": "91-100 • The Extra’s Academy Survival Guide.pdf",
-          "size": 116486815,
-          "date": "2026-09-08T22:17:29+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4392",
-          "download_ready": true,
           "chapters": [
             91,
             92,
@@ -1924,19 +1940,19 @@
             98,
             99,
             100
-          ]
+          ],
+          "date": "2026-09-08T22:17:29+00:00",
+          "download_ready": true,
+          "filename": "91-100 • The Extra’s Academy Survival Guide.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 4392,
+          "name": "91-100",
+          "size": 116486815,
+          "telegram_link": "https://t.me/manhuasgratis/4392"
         },
         {
-          "name": "101-110",
-          "first": 101,
-          "last": 110,
           "channel_id": 3003829878,
-          "message_id": 4393,
-          "filename": "101-110 • The Extra’s Academy Survival Guide.pdf",
-          "size": 98059881,
-          "date": "2026-09-08T22:17:33+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4393",
-          "download_ready": true,
           "chapters": [
             101,
             102,
@@ -1948,19 +1964,19 @@
             108,
             109,
             110
-          ]
+          ],
+          "date": "2026-09-08T22:17:33+00:00",
+          "download_ready": true,
+          "filename": "101-110 • The Extra’s Academy Survival Guide.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 4393,
+          "name": "101-110",
+          "size": 98059881,
+          "telegram_link": "https://t.me/manhuasgratis/4393"
         },
         {
-          "name": "111-119",
-          "first": 111,
-          "last": 119,
           "channel_id": 3003829878,
-          "message_id": 4394,
-          "filename": "111-119 • The Extra’s Academy Survival Guide.pdf",
-          "size": 92961432,
-          "date": "2026-09-08T22:17:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4394",
-          "download_ready": true,
           "chapters": [
             111,
             112,
@@ -1971,123 +1987,123 @@
             117,
             118,
             119
-          ]
+          ],
+          "date": "2026-09-08T22:17:36+00:00",
+          "download_ready": true,
+          "filename": "111-119 • The Extra’s Academy Survival Guide.pdf",
+          "first": 111,
+          "last": 119,
+          "message_id": 4394,
+          "name": "111-119",
+          "size": 92961432,
+          "telegram_link": "https://t.me/manhuasgratis/4394"
         },
         {
-          "name": "120",
-          "first": 120,
-          "last": 120,
           "channel_id": 3003829878,
-          "message_id": 4395,
-          "filename": "120 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 10578979,
-          "date": "2026-09-08T22:17:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4395",
-          "download_ready": true,
           "chapters": [
             120
-          ]
+          ],
+          "date": "2026-09-08T22:17:39+00:00",
+          "download_ready": true,
+          "filename": "120 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 120,
+          "last": 120,
+          "message_id": 4395,
+          "name": "120",
+          "size": 10578979,
+          "telegram_link": "https://t.me/manhuasgratis/4395"
         },
         {
-          "name": "121",
-          "first": 121,
-          "last": 121,
           "channel_id": 3003829878,
-          "message_id": 4396,
-          "filename": "121 Guia de supervivencia del extra de la academia.pdf",
-          "size": 12177424,
-          "date": "2026-09-08T22:17:42+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4396",
-          "download_ready": true,
           "chapters": [
             121
-          ]
+          ],
+          "date": "2026-09-08T22:17:42+00:00",
+          "download_ready": true,
+          "filename": "121 Guia de supervivencia del extra de la academia.pdf",
+          "first": 121,
+          "last": 121,
+          "message_id": 4396,
+          "name": "121",
+          "size": 12177424,
+          "telegram_link": "https://t.me/manhuasgratis/4396"
         },
         {
-          "name": "122",
-          "first": 122,
-          "last": 122,
           "channel_id": 3003829878,
-          "message_id": 4397,
-          "filename": "122 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 10232305,
-          "date": "2026-09-08T22:17:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4397",
-          "download_ready": true,
           "chapters": [
             122
-          ]
+          ],
+          "date": "2026-09-08T22:17:44+00:00",
+          "download_ready": true,
+          "filename": "122 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 122,
+          "last": 122,
+          "message_id": 4397,
+          "name": "122",
+          "size": 10232305,
+          "telegram_link": "https://t.me/manhuasgratis/4397"
         },
         {
-          "name": "123",
-          "first": 123,
-          "last": 123,
           "channel_id": 3003829878,
-          "message_id": 4490,
-          "filename": "[#123]   Guía de Supervivencia.pdf",
-          "size": 16298763,
-          "date": "2026-09-12T12:05:47+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4490",
-          "download_ready": true,
           "chapters": [
             123
-          ]
+          ],
+          "date": "2026-09-12T12:05:47+00:00",
+          "download_ready": true,
+          "filename": "[#123]   Guía de Supervivencia.pdf",
+          "first": 123,
+          "last": 123,
+          "message_id": 4490,
+          "name": "123",
+          "size": 16298763,
+          "telegram_link": "https://t.me/manhuasgratis/4490"
         },
         {
-          "name": "124",
-          "first": 124,
-          "last": 124,
           "channel_id": 3003829878,
-          "message_id": 4585,
-          "filename": "[#124]   Guía de Supervivencia.pdf",
-          "size": 12775360,
-          "date": "2026-09-19T03:55:45+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4585",
-          "download_ready": true,
           "chapters": [
             124
-          ]
+          ],
+          "date": "2026-09-19T03:55:45+00:00",
+          "download_ready": true,
+          "filename": "[#124]   Guía de Supervivencia.pdf",
+          "first": 124,
+          "last": 124,
+          "message_id": 4585,
+          "name": "124",
+          "size": 12775360,
+          "telegram_link": "https://t.me/manhuasgratis/4585"
         },
         {
-          "name": "125",
-          "first": 125,
-          "last": 125,
           "channel_id": 3003829878,
-          "message_id": 4643,
-          "filename": "125 Guía de supervivencia del extra de la academia -.-.pdf",
-          "size": 8787103,
-          "date": "2026-09-26T16:27:29+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4643",
-          "download_ready": true,
           "chapters": [
             125
-          ]
+          ],
+          "date": "2026-09-26T16:27:29+00:00",
+          "download_ready": true,
+          "filename": "125 Guía de supervivencia del extra de la academia -.-.pdf",
+          "first": 125,
+          "last": 125,
+          "message_id": 4643,
+          "name": "125",
+          "size": 8787103,
+          "telegram_link": "https://t.me/manhuasgratis/4643"
         }
-      ]
+      ],
+      "synopsis": "Soy un extra villano de tercera en mi juego favorito. No tengo ambiciones y sólo quiero vivir una vida tranquila. Pero vaya, este mundo es un lugar difícil para sobrevivir. Sobreviviré hasta el final de esta historia, de una forma que el protagonista no puede. Sobreviviré a la manera de un villano de tercera."
     },
     {
-      "id": "i_am_the_sorcerer_king",
-      "name": "I Am the Sorcerer King",
-      "hashtag": "#I_Am_the_Sorcerer_King",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/i_am_the_sorcerer_king.jpg",
       "cover_message_id": 8,
       "cover_telegram_link": "https://t.me/c/4187372773/8",
-      "synopsis": "mago reencarnado",
       "genres": [],
+      "hashtag": "#I_Am_the_Sorcerer_King",
+      "id": "i_am_the_sorcerer_king",
       "latest_chapter": 143,
+      "name": "I Am the Sorcerer King",
       "package_count": 11,
       "packages": [
         {
-          "name": "1-21",
-          "first": 1,
-          "last": 21,
           "channel_id": 3003829878,
-          "message_id": 4591,
-          "filename": "[01-21] I Am The Sorcerer King.pdf",
-          "size": 106141241,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4591",
-          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -2110,19 +2126,20 @@
             19,
             20,
             21
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[01-21] I Am The Sorcerer King.pdf",
+          "first": 1,
+          "last": 21,
+          "message_id": 4591,
+          "name": "1-21",
+          "size": 106141241,
+          "telegram_link": "https://t.me/manhuasgratis/4591",
+          "download_url": "https://ts.buzzheavier.com/d/km28ysmdgmwy?v=b5LQDCdGu5lvI9_7jK9n9k-2ThT9xZOpIJiCRsdkn02kiXX_qujMo9vEeNy3Bzu68LvD5NVazi_Lw4I0M173BllvGAf8eeZr1gzDA35MeSvk2fMNbOGMJpkDlE5xEVCqOnSYe52gvlO31KZMMOSLpps1gHZkK77i5hYqDsInykQyWFgiaiBYgPniB8pe6ALaIes1DfKfygh_"
         },
         {
-          "name": "22-30",
-          "first": 22,
-          "last": 30,
           "channel_id": 3003829878,
-          "message_id": 4592,
-          "filename": "[22-30] I Am The Sorcerer King.pdf",
-          "size": 59830792,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4592",
-          "download_ready": true,
           "chapters": [
             22,
             23,
@@ -2133,19 +2150,19 @@
             28,
             29,
             30
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[22-30] I Am The Sorcerer King.pdf",
+          "first": 22,
+          "last": 30,
+          "message_id": 4592,
+          "name": "22-30",
+          "size": 59830792,
+          "telegram_link": "https://t.me/manhuasgratis/4592"
         },
         {
-          "name": "31-40",
-          "first": 31,
-          "last": 40,
           "channel_id": 3003829878,
-          "message_id": 4593,
-          "filename": "[31-40] I Am The Sorcerer King.pdf",
-          "size": 67260117,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4593",
-          "download_ready": true,
           "chapters": [
             31,
             32,
@@ -2157,19 +2174,19 @@
             38,
             39,
             40
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[31-40] I Am The Sorcerer King.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4593,
+          "name": "31-40",
+          "size": 67260117,
+          "telegram_link": "https://t.me/manhuasgratis/4593"
         },
         {
-          "name": "41-49",
-          "first": 41,
-          "last": 49,
           "channel_id": 3003829878,
-          "message_id": 4594,
-          "filename": "[41-49] I Am The Sorcerer King.pdf",
-          "size": 39250992,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4594",
-          "download_ready": true,
           "chapters": [
             41,
             42,
@@ -2180,19 +2197,19 @@
             47,
             48,
             49
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[41-49] I Am The Sorcerer King.pdf",
+          "first": 41,
+          "last": 49,
+          "message_id": 4594,
+          "name": "41-49",
+          "size": 39250992,
+          "telegram_link": "https://t.me/manhuasgratis/4594"
         },
         {
-          "name": "50-60",
-          "first": 50,
-          "last": 60,
           "channel_id": 3003829878,
-          "message_id": 4595,
-          "filename": "[50-60] I Am The Sorcerer King.pdf",
-          "size": 60142072,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4595",
-          "download_ready": true,
           "chapters": [
             50,
             51,
@@ -2205,19 +2222,19 @@
             58,
             59,
             60
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[50-60] I Am The Sorcerer King.pdf",
+          "first": 50,
+          "last": 60,
+          "message_id": 4595,
+          "name": "50-60",
+          "size": 60142072,
+          "telegram_link": "https://t.me/manhuasgratis/4595"
         },
         {
-          "name": "61-80",
-          "first": 61,
-          "last": 80,
           "channel_id": 3003829878,
-          "message_id": 4596,
-          "filename": "[61-80] I Am The Sorcerer King.pdf",
-          "size": 95496419,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4596",
-          "download_ready": true,
           "chapters": [
             61,
             62,
@@ -2239,19 +2256,19 @@
             78,
             79,
             80
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[61-80] I Am The Sorcerer King.pdf",
+          "first": 61,
+          "last": 80,
+          "message_id": 4596,
+          "name": "61-80",
+          "size": 95496419,
+          "telegram_link": "https://t.me/manhuasgratis/4596"
         },
         {
-          "name": "81-90",
-          "first": 81,
-          "last": 90,
           "channel_id": 3003829878,
-          "message_id": 4597,
-          "filename": "[81-90] I Am The Sorcerer King.pdf",
-          "size": 59739013,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4597",
-          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -2263,19 +2280,19 @@
             88,
             89,
             90
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[81-90] I Am The Sorcerer King.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4597,
+          "name": "81-90",
+          "size": 59739013,
+          "telegram_link": "https://t.me/manhuasgratis/4597"
         },
         {
-          "name": "91-105",
-          "first": 91,
-          "last": 105,
           "channel_id": 3003829878,
-          "message_id": 4598,
-          "filename": "[91-105] I Am The Sorcerer King.pdf",
-          "size": 86223054,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4598",
-          "download_ready": true,
           "chapters": [
             91,
             92,
@@ -2292,19 +2309,19 @@
             103,
             104,
             105
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[91-105] I Am The Sorcerer King.pdf",
+          "first": 91,
+          "last": 105,
+          "message_id": 4598,
+          "name": "91-105",
+          "size": 86223054,
+          "telegram_link": "https://t.me/manhuasgratis/4598"
         },
         {
-          "name": "106-118",
-          "first": 106,
-          "last": 118,
           "channel_id": 3003829878,
-          "message_id": 4599,
-          "filename": "[106-118] I Am The Sorcerer King.pdf",
-          "size": 65311160,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4599",
-          "download_ready": true,
           "chapters": [
             106,
             107,
@@ -2319,19 +2336,19 @@
             116,
             117,
             118
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[106-118] I Am The Sorcerer King.pdf",
+          "first": 106,
+          "last": 118,
+          "message_id": 4599,
+          "name": "106-118",
+          "size": 65311160,
+          "telegram_link": "https://t.me/manhuasgratis/4599"
         },
         {
-          "name": "119-130",
-          "first": 119,
-          "last": 130,
           "channel_id": 3003829878,
-          "message_id": 4600,
-          "filename": "[119-130] I Am The Sorcerer King.pdf",
-          "size": 60821916,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4600",
-          "download_ready": true,
           "chapters": [
             119,
             120,
@@ -2345,19 +2362,19 @@
             128,
             129,
             130
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[119-130] I Am The Sorcerer King.pdf",
+          "first": 119,
+          "last": 130,
+          "message_id": 4600,
+          "name": "119-130",
+          "size": 60821916,
+          "telegram_link": "https://t.me/manhuasgratis/4600"
         },
         {
-          "name": "131-143",
-          "first": 131,
-          "last": 143,
           "channel_id": 3003829878,
-          "message_id": 4601,
-          "filename": "[131-143] I Am The Sorcerer King.pdf",
-          "size": 67849263,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4601",
-          "download_ready": true,
           "chapters": [
             131,
             132,
@@ -2372,9 +2389,26 @@
             141,
             142,
             143
-          ]
+          ],
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "filename": "[131-143] I Am The Sorcerer King.pdf",
+          "first": 131,
+          "last": 143,
+          "message_id": 4601,
+          "name": "131-143",
+          "size": 67849263,
+          "telegram_link": "https://t.me/manhuasgratis/4601"
         }
-      ]
+      ],
+      "synopsis": "mago reencarnado"
     }
-  ]
+  ],
+  "source": {
+    "channel": "manhuasgratis",
+    "portadas_channel": "4187372773",
+    "type": "telegram"
+  },
+  "updated_at": "2026-10-03T13:13:08.758410+00:00",
+  "version": 1
 }
