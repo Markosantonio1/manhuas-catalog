@@ -1,5 +1,21 @@
 {
-  "schema": "manhuas-catalog-v1",
+  "novels": [
+    {
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/oredakehairerukakushidungeon.jpg",
+      "cover_message_id": 2,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/2",
+      "genres": [],
+      "hashtag": "#OredakeHaireruKakushiDungeon",
+      "id": "oredakehairerukakushidungeon",
+      "latest_chapter": 1,
+      "name": "OredakeHaireruKakushiDungeon",
+      "package_count": 0,
+      "packages": [],
+      "synopsis": "",
+      "visible": true
+    }
+  ],
+  "schema": "manhuas-catalog-v2",
   "series": [
     {
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/dominio_absoluto_del_nivel_0.jpg",
@@ -616,9 +632,10 @@
   ],
   "source": {
     "channel": "manhuasgratis",
+    "novels_channel": "-1004334091126",
     "portadas_channel": "4187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-03T16:34:05.271355+00:00",
-  "version": 1
+  "updated_at": "2026-10-03T17:57:25.826739+00:00",
+  "version": 2
 }
