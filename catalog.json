@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "manhuas-catalog-v1",
-  "updated_at": "2026-10-03T00:43:13.580120+00:00",
+  "updated_at": "2026-10-03T03:15:19.305024+00:00",
   "source": {
     "type": "telegram",
     "channel": "manhuasgratis",
@@ -972,6 +972,638 @@
       ]
     },
     {
+      "id": "genio_espadachin_de_la_academia",
+      "name": "Genio Espadachín De La Academia",
+      "hashtag": "#Genio_Espadachín_De_La_Academia",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/Genio_Espadachín_De_La_Academia.jpg",
+      "cover_message_id": 10,
+      "cover_telegram_link": "https://t.me/c/4187372773/10",
+      "synopsis": "Sinopsis: Tras una batalla trascendental contra gigantes por el destino del mundo, Ronan emerge victorioso como el último hombre en pie del ejército imperial.\nMientras lamenta esta victoria vacía junto a su moribundo comandante, el Gran Mariscal Adeshan, pronto descubren que la guerra está lejos de terminar y una fuerza abrumadora de gigantes desciende de los cielos.\nTemiendo lo peor, pero viendo esperanza en el valiente Ronan, Adeshan usa su último viaje en el tiempo para enviarlo al pasado, ¡para que pueda inscribirse en la prestigiosa Academia Phileon y convertirse en el espadachín más poderoso que el imperio haya visto jamás!",
+      "genres": [],
+      "latest_chapter": 156,
+      "package_count": 33,
+      "packages": [
+        {
+          "name": "1-10",
+          "first": 1,
+          "last": 10,
+          "channel_id": 3003829878,
+          "message_id": 4260,
+          "filename": "01-10 • Genio Espadachín De La Academia.pdf",
+          "size": 87248262,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4260",
+          "download_ready": true,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "name": "11-20",
+          "first": 11,
+          "last": 20,
+          "channel_id": 3003829878,
+          "message_id": 4261,
+          "filename": "11-20 • Genio Espadachín De La Academia.pdf",
+          "size": 107958322,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4261",
+          "download_ready": true,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "name": "21-30",
+          "first": 21,
+          "last": 30,
+          "channel_id": 3003829878,
+          "message_id": 4262,
+          "filename": "21-30 • Genio Espadachín De La Academia.pdf",
+          "size": 98783083,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4262",
+          "download_ready": true,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "name": "31-40",
+          "first": 31,
+          "last": 40,
+          "channel_id": 3003829878,
+          "message_id": 4263,
+          "filename": "31-40 • Genio Espadachín De La Academia.pdf",
+          "size": 96914794,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4263",
+          "download_ready": true,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "name": "41-50",
+          "first": 41,
+          "last": 50,
+          "channel_id": 3003829878,
+          "message_id": 4264,
+          "filename": "41-50 • Genio Espadachín De La Academia.pdf",
+          "size": 102768666,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4264",
+          "download_ready": true,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "name": "51-60",
+          "first": 51,
+          "last": 60,
+          "channel_id": 3003829878,
+          "message_id": 4265,
+          "filename": "51-60 • Genio Espadachín De La Academia.pdf",
+          "size": 100429442,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4265",
+          "download_ready": true,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "name": "61-70",
+          "first": 61,
+          "last": 70,
+          "channel_id": 3003829878,
+          "message_id": 4266,
+          "filename": "61-70 • Genio Espadachín De La Academia.pdf",
+          "size": 100078352,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4266",
+          "download_ready": true,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "name": "71-80",
+          "first": 71,
+          "last": 80,
+          "channel_id": 3003829878,
+          "message_id": 4267,
+          "filename": "71-80 • Genio Espadachín De La Academia.pdf",
+          "size": 94076045,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4267",
+          "download_ready": true,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ]
+        },
+        {
+          "name": "81-90",
+          "first": 81,
+          "last": 90,
+          "channel_id": 3003829878,
+          "message_id": 4268,
+          "filename": "81-90 • Genio Espadachín De La Academia.pdf",
+          "size": 95418120,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4268",
+          "download_ready": true,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ]
+        },
+        {
+          "name": "91-100",
+          "first": 91,
+          "last": 100,
+          "channel_id": 3003829878,
+          "message_id": 4269,
+          "filename": "91-100 • Genio Espadachín De La Academia.pdf",
+          "size": 96892230,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4269",
+          "download_ready": true,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "name": "101-110",
+          "first": 101,
+          "last": 110,
+          "channel_id": 3003829878,
+          "message_id": 4270,
+          "filename": "101-110 • Genio Espadachín De La Academia.pdf",
+          "size": 101692322,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4270",
+          "download_ready": true,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ]
+        },
+        {
+          "name": "111-120",
+          "first": 111,
+          "last": 120,
+          "channel_id": 3003829878,
+          "message_id": 4271,
+          "filename": "111-120 • Genio Espadachín De La Academia.pdf",
+          "size": 111533624,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4271",
+          "download_ready": true,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ]
+        },
+        {
+          "name": "121-130",
+          "first": 121,
+          "last": 130,
+          "channel_id": 3003829878,
+          "message_id": 4272,
+          "filename": "121-130 • Genio Espadachín De La Academia.pdf",
+          "size": 106033459,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4272",
+          "download_ready": true,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ]
+        },
+        {
+          "name": "131-136",
+          "first": 131,
+          "last": 136,
+          "channel_id": 3003829878,
+          "message_id": 4273,
+          "filename": "131-136 • Genio Espadachín De La Academia.pdf",
+          "size": 63135527,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4273",
+          "download_ready": true,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+          ]
+        },
+        {
+          "name": "137",
+          "first": 137,
+          "last": 137,
+          "channel_id": 3003829878,
+          "message_id": 4274,
+          "filename": "137 • Genio Espadachín De La Academia.pdf",
+          "size": 11133519,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4274",
+          "download_ready": true,
+          "chapters": [
+            137
+          ]
+        },
+        {
+          "name": "138",
+          "first": 138,
+          "last": 138,
+          "channel_id": 3003829878,
+          "message_id": 4275,
+          "filename": "138 • Genio Espadachín De La Academia.pdf",
+          "size": 9035263,
+          "date": "2026-09-01T15:16:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4275",
+          "download_ready": true,
+          "chapters": [
+            138
+          ]
+        },
+        {
+          "name": "139",
+          "first": 139,
+          "last": 139,
+          "channel_id": 3003829878,
+          "message_id": 4277,
+          "filename": "139 • Genio Espadachín De La Academia.pdf",
+          "size": 9547408,
+          "date": "2026-09-01T15:37:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4277",
+          "download_ready": true,
+          "chapters": [
+            139
+          ]
+        },
+        {
+          "name": "140",
+          "first": 140,
+          "last": 140,
+          "channel_id": 3003829878,
+          "message_id": 4312,
+          "filename": "140 • Genio Espadachín De La Academia.pdf",
+          "size": 10327348,
+          "date": "2026-09-04T17:07:54+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4312",
+          "download_ready": true,
+          "chapters": [
+            140
+          ]
+        },
+        {
+          "name": "141",
+          "first": 141,
+          "last": 141,
+          "channel_id": 3003829878,
+          "message_id": 4313,
+          "filename": "141 • Genio Espadachín De La Academia.pdf",
+          "size": 7611757,
+          "date": "2026-09-04T17:07:56+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4313",
+          "download_ready": true,
+          "chapters": [
+            141
+          ]
+        },
+        {
+          "name": "142",
+          "first": 142,
+          "last": 142,
+          "channel_id": 3003829878,
+          "message_id": 4314,
+          "filename": "142 • Genio Espadachín De La Academia.pdf",
+          "size": 11005331,
+          "date": "2026-09-04T17:07:59+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4314",
+          "download_ready": true,
+          "chapters": [
+            142
+          ]
+        },
+        {
+          "name": "143-144",
+          "first": 143,
+          "last": 144,
+          "channel_id": 3003829878,
+          "message_id": 4315,
+          "filename": "143-144 • Genio Espadachín De La Academia.pdf",
+          "size": 23361955,
+          "date": "2026-09-04T17:08:01+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4315",
+          "download_ready": true,
+          "chapters": [
+            143,
+            144
+          ]
+        },
+        {
+          "name": "145",
+          "first": 145,
+          "last": 145,
+          "channel_id": 3003829878,
+          "message_id": 4316,
+          "filename": "145 • Genio Espadachín De La Academia.pdf",
+          "size": 12148993,
+          "date": "2026-09-04T17:08:04+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4316",
+          "download_ready": true,
+          "chapters": [
+            145
+          ]
+        },
+        {
+          "name": "146",
+          "first": 146,
+          "last": 146,
+          "channel_id": 3003829878,
+          "message_id": 4317,
+          "filename": "146 • Genio Espadachín De La Academia.pdf",
+          "size": 11193070,
+          "date": "2026-09-04T17:08:06+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4317",
+          "download_ready": true,
+          "chapters": [
+            146
+          ]
+        },
+        {
+          "name": "147",
+          "first": 147,
+          "last": 147,
+          "channel_id": 3003829878,
+          "message_id": 4318,
+          "filename": "147 • Genio Espadachín De La Academia.pdf",
+          "size": 9917311,
+          "date": "2026-09-04T17:08:08+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4318",
+          "download_ready": true,
+          "chapters": [
+            147
+          ]
+        },
+        {
+          "name": "148",
+          "first": 148,
+          "last": 148,
+          "channel_id": 3003829878,
+          "message_id": 4319,
+          "filename": "148 • Genio Espadachín De La Academia.pdf",
+          "size": 10131399,
+          "date": "2026-09-04T17:08:10+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4319",
+          "download_ready": true,
+          "chapters": [
+            148
+          ]
+        },
+        {
+          "name": "149",
+          "first": 149,
+          "last": 149,
+          "channel_id": 3003829878,
+          "message_id": 4320,
+          "filename": "149 • Genio Espadachín De La Academia.pdf",
+          "size": 9237028,
+          "date": "2026-09-04T17:08:12+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4320",
+          "download_ready": true,
+          "chapters": [
+            149
+          ]
+        },
+        {
+          "name": "150",
+          "first": 150,
+          "last": 150,
+          "channel_id": 3003829878,
+          "message_id": 4321,
+          "filename": "150 • Genio Espadachín De La Academia.pdf",
+          "size": 11051777,
+          "date": "2026-09-04T17:08:14+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4321",
+          "download_ready": true,
+          "chapters": [
+            150
+          ]
+        },
+        {
+          "name": "151",
+          "first": 151,
+          "last": 151,
+          "channel_id": 3003829878,
+          "message_id": 4322,
+          "filename": "151 • Genio Espadachín De La Academia.pdf",
+          "size": 10212770,
+          "date": "2026-09-04T17:08:16+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4322",
+          "download_ready": true,
+          "chapters": [
+            151
+          ]
+        },
+        {
+          "name": "152",
+          "first": 152,
+          "last": 152,
+          "channel_id": 3003829878,
+          "message_id": 4323,
+          "filename": "152 • Genio Espadachín De La Academia.pdf",
+          "size": 9593691,
+          "date": "2026-09-04T17:08:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4323",
+          "download_ready": true,
+          "chapters": [
+            152
+          ]
+        },
+        {
+          "name": "153",
+          "first": 153,
+          "last": 153,
+          "channel_id": 3003829878,
+          "message_id": 4583,
+          "filename": "153 • Genio Espadachín De La Academia.pdf",
+          "size": 10991392,
+          "date": "2026-09-19T03:55:41+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4583",
+          "download_ready": true,
+          "chapters": [
+            153
+          ]
+        },
+        {
+          "name": "154",
+          "first": 154,
+          "last": 154,
+          "channel_id": 3003829878,
+          "message_id": 4584,
+          "filename": "154 • Genio Espadachín De La Academia.pdf",
+          "size": 10576354,
+          "date": "2026-09-19T03:55:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4584",
+          "download_ready": true,
+          "chapters": [
+            154
+          ]
+        },
+        {
+          "name": "155",
+          "first": 155,
+          "last": 155,
+          "channel_id": 3003829878,
+          "message_id": 4639,
+          "filename": "155 • Genio Espadachín De La Academia.pdf",
+          "size": 8778635,
+          "date": "2026-09-26T04:47:36+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4639",
+          "download_ready": true,
+          "chapters": [
+            155
+          ]
+        },
+        {
+          "name": "156",
+          "first": 156,
+          "last": 156,
+          "channel_id": 3003829878,
+          "message_id": 4648,
+          "filename": "156 • Genio Espadachín De La Academia.pdf",
+          "size": 11194974,
+          "date": "2026-09-27T15:16:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4648",
+          "download_ready": true,
+          "chapters": [
+            156
+          ]
+        }
+      ]
+    },
+    {
       "id": "guia_de_supervivencia_del_extra_de_la_academia",
       "name": "Guía de supervivencia del extra de la academia",
       "hashtag": "#Guía_de_supervivencia_del_extra_de_la_academia",
@@ -1745,5 +2377,4 @@
       ]
     }
   ]
-}
 }
