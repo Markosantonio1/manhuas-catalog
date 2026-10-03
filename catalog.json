@@ -7,9 +7,9 @@
       "genres": [],
       "hashtag": "#OredakeHaireruKakushiDungeon",
       "id": "oredakehairerukakushidungeon",
-      "latest_chapter": 3,
+      "latest_chapter": 4,
       "name": "OredakeHaireruKakushiDungeon",
-      "package_count": 3,
+      "package_count": 4,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -61,6 +61,23 @@
           "name": "Volumen 4",
           "size": 6397940,
           "telegram_link": "https://t.me/c/-1004334091126/8"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 9,
+          "name": "Volumen 5",
+          "size": 5162745,
+          "telegram_link": "https://t.me/c/-1004334091126/9"
         }
       ],
       "synopsis": "Noir es hijo de un noble con muy poca fortuna, pero poseedor de un raro poder: comunicarse con un misterioso sabio, aunque esto le ocasione dolores de cabeza. Siguiendo el consejo del sabio, Noir encuentra una mazmorra secreta llena de extrañas criaturas y objetos mágicos. Allí, Noir entrenará, ganando experiencia y riqueza, hasta que tenga poder suficiente para cambiar su destino",
@@ -688,6 +705,6 @@
     "portadas_channel": "4187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-03T18:26:27.883809+00:00",
+  "updated_at": "2026-10-03T18:39:43.360959+00:00",
   "version": 2
 }
