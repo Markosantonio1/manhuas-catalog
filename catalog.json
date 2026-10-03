@@ -1,104 +1,37 @@
 {
-  "novels": [
-    {
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/oredakehairerukakushidungeon.jpg",
-      "cover_message_id": 2,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/2",
-      "genres": [],
-      "hashtag": "#OredakeHaireruKakushiDungeon",
-      "id": "oredakehairerukakushidungeon",
-      "latest_chapter": 4,
-      "name": "OredakeHaireruKakushiDungeon",
-      "package_count": 4,
-      "packages": [
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            2
-          ],
-          "date": "2026-10-03T17:18:05+00:00",
-          "download_ready": true,
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
-          "first": 2,
-          "is_novel_volume": true,
-          "last": 2,
-          "message_id": 6,
-          "name": "Volumen 2",
-          "size": 8906601,
-          "telegram_link": "https://t.me/c/-1004334091126/6"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            3
-          ],
-          "date": "2026-10-03T17:18:05+00:00",
-          "download_ready": true,
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
-          "first": 3,
-          "is_novel_volume": true,
-          "last": 3,
-          "message_id": 7,
-          "name": "Volumen 3",
-          "size": 8329192,
-          "telegram_link": "https://t.me/c/-1004334091126/7"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            4
-          ],
-          "date": "2026-10-03T17:18:05+00:00",
-          "download_ready": true,
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
-          "first": 4,
-          "is_novel_volume": true,
-          "last": 4,
-          "message_id": 8,
-          "name": "Volumen 4",
-          "size": 6397940,
-          "telegram_link": "https://t.me/c/-1004334091126/8"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            5
-          ],
-          "date": "2026-10-03T17:18:05+00:00",
-          "download_ready": true,
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
-          "first": 5,
-          "is_novel_volume": true,
-          "last": 5,
-          "message_id": 9,
-          "name": "Volumen 5",
-          "size": 5162745,
-          "telegram_link": "https://t.me/c/-1004334091126/9"
-        }
-      ],
-      "synopsis": "Noir es hijo de un noble con muy poca fortuna, pero poseedor de un raro poder: comunicarse con un misterioso sabio, aunque esto le ocasione dolores de cabeza. Siguiendo el consejo del sabio, Noir encuentra una mazmorra secreta llena de extrañas criaturas y objetos mágicos. Allí, Noir entrenará, ganando experiencia y riqueza, hasta que tenga poder suficiente para cambiar su destino",
-      "visible": true
-    }
-  ],
+  "version": 2,
   "schema": "manhuas-catalog-v2",
+  "updated_at": "2026-10-03T18:56:06.514020+00:00",
+  "source": {
+    "type": "telegram",
+    "channel": "manhuasgratis",
+    "portadas_channel": "4187372773",
+    "novels_channel": "-1004334091126"
+  },
   "series": [
     {
+      "id": "dominio_absoluto_del_nivel_0",
+      "name": "Dominio Absoluto del Nivel 0",
+      "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/dominio_absoluto_del_nivel_0.jpg",
       "cover_message_id": 4,
       "cover_telegram_link": "https://t.me/c/4187372773/4",
+      "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
       "genres": [],
-      "hashtag": "#Dominio_Absoluto_del_Nivel_0",
-      "id": "dominio_absoluto_del_nivel_0",
       "latest_chapter": 44,
-      "name": "Dominio Absoluto del Nivel 0",
       "package_count": 17,
       "packages": [
         {
+          "name": "1-10",
+          "first": 1,
+          "last": 10,
           "channel_id": 3003829878,
+          "message_id": 4366,
+          "filename": "01-10 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 80175240,
+          "date": "2026-09-08T22:09:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4366",
+          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -110,292 +43,292 @@
             8,
             9,
             10
-          ],
-          "date": "2026-09-08T22:09:55+00:00",
-          "download_ready": true,
-          "filename": "01-10 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 1,
-          "last": 10,
-          "message_id": 4366,
-          "name": "1-10",
-          "size": 80175240,
-          "telegram_link": "https://t.me/manhuasgratis/4366"
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            11
-          ],
-          "date": "2026-09-08T22:09:55+00:00",
-          "download_ready": true,
-          "filename": "11 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "11",
           "first": 11,
           "last": 11,
+          "channel_id": 3003829878,
           "message_id": 4367,
-          "name": "11",
+          "filename": "11 • Dominio Absoluto del Nivel 0.pdf",
           "size": 9055080,
-          "telegram_link": "https://t.me/manhuasgratis/4367"
+          "date": "2026-09-08T22:09:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4367",
+          "download_ready": true,
+          "chapters": [
+            11
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            12
-          ],
-          "date": "2026-09-08T22:09:55+00:00",
-          "download_ready": true,
-          "filename": "12 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "12",
           "first": 12,
           "last": 12,
+          "channel_id": 3003829878,
           "message_id": 4368,
-          "name": "12",
+          "filename": "12 • Dominio Absoluto del Nivel 0.pdf",
           "size": 7884977,
-          "telegram_link": "https://t.me/manhuasgratis/4368"
+          "date": "2026-09-08T22:09:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4368",
+          "download_ready": true,
+          "chapters": [
+            12
+          ]
         },
         {
+          "name": "13-14",
+          "first": 13,
+          "last": 14,
           "channel_id": 3003829878,
+          "message_id": 4369,
+          "filename": "13-14 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 14867404,
+          "date": "2026-09-08T22:09:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4369",
+          "download_ready": true,
           "chapters": [
             13,
             14
-          ],
-          "date": "2026-09-08T22:09:55+00:00",
-          "download_ready": true,
-          "filename": "13-14 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 13,
-          "last": 14,
-          "message_id": 4369,
-          "name": "13-14",
-          "size": 14867404,
-          "telegram_link": "https://t.me/manhuasgratis/4369"
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            15
-          ],
-          "date": "2026-09-08T22:09:55+00:00",
-          "download_ready": true,
-          "filename": "15 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "15",
           "first": 15,
           "last": 15,
+          "channel_id": 3003829878,
           "message_id": 4370,
-          "name": "15",
+          "filename": "15 • Dominio Absoluto del Nivel 0.pdf",
           "size": 6980529,
-          "telegram_link": "https://t.me/manhuasgratis/4370"
+          "date": "2026-09-08T22:09:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4370",
+          "download_ready": true,
+          "chapters": [
+            15
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            16
-          ],
-          "date": "2026-09-08T22:09:55+00:00",
-          "download_ready": true,
-          "filename": "16 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "16",
           "first": 16,
           "last": 16,
+          "channel_id": 3003829878,
           "message_id": 4371,
-          "name": "16",
+          "filename": "16 • Dominio Absoluto del Nivel 0.pdf",
           "size": 8209865,
-          "telegram_link": "https://t.me/manhuasgratis/4371"
+          "date": "2026-09-08T22:09:55+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4371",
+          "download_ready": true,
+          "chapters": [
+            16
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            17
-          ],
-          "date": "2026-09-08T22:09:56+00:00",
-          "download_ready": true,
-          "filename": "17 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "17",
           "first": 17,
           "last": 17,
+          "channel_id": 3003829878,
           "message_id": 4372,
-          "name": "17",
+          "filename": "17 • Dominio Absoluto del Nivel 0.pdf",
           "size": 7197960,
-          "telegram_link": "https://t.me/manhuasgratis/4372"
+          "date": "2026-09-08T22:09:56+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4372",
+          "download_ready": true,
+          "chapters": [
+            17
+          ]
         },
         {
+          "name": "18-20",
+          "first": 18,
+          "last": 20,
           "channel_id": 3003829878,
+          "message_id": 4673,
+          "filename": "18-20 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 17035721,
+          "date": "2026-09-30T12:34:29+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4673",
+          "download_ready": true,
           "chapters": [
             18,
             19,
             20
-          ],
-          "date": "2026-09-30T12:34:29+00:00",
-          "download_ready": true,
-          "filename": "18-20 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 18,
-          "last": 20,
-          "message_id": 4673,
-          "name": "18-20",
-          "size": 17035721,
-          "telegram_link": "https://t.me/manhuasgratis/4673"
+          ]
         },
         {
+          "name": "21-22",
+          "first": 21,
+          "last": 22,
           "channel_id": 3003829878,
+          "message_id": 4674,
+          "filename": "21-22 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 12009527,
+          "date": "2026-09-30T12:34:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4674",
+          "download_ready": true,
           "chapters": [
             21,
             22
-          ],
-          "date": "2026-09-30T12:34:32+00:00",
-          "download_ready": true,
-          "filename": "21-22 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 21,
-          "last": 22,
-          "message_id": 4674,
-          "name": "21-22",
-          "size": 12009527,
-          "telegram_link": "https://t.me/manhuasgratis/4674"
+          ]
         },
         {
+          "name": "23-26",
+          "first": 23,
+          "last": 26,
           "channel_id": 3003829878,
+          "message_id": 4675,
+          "filename": "23-26 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 23079316,
+          "date": "2026-09-30T12:34:34+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4675",
+          "download_ready": true,
           "chapters": [
             23,
             24,
             25,
             26
-          ],
-          "date": "2026-09-30T12:34:34+00:00",
-          "download_ready": true,
-          "filename": "23-26 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 23,
-          "last": 26,
-          "message_id": 4675,
-          "name": "23-26",
-          "size": 23079316,
-          "telegram_link": "https://t.me/manhuasgratis/4675"
+          ]
         },
         {
+          "name": "27-30",
+          "first": 27,
+          "last": 30,
           "channel_id": 3003829878,
+          "message_id": 4676,
+          "filename": "27-30 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 28092268,
+          "date": "2026-09-30T12:34:37+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4676",
+          "download_ready": true,
           "chapters": [
             27,
             28,
             29,
             30
-          ],
-          "date": "2026-09-30T12:34:37+00:00",
-          "download_ready": true,
-          "filename": "27-30 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 27,
-          "last": 30,
-          "message_id": 4676,
-          "name": "27-30",
-          "size": 28092268,
-          "telegram_link": "https://t.me/manhuasgratis/4676"
+          ]
         },
         {
+          "name": "31-35",
+          "first": 31,
+          "last": 35,
           "channel_id": 3003829878,
+          "message_id": 4677,
+          "filename": "31-35 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 30682238,
+          "date": "2026-09-30T12:34:40+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4677",
+          "download_ready": true,
           "chapters": [
             31,
             32,
             33,
             34,
             35
-          ],
-          "date": "2026-09-30T12:34:40+00:00",
-          "download_ready": true,
-          "filename": "31-35 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 31,
-          "last": 35,
-          "message_id": 4677,
-          "name": "31-35",
-          "size": 30682238,
-          "telegram_link": "https://t.me/manhuasgratis/4677"
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            36
-          ],
-          "date": "2026-09-30T12:34:41+00:00",
-          "download_ready": true,
-          "filename": "36 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "36",
           "first": 36,
           "last": 36,
+          "channel_id": 3003829878,
           "message_id": 4678,
-          "name": "36",
+          "filename": "36 • Dominio Absoluto del Nivel 0.pdf",
           "size": 5467912,
-          "telegram_link": "https://t.me/manhuasgratis/4678"
+          "date": "2026-09-30T12:34:41+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4678",
+          "download_ready": true,
+          "chapters": [
+            36
+          ]
         },
         {
+          "name": "37-38",
+          "first": 37,
+          "last": 38,
           "channel_id": 3003829878,
+          "message_id": 4679,
+          "filename": "37-38 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 13501102,
+          "date": "2026-09-30T12:34:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4679",
+          "download_ready": true,
           "chapters": [
             37,
             38
-          ],
-          "date": "2026-09-30T12:34:43+00:00",
-          "download_ready": true,
-          "filename": "37-38 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 37,
-          "last": 38,
-          "message_id": 4679,
-          "name": "37-38",
-          "size": 13501102,
-          "telegram_link": "https://t.me/manhuasgratis/4679"
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            39
-          ],
-          "date": "2026-10-01T04:11:13+00:00",
-          "download_ready": true,
-          "filename": "39 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "39",
           "first": 39,
           "last": 39,
+          "channel_id": 3003829878,
           "message_id": 4741,
-          "name": "39",
+          "filename": "39 • Dominio Absoluto del Nivel 0.pdf",
           "size": 6077481,
-          "telegram_link": "https://t.me/manhuasgratis/4741"
+          "date": "2026-10-01T04:11:13+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4741",
+          "download_ready": true,
+          "chapters": [
+            39
+          ]
         },
         {
-          "channel_id": 3003829878,
-          "chapters": [
-            40
-          ],
-          "date": "2026-10-03T12:11:29+00:00",
-          "download_ready": true,
-          "filename": "40 • Dominio Absoluto del Nivel 0.pdf",
+          "name": "40",
           "first": 40,
           "last": 40,
+          "channel_id": 3003829878,
           "message_id": 4818,
-          "name": "40",
+          "filename": "40 • Dominio Absoluto del Nivel 0.pdf",
           "size": 5738887,
-          "telegram_link": "https://t.me/manhuasgratis/4818"
+          "date": "2026-10-03T12:11:29+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4818",
+          "download_ready": true,
+          "chapters": [
+            40
+          ]
         },
         {
+          "name": "41-44",
+          "first": 41,
+          "last": 44,
           "channel_id": 3003829878,
+          "message_id": 4819,
+          "filename": "41-44 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 20208494,
+          "date": "2026-10-03T12:11:31+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4819",
+          "download_ready": true,
           "chapters": [
             41,
             42,
             43,
             44
-          ],
-          "date": "2026-10-03T12:11:31+00:00",
-          "download_ready": true,
-          "filename": "41-44 • Dominio Absoluto del Nivel 0.pdf",
-          "first": 41,
-          "last": 44,
-          "message_id": 4819,
-          "name": "41-44",
-          "size": 20208494,
-          "telegram_link": "https://t.me/manhuasgratis/4819"
+          ]
         }
       ],
-      "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
       "visible": true
     },
     {
+      "id": "i_am_the_sorcerer_king",
+      "name": "I Am the Sorcerer King",
+      "hashtag": "#I_Am_the_Sorcerer_King",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/i_am_the_sorcerer_king.jpg",
       "cover_message_id": 8,
       "cover_telegram_link": "https://t.me/c/4187372773/8",
+      "synopsis": "mago reencarnado",
       "genres": [],
-      "hashtag": "#I_Am_the_Sorcerer_King",
-      "id": "i_am_the_sorcerer_king",
       "latest_chapter": 143,
-      "name": "I Am the Sorcerer King",
       "package_count": 11,
       "packages": [
         {
+          "name": "1-21",
+          "first": 1,
+          "last": 21,
           "channel_id": 3003829878,
+          "message_id": 4591,
+          "filename": "[01-21] I Am The Sorcerer King.pdf",
+          "size": 106141241,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4591",
+          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -419,19 +352,19 @@
             20,
             21
           ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "download_url": "https://ts.buzzheavier.com/d/km28ysmdgmwy?v=b5LQDCdGu5lvI9_7jK9n9k-2ThT9xZOpIJiCRsdkn02kiXX_qujMo9vEeNy3Bzu68LvD5NVazi_Lw4I0M173BllvGAf8eeZr1gzDA35MeSvk2fMNbOGMJpkDlE5xEVCqOnSYe52gvlO31KZMMOSLpps1gHZkK77i5hYqDsInykQyWFgiaiBYgPniB8pe6ALaIes1DfKfygh_",
-          "filename": "[01-21] I Am The Sorcerer King.pdf",
-          "first": 1,
-          "last": 21,
-          "message_id": 4591,
-          "name": "1-21",
-          "size": 106141241,
-          "telegram_link": "https://t.me/manhuasgratis/4591"
+          "download_url": "https://ts.buzzheavier.com/d/km28ysmdgmwy?v=b5LQDCdGu5lvI9_7jK9n9k-2ThT9xZOpIJiCRsdkn02kiXX_qujMo9vEeNy3Bzu68LvD5NVazi_Lw4I0M173BllvGAf8eeZr1gzDA35MeSvk2fMNbOGMJpkDlE5xEVCqOnSYe52gvlO31KZMMOSLpps1gHZkK77i5hYqDsInykQyWFgiaiBYgPniB8pe6ALaIes1DfKfygh_"
         },
         {
+          "name": "22-30",
+          "first": 22,
+          "last": 30,
           "channel_id": 3003829878,
+          "message_id": 4592,
+          "filename": "[22-30] I Am The Sorcerer King.pdf",
+          "size": 59830792,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4592",
+          "download_ready": true,
           "chapters": [
             22,
             23,
@@ -442,19 +375,19 @@
             28,
             29,
             30
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[22-30] I Am The Sorcerer King.pdf",
-          "first": 22,
-          "last": 30,
-          "message_id": 4592,
-          "name": "22-30",
-          "size": 59830792,
-          "telegram_link": "https://t.me/manhuasgratis/4592"
+          ]
         },
         {
+          "name": "31-40",
+          "first": 31,
+          "last": 40,
           "channel_id": 3003829878,
+          "message_id": 4593,
+          "filename": "[31-40] I Am The Sorcerer King.pdf",
+          "size": 67260117,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4593",
+          "download_ready": true,
           "chapters": [
             31,
             32,
@@ -466,19 +399,19 @@
             38,
             39,
             40
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[31-40] I Am The Sorcerer King.pdf",
-          "first": 31,
-          "last": 40,
-          "message_id": 4593,
-          "name": "31-40",
-          "size": 67260117,
-          "telegram_link": "https://t.me/manhuasgratis/4593"
+          ]
         },
         {
+          "name": "41-49",
+          "first": 41,
+          "last": 49,
           "channel_id": 3003829878,
+          "message_id": 4594,
+          "filename": "[41-49] I Am The Sorcerer King.pdf",
+          "size": 39250992,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4594",
+          "download_ready": true,
           "chapters": [
             41,
             42,
@@ -489,19 +422,19 @@
             47,
             48,
             49
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[41-49] I Am The Sorcerer King.pdf",
-          "first": 41,
-          "last": 49,
-          "message_id": 4594,
-          "name": "41-49",
-          "size": 39250992,
-          "telegram_link": "https://t.me/manhuasgratis/4594"
+          ]
         },
         {
+          "name": "50-60",
+          "first": 50,
+          "last": 60,
           "channel_id": 3003829878,
+          "message_id": 4595,
+          "filename": "[50-60] I Am The Sorcerer King.pdf",
+          "size": 60142072,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4595",
+          "download_ready": true,
           "chapters": [
             50,
             51,
@@ -514,19 +447,19 @@
             58,
             59,
             60
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[50-60] I Am The Sorcerer King.pdf",
-          "first": 50,
-          "last": 60,
-          "message_id": 4595,
-          "name": "50-60",
-          "size": 60142072,
-          "telegram_link": "https://t.me/manhuasgratis/4595"
+          ]
         },
         {
+          "name": "61-80",
+          "first": 61,
+          "last": 80,
           "channel_id": 3003829878,
+          "message_id": 4596,
+          "filename": "[61-80] I Am The Sorcerer King.pdf",
+          "size": 95496419,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4596",
+          "download_ready": true,
           "chapters": [
             61,
             62,
@@ -548,19 +481,19 @@
             78,
             79,
             80
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[61-80] I Am The Sorcerer King.pdf",
-          "first": 61,
-          "last": 80,
-          "message_id": 4596,
-          "name": "61-80",
-          "size": 95496419,
-          "telegram_link": "https://t.me/manhuasgratis/4596"
+          ]
         },
         {
+          "name": "81-90",
+          "first": 81,
+          "last": 90,
           "channel_id": 3003829878,
+          "message_id": 4597,
+          "filename": "[81-90] I Am The Sorcerer King.pdf",
+          "size": 59739013,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4597",
+          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -572,19 +505,19 @@
             88,
             89,
             90
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[81-90] I Am The Sorcerer King.pdf",
-          "first": 81,
-          "last": 90,
-          "message_id": 4597,
-          "name": "81-90",
-          "size": 59739013,
-          "telegram_link": "https://t.me/manhuasgratis/4597"
+          ]
         },
         {
+          "name": "91-105",
+          "first": 91,
+          "last": 105,
           "channel_id": 3003829878,
+          "message_id": 4598,
+          "filename": "[91-105] I Am The Sorcerer King.pdf",
+          "size": 86223054,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4598",
+          "download_ready": true,
           "chapters": [
             91,
             92,
@@ -601,19 +534,19 @@
             103,
             104,
             105
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[91-105] I Am The Sorcerer King.pdf",
-          "first": 91,
-          "last": 105,
-          "message_id": 4598,
-          "name": "91-105",
-          "size": 86223054,
-          "telegram_link": "https://t.me/manhuasgratis/4598"
+          ]
         },
         {
+          "name": "106-118",
+          "first": 106,
+          "last": 118,
           "channel_id": 3003829878,
+          "message_id": 4599,
+          "filename": "[106-118] I Am The Sorcerer King.pdf",
+          "size": 65311160,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4599",
+          "download_ready": true,
           "chapters": [
             106,
             107,
@@ -628,19 +561,19 @@
             116,
             117,
             118
-          ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "filename": "[106-118] I Am The Sorcerer King.pdf",
-          "first": 106,
-          "last": 118,
-          "message_id": 4599,
-          "name": "106-118",
-          "size": 65311160,
-          "telegram_link": "https://t.me/manhuasgratis/4599"
+          ]
         },
         {
+          "name": "119-130",
+          "first": 119,
+          "last": 130,
           "channel_id": 3003829878,
+          "message_id": 4600,
+          "filename": "[119-130] I Am The Sorcerer King.pdf",
+          "size": 60821916,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4600",
+          "download_ready": true,
           "chapters": [
             119,
             120,
@@ -655,19 +588,19 @@
             129,
             130
           ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "download_url": "https://ts.buzzheavier.com/d/vho3b2kcacyd?v=YyaqS0JuqDwcCZGELWavLGTxgUo3uAuLoZsP44RJxZ3oPoQpjylULzxmgIoUuyhVrT72fRmPuNsL8rEF6nwBY3v_7JBHX1YyMx7brWrqAasJIzc3mhvcnwSf-Q7Ac0f_t7KAheyleID-3LCXAMlMRpL1ahMDObzTt_ufHgEbCVmeGkSHUvYD-Vivy8fLkmkp7pHN1wApKDaOTQX7LQ",
-          "filename": "[119-130] I Am The Sorcerer King.pdf",
-          "first": 119,
-          "last": 130,
-          "message_id": 4600,
-          "name": "119-130",
-          "size": 60821916,
-          "telegram_link": "https://t.me/manhuasgratis/4600"
+          "download_url": "https://ts.buzzheavier.com/d/vho3b2kcacyd?v=YyaqS0JuqDwcCZGELWavLGTxgUo3uAuLoZsP44RJxZ3oPoQpjylULzxmgIoUuyhVrT72fRmPuNsL8rEF6nwBY3v_7JBHX1YyMx7brWrqAasJIzc3mhvcnwSf-Q7Ac0f_t7KAheyleID-3LCXAMlMRpL1ahMDObzTt_ufHgEbCVmeGkSHUvYD-Vivy8fLkmkp7pHN1wApKDaOTQX7LQ"
         },
         {
+          "name": "131-143",
+          "first": 131,
+          "last": 143,
           "channel_id": 3003829878,
+          "message_id": 4601,
+          "filename": "[131-143] I Am The Sorcerer King.pdf",
+          "size": 67849263,
+          "date": "2026-09-19T22:04:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/4601",
+          "download_ready": true,
           "chapters": [
             131,
             132,
@@ -683,28 +616,112 @@
             142,
             143
           ],
-          "date": "2026-09-19T22:04:32+00:00",
-          "download_ready": true,
-          "download_url": "https://ts.buzzheavier.com/d/75tom2zdy85w?v=ry83ukLB4Kuct8flo062WAds3XTTPLn5fRvmesZSE7OgGmwzZfQaEt2l09WrI7b3jdPp-UV-xq3kORMm0AM-LKyXE-JaXlkhH75M7Lb9Rv_b7jh-HGe0l7W0FyHtPPr3ieje_zJMhQeWCTMae6y6se0Ig6mu5V1KTtFQSxYgAkuVyLjd2k3sYoDqC9opmlICFdxBR9o80LHx2p_0KA",
-          "filename": "[131-143] I Am The Sorcerer King.pdf",
-          "first": 131,
-          "last": 143,
-          "message_id": 4601,
-          "name": "131-143",
-          "size": 67849263,
-          "telegram_link": "https://t.me/manhuasgratis/4601"
+          "download_url": "https://ts.buzzheavier.com/d/75tom2zdy85w?v=ry83ukLB4Kuct8flo062WAds3XTTPLn5fRvmesZSE7OgGmwzZfQaEt2l09WrI7b3jdPp-UV-xq3kORMm0AM-LKyXE-JaXlkhH75M7Lb9Rv_b7jh-HGe0l7W0FyHtPPr3ieje_zJMhQeWCTMae6y6se0Ig6mu5V1KTtFQSxYgAkuVyLjd2k3sYoDqC9opmlICFdxBR9o80LHx2p_0KA"
         }
       ],
-      "synopsis": "mago reencarnado",
       "visible": true
     }
   ],
-  "source": {
-    "channel": "manhuasgratis",
-    "novels_channel": "-1004334091126",
-    "portadas_channel": "4187372773",
-    "type": "telegram"
-  },
-  "updated_at": "2026-10-03T18:39:43.360959+00:00",
-  "version": 2
+  "novels": [
+    {
+      "id": "oredakehairerukakushidungeon",
+      "name": "OredakeHaireruKakushiDungeon",
+      "hashtag": "#OredakeHaireruKakushiDungeon",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/oredakehairerukakushidungeon.jpg",
+      "cover_message_id": 2,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/2",
+      "synopsis": "Noir es hijo de un noble con muy poca fortuna, pero poseedor de un raro poder: comunicarse con un misterioso sabio, aunque esto le ocasione dolores de cabeza. Siguiendo el consejo del sabio, Noir encuentra una mazmorra secreta llena de extrañas criaturas y objetos mágicos. Allí, Noir entrenará, ganando experiencia y riqueza, hasta que tenga poder suficiente para cambiar su destino",
+      "genres": [],
+      "latest_chapter": 5,
+      "package_count": 5,
+      "packages": [
+        {
+          "name": "Volumen 1",
+          "first": 1,
+          "last": 1,
+          "channel_id": -1004334091126,
+          "message_id": 5,
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 01.pdf",
+          "size": 8557908,
+          "date": "2026-10-03T17:18:05+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/5",
+          "download_ready": true,
+          "chapters": [
+            1
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 01.pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 2",
+          "first": 2,
+          "last": 2,
+          "channel_id": -1004334091126,
+          "message_id": 6,
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
+          "size": 8906601,
+          "date": "2026-10-03T17:18:05+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/6",
+          "download_ready": true,
+          "chapters": [
+            2
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 3",
+          "first": 3,
+          "last": 3,
+          "channel_id": -1004334091126,
+          "message_id": 7,
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
+          "size": 8329192,
+          "date": "2026-10-03T17:18:05+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/7",
+          "download_ready": true,
+          "chapters": [
+            3
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 4",
+          "first": 4,
+          "last": 4,
+          "channel_id": -1004334091126,
+          "message_id": 8,
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
+          "size": 6397940,
+          "date": "2026-10-03T17:18:05+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/8",
+          "download_ready": true,
+          "chapters": [
+            4
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 5",
+          "first": 5,
+          "last": 5,
+          "channel_id": -1004334091126,
+          "message_id": 9,
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
+          "size": 5162745,
+          "date": "2026-10-03T17:18:05+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/9",
+          "download_ready": true,
+          "chapters": [
+            5
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
+          "is_novel_volume": true
+        }
+      ],
+      "visible": true
+    }
+  ]
 }
