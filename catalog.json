@@ -1,7 +1,7 @@
 {
   "version": 2,
   "schema": "manhuas-catalog-v2",
-  "updated_at": "2026-10-04T00:00:31.639812+00:00",
+  "updated_at": "2026-10-04T13:35:10.845642+00:00",
   "source": {
     "type": "telegram",
     "channel": "manhuasgratis",
@@ -1636,6 +1636,242 @@
             10
           ],
           "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 10 v1.pdf",
+          "is_novel_volume": true
+        }
+      ],
+      "visible": true
+    },
+    {
+      "id": "the_great_cleric",
+      "name": "The Great Cleric",
+      "hashtag": "#The_Great_Cleric",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_great_cleric.jpg",
+      "cover_message_id": 69,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/69",
+      "synopsis": "✔️ Género: Acción, Artes marciales, Aventura, Comedia, Fantasía, Misterio, Recuentos de la vida, Shounen.\n⚜️📛 Sinopsis...\nCierto día, el Dios del Destino de la Tierra y el Dios Supremo de Galdardia hicieron una apuesta.\nEl Dios del Destino perdió, y eligió diez almas mediocres a las cuales entregó como premio.\nA esas diez almas, el Dios Principal de Galdardia les entregó nuevos contenedores.\nY entre esas almas mediocres había un asalariado que luchó contra su propio destino mortal.\n¿Cuál será el futuro de este hombre?.",
+      "genres": [],
+      "latest_chapter": 13,
+      "package_count": 13,
+      "packages": [
+        {
+          "name": "Volumen 1",
+          "first": 1,
+          "last": 1,
+          "channel_id": -1004334091126,
+          "message_id": 71,
+          "filename": "The Great Cleric - Volumen 01 [PdT].pdf",
+          "size": 3313687,
+          "date": "2026-10-04T13:07:24+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/71",
+          "download_ready": true,
+          "chapters": [
+            1
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 01 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 2",
+          "first": 2,
+          "last": 2,
+          "channel_id": -1004334091126,
+          "message_id": 72,
+          "filename": "The Great Cleric - Volumen 02 [PdT].pdf",
+          "size": 6786021,
+          "date": "2026-10-04T13:07:24+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/72",
+          "download_ready": true,
+          "chapters": [
+            2
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 02 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 3",
+          "first": 3,
+          "last": 3,
+          "channel_id": -1004334091126,
+          "message_id": 73,
+          "filename": "The Great Cleric - Volumen 03 [PdT].pdf",
+          "size": 3995159,
+          "date": "2026-10-04T13:07:24+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/73",
+          "download_ready": true,
+          "chapters": [
+            3
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 03 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 4",
+          "first": 4,
+          "last": 4,
+          "channel_id": -1004334091126,
+          "message_id": 74,
+          "filename": "The Great Cleric - Volumen 04 [PdT].pdf",
+          "size": 4857427,
+          "date": "2026-10-04T13:07:24+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/74",
+          "download_ready": true,
+          "chapters": [
+            4
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 04 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 5",
+          "first": 5,
+          "last": 5,
+          "channel_id": -1004334091126,
+          "message_id": 75,
+          "filename": "The Great Cleric - Volumen 05 [PdT].pdf",
+          "size": 4518805,
+          "date": "2026-10-04T13:07:24+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/75",
+          "download_ready": true,
+          "chapters": [
+            5
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 05 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 6",
+          "first": 6,
+          "last": 6,
+          "channel_id": -1004334091126,
+          "message_id": 76,
+          "filename": "The Great Cleric - Volumen 06 [PdT].pdf",
+          "size": 7104958,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/76",
+          "download_ready": true,
+          "chapters": [
+            6
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 06 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 7",
+          "first": 7,
+          "last": 7,
+          "channel_id": -1004334091126,
+          "message_id": 77,
+          "filename": "The Great Cleric - Volumen 07 [PdT].pdf",
+          "size": 8254368,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/77",
+          "download_ready": true,
+          "chapters": [
+            7
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 07 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 8",
+          "first": 8,
+          "last": 8,
+          "channel_id": -1004334091126,
+          "message_id": 78,
+          "filename": "The Great Cleric - Volumen 08 [PdT].pdf",
+          "size": 4708157,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/78",
+          "download_ready": true,
+          "chapters": [
+            8
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 08 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 9",
+          "first": 9,
+          "last": 9,
+          "channel_id": -1004334091126,
+          "message_id": 79,
+          "filename": "The Great Cleric - Volumen 09 [PdT].pdf",
+          "size": 12755209,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/79",
+          "download_ready": true,
+          "chapters": [
+            9
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 09 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 10",
+          "first": 10,
+          "last": 10,
+          "channel_id": -1004334091126,
+          "message_id": 80,
+          "filename": "The Great Cleric - Volumen 10 [PdT].pdf",
+          "size": 4911781,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/80",
+          "download_ready": true,
+          "chapters": [
+            10
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 10 [PdT].pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 11",
+          "first": 11,
+          "last": 11,
+          "channel_id": -1004334091126,
+          "message_id": 81,
+          "filename": "The Great Cleric - Volumen 11 [PdT] - No Oficial.pdf",
+          "size": 9696885,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/81",
+          "download_ready": true,
+          "chapters": [
+            11
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 11 [PdT] - No Oficial.pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 12",
+          "first": 12,
+          "last": 12,
+          "channel_id": -1004334091126,
+          "message_id": 82,
+          "filename": "The Great Cleric - Volumen 12 [PdT] - No Oficial.pdf",
+          "size": 9696885,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/82",
+          "download_ready": true,
+          "chapters": [
+            12
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 12 [PdT] - No Oficial.pdf",
+          "is_novel_volume": true
+        },
+        {
+          "name": "Volumen 13",
+          "first": 13,
+          "last": 13,
+          "channel_id": -1004334091126,
+          "message_id": 83,
+          "filename": "The Great Cleric - Volumen 13 [PdT] - No Oficial.pdf",
+          "size": 11989914,
+          "date": "2026-10-04T13:07:25+00:00",
+          "telegram_link": "https://t.me/c/-1004334091126/83",
+          "download_ready": true,
+          "chapters": [
+            13
+          ],
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 13 [PdT] - No Oficial.pdf",
           "is_novel_volume": true
         }
       ],
