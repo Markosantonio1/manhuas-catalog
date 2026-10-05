@@ -9,6 +9,7 @@ from datetime import datetime
 from urllib.parse import quote, urljoin, urlparse
 
 import requests
+from curl_cffi import requests as curl_requests   # ← NUEVO: impersona Chrome
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
@@ -44,6 +45,9 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/140.0.0.0 Safari/537.36"
 )
+
+# Versión de Chrome a impersonar con curl_cffi
+IMPERSONATE_TARGET = "chrome120"
 
 
 # ============================================================
@@ -272,6 +276,8 @@ def get_file_page_and_endpoints(
     Abre la página pública del archivo y devuelve:
 
         (URL final de página, [endpoints de descarga])
+
+    Usa curl_cffi para impersonar Chrome real y saltar Cloudflare.
     """
 
     page_url = f"https://buzzheavier.com/{file_id}"
@@ -285,13 +291,14 @@ def get_file_page_and_endpoints(
     }
 
     try:
-        print("    → Abriendo página de BuzzHeavier...")
+        print("    → Abriendo página de BuzzHeavier (con curl_cffi)...")
 
-        response = session.get(
+        response = curl_requests.get(
             page_url,
             headers=headers,
             timeout=HTTP_TIMEOUT,
             allow_redirects=True,
+            impersonate=IMPERSONATE_TARGET,
         )
 
         print(
@@ -326,7 +333,7 @@ def get_file_page_and_endpoints(
 
         return final_page_url, endpoints
 
-    except requests.RequestException as exc:
+    except Exception as exc:
         print(
             f"    ✗ Error cargando página BuzzHeavier: "
             f"{type(exc).__name__}: {exc}"
@@ -353,6 +360,8 @@ def request_direct_link(
 
     Importante: NO seguimos automáticamente redirects. Esto
     evita seguir la publicidad en vez de capturar el enlace.
+
+    También usa curl_cffi para saltar Cloudflare.
     """
 
     headers = {
@@ -364,11 +373,12 @@ def request_direct_link(
     }
 
     try:
-        response = session.get(
+        response = curl_requests.get(
             download_endpoint,
             headers=headers,
             timeout=HTTP_TIMEOUT,
             allow_redirects=False,
+            impersonate=IMPERSONATE_TARGET,
         )
 
         print(
@@ -460,7 +470,7 @@ def request_direct_link(
 
         return None, "sin-enlace-directo"
 
-    except requests.RequestException as exc:
+    except Exception as exc:
         print(
             f"      ✗ Error solicitando /download: "
             f"{type(exc).__name__}: {exc}"
@@ -489,7 +499,11 @@ def get_buzzheavier_direct_url(file_id: str) -> str | None:
         print("    ✗ file_id vacío.")
         return None
 
-    session = requests.Session()
+    # Para curl_cffi necesitamos crear una sesión de curl_cffi
+    try:
+        session = curl_requests.Session(impersonate=IMPERSONATE_TARGET)
+    except Exception:
+        session = requests.Session()
 
     try:
         # ----------------------------------------------------
@@ -569,7 +583,10 @@ def get_buzzheavier_direct_url(file_id: str) -> str | None:
         return None
 
     finally:
-        session.close()
+        try:
+            session.close()
+        except Exception:
+            pass
 
 
 # ============================================================
@@ -596,6 +613,7 @@ def upload_to_buzzheavier(local_path: Path) -> str | None:
             f"Bearer {BUZZHEAVIER_ACCOUNT_ID}"
         )
 
+    # Para la subida usamos requests normal (funciona bien)
     session = requests.Session()
     session.headers.update(headers)
 
@@ -735,7 +753,10 @@ def upload_to_buzzheavier(local_path: Path) -> str | None:
         return None
 
     finally:
-        session.close()
+        try:
+            session.close()
+        except Exception:
+            pass
 
 
 # ============================================================
