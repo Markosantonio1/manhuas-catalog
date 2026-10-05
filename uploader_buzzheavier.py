@@ -4,11 +4,12 @@ import json
 import os
 import re
 import sys
+import subprocess
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import quote
 
-from bhdownloader import get_direct_link_from_id  # Importamos la librería clave
+import requests
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
@@ -64,6 +65,82 @@ def find_packages_without_url(catalog: dict) -> list:
                 if not url or not str(url).strip():
                     pending.append((series, pack))
     return pending
+
+
+# ============================================================
+# SUBIDA A BUZZHEAVIER (obtener ID) Y ENLACE DIRECTO (con CLI)
+# ============================================================
+def upload_to_buzzheavier(local_path: Path) -> str | None:
+    """
+    Sube el archivo a BuzzHeavier y devuelve el ID del archivo
+    (el que se usa luego con bhdownloader).
+    """
+    filename = local_path.name
+    encoded_name = quote(filename)
+    url = f"https://w.buzzheavier.com/{encoded_name}"
+
+    headers = {"User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0"}
+
+    session = requests.Session()
+    session.headers.update(headers)
+
+    try:
+        size_mb = local_path.stat().st_size / (1024 * 1024)
+        print(f"    ↑ Subiendo a BuzzHeavier: {filename} ({size_mb:.1f} MB)")
+
+        with open(local_path, "rb") as f:
+            response = session.put(url, data=f, timeout=900)
+
+        if response.status_code not in (200, 201):
+            print(f"    ✗ Error HTTP {response.status_code}: {response.text[:300]}")
+            return None
+
+        response_data = response.json()
+        # La respuesta tiene la forma: {"code": 201, "data": {"id": "..."}}
+        inner = response_data.get("data", response_data)
+        file_id = inner.get("id")
+
+        if file_id:
+            print(f"    ✓ Archivo subido. ID: {file_id}")
+            return file_id
+        else:
+            print(f"    ✗ No se encontró el ID en la respuesta: {response_data}")
+            return None
+
+    except Exception as exc:
+        print(f"    ✗ Error subiendo: {type(exc).__name__}: {exc}")
+        return None
+    finally:
+        session.close()
+
+
+def get_direct_link(file_id: str) -> str | None:
+    """
+    Ejecuta 'bhdownloader -l <file_id>' y devuelve la URL directa.
+    """
+    try:
+        result = subprocess.run(
+            ["bhdownloader", "-l", file_id],
+            capture_output=True,
+            text=True,
+            timeout=60,
+            check=True,
+        )
+        lines = result.stdout.strip().splitlines()
+        if lines:
+            url = lines[-1].strip()
+            if url.startswith("http"):
+                return url
+        return None
+    except subprocess.CalledProcessError as exc:
+        print(f"    ⚠ bhdownloader falló: {exc}")
+        return None
+    except FileNotFoundError:
+        print("    ⚠ Comando 'bhdownloader' no encontrado. ¿Se instaló?")
+        return None
+    except Exception as exc:
+        print(f"    ⚠ Error ejecutando bhdownloader: {type(exc).__name__}: {exc}")
+        return None
 
 
 # ============================================================
@@ -151,23 +228,19 @@ async def main():
                     pass
             continue
 
-        # --- LA MAGIA DE BHDOWNLOADER ---
-        print(f"    ↑ Subiendo a BuzzHeavier y extrayendo enlace directo...")
-        try:
-            # Usamos la función que extrae el enlace directo, pasándole el ID
-            download_url = get_direct_link_from_id(
-                file_id=message_id,
-                use_uploader=True
-            )
-            if download_url:
-                print(f"    ✓ URL directa obtenida: {download_url}")
-            else:
-                print(f"    ✗ No se pudo extraer la URL directa.")
-                download_url = None
-        except Exception as exc:
-            print(f"    ✗ Error con bhdownloader: {type(exc).__name__}: {exc}")
-            download_url = None
-        # --- FIN DE LA MAGIA ---
+        # 1. Subir el archivo a BuzzHeavier y obtener el ID
+        file_id = upload_to_buzzheavier(local_file)
+        if not file_id:
+            series_stats[series_id]["fail"] += 1
+            fail_count += 1
+            if local_file.exists():
+                try: local_file.unlink()
+                except OSError: pass
+            continue
+
+        # 2. Usar el ID con bhdownloader para obtener el enlace directo
+        print(f"    → Extrayendo enlace directo con bhdownloader...")
+        download_url = get_direct_link(file_id)
 
         if download_url:
             pack["download_url"] = download_url
