@@ -8,7 +8,7 @@ from pathlib import Path
 from datetime import datetime
 from urllib.parse import quote
 
-import requests
+from bhdownloader import get_direct_link_from_id  # Importamos la librería clave
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
@@ -24,8 +24,6 @@ TEMP_DOWNLOAD_DIR = BASE_DIR / "temp_bh_uploads"
 API_ID = int(os.getenv("TELEGRAM_API_ID", "0"))
 API_HASH = os.getenv("TELEGRAM_API_HASH", "")
 TELEGRAM_SESSION_STR = os.getenv("TELEGRAM_SESSION_STR", "").strip()
-
-BUZZHEAVIER_ACCOUNT_ID = os.getenv("BUZZHEAVIER_ACCOUNT_ID", "").strip()
 
 NOTIFY_USERNAME = "@Markosantonio"
 MAIN_CHANNEL = "manhuasgratis"
@@ -66,146 +64,6 @@ def find_packages_without_url(catalog: dict) -> list:
                 if not url or not str(url).strip():
                     pending.append((series, pack))
     return pending
-
-
-# ============================================================
-# SUBIDA A BUZZHEAVIER
-# ============================================================
-def _extract_direct_url_from_page(file_id: str, session: requests.Session) -> str | None:
-    """
-    Obtiene la URL de descarga directa desde la página del archivo.
-    Utiliza el método descubierto por otros devs: simula la petición
-    que la web hace a su propio endpoint /download, obteniendo
-    la URL final desde el encabezado 'Hx-Redirect'.
-    """
-    page_url = f"https://buzzheavier.com/{file_id}"
-    download_endpoint = f"{page_url}/download"
-
-    headers = {
-        "accept": "*/*",
-        "hx-request": "true",
-        "hx-current-url": page_url,
-        "referer": page_url,
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0.0.0 Safari/537.36"
-        ),
-    }
-
-    try:
-        response = session.head(
-            download_endpoint,
-            headers=headers,
-            timeout=30,
-            allow_redirects=False,
-        )
-
-        hx_redirect = response.headers.get("Hx-Redirect")
-
-        if hx_redirect:
-            if hx_redirect.startswith("http"):
-                print(f"    ✓ URL directa (Hx-Redirect): {hx_redirect}")
-                return hx_redirect
-            else:
-                final_url = f"https://buzzheavier.com{hx_redirect}"
-                print(f"    ✓ URL directa (Hx-Redirect relativo): {final_url}")
-                return final_url
-
-        print(f"    ⚠ No se encontró 'Hx-Redirect' (status {response.status_code})")
-        return None
-
-    except Exception as exc:
-        print(f"    ⚠ Error en /download: {type(exc).__name__}: {exc}")
-        return None
-
-
-def upload_to_buzzheavier(local_path: Path) -> str | None:
-    filename = local_path.name
-    encoded_name = quote(filename)
-    url = f"https://w.buzzheavier.com/{encoded_name}"
-
-    headers = {"User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0"}
-    if BUZZHEAVIER_ACCOUNT_ID:
-        headers["Authorization"] = f"Bearer {BUZZHEAVIER_ACCOUNT_ID}"
-
-    session = requests.Session()
-    session.headers.update(headers)
-
-    try:
-        size_mb = local_path.stat().st_size / (1024 * 1024)
-        print(f"    ↑ Subiendo a BuzzHeavier: {filename} ({size_mb:.1f} MB)")
-
-        with open(local_path, "rb") as f:
-            response = session.put(url, data=f, timeout=900)
-
-        if response.status_code not in (200, 201):
-            print(f"    ✗ Error HTTP {response.status_code}: {response.text[:300]}")
-            return None
-
-        # ---- Parsear respuesta (con manejo de estructura anidada) ----
-        file_id = None
-        direct_url = None
-
-        try:
-            response_data = response.json()
-            print(f"    Respuesta: {response_data}")
-
-            inner = response_data
-            if isinstance(response_data, dict) and "data" in response_data:
-                maybe_inner = response_data["data"]
-                if isinstance(maybe_inner, dict):
-                    inner = maybe_inner
-
-            file_id = (
-                inner.get("id")
-                or inner.get("fileId")
-                or inner.get("file_id")
-            )
-            direct_url = (
-                inner.get("downloadUrl")
-                or inner.get("download_url")
-                or inner.get("url")
-                or inner.get("link")
-            )
-
-            if not file_id:
-                file_id = response_data.get("id")
-
-        except json.JSONDecodeError:
-            text = response.text.strip()
-            print(f"    Respuesta no JSON: {text[:200]}")
-            if text.startswith("http"):
-                direct_url = text
-
-        # ---- Devolver URL directa si la tenemos ----
-        if direct_url and "ts.buzzheavier.com" in direct_url:
-            print(f"    ✓ URL directa (de respuesta): {direct_url}")
-            return direct_url
-
-        # ---- Extraer URL directa desde la página (con Hx-Redirect) ----
-        if file_id:
-            print(f"    → ID: {file_id} · Extrayendo link directo...")
-            page_url = _extract_direct_url_from_page(file_id, session)
-            if page_url:
-                return page_url
-
-            fallback = f"https://buzzheavier.com/{file_id}"
-            print(f"    ⚠ Fallback (con publicidad): {fallback}")
-            return fallback
-
-        if direct_url:
-            print(f"    ✓ URL obtenida: {direct_url}")
-            return direct_url
-
-        print(f"    ✗ No se pudo obtener la URL de descarga")
-        return None
-
-    except Exception as exc:
-        print(f"    ✗ Error: {type(exc).__name__}: {exc}")
-        return None
-    finally:
-        session.close()
 
 
 # ============================================================
@@ -293,7 +151,23 @@ async def main():
                     pass
             continue
 
-        download_url = upload_to_buzzheavier(local_file)
+        # --- LA MAGIA DE BHDOWNLOADER ---
+        print(f"    ↑ Subiendo a BuzzHeavier y extrayendo enlace directo...")
+        try:
+            # Usamos la función que extrae el enlace directo, pasándole el ID
+            download_url = get_direct_link_from_id(
+                file_id=message_id,
+                use_uploader=True
+            )
+            if download_url:
+                print(f"    ✓ URL directa obtenida: {download_url}")
+            else:
+                print(f"    ✗ No se pudo extraer la URL directa.")
+                download_url = None
+        except Exception as exc:
+            print(f"    ✗ Error con bhdownloader: {type(exc).__name__}: {exc}")
+            download_url = None
+        # --- FIN DE LA MAGIA ---
 
         if download_url:
             pack["download_url"] = download_url
