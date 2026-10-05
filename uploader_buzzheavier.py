@@ -73,45 +73,50 @@ def find_packages_without_url(catalog: dict) -> list:
 # ============================================================
 def _extract_direct_url_from_page(file_id: str, session: requests.Session) -> str | None:
     """
-    Intenta obtener la URL directa de descarga desde la página del archivo.
-    Prueba múltiples patrones porque el token puede estar en distintos sitios.
+    Obtiene la URL de descarga directa desde la página del archivo.
+    Utiliza el método descubierto por otros devs: simula la petición
+    que la web hace a su propio endpoint /download, obteniendo
+    la URL final desde el encabezado 'Hx-Redirect'.
     """
     page_url = f"https://buzzheavier.com/{file_id}"
+    download_endpoint = f"{page_url}/download"
+
+    headers = {
+        "accept": "*/*",
+        "hx-request": "true",
+        "hx-current-url": page_url,
+        "referer": page_url,
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+    }
+
     try:
-        response = session.get(page_url, timeout=30, allow_redirects=True)
-        if response.status_code != 200:
-            print(f"    ⚠ Página devolvió {response.status_code}")
-            return None
+        response = session.get(
+            download_endpoint,
+            headers=headers,
+            timeout=30,
+            allow_redirects=False,
+        )
 
-        html = response.text
+        hx_redirect = response.headers.get("Hx-Redirect")
 
-        # Patrón 1: URL completa con token
-        patterns = [
-            r'https://ts\.buzzheavier\.com/d/' + re.escape(file_id) + r'(?:\?v=[A-Za-z0-9_\-]+)?',
-            r'https://ts\.buzzheavier\.com/d/[a-zA-Z0-9]+(?:\?v=[A-Za-z0-9_\-]+)?',
-            r'https://ts\.buzzheavier\.com/[^\s"\'<>]+',
-        ]
-        for pattern in patterns:
-            match = re.search(pattern, html)
-            if match:
-                return match.group(0).replace("\\/", "/")
+        if hx_redirect:
+            if hx_redirect.startswith("http"):
+                print(f"    ✓ URL directa (Hx-Redirect): {hx_redirect}")
+                return hx_redirect
+            else:
+                final_url = f"https://buzzheavier.com{hx_redirect}"
+                print(f"    ✓ URL directa (Hx-Redirect relativo): {final_url}")
+                return final_url
 
-        # Patrón 2: campo JSON dentro del HTML
-        json_patterns = [
-            r'"downloadUrl"\s*:\s*"([^"]+)"',
-            r'"download_url"\s*:\s*"([^"]+)"',
-            r'"url"\s*:\s*"(https?://[^"]+\.pdf[^"]*)"',
-        ]
-        for pattern in json_patterns:
-            match = re.search(pattern, html)
-            if match:
-                url = match.group(1).replace("\\/", "/")
-                if url.startswith("http"):
-                    return url
-
+        print(f"    ⚠ No se encontró 'Hx-Redirect' (status {response.status_code})")
         return None
+
     except Exception as exc:
-        print(f"    ⚠ Error extrayendo URL: {type(exc).__name__}: {exc}")
+        print(f"    ⚠ Error en /download: {type(exc).__name__}: {exc}")
         return None
 
 
@@ -146,15 +151,12 @@ def upload_to_buzzheavier(local_path: Path) -> str | None:
             response_data = response.json()
             print(f"    Respuesta: {response_data}")
 
-            # La respuesta puede ser: {"code": 201, "data": {...}}
-            # o directamente: {...}
             inner = response_data
             if isinstance(response_data, dict) and "data" in response_data:
                 maybe_inner = response_data["data"]
                 if isinstance(maybe_inner, dict):
                     inner = maybe_inner
 
-            # Buscar file_id y URL directa
             file_id = (
                 inner.get("id")
                 or inner.get("fileId")
@@ -167,7 +169,6 @@ def upload_to_buzzheavier(local_path: Path) -> str | None:
                 or inner.get("link")
             )
 
-            # Si no encontramos ID pero hay algún campo "id" en la raíz
             if not file_id:
                 file_id = response_data.get("id")
 
@@ -182,20 +183,17 @@ def upload_to_buzzheavier(local_path: Path) -> str | None:
             print(f"    ✓ URL directa (de respuesta): {direct_url}")
             return direct_url
 
-        # ---- Extraer URL directa de la página ----
+        # ---- Extraer URL directa desde la página (con Hx-Redirect) ----
         if file_id:
             print(f"    → ID: {file_id} · Extrayendo link directo...")
             page_url = _extract_direct_url_from_page(file_id, session)
             if page_url:
-                print(f"    ✓ URL directa (de página): {page_url}")
                 return page_url
 
-            # Fallback: URL de la página (con publicidad)
             fallback = f"https://buzzheavier.com/{file_id}"
-            print(f"    ⚠ No se pudo extraer token. Fallback: {fallback}")
+            print(f"    ⚠ Fallback (con publicidad): {fallback}")
             return fallback
 
-        # ---- Último recurso: si tenemos alguna URL ----
         if direct_url:
             print(f"    ✓ URL obtenida: {direct_url}")
             return direct_url
@@ -266,7 +264,10 @@ async def main():
 
         if series_id not in series_stats:
             series_stats[series_id] = {
-                "name": series_name, "success": 0, "fail": 0, "visible": is_visible
+                "name": series_name,
+                "success": 0,
+                "fail": 0,
+                "visible": is_visible,
             }
 
         local_file = TEMP_DOWNLOAD_DIR / sanitize_filename(filename)
@@ -286,8 +287,10 @@ async def main():
             series_stats[series_id]["fail"] += 1
             fail_count += 1
             if local_file.exists():
-                try: local_file.unlink()
-                except OSError: pass
+                try:
+                    local_file.unlink()
+                except OSError:
+                    pass
             continue
 
         download_url = upload_to_buzzheavier(local_file)
@@ -301,8 +304,10 @@ async def main():
             fail_count += 1
 
         try:
-            if local_file.exists(): local_file.unlink()
-        except OSError: pass
+            if local_file.exists():
+                local_file.unlink()
+        except OSError:
+            pass
 
     save_catalog_output(catalog)
 
