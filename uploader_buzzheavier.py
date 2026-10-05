@@ -72,28 +72,46 @@ def find_packages_without_url(catalog: dict) -> list:
 # SUBIDA A BUZZHEAVIER
 # ============================================================
 def _extract_direct_url_from_page(file_id: str, session: requests.Session) -> str | None:
+    """
+    Intenta obtener la URL directa de descarga desde la página del archivo.
+    Prueba múltiples patrones porque el token puede estar en distintos sitios.
+    """
     page_url = f"https://buzzheavier.com/{file_id}"
     try:
-        response = session.get(page_url, timeout=30)
+        response = session.get(page_url, timeout=30, allow_redirects=True)
         if response.status_code != 200:
-            print(f"    ⚠ No se pudo abrir la página ({response.status_code})")
+            print(f"    ⚠ Página devolvió {response.status_code}")
             return None
 
         html = response.text
-        match = re.search(
-            r'https://ts\.buzzheavier\.com/d/[a-zA-Z0-9]+(?:\?v=[A-Za-z0-9_\-]+)?',
-            html
-        )
-        if match:
-            return match.group(0)
 
-        match = re.search(r'https://ts\.buzzheavier\.com/[^\s"\'<>]+', html)
-        if match:
-            return match.group(0)
+        # Patrón 1: URL completa con token
+        patterns = [
+            r'https://ts\.buzzheavier\.com/d/' + re.escape(file_id) + r'(?:\?v=[A-Za-z0-9_\-]+)?',
+            r'https://ts\.buzzheavier\.com/d/[a-zA-Z0-9]+(?:\?v=[A-Za-z0-9_\-]+)?',
+            r'https://ts\.buzzheavier\.com/[^\s"\'<>]+',
+        ]
+        for pattern in patterns:
+            match = re.search(pattern, html)
+            if match:
+                return match.group(0).replace("\\/", "/")
+
+        # Patrón 2: campo JSON dentro del HTML
+        json_patterns = [
+            r'"downloadUrl"\s*:\s*"([^"]+)"',
+            r'"download_url"\s*:\s*"([^"]+)"',
+            r'"url"\s*:\s*"(https?://[^"]+\.pdf[^"]*)"',
+        ]
+        for pattern in json_patterns:
+            match = re.search(pattern, html)
+            if match:
+                url = match.group(1).replace("\\/", "/")
+                if url.startswith("http"):
+                    return url
 
         return None
     except Exception as exc:
-        print(f"    ⚠ Error extrayendo URL directa: {exc}")
+        print(f"    ⚠ Error extrayendo URL: {type(exc).__name__}: {exc}")
         return None
 
 
@@ -120,39 +138,71 @@ def upload_to_buzzheavier(local_path: Path) -> str | None:
             print(f"    ✗ Error HTTP {response.status_code}: {response.text[:300]}")
             return None
 
+        # ---- Parsear respuesta (con manejo de estructura anidada) ----
         file_id = None
         direct_url = None
 
         try:
-            data = response.json()
-            print(f"    Respuesta: {data}")
-            direct_url = (
-                data.get("downloadUrl")
-                or data.get("download_url")
-                or data.get("url")
-                or data.get("link")
+            response_data = response.json()
+            print(f"    Respuesta: {response_data}")
+
+            # La respuesta puede ser: {"code": 201, "data": {...}}
+            # o directamente: {...}
+            inner = response_data
+            if isinstance(response_data, dict) and "data" in response_data:
+                maybe_inner = response_data["data"]
+                if isinstance(maybe_inner, dict):
+                    inner = maybe_inner
+
+            # Buscar file_id y URL directa
+            file_id = (
+                inner.get("id")
+                or inner.get("fileId")
+                or inner.get("file_id")
             )
-            file_id = data.get("id") or data.get("fileId")
+            direct_url = (
+                inner.get("downloadUrl")
+                or inner.get("download_url")
+                or inner.get("url")
+                or inner.get("link")
+            )
+
+            # Si no encontramos ID pero hay algún campo "id" en la raíz
+            if not file_id:
+                file_id = response_data.get("id")
+
         except json.JSONDecodeError:
             text = response.text.strip()
             print(f"    Respuesta no JSON: {text[:200]}")
             if text.startswith("http"):
                 direct_url = text
 
+        # ---- Devolver URL directa si la tenemos ----
         if direct_url and "ts.buzzheavier.com" in direct_url:
+            print(f"    ✓ URL directa (de respuesta): {direct_url}")
             return direct_url
 
+        # ---- Extraer URL directa de la página ----
         if file_id:
             print(f"    → ID: {file_id} · Extrayendo link directo...")
-            direct_url = _extract_direct_url_from_page(file_id, session)
-            if direct_url:
-                return direct_url
-            return f"https://buzzheavier.com/{file_id}"
+            page_url = _extract_direct_url_from_page(file_id, session)
+            if page_url:
+                print(f"    ✓ URL directa (de página): {page_url}")
+                return page_url
 
+            # Fallback: URL de la página (con publicidad)
+            fallback = f"https://buzzheavier.com/{file_id}"
+            print(f"    ⚠ No se pudo extraer token. Fallback: {fallback}")
+            return fallback
+
+        # ---- Último recurso: si tenemos alguna URL ----
         if direct_url:
+            print(f"    ✓ URL obtenida: {direct_url}")
             return direct_url
 
+        print(f"    ✗ No se pudo obtener la URL de descarga")
         return None
+
     except Exception as exc:
         print(f"    ✗ Error: {type(exc).__name__}: {exc}")
         return None
@@ -173,7 +223,6 @@ async def main():
 
     TEMP_DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Crear cliente con StringSession (portable, sin archivos)
     client = TelegramClient(
         StringSession(TELEGRAM_SESSION_STR),
         API_ID,
