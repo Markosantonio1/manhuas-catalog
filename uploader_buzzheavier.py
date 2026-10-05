@@ -94,7 +94,7 @@ def _extract_direct_url_from_page(file_id: str, session: requests.Session) -> st
     }
 
     try:
-        response = session.get(
+        response = session.head(
             download_endpoint,
             headers=headers,
             timeout=30,
