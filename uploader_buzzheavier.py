@@ -28,7 +28,7 @@ TELEGRAM_SESSION_STR = os.getenv("TELEGRAM_SESSION_STR", "").strip()
 BUZZHEAVIER_ACCOUNT_ID = os.getenv("BUZZHEAVIER_ACCOUNT_ID", "").strip()
 
 NOTIFY_USERNAME = "@Markosantonio"
-MAIN_CHANNEL_ID = 3003829878
+MAIN_CHANNEL = "manhuasgratis"
 
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
@@ -224,7 +224,7 @@ async def main():
 
         try:
             print(f"    ↓ Descargando de Telegram...")
-            message = await client.get_messages(MAIN_CHANNEL_ID, ids=message_id)
+            message = await client.get_messages(MAIN_CHANNEL, ids=message_id)
             if not message or not message.file:
                 raise ValueError(f"Mensaje {message_id} sin archivo.")
             await client.download_media(message, file=str(local_file))
