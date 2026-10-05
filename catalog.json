@@ -1,15 +1,1268 @@
 {
-  "version": 2,
-  "schema": "manhuas-catalog-v2",
-  "updated_at": "2026-10-04T13:35:10.845642+00:00",
-  "source": {
-    "type": "telegram",
-    "channel": "manhuasgratis",
-    "portadas_channel": "4187372773",
-    "novels_channel": "-1004334091126"
-  },
+  "novels": [
+    {
+      "added_at": "2026-10-03T19:47:35+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/berserk_of_gluttony.jpg",
+      "cover_message_id": 18,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/18",
+      "featured": true,
+      "genres": [],
+      "hashtag": "#Berserk_of_Gluttony",
+      "id": "berserk_of_gluttony",
+      "latest_chapter": 8,
+      "name": "Berserk of Gluttony",
+      "package_count": 8,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 01] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 01] Berserk of Gluttony.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 21,
+          "name": "Volumen 1",
+          "size": 8199493,
+          "telegram_link": "https://t.me/c/-1004334091126/21"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 02] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 02] Berserk of Gluttony.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 22,
+          "name": "Volumen 2",
+          "size": 8506710,
+          "telegram_link": "https://t.me/c/-1004334091126/22"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 03] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 03] Berserk of Gluttony.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 23,
+          "name": "Volumen 3",
+          "size": 7757326,
+          "telegram_link": "https://t.me/c/-1004334091126/23"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 04] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 04] Berserk of Gluttony.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 24,
+          "name": "Volumen 4",
+          "size": 7531076,
+          "telegram_link": "https://t.me/c/-1004334091126/24"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 05] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 05] Berserk of Gluttony.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 25,
+          "name": "Volumen 5",
+          "size": 8133706,
+          "telegram_link": "https://t.me/c/-1004334091126/25"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 06] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 06] Berserk of Gluttony.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 26,
+          "name": "Volumen 6",
+          "size": 6953598,
+          "telegram_link": "https://t.me/c/-1004334091126/26"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 07] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 07] Berserk of Gluttony.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 27,
+          "name": "Volumen 7",
+          "size": 6788885,
+          "telegram_link": "https://t.me/c/-1004334091126/27"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T19:47:35+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 08] Berserk of Gluttony.pdf",
+          "filename": "[Volumen 08] Berserk of Gluttony.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 28,
+          "name": "Volumen 8",
+          "size": 9202811,
+          "telegram_link": "https://t.me/c/-1004334091126/28"
+        }
+      ],
+      "synopsis": "Sinopsis...\nLa trama se centra en los grandes caballeros santos y las distintas responsabilidades de estos. nuestro héroe es un chico solitario cual es maltratado y se odia a si mismo por su habilidad (gula/hambre) y su explicación es \"te hace tener hambre\".\nEl único motivo de el vivir es su amiga Roxi.\nLa historia se desarrolla más adelante cuando fate está cuidando la puerta de la ciudad de los caballeros cuando descubre el secreto detrás de su habilidad",
+      "visible": true
+    },
+    {
+      "added_at": "2026-10-03T19:21:18+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/kage_no_jitsuryokusha.jpg",
+      "cover_message_id": 10,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/10",
+      "featured": false,
+      "genres": [],
+      "hashtag": "#Kage_No_Jitsuryokusha",
+      "id": "kage_no_jitsuryokusha",
+      "latest_chapter": 6,
+      "name": "Kage No Jitsuryokusha",
+      "package_count": 6,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-03T19:21:18+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 01] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "filename": "[Volumen 01] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 12,
+          "name": "Volumen 1",
+          "size": 5391575,
+          "telegram_link": "https://t.me/c/-1004334091126/12"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-03T19:21:18+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 02] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "filename": "[Volumen 02] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 13,
+          "name": "Volumen 2",
+          "size": 6454479,
+          "telegram_link": "https://t.me/c/-1004334091126/13"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-03T19:21:18+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 03] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "filename": "[Volumen 03] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 14,
+          "name": "Volumen 3",
+          "size": 7546514,
+          "telegram_link": "https://t.me/c/-1004334091126/14"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-03T19:21:18+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 04] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "filename": "[Volumen 04] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 15,
+          "name": "Volumen 4",
+          "size": 7705247,
+          "telegram_link": "https://t.me/c/-1004334091126/15"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-03T19:21:18+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 05] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "filename": "[Volumen 05] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 16,
+          "name": "Volumen 5",
+          "size": 9914295,
+          "telegram_link": "https://t.me/c/-1004334091126/16"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-03T19:21:18+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 06] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "filename": "[Volumen 06] • Kage no Jitsuryokusha ni Naritakute.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 17,
+          "name": "Volumen 6",
+          "size": 9673853,
+          "telegram_link": "https://t.me/c/-1004334091126/17"
+        }
+      ],
+      "synopsis": "Sinopsis...\nTal cual como todos adoraban héroes en su niñez, cierto adolescente adoraba los poderes que se esconden en las sombras. Tras haber ocultado su fuerza y viviendo la vida mediocre de un mob durante el día y entrenando descontroladamente por la noche, él finalmente reencarna en un mundo diferente y gana el poder definitivo. El adolescente que solo juega a ser una eminencia en las sombras, sus subordinados confusos, y una gigante organización en las sombras que es pisoteada… Esta es la historia de un adolescente que adoraba esos poderes en las sombras y que posiblemente llegue a reinar en las sombras de otro mundo.",
+      "visible": true
+    },
+    {
+      "added_at": "2026-10-03T23:44:20+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/mushoku_tensei.jpg",
+      "cover_message_id": 29,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/29",
+      "featured": false,
+      "genres": [],
+      "hashtag": "#Mushoku_Tensei",
+      "id": "mushoku_tensei",
+      "latest_chapter": 25,
+      "name": "Mushoku Tensei",
+      "package_count": 25,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 01 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 01 [SC].pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 31,
+          "name": "Volumen 1",
+          "size": 6177348,
+          "telegram_link": "https://t.me/c/-1004334091126/31"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 02 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 02 [SC].pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 32,
+          "name": "Volumen 2",
+          "size": 5716834,
+          "telegram_link": "https://t.me/c/-1004334091126/32"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 03 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 03 [SC].pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 33,
+          "name": "Volumen 3",
+          "size": 5226761,
+          "telegram_link": "https://t.me/c/-1004334091126/33"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 04 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 04 [SC].pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 34,
+          "name": "Volumen 4",
+          "size": 6132219,
+          "telegram_link": "https://t.me/c/-1004334091126/34"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 05 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 05 [SC].pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 35,
+          "name": "Volumen 5",
+          "size": 6417589,
+          "telegram_link": "https://t.me/c/-1004334091126/35"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 06 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 06 [SC].pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 36,
+          "name": "Volumen 6",
+          "size": 4591370,
+          "telegram_link": "https://t.me/c/-1004334091126/36"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 07 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 07 [SC].pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 37,
+          "name": "Volumen 7",
+          "size": 5357937,
+          "telegram_link": "https://t.me/c/-1004334091126/37"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 08 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 08 [SC].pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 38,
+          "name": "Volumen 8",
+          "size": 5127129,
+          "telegram_link": "https://t.me/c/-1004334091126/38"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 09 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 09 [SC].pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 39,
+          "name": "Volumen 9",
+          "size": 5045642,
+          "telegram_link": "https://t.me/c/-1004334091126/39"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 10 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 10 [SC].pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 40,
+          "name": "Volumen 10",
+          "size": 4503580,
+          "telegram_link": "https://t.me/c/-1004334091126/40"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 11 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 11 [SC].pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 41,
+          "name": "Volumen 11",
+          "size": 5044648,
+          "telegram_link": "https://t.me/c/-1004334091126/41"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 12 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 12 [SC].pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 42,
+          "name": "Volumen 12",
+          "size": 5174360,
+          "telegram_link": "https://t.me/c/-1004334091126/42"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 13 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 13 [SC].pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 43,
+          "name": "Volumen 13",
+          "size": 5482272,
+          "telegram_link": "https://t.me/c/-1004334091126/43"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 14 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 14 [SC].pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 44,
+          "name": "Volumen 14",
+          "size": 4711487,
+          "telegram_link": "https://t.me/c/-1004334091126/44"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 15 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 15 [SC].pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 45,
+          "name": "Volumen 15",
+          "size": 5898098,
+          "telegram_link": "https://t.me/c/-1004334091126/45"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 16 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 16 [SC].pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 46,
+          "name": "Volumen 16",
+          "size": 4677469,
+          "telegram_link": "https://t.me/c/-1004334091126/46"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 17 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 17 [SC].pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 47,
+          "name": "Volumen 17",
+          "size": 5087367,
+          "telegram_link": "https://t.me/c/-1004334091126/47"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            18
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 18 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 18 [SC].pdf",
+          "first": 18,
+          "is_novel_volume": true,
+          "last": 18,
+          "message_id": 48,
+          "name": "Volumen 18",
+          "size": 5014651,
+          "telegram_link": "https://t.me/c/-1004334091126/48"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            19
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 19 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 19 [SC].pdf",
+          "first": 19,
+          "is_novel_volume": true,
+          "last": 19,
+          "message_id": 49,
+          "name": "Volumen 19",
+          "size": 4654765,
+          "telegram_link": "https://t.me/c/-1004334091126/49"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            20
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 20 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 20 [SC].pdf",
+          "first": 20,
+          "is_novel_volume": true,
+          "last": 20,
+          "message_id": 50,
+          "name": "Volumen 20",
+          "size": 5021702,
+          "telegram_link": "https://t.me/c/-1004334091126/50"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 21 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 21 [SC].pdf",
+          "first": 21,
+          "is_novel_volume": true,
+          "last": 21,
+          "message_id": 51,
+          "name": "Volumen 21",
+          "size": 4470259,
+          "telegram_link": "https://t.me/c/-1004334091126/51"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 22 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 22 [SC].pdf",
+          "first": 22,
+          "is_novel_volume": true,
+          "last": 22,
+          "message_id": 52,
+          "name": "Volumen 22",
+          "size": 4520690,
+          "telegram_link": "https://t.me/c/-1004334091126/52"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 23 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 23 [SC].pdf",
+          "first": 23,
+          "is_novel_volume": true,
+          "last": 23,
+          "message_id": 53,
+          "name": "Volumen 23",
+          "size": 4360567,
+          "telegram_link": "https://t.me/c/-1004334091126/53"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            24
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 24 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 24 [SC].pdf",
+          "first": 24,
+          "is_novel_volume": true,
+          "last": 24,
+          "message_id": 54,
+          "name": "Volumen 24",
+          "size": 4034570,
+          "telegram_link": "https://t.me/c/-1004334091126/54"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            25
+          ],
+          "date": "2026-10-03T23:44:20+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 25 [SC].pdf",
+          "filename": "[RVN] Mushoku Tensei - Volumen 25 [SC].pdf",
+          "first": 25,
+          "is_novel_volume": true,
+          "last": 25,
+          "message_id": 55,
+          "name": "Volumen 25",
+          "size": 5773491,
+          "telegram_link": "https://t.me/c/-1004334091126/55"
+        }
+      ],
+      "synopsis": "📛⚜ Sinopsis...\n¡La muerte es solo el comienzo!\nDespués de ser echado de casa por su familia y terminar vagando por las calles, un hombre desempleado y aislado de 34 años piensa que ha caído hasta el fondo—¡pero justo es golpeado y asesinado por un camión a toda velocidad! Despertando para encontrarse a sí mismo renacido como un bebé en un mundo de espadas y magia, pero con los recuerdos de su vida anterior intactos, Rudeus Greyrat está determinado a no repetir sus errores pasados. ¡Él va a sacar el mejor provecho de esta reencarnación mientras emprende la aventura de vivir una segunda vida!",
+      "visible": true
+    },
+    {
+      "added_at": "2026-10-03T17:18:05+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/oredakehairerukakushidungeon.jpg",
+      "cover_message_id": 2,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/2",
+      "featured": false,
+      "genres": [],
+      "hashtag": "#OredakeHaireruKakushiDungeon",
+      "id": "oredakehairerukakushidungeon",
+      "latest_chapter": 5,
+      "name": "OredakeHaireruKakushiDungeon",
+      "package_count": 5,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 01.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 01.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 5,
+          "name": "Volumen 1",
+          "size": 8557908,
+          "telegram_link": "https://t.me/c/-1004334091126/5"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 6,
+          "name": "Volumen 2",
+          "size": 8906601,
+          "telegram_link": "https://t.me/c/-1004334091126/6"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 7,
+          "name": "Volumen 3",
+          "size": 8329192,
+          "telegram_link": "https://t.me/c/-1004334091126/7"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 8,
+          "name": "Volumen 4",
+          "size": 6397940,
+          "telegram_link": "https://t.me/c/-1004334091126/8"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-03T17:18:05+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
+          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 9,
+          "name": "Volumen 5",
+          "size": 5162745,
+          "telegram_link": "https://t.me/c/-1004334091126/9"
+        }
+      ],
+      "synopsis": "Noir es hijo de un noble con muy poca fortuna, pero poseedor de un raro poder: comunicarse con un misterioso sabio, aunque esto le ocasione dolores de cabeza. Siguiendo el consejo del sabio, Noir encuentra una mazmorra secreta llena de extrañas criaturas y objetos mágicos. Allí, Noir entrenará, ganando experiencia y riqueza, hasta que tenga poder suficiente para cambiar su destino",
+      "visible": true
+    },
+    {
+      "added_at": "2026-10-03T23:48:23+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_beginning_after_the_end.jpg",
+      "cover_message_id": 56,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/56",
+      "featured": false,
+      "genres": [],
+      "hashtag": "#The_Beginning_After_The_End",
+      "id": "the_beginning_after_the_end",
+      "latest_chapter": 11,
+      "name": "The Beginning After The End",
+      "package_count": 11,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-03T23:48:23+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 01 v2.pdf",
+          "filename": "The Beginning After The End - Libro 01 v2.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 58,
+          "name": "Volumen 1",
+          "size": 1064903,
+          "telegram_link": "https://t.me/c/-1004334091126/58"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-03T23:48:23+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 02 v2.pdf",
+          "filename": "The Beginning After The End - Libro 02 v2.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 59,
+          "name": "Volumen 2",
+          "size": 1182459,
+          "telegram_link": "https://t.me/c/-1004334091126/59"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 03 v2.pdf",
+          "filename": "The Beginning After The End - Libro 03 v2.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 60,
+          "name": "Volumen 3",
+          "size": 1599982,
+          "telegram_link": "https://t.me/c/-1004334091126/60"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 04 v2.pdf",
+          "filename": "The Beginning After The End - Libro 04 v2.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 61,
+          "name": "Volumen 4",
+          "size": 1021464,
+          "telegram_link": "https://t.me/c/-1004334091126/61"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 05 v2.pdf",
+          "filename": "The Beginning After The End - Libro 05 v2.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 62,
+          "name": "Volumen 5",
+          "size": 1963273,
+          "telegram_link": "https://t.me/c/-1004334091126/62"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 06 v2.pdf",
+          "filename": "The Beginning After The End - Libro 06 v2.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 63,
+          "name": "Volumen 6",
+          "size": 2584935,
+          "telegram_link": "https://t.me/c/-1004334091126/63"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 07 v2.pdf",
+          "filename": "The Beginning After The End - Libro 07 v2.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 64,
+          "name": "Volumen 7",
+          "size": 2112625,
+          "telegram_link": "https://t.me/c/-1004334091126/64"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 08 v2.pdf",
+          "filename": "The Beginning After The End - Libro 08 v2.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 65,
+          "name": "Volumen 8",
+          "size": 2812766,
+          "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 08.5 v1.pdf",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 09 v1.pdf",
+          "filename": "The Beginning After The End - Libro 09 v1.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 67,
+          "name": "Volumen 9",
+          "size": 2763615,
+          "telegram_link": "https://t.me/c/-1004334091126/67"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 10 v1.pdf",
+          "filename": "The Beginning After The End - Libro 10 v1.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 68,
+          "name": "Volumen 10",
+          "size": 3152946,
+          "telegram_link": "https://t.me/c/-1004334091126/68"
+        }
+      ],
+      "synopsis": "📛⚜ Sinópsis...\nEl Rey Grey tiene una fuerza, riqueza y prestigio incomparables en un mundo gobernado a través de la habilidad marcial. Sin embargo, la soledad permanece muy cerca de aquellos con gran poder. Bajo el glamuroso exterior de un poderoso rey se esconde el caparazón del hombre, carente de propósito y voluntad.Reencarnado en un nuevo mundo lleno de magia y monstruos, el rey tiene una segunda oportunidad para revivir su vida. Sin embargo, corregir los errores de su pasado no será su único desafío.",
+      "visible": true
+    },
+    {
+      "added_at": "2026-10-04T13:07:24+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_great_cleric.jpg",
+      "cover_message_id": 69,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/69",
+      "featured": false,
+      "genres": [],
+      "hashtag": "#The_Great_Cleric",
+      "id": "the_great_cleric",
+      "latest_chapter": 13,
+      "name": "The Great Cleric",
+      "package_count": 13,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-04T13:07:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 01 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 01 [PdT].pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 71,
+          "name": "Volumen 1",
+          "size": 3313687,
+          "telegram_link": "https://t.me/c/-1004334091126/71"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-04T13:07:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 02 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 02 [PdT].pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 72,
+          "name": "Volumen 2",
+          "size": 6786021,
+          "telegram_link": "https://t.me/c/-1004334091126/72"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-04T13:07:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 03 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 03 [PdT].pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 73,
+          "name": "Volumen 3",
+          "size": 3995159,
+          "telegram_link": "https://t.me/c/-1004334091126/73"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-04T13:07:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 04 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 04 [PdT].pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 74,
+          "name": "Volumen 4",
+          "size": 4857427,
+          "telegram_link": "https://t.me/c/-1004334091126/74"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-04T13:07:24+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 05 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 05 [PdT].pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 75,
+          "name": "Volumen 5",
+          "size": 4518805,
+          "telegram_link": "https://t.me/c/-1004334091126/75"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 06 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 06 [PdT].pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 76,
+          "name": "Volumen 6",
+          "size": 7104958,
+          "telegram_link": "https://t.me/c/-1004334091126/76"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 07 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 07 [PdT].pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 77,
+          "name": "Volumen 7",
+          "size": 8254368,
+          "telegram_link": "https://t.me/c/-1004334091126/77"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 08 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 08 [PdT].pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 78,
+          "name": "Volumen 8",
+          "size": 4708157,
+          "telegram_link": "https://t.me/c/-1004334091126/78"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 09 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 09 [PdT].pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 79,
+          "name": "Volumen 9",
+          "size": 12755209,
+          "telegram_link": "https://t.me/c/-1004334091126/79"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 10 [PdT].pdf",
+          "filename": "The Great Cleric - Volumen 10 [PdT].pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 80,
+          "name": "Volumen 10",
+          "size": 4911781,
+          "telegram_link": "https://t.me/c/-1004334091126/80"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 11 [PdT] - No Oficial.pdf",
+          "filename": "The Great Cleric - Volumen 11 [PdT] - No Oficial.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 81,
+          "name": "Volumen 11",
+          "size": 9696885,
+          "telegram_link": "https://t.me/c/-1004334091126/81"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 12 [PdT] - No Oficial.pdf",
+          "filename": "The Great Cleric - Volumen 12 [PdT] - No Oficial.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 82,
+          "name": "Volumen 12",
+          "size": 9696885,
+          "telegram_link": "https://t.me/c/-1004334091126/82"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-04T13:07:25+00:00",
+          "download_ready": true,
+          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 13 [PdT] - No Oficial.pdf",
+          "filename": "The Great Cleric - Volumen 13 [PdT] - No Oficial.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 83,
+          "name": "Volumen 13",
+          "size": 11989914,
+          "telegram_link": "https://t.me/c/-1004334091126/83"
+        }
+      ],
+      "synopsis": "✔️ Género: Acción, Artes marciales, Aventura, Comedia, Fantasía, Misterio, Recuentos de la vida, Shounen.\n⚜️📛 Sinopsis...\nCierto día, el Dios del Destino de la Tierra y el Dios Supremo de Galdardia hicieron una apuesta.\nEl Dios del Destino perdió, y eligió diez almas mediocres a las cuales entregó como premio.\nA esas diez almas, el Dios Principal de Galdardia les entregó nuevos contenedores.\nY entre esas almas mediocres había un asalariado que luchó contra su propio destino mortal.\n¿Cuál será el futuro de este hombre?.",
+      "visible": true
+    }
+  ],
+  "schema": "manhuas-catalog-v3",
   "series": [
     {
+      "added_at": null,
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/dominio_absoluto_del_nivel_0.jpg",
       "cover_message_id": 4,
       "cover_telegram_link": "https://t.me/c/4187372773/4",
@@ -307,28 +1560,19 @@
       "visible": false
     },
     {
-      "id": "i_am_the_sorcerer_king",
-      "name": "I Am the Sorcerer King",
-      "hashtag": "#I_Am_the_Sorcerer_King",
+      "added_at": "2026-09-19T22:04:32+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/i_am_the_sorcerer_king.jpg",
       "cover_message_id": 8,
       "cover_telegram_link": "https://t.me/c/4187372773/8",
-      "synopsis": "mago reencarnado",
       "genres": [],
+      "hashtag": "#I_Am_the_Sorcerer_King",
+      "id": "i_am_the_sorcerer_king",
       "latest_chapter": 143,
+      "name": "I Am the Sorcerer King",
       "package_count": 11,
       "packages": [
         {
-          "name": "1-21",
-          "first": 1,
-          "last": 21,
           "channel_id": 3003829878,
-          "message_id": 4591,
-          "filename": "[01-21] I Am The Sorcerer King.pdf",
-          "size": 106141241,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4591",
-          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -352,19 +1596,19 @@
             20,
             21
           ],
-          "download_url": "https://ts.buzzheavier.com/d/km28ysmdgmwy?v=b5LQDCdGu5lvI9_7jK9n9k-2ThT9xZOpIJiCRsdkn02kiXX_qujMo9vEeNy3Bzu68LvD5NVazi_Lw4I0M173BllvGAf8eeZr1gzDA35MeSvk2fMNbOGMJpkDlE5xEVCqOnSYe52gvlO31KZMMOSLpps1gHZkK77i5hYqDsInykQyWFgiaiBYgPniB8pe6ALaIes1DfKfygh_"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/km28ysmdgmwy?v=b5LQDCdGu5lvI9_7jK9n9k-2ThT9xZOpIJiCRsdkn02kiXX_qujMo9vEeNy3Bzu68LvD5NVazi_Lw4I0M173BllvGAf8eeZr1gzDA35MeSvk2fMNbOGMJpkDlE5xEVCqOnSYe52gvlO31KZMMOSLpps1gHZkK77i5hYqDsInykQyWFgiaiBYgPniB8pe6ALaIes1DfKfygh_",
+          "filename": "[01-21] I Am The Sorcerer King.pdf",
+          "first": 1,
+          "last": 21,
+          "message_id": 4591,
+          "name": "1-21",
+          "size": 106141241,
+          "telegram_link": "https://t.me/manhuasgratis/4591"
         },
         {
-          "name": "22-30",
-          "first": 22,
-          "last": 30,
           "channel_id": 3003829878,
-          "message_id": 4592,
-          "filename": "[22-30] I Am The Sorcerer King.pdf",
-          "size": 59830792,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4592",
-          "download_ready": true,
           "chapters": [
             22,
             23,
@@ -376,19 +1620,19 @@
             29,
             30
           ],
-          "download_url": "https://ts.buzzheavier.com/d/3psgepi71dlw?v=cBobohOTRwCt7G_7fMBv8bmoIlPoFx7t8-r9V_f2mw8qq4_fyikK4fZsTh7DhOxUgzep4L753LD7IK5CF-6lJ2gg-b-o0xUmgMjcNyieXEVU6GqX0IJNarcwwl4rZq8IY5vy-ziNzPXLPjQz6XQsTD5WmQlNTMFNjFOxm5meXfJM4WntNCqm7DTXw9587C4RwO74eXISPaAu"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/3psgepi71dlw?v=cBobohOTRwCt7G_7fMBv8bmoIlPoFx7t8-r9V_f2mw8qq4_fyikK4fZsTh7DhOxUgzep4L753LD7IK5CF-6lJ2gg-b-o0xUmgMjcNyieXEVU6GqX0IJNarcwwl4rZq8IY5vy-ziNzPXLPjQz6XQsTD5WmQlNTMFNjFOxm5meXfJM4WntNCqm7DTXw9587C4RwO74eXISPaAu",
+          "filename": "[22-30] I Am The Sorcerer King.pdf",
+          "first": 22,
+          "last": 30,
+          "message_id": 4592,
+          "name": "22-30",
+          "size": 59830792,
+          "telegram_link": "https://t.me/manhuasgratis/4592"
         },
         {
-          "name": "31-40",
-          "first": 31,
-          "last": 40,
           "channel_id": 3003829878,
-          "message_id": 4593,
-          "filename": "[31-40] I Am The Sorcerer King.pdf",
-          "size": 67260117,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4593",
-          "download_ready": true,
           "chapters": [
             31,
             32,
@@ -401,19 +1645,19 @@
             39,
             40
           ],
-          "download_url": "https://ts.buzzheavier.com/d/uxi67z0dj2sj?v=euTC72so7f6C3tLYHv-1i7gGLpMCWsvsHBqSGGv3_QDELcafPQeZfs3H60Tg64rQr309neeFjkx64HrfBWPIvR83xvxgsBfGoj-YM-ftesL2E69hrsj7Nw9fVMhLdPQs6yMTs7UzV-BJBG_xA8CxVF-UiEqGGeceQTQEEYAvisDqMOmGLpHBpmdoXrx71_nSGTbFr6dQQQs_"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/uxi67z0dj2sj?v=euTC72so7f6C3tLYHv-1i7gGLpMCWsvsHBqSGGv3_QDELcafPQeZfs3H60Tg64rQr309neeFjkx64HrfBWPIvR83xvxgsBfGoj-YM-ftesL2E69hrsj7Nw9fVMhLdPQs6yMTs7UzV-BJBG_xA8CxVF-UiEqGGeceQTQEEYAvisDqMOmGLpHBpmdoXrx71_nSGTbFr6dQQQs_",
+          "filename": "[31-40] I Am The Sorcerer King.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4593,
+          "name": "31-40",
+          "size": 67260117,
+          "telegram_link": "https://t.me/manhuasgratis/4593"
         },
         {
-          "name": "41-49",
-          "first": 41,
-          "last": 49,
           "channel_id": 3003829878,
-          "message_id": 4594,
-          "filename": "[41-49] I Am The Sorcerer King.pdf",
-          "size": 39250992,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4594",
-          "download_ready": true,
           "chapters": [
             41,
             42,
@@ -425,19 +1669,19 @@
             48,
             49
           ],
-          "download_url": "https://ts.buzzheavier.com/d/pseer9vc34ld?v=oUU6-1slbF7nyuuXnaMcwS4rBpMfgCY3JwM_wC_8whmGJHMUGHImWM9gl8VFGfAGVrJwDh33Q2bvl-GZn8TEfNnK9GNPVpIFvstNYajUYosGsfrWh9rUuETl-XiOKHKo65rfoLNKEipX5nwK3aYEypkEDjcMoiex_WcUFVnyjUycU5Xggz7oLLnwpcj_JV96TDMdYJve4I65"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/pseer9vc34ld?v=oUU6-1slbF7nyuuXnaMcwS4rBpMfgCY3JwM_wC_8whmGJHMUGHImWM9gl8VFGfAGVrJwDh33Q2bvl-GZn8TEfNnK9GNPVpIFvstNYajUYosGsfrWh9rUuETl-XiOKHKo65rfoLNKEipX5nwK3aYEypkEDjcMoiex_WcUFVnyjUycU5Xggz7oLLnwpcj_JV96TDMdYJve4I65",
+          "filename": "[41-49] I Am The Sorcerer King.pdf",
+          "first": 41,
+          "last": 49,
+          "message_id": 4594,
+          "name": "41-49",
+          "size": 39250992,
+          "telegram_link": "https://t.me/manhuasgratis/4594"
         },
         {
-          "name": "50-60",
-          "first": 50,
-          "last": 60,
           "channel_id": 3003829878,
-          "message_id": 4595,
-          "filename": "[50-60] I Am The Sorcerer King.pdf",
-          "size": 60142072,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4595",
-          "download_ready": true,
           "chapters": [
             50,
             51,
@@ -451,19 +1695,19 @@
             59,
             60
           ],
-          "download_url": "https://ts.buzzheavier.com/d/1n1s81uiur06?v=o3y9jLHBeGWw-BFCemqD3gZuU8Ag_PJnl-Ba60TGuI0HSuFczxJJXvtAwCo9eHm2G5x0KnpLJiiNvszss65SfdbypWM2y9E2Hdqke78bkvVDEg2VYZdvn03OUNHzrmZG1nRai63c55inD2Pgkb7VOQVx6K6RGsQ9hJAiZtDP3M0bjYZfjQK1-A1fcTvmh7PMf_ukMLJk40cE"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/1n1s81uiur06?v=o3y9jLHBeGWw-BFCemqD3gZuU8Ag_PJnl-Ba60TGuI0HSuFczxJJXvtAwCo9eHm2G5x0KnpLJiiNvszss65SfdbypWM2y9E2Hdqke78bkvVDEg2VYZdvn03OUNHzrmZG1nRai63c55inD2Pgkb7VOQVx6K6RGsQ9hJAiZtDP3M0bjYZfjQK1-A1fcTvmh7PMf_ukMLJk40cE",
+          "filename": "[50-60] I Am The Sorcerer King.pdf",
+          "first": 50,
+          "last": 60,
+          "message_id": 4595,
+          "name": "50-60",
+          "size": 60142072,
+          "telegram_link": "https://t.me/manhuasgratis/4595"
         },
         {
-          "name": "61-80",
-          "first": 61,
-          "last": 80,
           "channel_id": 3003829878,
-          "message_id": 4596,
-          "filename": "[61-80] I Am The Sorcerer King.pdf",
-          "size": 95496419,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4596",
-          "download_ready": true,
           "chapters": [
             61,
             62,
@@ -486,19 +1730,19 @@
             79,
             80
           ],
-          "download_url": "https://ts.buzzheavier.com/d/d0qzzjdz1idu?v=uYVyJ4yni0VpwstDKyfz6-N4VGuSIwjlbEJY9dcg8cMg230t8DvyMnjDU5Q3BorFI_k2cyS_elMTj49LXd4D1jNvEY0Jd3eFTFJ_lJhLtN3DCPuI6c-NAhwHqTmvWkhLKpX-gifz-bBRR5EbeZ4Smgg9OgXwJ4BHZ-IUhbSYTmKjkLmawiTSqx0OWkGO10QCRggAro6TcqvW"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/d0qzzjdz1idu?v=uYVyJ4yni0VpwstDKyfz6-N4VGuSIwjlbEJY9dcg8cMg230t8DvyMnjDU5Q3BorFI_k2cyS_elMTj49LXd4D1jNvEY0Jd3eFTFJ_lJhLtN3DCPuI6c-NAhwHqTmvWkhLKpX-gifz-bBRR5EbeZ4Smgg9OgXwJ4BHZ-IUhbSYTmKjkLmawiTSqx0OWkGO10QCRggAro6TcqvW",
+          "filename": "[61-80] I Am The Sorcerer King.pdf",
+          "first": 61,
+          "last": 80,
+          "message_id": 4596,
+          "name": "61-80",
+          "size": 95496419,
+          "telegram_link": "https://t.me/manhuasgratis/4596"
         },
         {
-          "name": "81-90",
-          "first": 81,
-          "last": 90,
           "channel_id": 3003829878,
-          "message_id": 4597,
-          "filename": "[81-90] I Am The Sorcerer King.pdf",
-          "size": 59739013,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4597",
-          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -511,19 +1755,19 @@
             89,
             90
           ],
-          "download_url": "https://ts.buzzheavier.com/d/9jep2fefwkgk?v=Z0aFcWHgdcYSIbDA4NppC_RLkfVCbqSpJnAuqvC0YG-1RVqb1-HcjXTwKqQO_KFsLJDskNol71tyMmXr5JHpW_7-FHkIfn31oMVEFi-XEVXXcxrIzo5ngsPNIYRHzt3PKlV0hO1EnHnkk5v4JHlBgFBUUa5yz9k8t6u_et98U0wcci20aw-vPlRBRnsBiARlo51FNuo-1xvM"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/9jep2fefwkgk?v=Z0aFcWHgdcYSIbDA4NppC_RLkfVCbqSpJnAuqvC0YG-1RVqb1-HcjXTwKqQO_KFsLJDskNol71tyMmXr5JHpW_7-FHkIfn31oMVEFi-XEVXXcxrIzo5ngsPNIYRHzt3PKlV0hO1EnHnkk5v4JHlBgFBUUa5yz9k8t6u_et98U0wcci20aw-vPlRBRnsBiARlo51FNuo-1xvM",
+          "filename": "[81-90] I Am The Sorcerer King.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4597,
+          "name": "81-90",
+          "size": 59739013,
+          "telegram_link": "https://t.me/manhuasgratis/4597"
         },
         {
-          "name": "91-105",
-          "first": 91,
-          "last": 105,
           "channel_id": 3003829878,
-          "message_id": 4598,
-          "filename": "[91-105] I Am The Sorcerer King.pdf",
-          "size": 86223054,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4598",
-          "download_ready": true,
           "chapters": [
             91,
             92,
@@ -541,19 +1785,19 @@
             104,
             105
           ],
-          "download_url": "https://ts.buzzheavier.com/d/k9aecjllf2ja?v=D1ild1HAZ0OmRBSxCdX8Jq8pFuAHvNJa2trtdwtNPlUZdF68WyHsZXGGFb9XdciinuTWUMHWzHaFh0j4jc78B78fdm9LslD6T3g6-MvtG-bYpt4Oi3-5vxia4MJRg4gf-eg1O0XPSxLKEMImCJhRqUyEihkviCvE59gbvlF52o5zD7ZHUYA0d7_MXIJ0uNH_6TswUDSuSh2uOIA"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/k9aecjllf2ja?v=D1ild1HAZ0OmRBSxCdX8Jq8pFuAHvNJa2trtdwtNPlUZdF68WyHsZXGGFb9XdciinuTWUMHWzHaFh0j4jc78B78fdm9LslD6T3g6-MvtG-bYpt4Oi3-5vxia4MJRg4gf-eg1O0XPSxLKEMImCJhRqUyEihkviCvE59gbvlF52o5zD7ZHUYA0d7_MXIJ0uNH_6TswUDSuSh2uOIA",
+          "filename": "[91-105] I Am The Sorcerer King.pdf",
+          "first": 91,
+          "last": 105,
+          "message_id": 4598,
+          "name": "91-105",
+          "size": 86223054,
+          "telegram_link": "https://t.me/manhuasgratis/4598"
         },
         {
-          "name": "106-118",
-          "first": 106,
-          "last": 118,
           "channel_id": 3003829878,
-          "message_id": 4599,
-          "filename": "[106-118] I Am The Sorcerer King.pdf",
-          "size": 65311160,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4599",
-          "download_ready": true,
           "chapters": [
             106,
             107,
@@ -569,19 +1813,19 @@
             117,
             118
           ],
-          "download_url": "https://ts.buzzheavier.com/d/w7hh567mh32v?v=BDLuOwx3OBXbwKOZ3hB4tzblOPgxPINkLBB1r56CsJHkCUmUCcR77C7RIJppVL802btsZA6YTM8SNvtj9Y8xoKwSIqESbCl-u_f9Eba4gujAgF7rhYdrWtU4-0iE042U3Ro82jREOvIFxoh1-KCz0WKcsdeFj9iwO54GKpBdMIaauakuSZgeMkPUzWmmdcq99p9ae3tc40GL0sIRBg"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/w7hh567mh32v?v=BDLuOwx3OBXbwKOZ3hB4tzblOPgxPINkLBB1r56CsJHkCUmUCcR77C7RIJppVL802btsZA6YTM8SNvtj9Y8xoKwSIqESbCl-u_f9Eba4gujAgF7rhYdrWtU4-0iE042U3Ro82jREOvIFxoh1-KCz0WKcsdeFj9iwO54GKpBdMIaauakuSZgeMkPUzWmmdcq99p9ae3tc40GL0sIRBg",
+          "filename": "[106-118] I Am The Sorcerer King.pdf",
+          "first": 106,
+          "last": 118,
+          "message_id": 4599,
+          "name": "106-118",
+          "size": 65311160,
+          "telegram_link": "https://t.me/manhuasgratis/4599"
         },
         {
-          "name": "119-130",
-          "first": 119,
-          "last": 130,
           "channel_id": 3003829878,
-          "message_id": 4600,
-          "filename": "[119-130] I Am The Sorcerer King.pdf",
-          "size": 60821916,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4600",
-          "download_ready": true,
           "chapters": [
             119,
             120,
@@ -596,19 +1840,19 @@
             129,
             130
           ],
-          "download_url": "https://ts.buzzheavier.com/d/vho3b2kcacyd?v=YyaqS0JuqDwcCZGELWavLGTxgUo3uAuLoZsP44RJxZ3oPoQpjylULzxmgIoUuyhVrT72fRmPuNsL8rEF6nwBY3v_7JBHX1YyMx7brWrqAasJIzc3mhvcnwSf-Q7Ac0f_t7KAheyleID-3LCXAMlMRpL1ahMDObzTt_ufHgEbCVmeGkSHUvYD-Vivy8fLkmkp7pHN1wApKDaOTQX7LQ"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/vho3b2kcacyd?v=YyaqS0JuqDwcCZGELWavLGTxgUo3uAuLoZsP44RJxZ3oPoQpjylULzxmgIoUuyhVrT72fRmPuNsL8rEF6nwBY3v_7JBHX1YyMx7brWrqAasJIzc3mhvcnwSf-Q7Ac0f_t7KAheyleID-3LCXAMlMRpL1ahMDObzTt_ufHgEbCVmeGkSHUvYD-Vivy8fLkmkp7pHN1wApKDaOTQX7LQ",
+          "filename": "[119-130] I Am The Sorcerer King.pdf",
+          "first": 119,
+          "last": 130,
+          "message_id": 4600,
+          "name": "119-130",
+          "size": 60821916,
+          "telegram_link": "https://t.me/manhuasgratis/4600"
         },
         {
-          "name": "131-143",
-          "first": 131,
-          "last": 143,
           "channel_id": 3003829878,
-          "message_id": 4601,
-          "filename": "[131-143] I Am The Sorcerer King.pdf",
-          "size": 67849263,
-          "date": "2026-09-19T22:04:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4601",
-          "download_ready": true,
           "chapters": [
             131,
             132,
@@ -624,1258 +1868,28 @@
             142,
             143
           ],
-          "download_url": "https://ts.buzzheavier.com/d/75tom2zdy85w?v=ry83ukLB4Kuct8flo062WAds3XTTPLn5fRvmesZSE7OgGmwzZfQaEt2l09WrI7b3jdPp-UV-xq3kORMm0AM-LKyXE-JaXlkhH75M7Lb9Rv_b7jh-HGe0l7W0FyHtPPr3ieje_zJMhQeWCTMae6y6se0Ig6mu5V1KTtFQSxYgAkuVyLjd2k3sYoDqC9opmlICFdxBR9o80LHx2p_0KA"
+          "date": "2026-09-19T22:04:32+00:00",
+          "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/75tom2zdy85w?v=ry83ukLB4Kuct8flo062WAds3XTTPLn5fRvmesZSE7OgGmwzZfQaEt2l09WrI7b3jdPp-UV-xq3kORMm0AM-LKyXE-JaXlkhH75M7Lb9Rv_b7jh-HGe0l7W0FyHtPPr3ieje_zJMhQeWCTMae6y6se0Ig6mu5V1KTtFQSxYgAkuVyLjd2k3sYoDqC9opmlICFdxBR9o80LHx2p_0KA",
+          "filename": "[131-143] I Am The Sorcerer King.pdf",
+          "first": 131,
+          "last": 143,
+          "message_id": 4601,
+          "name": "131-143",
+          "size": 67849263,
+          "telegram_link": "https://t.me/manhuasgratis/4601"
         }
       ],
+      "synopsis": "mago reencarnado",
       "visible": true
     }
   ],
-  "novels": [
-    {
-      "id": "berserk_of_gluttony",
-      "name": "Berserk of Gluttony",
-      "hashtag": "#Berserk_of_Gluttony",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/berserk_of_gluttony.jpg",
-      "cover_message_id": 18,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/18",
-      "synopsis": "Sinopsis...\nLa trama se centra en los grandes caballeros santos y las distintas responsabilidades de estos. nuestro héroe es un chico solitario cual es maltratado y se odia a si mismo por su habilidad (gula/hambre) y su explicación es \"te hace tener hambre\".\nEl único motivo de el vivir es su amiga Roxi.\nLa historia se desarrolla más adelante cuando fate está cuidando la puerta de la ciudad de los caballeros cuando descubre el secreto detrás de su habilidad",
-      "genres": [],
-      "latest_chapter": 8,
-      "package_count": 8,
-      "packages": [
-        {
-          "name": "Volumen 1",
-          "first": 1,
-          "last": 1,
-          "channel_id": -1004334091126,
-          "message_id": 21,
-          "filename": "[Volumen 01] Berserk of Gluttony.pdf",
-          "size": 8199493,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/21",
-          "download_ready": true,
-          "chapters": [
-            1
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 01] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 22,
-          "filename": "[Volumen 02] Berserk of Gluttony.pdf",
-          "size": 8506710,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/22",
-          "download_ready": true,
-          "chapters": [
-            2
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 02] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 23,
-          "filename": "[Volumen 03] Berserk of Gluttony.pdf",
-          "size": 7757326,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/23",
-          "download_ready": true,
-          "chapters": [
-            3
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 03] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 24,
-          "filename": "[Volumen 04] Berserk of Gluttony.pdf",
-          "size": 7531076,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/24",
-          "download_ready": true,
-          "chapters": [
-            4
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 04] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 25,
-          "filename": "[Volumen 05] Berserk of Gluttony.pdf",
-          "size": 8133706,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/25",
-          "download_ready": true,
-          "chapters": [
-            5
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 05] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 6",
-          "first": 6,
-          "last": 6,
-          "channel_id": -1004334091126,
-          "message_id": 26,
-          "filename": "[Volumen 06] Berserk of Gluttony.pdf",
-          "size": 6953598,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/26",
-          "download_ready": true,
-          "chapters": [
-            6
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 06] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 7",
-          "first": 7,
-          "last": 7,
-          "channel_id": -1004334091126,
-          "message_id": 27,
-          "filename": "[Volumen 07] Berserk of Gluttony.pdf",
-          "size": 6788885,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/27",
-          "download_ready": true,
-          "chapters": [
-            7
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 07] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 8",
-          "first": 8,
-          "last": 8,
-          "channel_id": -1004334091126,
-          "message_id": 28,
-          "filename": "[Volumen 08] Berserk of Gluttony.pdf",
-          "size": 9202811,
-          "date": "2026-10-03T19:47:35+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/28",
-          "download_ready": true,
-          "chapters": [
-            8
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/berserk_of_gluttony/[Volumen 08] Berserk of Gluttony.pdf",
-          "is_novel_volume": true
-        }
-      ],
-      "visible": true
-    },
-    {
-      "id": "kage_no_jitsuryokusha",
-      "name": "Kage No Jitsuryokusha",
-      "hashtag": "#Kage_No_Jitsuryokusha",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/kage_no_jitsuryokusha.jpg",
-      "cover_message_id": 10,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/10",
-      "synopsis": "Sinopsis...\nTal cual como todos adoraban héroes en su niñez, cierto adolescente adoraba los poderes que se esconden en las sombras. Tras haber ocultado su fuerza y viviendo la vida mediocre de un mob durante el día y entrenando descontroladamente por la noche, él finalmente reencarna en un mundo diferente y gana el poder definitivo. El adolescente que solo juega a ser una eminencia en las sombras, sus subordinados confusos, y una gigante organización en las sombras que es pisoteada… Esta es la historia de un adolescente que adoraba esos poderes en las sombras y que posiblemente llegue a reinar en las sombras de otro mundo.",
-      "genres": [],
-      "latest_chapter": 6,
-      "package_count": 6,
-      "packages": [
-        {
-          "name": "Volumen 1",
-          "first": 1,
-          "last": 1,
-          "channel_id": -1004334091126,
-          "message_id": 12,
-          "filename": "[Volumen 01] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "size": 5391575,
-          "date": "2026-10-03T19:21:18+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/12",
-          "download_ready": true,
-          "chapters": [
-            1
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 01] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 13,
-          "filename": "[Volumen 02] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "size": 6454479,
-          "date": "2026-10-03T19:21:18+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/13",
-          "download_ready": true,
-          "chapters": [
-            2
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 02] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 14,
-          "filename": "[Volumen 03] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "size": 7546514,
-          "date": "2026-10-03T19:21:18+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/14",
-          "download_ready": true,
-          "chapters": [
-            3
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 03] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 15,
-          "filename": "[Volumen 04] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "size": 7705247,
-          "date": "2026-10-03T19:21:18+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/15",
-          "download_ready": true,
-          "chapters": [
-            4
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 04] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 16,
-          "filename": "[Volumen 05] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "size": 9914295,
-          "date": "2026-10-03T19:21:18+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/16",
-          "download_ready": true,
-          "chapters": [
-            5
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 05] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 6",
-          "first": 6,
-          "last": 6,
-          "channel_id": -1004334091126,
-          "message_id": 17,
-          "filename": "[Volumen 06] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "size": 9673853,
-          "date": "2026-10-03T19:21:18+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/17",
-          "download_ready": true,
-          "chapters": [
-            6
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/kage_no_jitsuryokusha/[Volumen 06] • Kage no Jitsuryokusha ni Naritakute.pdf",
-          "is_novel_volume": true
-        }
-      ],
-      "visible": true
-    },
-    {
-      "id": "mushoku_tensei",
-      "name": "Mushoku Tensei",
-      "hashtag": "#Mushoku_Tensei",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/mushoku_tensei.jpg",
-      "cover_message_id": 29,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/29",
-      "synopsis": "📛⚜ Sinopsis...\n¡La muerte es solo el comienzo!\nDespués de ser echado de casa por su familia y terminar vagando por las calles, un hombre desempleado y aislado de 34 años piensa que ha caído hasta el fondo—¡pero justo es golpeado y asesinado por un camión a toda velocidad! Despertando para encontrarse a sí mismo renacido como un bebé en un mundo de espadas y magia, pero con los recuerdos de su vida anterior intactos, Rudeus Greyrat está determinado a no repetir sus errores pasados. ¡Él va a sacar el mejor provecho de esta reencarnación mientras emprende la aventura de vivir una segunda vida!",
-      "genres": [],
-      "latest_chapter": 25,
-      "package_count": 25,
-      "packages": [
-        {
-          "name": "Volumen 1",
-          "first": 1,
-          "last": 1,
-          "channel_id": -1004334091126,
-          "message_id": 31,
-          "filename": "[RVN] Mushoku Tensei - Volumen 01 [SC].pdf",
-          "size": 6177348,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/31",
-          "download_ready": true,
-          "chapters": [
-            1
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 01 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 32,
-          "filename": "[RVN] Mushoku Tensei - Volumen 02 [SC].pdf",
-          "size": 5716834,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/32",
-          "download_ready": true,
-          "chapters": [
-            2
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 02 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 33,
-          "filename": "[RVN] Mushoku Tensei - Volumen 03 [SC].pdf",
-          "size": 5226761,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/33",
-          "download_ready": true,
-          "chapters": [
-            3
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 03 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 34,
-          "filename": "[RVN] Mushoku Tensei - Volumen 04 [SC].pdf",
-          "size": 6132219,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/34",
-          "download_ready": true,
-          "chapters": [
-            4
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 04 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 35,
-          "filename": "[RVN] Mushoku Tensei - Volumen 05 [SC].pdf",
-          "size": 6417589,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/35",
-          "download_ready": true,
-          "chapters": [
-            5
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 05 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 6",
-          "first": 6,
-          "last": 6,
-          "channel_id": -1004334091126,
-          "message_id": 36,
-          "filename": "[RVN] Mushoku Tensei - Volumen 06 [SC].pdf",
-          "size": 4591370,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/36",
-          "download_ready": true,
-          "chapters": [
-            6
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 06 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 7",
-          "first": 7,
-          "last": 7,
-          "channel_id": -1004334091126,
-          "message_id": 37,
-          "filename": "[RVN] Mushoku Tensei - Volumen 07 [SC].pdf",
-          "size": 5357937,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/37",
-          "download_ready": true,
-          "chapters": [
-            7
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 07 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 8",
-          "first": 8,
-          "last": 8,
-          "channel_id": -1004334091126,
-          "message_id": 38,
-          "filename": "[RVN] Mushoku Tensei - Volumen 08 [SC].pdf",
-          "size": 5127129,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/38",
-          "download_ready": true,
-          "chapters": [
-            8
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 08 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 9",
-          "first": 9,
-          "last": 9,
-          "channel_id": -1004334091126,
-          "message_id": 39,
-          "filename": "[RVN] Mushoku Tensei - Volumen 09 [SC].pdf",
-          "size": 5045642,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/39",
-          "download_ready": true,
-          "chapters": [
-            9
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 09 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 10",
-          "first": 10,
-          "last": 10,
-          "channel_id": -1004334091126,
-          "message_id": 40,
-          "filename": "[RVN] Mushoku Tensei - Volumen 10 [SC].pdf",
-          "size": 4503580,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/40",
-          "download_ready": true,
-          "chapters": [
-            10
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 10 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 11",
-          "first": 11,
-          "last": 11,
-          "channel_id": -1004334091126,
-          "message_id": 41,
-          "filename": "[RVN] Mushoku Tensei - Volumen 11 [SC].pdf",
-          "size": 5044648,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/41",
-          "download_ready": true,
-          "chapters": [
-            11
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 11 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 12",
-          "first": 12,
-          "last": 12,
-          "channel_id": -1004334091126,
-          "message_id": 42,
-          "filename": "[RVN] Mushoku Tensei - Volumen 12 [SC].pdf",
-          "size": 5174360,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/42",
-          "download_ready": true,
-          "chapters": [
-            12
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 12 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 13",
-          "first": 13,
-          "last": 13,
-          "channel_id": -1004334091126,
-          "message_id": 43,
-          "filename": "[RVN] Mushoku Tensei - Volumen 13 [SC].pdf",
-          "size": 5482272,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/43",
-          "download_ready": true,
-          "chapters": [
-            13
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 13 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 14",
-          "first": 14,
-          "last": 14,
-          "channel_id": -1004334091126,
-          "message_id": 44,
-          "filename": "[RVN] Mushoku Tensei - Volumen 14 [SC].pdf",
-          "size": 4711487,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/44",
-          "download_ready": true,
-          "chapters": [
-            14
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 14 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 15",
-          "first": 15,
-          "last": 15,
-          "channel_id": -1004334091126,
-          "message_id": 45,
-          "filename": "[RVN] Mushoku Tensei - Volumen 15 [SC].pdf",
-          "size": 5898098,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/45",
-          "download_ready": true,
-          "chapters": [
-            15
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 15 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 16",
-          "first": 16,
-          "last": 16,
-          "channel_id": -1004334091126,
-          "message_id": 46,
-          "filename": "[RVN] Mushoku Tensei - Volumen 16 [SC].pdf",
-          "size": 4677469,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/46",
-          "download_ready": true,
-          "chapters": [
-            16
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 16 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 17",
-          "first": 17,
-          "last": 17,
-          "channel_id": -1004334091126,
-          "message_id": 47,
-          "filename": "[RVN] Mushoku Tensei - Volumen 17 [SC].pdf",
-          "size": 5087367,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/47",
-          "download_ready": true,
-          "chapters": [
-            17
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 17 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 18",
-          "first": 18,
-          "last": 18,
-          "channel_id": -1004334091126,
-          "message_id": 48,
-          "filename": "[RVN] Mushoku Tensei - Volumen 18 [SC].pdf",
-          "size": 5014651,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/48",
-          "download_ready": true,
-          "chapters": [
-            18
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 18 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 19",
-          "first": 19,
-          "last": 19,
-          "channel_id": -1004334091126,
-          "message_id": 49,
-          "filename": "[RVN] Mushoku Tensei - Volumen 19 [SC].pdf",
-          "size": 4654765,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/49",
-          "download_ready": true,
-          "chapters": [
-            19
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 19 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 20",
-          "first": 20,
-          "last": 20,
-          "channel_id": -1004334091126,
-          "message_id": 50,
-          "filename": "[RVN] Mushoku Tensei - Volumen 20 [SC].pdf",
-          "size": 5021702,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/50",
-          "download_ready": true,
-          "chapters": [
-            20
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 20 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 21",
-          "first": 21,
-          "last": 21,
-          "channel_id": -1004334091126,
-          "message_id": 51,
-          "filename": "[RVN] Mushoku Tensei - Volumen 21 [SC].pdf",
-          "size": 4470259,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/51",
-          "download_ready": true,
-          "chapters": [
-            21
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 21 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 22",
-          "first": 22,
-          "last": 22,
-          "channel_id": -1004334091126,
-          "message_id": 52,
-          "filename": "[RVN] Mushoku Tensei - Volumen 22 [SC].pdf",
-          "size": 4520690,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/52",
-          "download_ready": true,
-          "chapters": [
-            22
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 22 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 23",
-          "first": 23,
-          "last": 23,
-          "channel_id": -1004334091126,
-          "message_id": 53,
-          "filename": "[RVN] Mushoku Tensei - Volumen 23 [SC].pdf",
-          "size": 4360567,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/53",
-          "download_ready": true,
-          "chapters": [
-            23
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 23 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 24",
-          "first": 24,
-          "last": 24,
-          "channel_id": -1004334091126,
-          "message_id": 54,
-          "filename": "[RVN] Mushoku Tensei - Volumen 24 [SC].pdf",
-          "size": 4034570,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/54",
-          "download_ready": true,
-          "chapters": [
-            24
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 24 [SC].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 25",
-          "first": 25,
-          "last": 25,
-          "channel_id": -1004334091126,
-          "message_id": 55,
-          "filename": "[RVN] Mushoku Tensei - Volumen 25 [SC].pdf",
-          "size": 5773491,
-          "date": "2026-10-03T23:44:20+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/55",
-          "download_ready": true,
-          "chapters": [
-            25
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/mushoku_tensei/[RVN] Mushoku Tensei - Volumen 25 [SC].pdf",
-          "is_novel_volume": true
-        }
-      ],
-      "visible": true
-    },
-    {
-      "id": "oredakehairerukakushidungeon",
-      "name": "OredakeHaireruKakushiDungeon",
-      "hashtag": "#OredakeHaireruKakushiDungeon",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/oredakehairerukakushidungeon.jpg",
-      "cover_message_id": 2,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/2",
-      "synopsis": "Noir es hijo de un noble con muy poca fortuna, pero poseedor de un raro poder: comunicarse con un misterioso sabio, aunque esto le ocasione dolores de cabeza. Siguiendo el consejo del sabio, Noir encuentra una mazmorra secreta llena de extrañas criaturas y objetos mágicos. Allí, Noir entrenará, ganando experiencia y riqueza, hasta que tenga poder suficiente para cambiar su destino",
-      "genres": [],
-      "latest_chapter": 5,
-      "package_count": 5,
-      "packages": [
-        {
-          "name": "Volumen 1",
-          "first": 1,
-          "last": 1,
-          "channel_id": -1004334091126,
-          "message_id": 5,
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 01.pdf",
-          "size": 8557908,
-          "date": "2026-10-03T17:18:05+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/5",
-          "download_ready": true,
-          "chapters": [
-            1
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 01.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 6,
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
-          "size": 8906601,
-          "date": "2026-10-03T17:18:05+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/6",
-          "download_ready": true,
-          "chapters": [
-            2
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 02.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 7,
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
-          "size": 8329192,
-          "date": "2026-10-03T17:18:05+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/7",
-          "download_ready": true,
-          "chapters": [
-            3
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 03.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 8,
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
-          "size": 6397940,
-          "date": "2026-10-03T17:18:05+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/8",
-          "download_ready": true,
-          "chapters": [
-            4
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 04.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 9,
-          "filename": "Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
-          "size": 5162745,
-          "date": "2026-10-03T17:18:05+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/9",
-          "download_ready": true,
-          "chapters": [
-            5
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/oredakehairerukakushidungeon/Ore dake Haireru Kakushi Dungeon ~ Vol 05.pdf",
-          "is_novel_volume": true
-        }
-      ],
-      "visible": true
-    },
-    {
-      "id": "the_beginning_after_the_end",
-      "name": "The Beginning After The End",
-      "hashtag": "#The_Beginning_After_The_End",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_beginning_after_the_end.jpg",
-      "cover_message_id": 56,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/56",
-      "synopsis": "📛⚜ Sinópsis...\nEl Rey Grey tiene una fuerza, riqueza y prestigio incomparables en un mundo gobernado a través de la habilidad marcial. Sin embargo, la soledad permanece muy cerca de aquellos con gran poder. Bajo el glamuroso exterior de un poderoso rey se esconde el caparazón del hombre, carente de propósito y voluntad.Reencarnado en un nuevo mundo lleno de magia y monstruos, el rey tiene una segunda oportunidad para revivir su vida. Sin embargo, corregir los errores de su pasado no será su único desafío.",
-      "genres": [],
-      "latest_chapter": 11,
-      "package_count": 11,
-      "packages": [
-        {
-          "name": "Volumen 1",
-          "first": 1,
-          "last": 1,
-          "channel_id": -1004334091126,
-          "message_id": 58,
-          "filename": "The Beginning After The End - Libro 01 v2.pdf",
-          "size": 1064903,
-          "date": "2026-10-03T23:48:23+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/58",
-          "download_ready": true,
-          "chapters": [
-            1
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 01 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 59,
-          "filename": "The Beginning After The End - Libro 02 v2.pdf",
-          "size": 1182459,
-          "date": "2026-10-03T23:48:23+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/59",
-          "download_ready": true,
-          "chapters": [
-            2
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 02 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 60,
-          "filename": "The Beginning After The End - Libro 03 v2.pdf",
-          "size": 1599982,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/60",
-          "download_ready": true,
-          "chapters": [
-            3
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 03 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 61,
-          "filename": "The Beginning After The End - Libro 04 v2.pdf",
-          "size": 1021464,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/61",
-          "download_ready": true,
-          "chapters": [
-            4
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 04 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 62,
-          "filename": "The Beginning After The End - Libro 05 v2.pdf",
-          "size": 1963273,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/62",
-          "download_ready": true,
-          "chapters": [
-            5
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 05 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 6",
-          "first": 6,
-          "last": 6,
-          "channel_id": -1004334091126,
-          "message_id": 63,
-          "filename": "The Beginning After The End - Libro 06 v2.pdf",
-          "size": 2584935,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/63",
-          "download_ready": true,
-          "chapters": [
-            6
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 06 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 7",
-          "first": 7,
-          "last": 7,
-          "channel_id": -1004334091126,
-          "message_id": 64,
-          "filename": "The Beginning After The End - Libro 07 v2.pdf",
-          "size": 2112625,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/64",
-          "download_ready": true,
-          "chapters": [
-            7
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 07 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 8",
-          "first": 8,
-          "last": 8,
-          "channel_id": -1004334091126,
-          "message_id": 65,
-          "filename": "The Beginning After The End - Libro 08 v2.pdf",
-          "size": 2812766,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/65",
-          "download_ready": true,
-          "chapters": [
-            8
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 08 v2.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 8",
-          "first": 8,
-          "last": 8,
-          "channel_id": -1004334091126,
-          "message_id": 66,
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "size": 833533,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/66",
-          "download_ready": true,
-          "chapters": [
-            8
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 08.5 v1.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 9",
-          "first": 9,
-          "last": 9,
-          "channel_id": -1004334091126,
-          "message_id": 67,
-          "filename": "The Beginning After The End - Libro 09 v1.pdf",
-          "size": 2763615,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/67",
-          "download_ready": true,
-          "chapters": [
-            9
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 09 v1.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 10",
-          "first": 10,
-          "last": 10,
-          "channel_id": -1004334091126,
-          "message_id": 68,
-          "filename": "The Beginning After The End - Libro 10 v1.pdf",
-          "size": 3152946,
-          "date": "2026-10-03T23:48:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/68",
-          "download_ready": true,
-          "chapters": [
-            10
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_beginning_after_the_end/The Beginning After The End - Libro 10 v1.pdf",
-          "is_novel_volume": true
-        }
-      ],
-      "visible": true
-    },
-    {
-      "id": "the_great_cleric",
-      "name": "The Great Cleric",
-      "hashtag": "#The_Great_Cleric",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_great_cleric.jpg",
-      "cover_message_id": 69,
-      "cover_telegram_link": "https://t.me/c/-1004334091126/69",
-      "synopsis": "✔️ Género: Acción, Artes marciales, Aventura, Comedia, Fantasía, Misterio, Recuentos de la vida, Shounen.\n⚜️📛 Sinopsis...\nCierto día, el Dios del Destino de la Tierra y el Dios Supremo de Galdardia hicieron una apuesta.\nEl Dios del Destino perdió, y eligió diez almas mediocres a las cuales entregó como premio.\nA esas diez almas, el Dios Principal de Galdardia les entregó nuevos contenedores.\nY entre esas almas mediocres había un asalariado que luchó contra su propio destino mortal.\n¿Cuál será el futuro de este hombre?.",
-      "genres": [],
-      "latest_chapter": 13,
-      "package_count": 13,
-      "packages": [
-        {
-          "name": "Volumen 1",
-          "first": 1,
-          "last": 1,
-          "channel_id": -1004334091126,
-          "message_id": 71,
-          "filename": "The Great Cleric - Volumen 01 [PdT].pdf",
-          "size": 3313687,
-          "date": "2026-10-04T13:07:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/71",
-          "download_ready": true,
-          "chapters": [
-            1
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 01 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 72,
-          "filename": "The Great Cleric - Volumen 02 [PdT].pdf",
-          "size": 6786021,
-          "date": "2026-10-04T13:07:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/72",
-          "download_ready": true,
-          "chapters": [
-            2
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 02 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 73,
-          "filename": "The Great Cleric - Volumen 03 [PdT].pdf",
-          "size": 3995159,
-          "date": "2026-10-04T13:07:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/73",
-          "download_ready": true,
-          "chapters": [
-            3
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 03 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 74,
-          "filename": "The Great Cleric - Volumen 04 [PdT].pdf",
-          "size": 4857427,
-          "date": "2026-10-04T13:07:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/74",
-          "download_ready": true,
-          "chapters": [
-            4
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 04 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 75,
-          "filename": "The Great Cleric - Volumen 05 [PdT].pdf",
-          "size": 4518805,
-          "date": "2026-10-04T13:07:24+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/75",
-          "download_ready": true,
-          "chapters": [
-            5
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 05 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 6",
-          "first": 6,
-          "last": 6,
-          "channel_id": -1004334091126,
-          "message_id": 76,
-          "filename": "The Great Cleric - Volumen 06 [PdT].pdf",
-          "size": 7104958,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/76",
-          "download_ready": true,
-          "chapters": [
-            6
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 06 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 7",
-          "first": 7,
-          "last": 7,
-          "channel_id": -1004334091126,
-          "message_id": 77,
-          "filename": "The Great Cleric - Volumen 07 [PdT].pdf",
-          "size": 8254368,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/77",
-          "download_ready": true,
-          "chapters": [
-            7
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 07 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 8",
-          "first": 8,
-          "last": 8,
-          "channel_id": -1004334091126,
-          "message_id": 78,
-          "filename": "The Great Cleric - Volumen 08 [PdT].pdf",
-          "size": 4708157,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/78",
-          "download_ready": true,
-          "chapters": [
-            8
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 08 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 9",
-          "first": 9,
-          "last": 9,
-          "channel_id": -1004334091126,
-          "message_id": 79,
-          "filename": "The Great Cleric - Volumen 09 [PdT].pdf",
-          "size": 12755209,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/79",
-          "download_ready": true,
-          "chapters": [
-            9
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 09 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 10",
-          "first": 10,
-          "last": 10,
-          "channel_id": -1004334091126,
-          "message_id": 80,
-          "filename": "The Great Cleric - Volumen 10 [PdT].pdf",
-          "size": 4911781,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/80",
-          "download_ready": true,
-          "chapters": [
-            10
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 10 [PdT].pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 11",
-          "first": 11,
-          "last": 11,
-          "channel_id": -1004334091126,
-          "message_id": 81,
-          "filename": "The Great Cleric - Volumen 11 [PdT] - No Oficial.pdf",
-          "size": 9696885,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/81",
-          "download_ready": true,
-          "chapters": [
-            11
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 11 [PdT] - No Oficial.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 12",
-          "first": 12,
-          "last": 12,
-          "channel_id": -1004334091126,
-          "message_id": 82,
-          "filename": "The Great Cleric - Volumen 12 [PdT] - No Oficial.pdf",
-          "size": 9696885,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/82",
-          "download_ready": true,
-          "chapters": [
-            12
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 12 [PdT] - No Oficial.pdf",
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 13",
-          "first": 13,
-          "last": 13,
-          "channel_id": -1004334091126,
-          "message_id": 83,
-          "filename": "The Great Cleric - Volumen 13 [PdT] - No Oficial.pdf",
-          "size": 11989914,
-          "date": "2026-10-04T13:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/83",
-          "download_ready": true,
-          "chapters": [
-            13
-          ],
-          "download_url": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/novels/the_great_cleric/The Great Cleric - Volumen 13 [PdT] - No Oficial.pdf",
-          "is_novel_volume": true
-        }
-      ],
-      "visible": true
-    }
-  ]
+  "source": {
+    "channel": "manhuasgratis",
+    "novels_channel": "-1004334091126",
+    "portadas_channel": "4187372773",
+    "type": "telegram"
+  },
+  "updated_at": "2026-10-05T20:56:10.435913+00:00",
+  "version": 3
 }
