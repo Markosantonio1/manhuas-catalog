@@ -1579,6 +1579,7 @@
           ],
           "date": "2026-10-06T04:11:12+00:00",
           "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/mx85avrb8d4c?v=6Sfvb84-jsfO4lCs2daVqZGbNxN60LIKKg8KeOr9Yo9_uzQqv06oNMhR3pdOix9OH_gZ4qznL0PX4Az4Ch6XgpDCR_6xvt2EYSlI8dPxOWhcuhnqWGFA_Ote_4uql6xIiFOL5G5mHVb0KFN_wVtlZZqFb5tnYlWjisaUMIUVjxSPiziA-08wK4fB9AB0QrLc2kvAbGJaD57XQwNjkC6G9njZOA",
           "filename": "45 • Dominio Absoluto del Nivel 0.pdf",
           "first": 45,
           "last": 45,
@@ -1589,7 +1590,7 @@
         }
       ],
       "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-06T03:00:42.604130+00:00",
@@ -3738,6 +3739,7 @@
           ],
           "date": "2026-10-06T04:11:22+00:00",
           "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/2k6o7fxqug7z?v=oP4JpVqTNN3lJ9Olua3tWAmJv6iSrn1ZZ8OtSBWxT6Xs0h0Uk8FK-cw5zfApVALVif0GErk-luZVDBLrs7YfMMavXO4zidmP2tTGFCAahAIgcHgLEhJ6GJfIpLewPOl_b8YqTcPOoLOVl5dXa0sxAo-u2rFyMOlcVdw5MEgHVFgs4U5cua3fsNy0OGNEdhs01iBb6Kq5dMQV1N00sNLiBCLII4nwiLlqKsd9b4o",
           "filename": "157 • Genio Espadachín De La Academia.pdf",
           "first": 157,
           "last": 157,
@@ -3748,7 +3750,7 @@
         }
       ],
       "synopsis": "Sinopsis: Tras una batalla trascendental contra gigantes por el destino del mundo, Ronan emerge victorioso como el último hombre en pie del ejército imperial.\nMientras lamenta esta victoria vacía junto a su moribundo comandante, el Gran Mariscal Adeshan, pronto descubren que la guerra está lejos de terminar y una fuerza abrumadora de gigantes desciende de los cielos.\nTemiendo lo peor, pero viendo esperanza en el valiente Ronan, Adeshan usa su último viaje en el tiempo para enviarlo al pasado, ¡para que pueda inscribirse en la prestigiosa Academia Phileon y convertirse en el espadachín más poderoso que el imperio haya visto jamás!",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-06T03:00:42.605124+00:00",
@@ -4192,6 +4194,7 @@
           ],
           "date": "2026-09-12T12:05:47+00:00",
           "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/mhjzrp3wlj2t?v=UruUt8tjVTYeWTyeKuWrgW4V_F9DGVaOfr7SXFCvhVxm4CTYCknfQI_Nst68UCdqHdFSzWU_vCYdri0M-FlMtm2yZpIutI-l4bzTyyzN4LOo_vm-izto6wZ193qr1lBtfGMDowylIXr6A1MSDTOwjFsCGfAm8EGg3EThi45wLOKfYANVKA51k1iHXZcWYREhbqZLqx0WRg",
           "filename": "[#123]   Guía de Supervivencia.pdf",
           "first": 123,
           "last": 123,
@@ -4207,6 +4210,7 @@
           ],
           "date": "2026-09-19T03:55:45+00:00",
           "download_ready": true,
+          "download_url": "https://ts.buzzheavier.com/d/ac9x3kf644g7?v=TVKmTUOn1ZTvlLNrNu3SMCxBT-Ocj1mLFgYhMjZFgaipWnku5qkvi8bqjAGPpYcmPeJs4opeHzDF0JEaVbusgNOCZv7elFz1YEjQorVkwuupkQMFfHWK_jhINf6i8UukO52wDQTjhbPSTSZK6BWf8Bq9-Thay_nWHqGALvuykYUjSOSac1z4NLc5ZaqurpT2W5Ip865UYA",
           "filename": "[#124]   Guía de Supervivencia.pdf",
           "first": 124,
           "last": 124,
@@ -4233,7 +4237,7 @@
         }
       ],
       "synopsis": "Soy un extra villano de tercera en mi juego favorito. No tengo ambiciones y sólo quiero vivir una vida tranquila. Pero vaya, este mundo es un lugar difícil para sobrevivir. Sobreviviré hasta el final de esta historia, de una forma que el protagonista no puede. Sobreviviré a la manera de un villano de tercera.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-09-19T22:04:32+00:00",
@@ -4566,6 +4570,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-06T12:51:43.552920+00:00",
+  "updated_at": "2026-10-06T13:12:57.770433+00:00",
   "version": 3
 }
