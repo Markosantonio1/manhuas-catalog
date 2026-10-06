@@ -36,3 +36,12 @@ jobs:
           MAX_PACKAGES_PER_RUN: ${{ inputs.max_packages }}
         run: |
           python uploader_buzzheavier.py
+
+      - name: Upload catalog as artifact (backup)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalog-con-ids-run${{ github.run_number }}
+          path: catalog_con_ids.json
+          if-no-files-found: warn
+          retention-days: 30
