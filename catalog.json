@@ -2334,6 +2334,977 @@
       "visible": true
     },
     {
+      "added_at": "2026-09-30T15:45:52+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_retorno_de_una_leyenda.jpg",
+      "cover_message_id": 16,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/16",
+      "genres": [],
+      "hashtag": "#El_Retorno_de_una_Leyenda",
+      "id": "el_retorno_de_una_leyenda",
+      "latest_chapter": 190,
+      "name": "El Retorno de una Leyenda",
+      "package_count": 54,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「01-10」El Retorno de una Leyenda.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4686,
+          "name": "1-10",
+          "size": 87786092,
+          "telegram_link": "https://t.me/manhuasgratis/4686"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「11-20」El Retorno de una Leyenda.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4687,
+          "name": "11-20",
+          "size": 85728154,
+          "telegram_link": "https://t.me/manhuasgratis/4687"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「21-30」El Retorno de una Leyenda.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4688,
+          "name": "21-30",
+          "size": 66988505,
+          "telegram_link": "https://t.me/manhuasgratis/4688"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「31-40」El Retorno de una Leyenda.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4689,
+          "name": "31-40",
+          "size": 56756695,
+          "telegram_link": "https://t.me/manhuasgratis/4689"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「41-50」El Retorno de una Leyenda.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4690,
+          "name": "41-50",
+          "size": 63885696,
+          "telegram_link": "https://t.me/manhuasgratis/4690"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「51-60」El Retorno de una Leyenda.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 4691,
+          "name": "51-60",
+          "size": 57400361,
+          "telegram_link": "https://t.me/manhuasgratis/4691"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「61-70」El Retorno de una Leyenda.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 4692,
+          "name": "61-70",
+          "size": 95235281,
+          "telegram_link": "https://t.me/manhuasgratis/4692"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「71-80」El Retorno de una Leyenda.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 4693,
+          "name": "71-80",
+          "size": 96552603,
+          "telegram_link": "https://t.me/manhuasgratis/4693"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「81-90」El Retorno de una Leyenda.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4694,
+          "name": "81-90",
+          "size": 61496023,
+          "telegram_link": "https://t.me/manhuasgratis/4694"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「91」El Retorno de una Leyenda.pdf",
+          "first": 91,
+          "last": 91,
+          "message_id": 4695,
+          "name": "91",
+          "size": 7216256,
+          "telegram_link": "https://t.me/manhuasgratis/4695"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            92
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「92」El Retorno de una Leyenda.pdf",
+          "first": 92,
+          "last": 92,
+          "message_id": 4696,
+          "name": "92",
+          "size": 7403781,
+          "telegram_link": "https://t.me/manhuasgratis/4696"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            93
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「93」El Retorno de una Leyenda.pdf",
+          "first": 93,
+          "last": 93,
+          "message_id": 4697,
+          "name": "93",
+          "size": 8218054,
+          "telegram_link": "https://t.me/manhuasgratis/4697"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            94,
+            95,
+            96
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「94-96」El Retorno de una Leyenda.pdf",
+          "first": 94,
+          "last": 96,
+          "message_id": 4698,
+          "name": "94-96",
+          "size": 20076454,
+          "telegram_link": "https://t.me/manhuasgratis/4698"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-09-30T15:45:52+00:00",
+          "download_ready": true,
+          "filename": "「97-100」El Retorno de una Leyenda.pdf",
+          "first": 97,
+          "last": 100,
+          "message_id": 4699,
+          "name": "97-100",
+          "size": 23982249,
+          "telegram_link": "https://t.me/manhuasgratis/4699"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「101」El Retorno de una Leyenda.pdf",
+          "first": 101,
+          "last": 101,
+          "message_id": 4700,
+          "name": "101",
+          "size": 7383796,
+          "telegram_link": "https://t.me/manhuasgratis/4700"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            102
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「102」El Retorno de una Leyenda.pdf",
+          "first": 102,
+          "last": 102,
+          "message_id": 4701,
+          "name": "102",
+          "size": 7899714,
+          "telegram_link": "https://t.me/manhuasgratis/4701"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            103
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「103」El Retorno de una Leyenda.pdf",
+          "first": 103,
+          "last": 103,
+          "message_id": 4702,
+          "name": "103",
+          "size": 7568496,
+          "telegram_link": "https://t.me/manhuasgratis/4702"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            104,
+            105
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「104-105」El Retorno de una Leyenda.pdf",
+          "first": 104,
+          "last": 105,
+          "message_id": 4703,
+          "name": "104-105",
+          "size": 16784791,
+          "telegram_link": "https://t.me/manhuasgratis/4703"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            106
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「106」El Retorno de una Leyenda.pdf",
+          "first": 106,
+          "last": 106,
+          "message_id": 4704,
+          "name": "106",
+          "size": 8394915,
+          "telegram_link": "https://t.me/manhuasgratis/4704"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            107
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「107」El Retorno de una Leyenda.pdf",
+          "first": 107,
+          "last": 107,
+          "message_id": 4705,
+          "name": "107",
+          "size": 8639442,
+          "telegram_link": "https://t.me/manhuasgratis/4705"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            108,
+            109,
+            110
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "「108-110」El Retorno de una Leyenda.pdf",
+          "first": 108,
+          "last": 110,
+          "message_id": 4706,
+          "name": "108-110",
+          "size": 19300219,
+          "telegram_link": "https://t.me/manhuasgratis/4706"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│111│El Retorno de una Leyenda.pdf",
+          "first": 111,
+          "last": 111,
+          "message_id": 4707,
+          "name": "111",
+          "size": 3619665,
+          "telegram_link": "https://t.me/manhuasgratis/4707"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            112
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│112│El Retorno de una Leyenda.pdf",
+          "first": 112,
+          "last": 112,
+          "message_id": 4708,
+          "name": "112",
+          "size": 7769108,
+          "telegram_link": "https://t.me/manhuasgratis/4708"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            113,
+            114,
+            115
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│113-115│El Retorno de una Leyenda.pdf",
+          "first": 113,
+          "last": 115,
+          "message_id": 4709,
+          "name": "113-115",
+          "size": 11894534,
+          "telegram_link": "https://t.me/manhuasgratis/4709"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            116
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│116│El Retorno de una Leyenda.pdf",
+          "first": 116,
+          "last": 116,
+          "message_id": 4710,
+          "name": "116",
+          "size": 5477709,
+          "telegram_link": "https://t.me/manhuasgratis/4710"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            117
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│117│El Retorno de una Leyenda.pdf",
+          "first": 117,
+          "last": 117,
+          "message_id": 4711,
+          "name": "117",
+          "size": 6024890,
+          "telegram_link": "https://t.me/manhuasgratis/4711"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            118
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│118│El Retorno de una Leyenda.pdf",
+          "first": 118,
+          "last": 118,
+          "message_id": 4712,
+          "name": "118",
+          "size": 5703108,
+          "telegram_link": "https://t.me/manhuasgratis/4712"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            119,
+            120
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│119-120│El Retorno de una Leyenda.pdf",
+          "first": 119,
+          "last": 120,
+          "message_id": 4713,
+          "name": "119-120",
+          "size": 9719246,
+          "telegram_link": "https://t.me/manhuasgratis/4713"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│121│El Retorno de una Leyenda.pdf",
+          "first": 121,
+          "last": 121,
+          "message_id": 4714,
+          "name": "121",
+          "size": 5635968,
+          "telegram_link": "https://t.me/manhuasgratis/4714"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            122
+          ],
+          "date": "2026-09-30T15:45:53+00:00",
+          "download_ready": true,
+          "filename": "│122│El Retorno de una Leyenda.pdf",
+          "first": 122,
+          "last": 122,
+          "message_id": 4715,
+          "name": "122",
+          "size": 6652952,
+          "telegram_link": "https://t.me/manhuasgratis/4715"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            123,
+            124,
+            125
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "│123-125│El Retorno de una Leyenda.pdf",
+          "first": 123,
+          "last": 125,
+          "message_id": 4716,
+          "name": "123-125",
+          "size": 13234338,
+          "telegram_link": "https://t.me/manhuasgratis/4716"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            126
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "│126│El Retorno de una Leyenda.pdf",
+          "first": 126,
+          "last": 126,
+          "message_id": 4717,
+          "name": "126",
+          "size": 6122424,
+          "telegram_link": "https://t.me/manhuasgratis/4717"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            127
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "│127│El Retorno de una Leyenda.pdf",
+          "first": 127,
+          "last": 127,
+          "message_id": 4718,
+          "name": "127",
+          "size": 6530446,
+          "telegram_link": "https://t.me/manhuasgratis/4718"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            128,
+            129,
+            130,
+            131
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "(128-131) El Retorno De Una Leyenda.pdf",
+          "first": 128,
+          "last": 131,
+          "message_id": 4719,
+          "name": "128-131",
+          "size": 49906911,
+          "telegram_link": "https://t.me/manhuasgratis/4719"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            132
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "(132) El Retorno De Una Leyenda.pdf",
+          "first": 132,
+          "last": 132,
+          "message_id": 4720,
+          "name": "132",
+          "size": 7167173,
+          "telegram_link": "https://t.me/manhuasgratis/4720"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            133
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "[133] El Retorno De Una Leyenda .pdf",
+          "first": 133,
+          "last": 133,
+          "message_id": 4721,
+          "name": "133",
+          "size": 17620862,
+          "telegram_link": "https://t.me/manhuasgratis/4721"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            134
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "〖134〗El Retorno De Una Leyenda.pdf",
+          "first": 134,
+          "last": 134,
+          "message_id": 4722,
+          "name": "134",
+          "size": 8393033,
+          "telegram_link": "https://t.me/manhuasgratis/4722"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            135
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "┇135┇El Retorno De Una Leyenda.pdf",
+          "first": 135,
+          "last": 135,
+          "message_id": 4723,
+          "name": "135",
+          "size": 8898536,
+          "telegram_link": "https://t.me/manhuasgratis/4723"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            136
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "┇136┇El Retorno De Una Leyenda.pdf",
+          "first": 136,
+          "last": 136,
+          "message_id": 4724,
+          "name": "136",
+          "size": 8860587,
+          "telegram_link": "https://t.me/manhuasgratis/4724"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            137
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "┇137┇El Retorno De Una Leyenda.pdf",
+          "first": 137,
+          "last": 137,
+          "message_id": 4725,
+          "name": "137",
+          "size": 9150660,
+          "telegram_link": "https://t.me/manhuasgratis/4725"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            138
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "┇138┇El Retorno De Una Leyenda.pdf",
+          "first": 138,
+          "last": 138,
+          "message_id": 4726,
+          "name": "138",
+          "size": 8682071,
+          "telegram_link": "https://t.me/manhuasgratis/4726"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            139,
+            140
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "(139-140) El Retorno De Una Leyenda.pdf",
+          "first": 139,
+          "last": 140,
+          "message_id": 4727,
+          "name": "139-140",
+          "size": 24289554,
+          "telegram_link": "https://t.me/manhuasgratis/4727"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "〖141〗El Retorno De Una Leyenda.pdf",
+          "first": 141,
+          "last": 141,
+          "message_id": 4728,
+          "name": "141",
+          "size": 6071219,
+          "telegram_link": "https://t.me/manhuasgratis/4728"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            142
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "〖142〗El retorno de una leyenda.pdf",
+          "first": 142,
+          "last": 142,
+          "message_id": 4729,
+          "name": "142",
+          "size": 9693206,
+          "telegram_link": "https://t.me/manhuasgratis/4729"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            143,
+            144,
+            145,
+            146,
+            147,
+            148
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "〖143-148〗El retorno de una leyenda.pdf",
+          "first": 143,
+          "last": 148,
+          "message_id": 4730,
+          "name": "143-148",
+          "size": 49874504,
+          "telegram_link": "https://t.me/manhuasgratis/4730"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            149,
+            150,
+            151
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "〖149-151〗El retorno de una leyenda.pdf",
+          "first": 149,
+          "last": 151,
+          "message_id": 4731,
+          "name": "149-151",
+          "size": 24972623,
+          "telegram_link": "https://t.me/manhuasgratis/4731"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            152
+          ],
+          "date": "2026-09-30T15:45:54+00:00",
+          "download_ready": true,
+          "filename": "〖152〗El retorno de una leyenda.pdf",
+          "first": 152,
+          "last": 152,
+          "message_id": 4732,
+          "name": "152",
+          "size": 10050719,
+          "telegram_link": "https://t.me/manhuasgratis/4732"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            153,
+            154,
+            155,
+            156,
+            157
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "〖153-157〗El retorno de una leyenda.pdf",
+          "first": 153,
+          "last": 157,
+          "message_id": 4733,
+          "name": "153-157",
+          "size": 26852085,
+          "telegram_link": "https://t.me/manhuasgratis/4733"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            158,
+            159,
+            160
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "〖158-160〗El retorno de una leyenda.pdf",
+          "first": 158,
+          "last": 160,
+          "message_id": 4734,
+          "name": "158-160",
+          "size": 16535488,
+          "telegram_link": "https://t.me/manhuasgratis/4734"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "┊161-162┊El Retorno De Una Leyenda.pdf",
+          "first": 161,
+          "last": 162,
+          "message_id": 4735,
+          "name": "161-162",
+          "size": 16582361,
+          "telegram_link": "https://t.me/manhuasgratis/4735"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "┊163-170┊El Retorno De Una Leyenda.pdf",
+          "first": 163,
+          "last": 170,
+          "message_id": 4736,
+          "name": "163-170",
+          "size": 40656072,
+          "telegram_link": "https://t.me/manhuasgratis/4736"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "┊171-180┊El Retorno De Una Leyenda.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 4737,
+          "name": "171-180",
+          "size": 51263247,
+          "telegram_link": "https://t.me/manhuasgratis/4737"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "┊181-189┊El Retorno De Una Leyenda.pdf",
+          "first": 181,
+          "last": 189,
+          "message_id": 4738,
+          "name": "181-189",
+          "size": 47731297,
+          "telegram_link": "https://t.me/manhuasgratis/4738"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-09-30T15:45:55+00:00",
+          "download_ready": true,
+          "filename": "181-190 El retorno de una leyenda.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 4739,
+          "name": "181-190",
+          "size": 91770181,
+          "telegram_link": "https://t.me/manhuasgratis/4739"
+        }
+      ],
+      "synopsis": "Debido a una situación como la del segundo FMI, la empresa de seguridad donde trabajaba Jang Taesan quiebra, y él se convierte en un desempleado que deambula por Noryangjin-dong. Intenta suicidarse saltando de un puente PERO ya había otro suicidándose en ese puente. todo bajoneado ve un niño en una pasarela y un coche modelo rayo McQueen a toda velocidad, Pierde la vida al salvar a un estudiante de primaria que casi es atropellado por el rasho. Pero no todo es malo para nuestro chico suicida. gracias a su buena acción, retrocede 14 años en el tiempo y es recibido en una nueva vida.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-06T03:00:42.605124+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_stream_del_reencarnado.jpg",
       "cover_message_id": 14,
@@ -4562,6 +5533,1898 @@
       ],
       "synopsis": "mago reencarnado",
       "visible": true
+    },
+    {
+      "added_at": "2026-08-23T15:14:19+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/mago_prismatico_genio.jpg",
+      "cover_message_id": 20,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/20",
+      "genres": [],
+      "hashtag": "#Mago_Prismatico_Genio",
+      "id": "mago_prismatico_genio",
+      "latest_chapter": 95,
+      "name": "Mago Prismatico Genio",
+      "package_count": 58,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-23T15:14:19+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Mago Prismatico Genio.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 2659,
+          "name": "1-10",
+          "size": 89041529,
+          "telegram_link": "https://t.me/manhuasgratis/2659"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-23T15:14:19+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Mago Prismatico Genio.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 2660,
+          "name": "11-20",
+          "size": 74334254,
+          "telegram_link": "https://t.me/manhuasgratis/2660"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-08-23T15:14:19+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   Mago Prismatico Genio.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 2661,
+          "name": "21-30",
+          "size": 66677432,
+          "telegram_link": "https://t.me/manhuasgratis/2661"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "date": "2026-08-23T15:14:19+00:00",
+          "download_ready": true,
+          "filename": "[#31-36]   Mago Prismatico Genio.pdf",
+          "first": 31,
+          "last": 36,
+          "message_id": 2662,
+          "name": "31-36",
+          "size": 37911953,
+          "telegram_link": "https://t.me/manhuasgratis/2662"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            37
+          ],
+          "date": "2026-08-23T15:15:29+00:00",
+          "download_ready": true,
+          "filename": "[#37]   Mago Prismatico Genio.pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 2663,
+          "name": "37",
+          "size": 6270131,
+          "telegram_link": "https://t.me/manhuasgratis/2663"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-08-23T15:15:32+00:00",
+          "download_ready": true,
+          "filename": "[#38]   Mago Prismático Genio.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 2664,
+          "name": "38",
+          "size": 8155523,
+          "telegram_link": "https://t.me/manhuasgratis/2664"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            39
+          ],
+          "date": "2026-08-23T15:15:34+00:00",
+          "download_ready": true,
+          "filename": "[#39]   Mago Prismático Genio.pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 2665,
+          "name": "39",
+          "size": 8422867,
+          "telegram_link": "https://t.me/manhuasgratis/2665"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-08-23T15:15:38+00:00",
+          "download_ready": true,
+          "filename": "[#40]   Mago Prismático Genio.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 2666,
+          "name": "40",
+          "size": 7886783,
+          "telegram_link": "https://t.me/manhuasgratis/2666"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41
+          ],
+          "date": "2026-08-23T15:15:40+00:00",
+          "download_ready": true,
+          "filename": "[#41]   Mago Prismático Genio.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 2667,
+          "name": "41",
+          "size": 8368901,
+          "telegram_link": "https://t.me/manhuasgratis/2667"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            42
+          ],
+          "date": "2026-08-23T15:15:43+00:00",
+          "download_ready": true,
+          "filename": "[#42]   Mago Prismático Genio.pdf",
+          "first": 42,
+          "last": 42,
+          "message_id": 2668,
+          "name": "42",
+          "size": 8126920,
+          "telegram_link": "https://t.me/manhuasgratis/2668"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43
+          ],
+          "date": "2026-08-23T15:15:46+00:00",
+          "download_ready": true,
+          "filename": "[#43]   Mago Prismático Genio.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 2669,
+          "name": "43",
+          "size": 6728634,
+          "telegram_link": "https://t.me/manhuasgratis/2669"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            44
+          ],
+          "date": "2026-08-23T15:15:49+00:00",
+          "download_ready": true,
+          "filename": "[#44]   Mago Prismático Genio.pdf",
+          "first": 44,
+          "last": 44,
+          "message_id": 2670,
+          "name": "44",
+          "size": 7385978,
+          "telegram_link": "https://t.me/manhuasgratis/2670"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            45,
+            46
+          ],
+          "date": "2026-08-23T15:16:37+00:00",
+          "download_ready": true,
+          "filename": "[#45-46]   Mago Prismático Genio.pdf",
+          "first": 45,
+          "last": 46,
+          "message_id": 2671,
+          "name": "45-46",
+          "size": 15169275,
+          "telegram_link": "https://t.me/manhuasgratis/2671"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            47
+          ],
+          "date": "2026-08-23T15:16:37+00:00",
+          "download_ready": true,
+          "filename": "[#47]   Mago Prismático Genio.pdf",
+          "first": 47,
+          "last": 47,
+          "message_id": 2672,
+          "name": "47",
+          "size": 7348893,
+          "telegram_link": "https://t.me/manhuasgratis/2672"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            48
+          ],
+          "date": "2026-08-23T15:16:37+00:00",
+          "download_ready": true,
+          "filename": "[#48]   Mago Prismático Genio.pdf",
+          "first": 48,
+          "last": 48,
+          "message_id": 2673,
+          "name": "48",
+          "size": 6051459,
+          "telegram_link": "https://t.me/manhuasgratis/2673"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            49
+          ],
+          "date": "2026-08-23T15:16:37+00:00",
+          "download_ready": true,
+          "filename": "[#49]   Mago Prismático Genio.pdf",
+          "first": 49,
+          "last": 49,
+          "message_id": 2674,
+          "name": "49",
+          "size": 6860454,
+          "telegram_link": "https://t.me/manhuasgratis/2674"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            50
+          ],
+          "date": "2026-08-23T15:16:37+00:00",
+          "download_ready": true,
+          "filename": "[#50]   Mago Prismático Genio.pdf",
+          "first": 50,
+          "last": 50,
+          "message_id": 2675,
+          "name": "50",
+          "size": 6418401,
+          "telegram_link": "https://t.me/manhuasgratis/2675"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51
+          ],
+          "date": "2026-08-23T15:16:37+00:00",
+          "download_ready": true,
+          "filename": "[#51]   Mago Prismático Genio.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 2676,
+          "name": "51",
+          "size": 9512598,
+          "telegram_link": "https://t.me/manhuasgratis/2676"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            52
+          ],
+          "date": "2026-08-23T15:17:06+00:00",
+          "download_ready": true,
+          "filename": "[#52]   Mago Prismático Genio.pdf",
+          "first": 52,
+          "last": 52,
+          "message_id": 2677,
+          "name": "52",
+          "size": 9594112,
+          "telegram_link": "https://t.me/manhuasgratis/2677"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            53
+          ],
+          "date": "2026-08-23T15:17:09+00:00",
+          "download_ready": true,
+          "filename": "[#53]   Mago Prismático Genio.pdf",
+          "first": 53,
+          "last": 53,
+          "message_id": 2678,
+          "name": "53",
+          "size": 8109772,
+          "telegram_link": "https://t.me/manhuasgratis/2678"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            54
+          ],
+          "date": "2026-08-23T15:17:12+00:00",
+          "download_ready": true,
+          "filename": "[#54]   Mago Prismático Genio.pdf",
+          "first": 54,
+          "last": 54,
+          "message_id": 2679,
+          "name": "54",
+          "size": 9622390,
+          "telegram_link": "https://t.me/manhuasgratis/2679"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            55
+          ],
+          "date": "2026-08-23T15:17:15+00:00",
+          "download_ready": true,
+          "filename": "[#55]   Mago Prismático Genio.pdf",
+          "first": 55,
+          "last": 55,
+          "message_id": 2680,
+          "name": "55",
+          "size": 8513100,
+          "telegram_link": "https://t.me/manhuasgratis/2680"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            56
+          ],
+          "date": "2026-08-23T15:17:17+00:00",
+          "download_ready": true,
+          "filename": "[#56]   Mago Prismático Genio.pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 2681,
+          "name": "56",
+          "size": 10198393,
+          "telegram_link": "https://t.me/manhuasgratis/2681"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            57
+          ],
+          "date": "2026-08-23T15:17:18+00:00",
+          "download_ready": true,
+          "filename": "[#57]   Mago Prismático Genio.pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 2682,
+          "name": "57",
+          "size": 8099906,
+          "telegram_link": "https://t.me/manhuasgratis/2682"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            58
+          ],
+          "date": "2026-08-23T15:17:20+00:00",
+          "download_ready": true,
+          "filename": "[#58]   Mago Prismático Genio.pdf",
+          "first": 58,
+          "last": 58,
+          "message_id": 2683,
+          "name": "58",
+          "size": 10560925,
+          "telegram_link": "https://t.me/manhuasgratis/2683"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            59
+          ],
+          "date": "2026-08-23T15:17:25+00:00",
+          "download_ready": true,
+          "filename": "[#59]   Mago Prismático Genio.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 2684,
+          "name": "59",
+          "size": 7443591,
+          "telegram_link": "https://t.me/manhuasgratis/2684"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            60
+          ],
+          "date": "2026-08-23T15:17:27+00:00",
+          "download_ready": true,
+          "filename": "[#60]   Mago Prismático Genio.pdf",
+          "first": 60,
+          "last": 60,
+          "message_id": 2685,
+          "name": "60",
+          "size": 11318025,
+          "telegram_link": "https://t.me/manhuasgratis/2685"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61
+          ],
+          "date": "2026-08-23T15:17:29+00:00",
+          "download_ready": true,
+          "filename": "[#61]   El Mago Prismático Genio.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 2686,
+          "name": "61",
+          "size": 13921295,
+          "telegram_link": "https://t.me/manhuasgratis/2686"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            62
+          ],
+          "date": "2026-08-23T15:17:32+00:00",
+          "download_ready": true,
+          "filename": "[#62]   Mago Prismatico Genio.pdf",
+          "first": 62,
+          "last": 62,
+          "message_id": 2687,
+          "name": "62",
+          "size": 16247025,
+          "telegram_link": "https://t.me/manhuasgratis/2687"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            63,
+            64
+          ],
+          "date": "2026-08-23T15:25:02+00:00",
+          "download_ready": true,
+          "filename": "[#63-64]    Mago Prismático Genio.pdf",
+          "first": 63,
+          "last": 64,
+          "message_id": 2688,
+          "name": "63-64",
+          "size": 25675427,
+          "telegram_link": "https://t.me/manhuasgratis/2688"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            65,
+            66
+          ],
+          "date": "2026-08-23T15:25:04+00:00",
+          "download_ready": true,
+          "filename": "[#65-66]   Mago Prismático Genio.pdf",
+          "first": 65,
+          "last": 66,
+          "message_id": 2689,
+          "name": "65-66",
+          "size": 22250386,
+          "telegram_link": "https://t.me/manhuasgratis/2689"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            67
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#67]   Mago Prismático Genio.pdf",
+          "first": 67,
+          "last": 67,
+          "message_id": 2690,
+          "name": "67",
+          "size": 13324186,
+          "telegram_link": "https://t.me/manhuasgratis/2690"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            68,
+            69
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#68-69]   Mago Prismático Genio.pdf",
+          "first": 68,
+          "last": 69,
+          "message_id": 2691,
+          "name": "68-69",
+          "size": 22660113,
+          "telegram_link": "https://t.me/manhuasgratis/2691"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            70
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#70]   Mago Prismático Genio.pdf",
+          "first": 70,
+          "last": 70,
+          "message_id": 2692,
+          "name": "70",
+          "size": 11641387,
+          "telegram_link": "https://t.me/manhuasgratis/2692"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#71-72]   Mago Prismático Genio.pdf",
+          "first": 71,
+          "last": 72,
+          "message_id": 2693,
+          "name": "71-72",
+          "size": 23473773,
+          "telegram_link": "https://t.me/manhuasgratis/2693"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            73
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#73]   Mago Prismático Genio.pdf",
+          "first": 73,
+          "last": 73,
+          "message_id": 2694,
+          "name": "73",
+          "size": 11448547,
+          "telegram_link": "https://t.me/manhuasgratis/2694"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            74
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#74]   Mago Prismático Genio.pdf",
+          "first": 74,
+          "last": 74,
+          "message_id": 2695,
+          "name": "74",
+          "size": 12961711,
+          "telegram_link": "https://t.me/manhuasgratis/2695"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            75
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#75]   Mago Prismático Genio.pdf",
+          "first": 75,
+          "last": 75,
+          "message_id": 2696,
+          "name": "75",
+          "size": 13547858,
+          "telegram_link": "https://t.me/manhuasgratis/2696"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            76
+          ],
+          "date": "2026-08-23T15:30:38+00:00",
+          "download_ready": true,
+          "filename": "[#76]   Mago Prismático Genio.pdf",
+          "first": 76,
+          "last": 76,
+          "message_id": 2697,
+          "name": "76",
+          "size": 11256530,
+          "telegram_link": "https://t.me/manhuasgratis/2697"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            77
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#77]   Mago Prismático Genio.pdf",
+          "first": 77,
+          "last": 77,
+          "message_id": 2698,
+          "name": "77",
+          "size": 11015207,
+          "telegram_link": "https://t.me/manhuasgratis/2698"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            78
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#78]   Mago Prismático Genio.pdf",
+          "first": 78,
+          "last": 78,
+          "message_id": 2699,
+          "name": "78",
+          "size": 12012102,
+          "telegram_link": "https://t.me/manhuasgratis/2699"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            79
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#79]   Mago Prismático Genio.pdf",
+          "first": 79,
+          "last": 79,
+          "message_id": 2700,
+          "name": "79",
+          "size": 11851977,
+          "telegram_link": "https://t.me/manhuasgratis/2700"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            80
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#80]   Mago Prismático Genio.pdf",
+          "first": 80,
+          "last": 80,
+          "message_id": 2701,
+          "name": "80",
+          "size": 12410489,
+          "telegram_link": "https://t.me/manhuasgratis/2701"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#81]   Mago Prismático Genio.pdf",
+          "first": 81,
+          "last": 81,
+          "message_id": 2702,
+          "name": "81",
+          "size": 11297143,
+          "telegram_link": "https://t.me/manhuasgratis/2702"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            82
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#82]   Mago Prismático Genio.pdf",
+          "first": 82,
+          "last": 82,
+          "message_id": 2703,
+          "name": "82",
+          "size": 11768284,
+          "telegram_link": "https://t.me/manhuasgratis/2703"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            83
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#83]   Mago Prismático Genio.pdf",
+          "first": 83,
+          "last": 83,
+          "message_id": 2704,
+          "name": "83",
+          "size": 12030958,
+          "telegram_link": "https://t.me/manhuasgratis/2704"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            84
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#84]   Mago Prismático Genio.pdf",
+          "first": 84,
+          "last": 84,
+          "message_id": 2705,
+          "name": "84",
+          "size": 15030758,
+          "telegram_link": "https://t.me/manhuasgratis/2705"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            85
+          ],
+          "date": "2026-08-23T15:30:39+00:00",
+          "download_ready": true,
+          "filename": "[#85]   Mago Prismático Genio.pdf",
+          "first": 85,
+          "last": 85,
+          "message_id": 2706,
+          "name": "85",
+          "size": 10806379,
+          "telegram_link": "https://t.me/manhuasgratis/2706"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            86
+          ],
+          "date": "2026-08-23T15:31:03+00:00",
+          "download_ready": true,
+          "filename": "[#86]   Mago Prismático Genio.pdf",
+          "first": 86,
+          "last": 86,
+          "message_id": 2707,
+          "name": "86",
+          "size": 12011502,
+          "telegram_link": "https://t.me/manhuasgratis/2707"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            87
+          ],
+          "date": "2026-08-23T15:31:06+00:00",
+          "download_ready": true,
+          "filename": "[#87]   Mago Prismático Genio.pdf",
+          "first": 87,
+          "last": 87,
+          "message_id": 2708,
+          "name": "87",
+          "size": 10827266,
+          "telegram_link": "https://t.me/manhuasgratis/2708"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            88
+          ],
+          "date": "2026-08-23T15:31:09+00:00",
+          "download_ready": true,
+          "filename": "[#88]   Mago Prismático Genio.pdf",
+          "first": 88,
+          "last": 88,
+          "message_id": 2709,
+          "name": "88",
+          "size": 11604226,
+          "telegram_link": "https://t.me/manhuasgratis/2709"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            89
+          ],
+          "date": "2026-08-23T15:31:11+00:00",
+          "download_ready": true,
+          "filename": "[#89]   Mago Prismático Genio.pdf",
+          "first": 89,
+          "last": 89,
+          "message_id": 2710,
+          "name": "89",
+          "size": 11561397,
+          "telegram_link": "https://t.me/manhuasgratis/2710"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            90
+          ],
+          "date": "2026-08-23T15:31:14+00:00",
+          "download_ready": true,
+          "filename": "[#90]   Mago Prismático Genio.pdf",
+          "first": 90,
+          "last": 90,
+          "message_id": 2711,
+          "name": "90",
+          "size": 11636900,
+          "telegram_link": "https://t.me/manhuasgratis/2711"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91
+          ],
+          "date": "2026-08-29T01:36:45+00:00",
+          "download_ready": true,
+          "filename": "[#91]   Mago Prismático Genio.pdf",
+          "first": 91,
+          "last": 91,
+          "message_id": 3834,
+          "name": "91",
+          "size": 12464382,
+          "telegram_link": "https://t.me/manhuasgratis/3834"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            92
+          ],
+          "date": "2026-09-08T21:49:14+00:00",
+          "download_ready": true,
+          "filename": "[#92]   Mago Prismático Genio.pdf",
+          "first": 92,
+          "last": 92,
+          "message_id": 4350,
+          "name": "92",
+          "size": 11933913,
+          "telegram_link": "https://t.me/manhuasgratis/4350"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            93
+          ],
+          "date": "2026-09-13T22:15:30+00:00",
+          "download_ready": true,
+          "filename": "[#93]   Mago Prismático Genio.pdf",
+          "first": 93,
+          "last": 93,
+          "message_id": 4527,
+          "name": "93",
+          "size": 11809922,
+          "telegram_link": "https://t.me/manhuasgratis/4527"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            94
+          ],
+          "date": "2026-09-21T14:06:45+00:00",
+          "download_ready": true,
+          "filename": "[#94]   Mago Prismático Genio.pdf",
+          "first": 94,
+          "last": 94,
+          "message_id": 4609,
+          "name": "94",
+          "size": 11619820,
+          "telegram_link": "https://t.me/manhuasgratis/4609"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            95
+          ],
+          "date": "2026-09-27T15:16:35+00:00",
+          "download_ready": true,
+          "filename": "[#95]   Mago Prismático Genio.pdf",
+          "first": 95,
+          "last": 95,
+          "message_id": 4649,
+          "name": "95",
+          "size": 12823499,
+          "telegram_link": "https://t.me/manhuasgratis/4649"
+        }
+      ],
+      "synopsis": "En los barrios bajos vivía un joven llamado Ray que carecía de emociones.\nDe repente, adquirió la capacidad de ver \"colores\" que nadie más podía ver, y tenía el poder de controlarlos.\nUn día, perdió su refugio, un paso subterráneo, y a sus amigos a manos de un mago. Incluso perdió a Niles, en quien había creído y a quien seguía.\nEl chico sin emociones juró vengarse, comenzando su búsqueda para recuperar sus emociones.",
+      "visible": false
+    },
+    {
+      "added_at": "2026-08-29T03:35:17+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/nigromante_la_llegada_del_desastre.jpg",
+      "cover_message_id": 18,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/18",
+      "genres": [],
+      "hashtag": "#Nigromante_la_Llegada_del_Desastre",
+      "id": "nigromante_la_llegada_del_desastre",
+      "latest_chapter": 309,
+      "name": "Nigromante la Llegada del Desastre",
+      "package_count": 46,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "01_10 Nigromante, la llegada del desastre.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 3904,
+          "name": "1-10",
+          "size": 158480972,
+          "telegram_link": "https://t.me/manhuasgratis/3904"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "11_20 Nigromante, la llegada del desastre.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 3905,
+          "name": "11-20",
+          "size": 122870710,
+          "telegram_link": "https://t.me/manhuasgratis/3905"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "21_30 Nigromante, la llegada del desastre.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 3906,
+          "name": "21-30",
+          "size": 117567556,
+          "telegram_link": "https://t.me/manhuasgratis/3906"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "31_40 Nigromante, la llegada del desastre.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 3907,
+          "name": "31-40",
+          "size": 93450664,
+          "telegram_link": "https://t.me/manhuasgratis/3907"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "41_50 Nigromante, la llegada del desastre.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 3908,
+          "name": "41-50",
+          "size": 97370564,
+          "telegram_link": "https://t.me/manhuasgratis/3908"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "51_60 Nigromante, la llegada del desastre.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 3909,
+          "name": "51-60",
+          "size": 99093618,
+          "telegram_link": "https://t.me/manhuasgratis/3909"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "61_70 Nigromante, la llegada del desastre.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 3910,
+          "name": "61-70",
+          "size": 116816374,
+          "telegram_link": "https://t.me/manhuasgratis/3910"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "71_80 Nigromante, la Llegada del Desastre.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 3911,
+          "name": "71-80",
+          "size": 87144839,
+          "telegram_link": "https://t.me/manhuasgratis/3911"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "81_90 Nigromante, la Llegada del Desastre.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 3912,
+          "name": "81-90",
+          "size": 110580952,
+          "telegram_link": "https://t.me/manhuasgratis/3912"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "91_100 Nigromante, la Llegada del Desastre.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 3913,
+          "name": "91-100",
+          "size": 100228810,
+          "telegram_link": "https://t.me/manhuasgratis/3913"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "101_110 Nigromante, la Llegada del Desastre.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 3914,
+          "name": "101-110",
+          "size": 98290763,
+          "telegram_link": "https://t.me/manhuasgratis/3914"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "111_120 Nigromante, la Llegada del Desastre.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 3915,
+          "name": "111-120",
+          "size": 97162856,
+          "telegram_link": "https://t.me/manhuasgratis/3915"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "121_130 Nigromante, la Llegada del Desastre.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 3916,
+          "name": "121-130",
+          "size": 85361359,
+          "telegram_link": "https://t.me/manhuasgratis/3916"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "131_140 Nigromante, la Llegada del Desastre.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 3917,
+          "name": "131-140",
+          "size": 63992315,
+          "telegram_link": "https://t.me/manhuasgratis/3917"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "141_150 Nigromante, la Llegada del Desastre.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 3918,
+          "name": "141-150",
+          "size": 43693058,
+          "telegram_link": "https://t.me/manhuasgratis/3918"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "151_160 Nigromante, la Llegada del Desastre.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 3919,
+          "name": "151-160",
+          "size": 43795272,
+          "telegram_link": "https://t.me/manhuasgratis/3919"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-08-29T03:35:17+00:00",
+          "download_ready": true,
+          "filename": "161_170 Nigromante, la Llegada del Desastre.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 3920,
+          "name": "161-170",
+          "size": 79942027,
+          "telegram_link": "https://t.me/manhuasgratis/3920"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "171_180 Nigromante, la Llegada del Desastre.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 3921,
+          "name": "171-180",
+          "size": 69584230,
+          "telegram_link": "https://t.me/manhuasgratis/3921"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "181_190 Nigromante, la Llegada del Desastre.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 3922,
+          "name": "181-190",
+          "size": 67697721,
+          "telegram_link": "https://t.me/manhuasgratis/3922"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "191_200 Nigromante, la Llegada del Desastre.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 3923,
+          "name": "191-200",
+          "size": 76997326,
+          "telegram_link": "https://t.me/manhuasgratis/3923"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "201_210 Nigromante, la Llegada del Desastre.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 3924,
+          "name": "201-210",
+          "size": 98458013,
+          "telegram_link": "https://t.me/manhuasgratis/3924"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "211_220 Nigromante, la Llegada del Desastre.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 3925,
+          "name": "211-220",
+          "size": 71100079,
+          "telegram_link": "https://t.me/manhuasgratis/3925"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "221_230 Nigromante, la Llegada del Desastre.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 3926,
+          "name": "221-230",
+          "size": 82832703,
+          "telegram_link": "https://t.me/manhuasgratis/3926"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "231_240 Nigromante, la Llegada del Desastre.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 3927,
+          "name": "231-240",
+          "size": 77060157,
+          "telegram_link": "https://t.me/manhuasgratis/3927"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "241_247 Nigromante, la Llegada del Desastre.pdf",
+          "first": 241,
+          "last": 247,
+          "message_id": 3928,
+          "name": "241-247",
+          "size": 60922257,
+          "telegram_link": "https://t.me/manhuasgratis/3928"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            248
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "248 Nigromante, la Llegada del Desastre.pdf",
+          "first": 248,
+          "last": 248,
+          "message_id": 3929,
+          "name": "248",
+          "size": 7807717,
+          "telegram_link": "https://t.me/manhuasgratis/3929"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            249,
+            250
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "249_250 Nigromante, la Llegada del Desastre.pdf",
+          "first": 249,
+          "last": 250,
+          "message_id": 3930,
+          "name": "249-250",
+          "size": 17209515,
+          "telegram_link": "https://t.me/manhuasgratis/3930"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251,
+            252,
+            253,
+            254
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "251_254 Nigromante, la Llegada del Desastre.pdf",
+          "first": 251,
+          "last": 254,
+          "message_id": 3931,
+          "name": "251-254",
+          "size": 27843246,
+          "telegram_link": "https://t.me/manhuasgratis/3931"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            255
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "255 Nigromante, la Llegada del Desastre.pdf",
+          "first": 255,
+          "last": 255,
+          "message_id": 3932,
+          "name": "255",
+          "size": 7760246,
+          "telegram_link": "https://t.me/manhuasgratis/3932"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            256,
+            257,
+            258,
+            259
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "256_259 Nigromante, la Llegada del Desastre.pdf",
+          "first": 256,
+          "last": 259,
+          "message_id": 3933,
+          "name": "256-259",
+          "size": 26184727,
+          "telegram_link": "https://t.me/manhuasgratis/3933"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            260,
+            261,
+            262,
+            263
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "260_263 Nigromante, la Llegada del Desastre.pdf",
+          "first": 260,
+          "last": 263,
+          "message_id": 3934,
+          "name": "260-263",
+          "size": 37541144,
+          "telegram_link": "https://t.me/manhuasgratis/3934"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            264,
+            265
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "264_265 Nigromante, la Llegada del Desastre.pdf",
+          "first": 264,
+          "last": 265,
+          "message_id": 3935,
+          "name": "264-265",
+          "size": 15266482,
+          "telegram_link": "https://t.me/manhuasgratis/3935"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            266,
+            267,
+            268,
+            269
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "266_269 Nigromante, la Llegada del Desastre.pdf",
+          "first": 266,
+          "last": 269,
+          "message_id": 3936,
+          "name": "266-269",
+          "size": 27219211,
+          "telegram_link": "https://t.me/manhuasgratis/3936"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            270,
+            271,
+            272,
+            273
+          ],
+          "date": "2026-08-29T03:35:18+00:00",
+          "download_ready": true,
+          "filename": "270_273 Nigromante, la Llegada del Desastre.pdf",
+          "first": 270,
+          "last": 273,
+          "message_id": 3937,
+          "name": "270-273",
+          "size": 34953204,
+          "telegram_link": "https://t.me/manhuasgratis/3937"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            274,
+            275
+          ],
+          "date": "2026-08-29T03:35:19+00:00",
+          "download_ready": true,
+          "filename": "274_275 Nigromante, la Llegada del Desastre.pdf",
+          "first": 274,
+          "last": 275,
+          "message_id": 3938,
+          "name": "274-275",
+          "size": 21137846,
+          "telegram_link": "https://t.me/manhuasgratis/3938"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            276,
+            277,
+            278,
+            279,
+            280,
+            281
+          ],
+          "date": "2026-08-29T03:35:19+00:00",
+          "download_ready": true,
+          "filename": "276_281 Nigromante, La Llegada del Desastre.pdf",
+          "first": 276,
+          "last": 281,
+          "message_id": 3939,
+          "name": "276-281",
+          "size": 44086864,
+          "telegram_link": "https://t.me/manhuasgratis/3939"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            282,
+            283,
+            284,
+            285
+          ],
+          "date": "2026-08-29T03:35:19+00:00",
+          "download_ready": true,
+          "filename": "282_285 Nigromante, la Llegada del Desastre.pdf",
+          "first": 282,
+          "last": 285,
+          "message_id": 3940,
+          "name": "282-285",
+          "size": 29795645,
+          "telegram_link": "https://t.me/manhuasgratis/3940"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            286,
+            287,
+            288
+          ],
+          "date": "2026-08-29T03:35:19+00:00",
+          "download_ready": true,
+          "filename": "286_288 Nigromante, la Llegada del Desastre.pdf",
+          "first": 286,
+          "last": 288,
+          "message_id": 3941,
+          "name": "286-288",
+          "size": 23179931,
+          "telegram_link": "https://t.me/manhuasgratis/3941"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            289
+          ],
+          "date": "2026-08-29T03:36:12+00:00",
+          "download_ready": true,
+          "filename": "[289] Nigromante la Llegada, del Desastre.pdf",
+          "first": 289,
+          "last": 289,
+          "message_id": 3942,
+          "name": "289",
+          "size": 8423082,
+          "telegram_link": "https://t.me/manhuasgratis/3942"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            290,
+            291
+          ],
+          "date": "2026-08-29T03:36:14+00:00",
+          "download_ready": true,
+          "filename": "[290-291] Nigromante la Llegada, del Desastre.pdf",
+          "first": 290,
+          "last": 291,
+          "message_id": 3943,
+          "name": "290-291",
+          "size": 12862310,
+          "telegram_link": "https://t.me/manhuasgratis/3943"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            292,
+            293,
+            294,
+            295,
+            296
+          ],
+          "date": "2026-08-29T03:36:16+00:00",
+          "download_ready": true,
+          "filename": "292_296 Nigromante, la Llegada del Desastre.pdf",
+          "first": 292,
+          "last": 296,
+          "message_id": 3944,
+          "name": "292-296",
+          "size": 39434003,
+          "telegram_link": "https://t.me/manhuasgratis/3944"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            297,
+            298,
+            299
+          ],
+          "date": "2026-08-29T03:36:18+00:00",
+          "download_ready": true,
+          "filename": "297_299 Nigromante, la Llegada del Desastre.pdf",
+          "first": 297,
+          "last": 299,
+          "message_id": 3945,
+          "name": "297-299",
+          "size": 23781260,
+          "telegram_link": "https://t.me/manhuasgratis/3945"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            300
+          ],
+          "date": "2026-08-29T03:36:21+00:00",
+          "download_ready": true,
+          "filename": "300 Nigromante, la Llegada del Desastre .pdf",
+          "first": 300,
+          "last": 300,
+          "message_id": 3946,
+          "name": "300",
+          "size": 8090896,
+          "telegram_link": "https://t.me/manhuasgratis/3946"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306
+          ],
+          "date": "2026-09-18T11:47:29+00:00",
+          "download_ready": true,
+          "filename": "301-306 Nigromante, la Llegada del Desastre -.-.pdf",
+          "first": 301,
+          "last": 306,
+          "message_id": 4559,
+          "name": "301-306",
+          "size": 26536043,
+          "telegram_link": "https://t.me/manhuasgratis/4559"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            307,
+            308
+          ],
+          "date": "2026-09-23T14:58:12+00:00",
+          "download_ready": true,
+          "filename": "[307-308] Nigromante la Llegada, del Desastre.pdf",
+          "first": 307,
+          "last": 308,
+          "message_id": 4618,
+          "name": "307-308",
+          "size": 12712566,
+          "telegram_link": "https://t.me/manhuasgratis/4618"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            309
+          ],
+          "date": "2026-09-29T12:12:58+00:00",
+          "download_ready": true,
+          "filename": "[309] Nigromante la Llegada, del Desastre.pdf",
+          "first": 309,
+          "last": 309,
+          "message_id": 4664,
+          "name": "309",
+          "size": 8403287,
+          "telegram_link": "https://t.me/manhuasgratis/4664"
+        }
+      ],
+      "synopsis": "El juego ha llegado a la realidad y las reglas del mundo han cambiado completamente, haciendo que la humanidad entre en una era de profesiones que lo cambia todo. ¡Solo obteniendo una profesión puedes subir de nivel y volverte fuerte y pararte en la cima del mundo! En el día del cambio de trabajo, Lin Moyu obtuvo la única profesión oculta, la de nigromante. Desde entonces, las cosas invocadas nunca mueren y Lin Moyu tampoco Muere. “Me siento en el trono de huesos mientras camino entre la vida y la muerte”",
+      "visible": false
     }
   ],
   "source": {
@@ -4570,6 +7433,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-06T13:12:57.770433+00:00",
+  "updated_at": "2026-10-06T14:05:07.707375+00:00",
   "version": 3
 }
