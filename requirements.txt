@@ -1,5 +1,6 @@
-telethon==1.36.0
+telethon==1.45.0
 requests==2.32.3
 python-dotenv==1.0.1
 bhdownloader
 curl_cffi
+cryptg
