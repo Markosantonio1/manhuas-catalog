@@ -1,12 +1,13 @@
 # uploader_buzzheavier.py
 # PLAN B: sube a BuzzHeavier y guarda el ID del archivo en el catálogo.
-# El script local (enlace.py) obtiene los enlaces directos después.
+# Incluye verificación previa de URLs existentes (auto-limpieza).
 #
 # Fusiona:
+#   - VERIFICACIÓN de URLs existentes (auto-limpieza)
 #   - Reintentos de descarga y conexión (robusto para GitHub Actions)
-#   - gc.collect() entre paquetes (evita acumulación de memoria)
-#   - Pausa de 3s entre paquetes (evita saturar Telegram)
-#   - finally con checkpoint (guarda progreso aunque falle a mitad)
+#   - gc.collect() entre paquetes
+#   - Pausa de 3s entre paquetes
+#   - finally con checkpoint
 
 import asyncio
 import gc
@@ -15,6 +16,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import quote
@@ -49,9 +51,15 @@ MAIN_CHANNEL = "manhuasgratis"
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
 UPLOAD_TIMEOUT = 900
-DOWNLOAD_MAX_ATTEMPTS = 3       # Reintentos por descarga
-DOWNLOAD_RETRY_DELAY = 5        # Segundos entre reintentos
-PAUSE_BETWEEN_PACKAGES = 3      # Segundos entre paquetes
+DOWNLOAD_MAX_ATTEMPTS = 3
+DOWNLOAD_RETRY_DELAY = 5
+PAUSE_BETWEEN_PACKAGES = 3
+
+# --- Verificación de URLs existentes ---
+VERIFY_URLS = os.getenv("VERIFY_URLS", "1") == "1"
+VERIFY_TIMEOUT = 20
+VERIFY_WORKERS = 10
+VERIFY_RETRY = 1
 
 
 # ============================================================
@@ -101,14 +109,130 @@ def find_packages_without_url(catalog: dict) -> list:
 
 
 # ============================================================
+# VERIFICACIÓN DE URLs EXISTENTES (AUTO-LIMPIEZA)
+# ============================================================
+
+def _check_url_alive(url: str) -> str:
+    """
+    Devuelve:
+      "alive"    → 200/206 → la URL funciona
+      "dead"     → 403/404/410 → murió, hay que resubir
+      "unknown"  → error de red, timeout, 5xx → NO borrar (falso positivo)
+    """
+    for attempt in range(VERIFY_RETRY + 1):
+        try:
+            headers = {
+                "Range": "bytes=0-0",
+                "User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0",
+            }
+            r = requests.get(
+                url,
+                headers=headers,
+                timeout=VERIFY_TIMEOUT,
+                allow_redirects=True,
+                stream=True,
+            )
+            status = r.status_code
+            r.close()
+
+            if status in (200, 206):
+                return "alive"
+            if status in (403, 404, 410):
+                return "dead"
+            if 500 <= status < 600:
+                if attempt < VERIFY_RETRY:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+                return "unknown"
+            return "unknown"
+
+        except requests.exceptions.Timeout:
+            if attempt < VERIFY_RETRY:
+                time.sleep(2 * (attempt + 1))
+                continue
+            return "unknown"
+        except Exception:
+            return "unknown"
+
+    return "unknown"
+
+
+def verify_and_clean_catalog(catalog: dict) -> dict:
+    """
+    Verifica todas las download_url existentes.
+    Borra las muertas junto con su buzzheavier_id para que se resuban.
+    """
+    targets = []
+    for list_key in ("series", "novels"):
+        for series in catalog.get(list_key, []):
+            for pack in series.get("packages", []):
+                url = pack.get("download_url")
+                if url and str(url).strip():
+                    targets.append((series, pack, str(url)))
+
+    total = len(targets)
+    print(f"\n🔍 Verificando {total} URLs de descarga existentes...")
+
+    if total == 0:
+        return {"total": 0, "alive": 0, "dead": 0, "unknown": 0}
+
+    alive = 0
+    dead = 0
+    unknown = 0
+    dead_list = []
+
+    with ThreadPoolExecutor(max_workers=VERIFY_WORKERS) as executor:
+        futures = {
+            executor.submit(_check_url_alive, url): (series, pack, url)
+            for series, pack, url in targets
+        }
+
+        done = 0
+        for future in as_completed(futures):
+            done += 1
+            series, pack, url = futures[future]
+            try:
+                result = future.result()
+            except Exception:
+                result = "unknown"
+
+            if result == "alive":
+                alive += 1
+            elif result == "dead":
+                dead += 1
+                dead_list.append((series, pack, url))
+            else:
+                unknown += 1
+
+            if done % 20 == 0 or done == total:
+                print(
+                    f"   [{done}/{total}] "
+                    f"✅ {alive} vivas · "
+                    f"💀 {dead} muertas · "
+                    f"⚠️  {unknown} sin verificar"
+                )
+
+    for series, pack, url in dead_list:
+        pack.pop("download_url", None)
+        pack.pop("buzzheavier_id", None)
+        print(
+            f"   💀 Muerta: {series.get('name','?')} "
+            f"→ {pack.get('name','?')} (se resubirá)"
+        )
+
+    return {
+        "total": total,
+        "alive": alive,
+        "dead": dead,
+        "unknown": unknown,
+    }
+
+
+# ============================================================
 # CREAR CLIENTE TELEGRAM
 # ============================================================
 
 def create_telegram_client() -> TelegramClient:
-    """
-    Cliente con reintentos de conexión agresivos.
-    Esto evita el CancelledError cuando la conexión se corta.
-    """
     return TelegramClient(
         StringSession(TELEGRAM_SESSION_STR),
         API_ID,
@@ -129,10 +253,6 @@ async def download_media_with_retry(
     message_id: int,
     local_path: Path,
 ) -> bool:
-    """
-    Descarga un archivo de Telegram con reintentos.
-    Devuelve True si tuvo éxito, False si todos los intentos fallaron.
-    """
     for attempt in range(1, DOWNLOAD_MAX_ATTEMPTS + 1):
         try:
             print(f"    ↓ Intento {attempt}/{DOWNLOAD_MAX_ATTEMPTS}...")
@@ -146,7 +266,6 @@ async def download_media_with_retry(
                 print(f"    ⚠ Mensaje {message_id} sin archivo")
                 return False
 
-            # Limpiar archivo previo si existe (evita conflictos)
             if local_path.exists():
                 try:
                     local_path.unlink()
@@ -185,7 +304,6 @@ async def download_media_with_retry(
 # ============================================================
 
 def _make_upload_session() -> requests.Session:
-    """Sesión requests con retry a nivel socket (SSL incluido)."""
     session = requests.Session()
     session.headers.update({
         "User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0",
@@ -197,7 +315,7 @@ def _make_upload_session() -> requests.Session:
         total=3,
         connect=3,
         read=3,
-        backoff_factor=2,                        # 2s, 4s, 8s
+        backoff_factor=2,
         status_forcelist=[429, 500, 502, 503, 504],
         allowed_methods=["PUT", "POST"],
         raise_on_status=False,
@@ -209,7 +327,6 @@ def _make_upload_session() -> requests.Session:
 
 
 def _safe_url_name(filename: str) -> str:
-    """Nombre seguro para URL: sin #, [], {} ni espacios múltiples."""
     safe = sanitize_filename(filename)
     safe = re.sub(r"[#\[\]{}()<>\"'`|\\^~]", "_", safe)
     safe = re.sub(r"\s+", " ", safe).strip()
@@ -217,10 +334,6 @@ def _safe_url_name(filename: str) -> str:
 
 
 def upload_to_buzzheavier(local_path: Path, max_attempts: int = 3) -> str | None:
-    """
-    Sube el archivo a BuzzHeavier con reintentos.
-    Devuelve SOLO el ID del archivo subido.
-    """
     filename = _safe_url_name(local_path.name)
     encoded_name = quote(filename, safe="")
     upload_url = f"https://w.buzzheavier.com/{encoded_name}"
@@ -297,7 +410,7 @@ def upload_to_buzzheavier(local_path: Path, max_attempts: int = 3) -> str | None
 async def main():
     print("========================================")
     print("UPLOADER BUZZHEAVIER — GitHub Actions")
-    print("(Plan B con reintentos y checkpoint)")
+    print("(Verificación + reintentos + checkpoint)")
     print("========================================")
 
     if not TELEGRAM_SESSION_STR:
@@ -320,12 +433,49 @@ async def main():
     print(f"✓ Conectado como: {me.first_name} (@{me.username})")
 
     catalog = load_catalog()
+
+    # --------------------------------------------------------
+    # FASE 1: VERIFICAR URLs EXISTENTES
+    # --------------------------------------------------------
+    verify_stats = {"total": 0, "alive": 0, "dead": 0, "unknown": 0}
+
+    if VERIFY_URLS:
+        try:
+            verify_stats = verify_and_clean_catalog(catalog)
+
+            if verify_stats["dead"] > 0:
+                save_catalog_output(catalog)
+                print(f"✓ {verify_stats['dead']} URLs muertas eliminadas del catálogo")
+        except Exception as exc:
+            print(f"⚠ Error verificando URLs: {type(exc).__name__}: {exc}")
+            print("   Continuando sin verificación...")
+    else:
+        print("ℹ Verificación de URLs desactivada (VERIFY_URLS=0)")
+
+    # --------------------------------------------------------
+    # FASE 2: PROCESAR PENDIENTES
+    # --------------------------------------------------------
     pending = find_packages_without_url(catalog)
     total = len(pending)
-    print(f"Paquetes sin subir detectados: {total}")
+    print(f"\nPaquetes sin subir detectados: {total}")
 
     if total == 0:
-        print("Nada que procesar.")
+        print("Nada que procesar. Enviando reporte igual.")
+
+        try:
+            await send_report(
+                client,
+                verify_stats,
+                success_count=0,
+                fail_count=0,
+                processed=0,
+                total=0,
+                remaining=0,
+                series_stats={},
+            )
+        except Exception as exc:
+            print(f"⚠ Error enviando reporte: {exc}")
+
         await client.disconnect()
         return
 
@@ -367,9 +517,6 @@ async def main():
                 fail_count += 1
                 continue
 
-            # ------------------------------------------------
-            # Descargar con reintentos
-            # ------------------------------------------------
             ok = await download_media_with_retry(
                 client,
                 message_id,
@@ -380,7 +527,6 @@ async def main():
                 print("    ✗ Descarga fallida tras reintentos")
                 series_stats[series_id]["fail"] += 1
                 fail_count += 1
-
                 if local_file.exists():
                     try:
                         local_file.unlink()
@@ -388,9 +534,6 @@ async def main():
                         pass
                 continue
 
-            # ------------------------------------------------
-            # Subir a BuzzHeavier
-            # ------------------------------------------------
             buzz_id = upload_to_buzzheavier(local_file)
 
             if buzz_id:
@@ -403,99 +546,45 @@ async def main():
                 fail_count += 1
                 print("    ✗ FALLÓ LA SUBIDA")
 
-            # Limpiar archivo temporal
             try:
                 if local_file.exists():
                     local_file.unlink()
             except OSError:
                 pass
 
-            # Forzar recolección de basura
             gc.collect()
 
-            # Checkpoint tras cada paquete
-            # (guarda estado aunque el runner se corte después)
             try:
                 save_catalog_output(catalog)
             except Exception as exc:
                 print(f"    ⚠ No se pudo guardar checkpoint: {exc}")
 
-            # Pausa entre paquetes (anti-saturación Telegram)
             if idx < len(to_process):
                 print(f"    ⏸  Pausa de {PAUSE_BETWEEN_PACKAGES}s...")
                 await asyncio.sleep(PAUSE_BETWEEN_PACKAGES)
 
     finally:
-        # ----------------------------------------------------
-        # Checkpoint final: SIEMPRE guardamos lo procesado
-        # ----------------------------------------------------
         try:
             save_catalog_output(catalog)
             print("✓ Checkpoint final guardado.")
         except Exception as exc:
             print(f"⚠ No se pudo guardar checkpoint final: {exc}")
 
-        # ----------------------------------------------------
-        # Reporte
-        # ----------------------------------------------------
         remaining = total - len(to_process)
 
-        report_lines = [
-            "📊 *Uploader BuzzHeavier — Reporte (Plan B)*",
-            f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}",
-            "",
-            f"✅ Subidos: {success_count}",
-            f"❌ Fallidos: {fail_count}",
-            f"📦 Procesados: {len(to_process)} de {total}",
-        ]
-
-        if remaining > 0:
-            report_lines.append(f"⏳ Pendientes: {remaining}")
-
-        report_lines.append("")
-        report_lines.append("*Detalle por serie:*")
-
-        for _sid, stats in sorted(
-            series_stats.items(),
-            key=lambda x: x[1]["name"],
-        ):
-            vis_tag = "" if stats.get("visible", True) else " (oculta)"
-            line = f"• {stats['name']}{vis_tag}: {stats['success']} ✓"
-
-            if stats["fail"] > 0:
-                line += f", {stats['fail']} ✗"
-
-            report_lines.append(line)
-
-        report_lines.append("")
-        report_lines.append(
-            "➡ Descarga el archivo adjunto y ejecútalo con `enlace.py`."
-        )
-
-        report = "\n".join(report_lines)
-
         try:
-            print(f"\nEnviando reporte a {NOTIFY_USERNAME}...")
-            await client.send_message(
-                NOTIFY_USERNAME,
-                report,
-                parse_mode="md",
+            await send_report(
+                client,
+                verify_stats,
+                success_count=success_count,
+                fail_count=fail_count,
+                processed=len(to_process),
+                total=total,
+                remaining=remaining,
+                series_stats=series_stats,
             )
-            print("✓ Reporte enviado.")
-
-            await client.send_file(
-                NOTIFY_USERNAME,
-                str(CATALOG_OUTPUT_FILE),
-                caption=(
-                    "📎 Catálogo con IDs de BuzzHeavier.\n"
-                    "Descárgalo, renómbralo a `catalog_con_ids.json` "
-                    "y ejecuta `enlace.py` en tu PC."
-                ),
-            )
-            print("✓ Catálogo enviado.")
-
         except Exception as exc:
-            print(f"⚠ Error al enviar por Telegram: {exc}")
+            print(f"⚠ Error al enviar reporte: {exc}")
 
         try:
             await client.disconnect()
@@ -505,6 +594,74 @@ async def main():
     print("\n========================================")
     print("PROCESO COMPLETADO")
     print("========================================")
+
+
+async def send_report(
+    client: TelegramClient,
+    verify_stats: dict,
+    success_count: int,
+    fail_count: int,
+    processed: int,
+    total: int,
+    remaining: int,
+    series_stats: dict,
+):
+    report_lines = [
+        "📊 *Uploader BuzzHeavier — Reporte*",
+        f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}",
+        "",
+    ]
+
+    if verify_stats.get("total", 0) > 0:
+        report_lines.append("🔍 *Verificación de URLs existentes:*")
+        report_lines.append(f"   Total: {verify_stats['total']}")
+        report_lines.append(f"   ✅ Vivas: {verify_stats['alive']}")
+        report_lines.append(f"   💀 Muertas (se resubirán): {verify_stats['dead']}")
+        report_lines.append(f"   ⚠️  Sin verificar (red): {verify_stats['unknown']}")
+        report_lines.append("")
+
+    report_lines.append("📦 *Subida de nuevos:*")
+    report_lines.append(f"   ✅ Subidos: {success_count}")
+    report_lines.append(f"   ❌ Fallidos: {fail_count}")
+    report_lines.append(f"   📊 Procesados: {processed} de {total}")
+
+    if remaining > 0:
+        report_lines.append(f"   ⏳ Pendientes para próximas corridas: {remaining}")
+
+    if series_stats:
+        report_lines.append("")
+        report_lines.append("*Detalle por serie:*")
+        for _sid, stats in sorted(
+            series_stats.items(),
+            key=lambda x: x[1]["name"],
+        ):
+            vis_tag = "" if stats.get("visible", True) else " (oculta)"
+            line = f"• {stats['name']}{vis_tag}: {stats['success']} ✓"
+            if stats["fail"] > 0:
+                line += f", {stats['fail']} ✗"
+            report_lines.append(line)
+
+    report_lines.append("")
+    report_lines.append(
+        "➡ Descarga el archivo adjunto y ejecútalo con `enlace.py`."
+    )
+
+    report = "\n".join(report_lines)
+
+    print(f"\nEnviando reporte a {NOTIFY_USERNAME}...")
+    await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
+    print("✓ Reporte enviado.")
+
+    await client.send_file(
+        NOTIFY_USERNAME,
+        str(CATALOG_OUTPUT_FILE),
+        caption=(
+            "📎 Catálogo con IDs de BuzzHeavier.\n"
+            "Descárgalo, renómbralo a `catalog_con_ids.json` "
+            "y ejecuta `enlace.py` en tu PC."
+        ),
+    )
+    print("✓ Catálogo enviado.")
 
 
 # ============================================================
