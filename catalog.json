@@ -1589,7 +1589,7 @@
         }
       ],
       "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-06T03:00:42.604130+00:00",
@@ -4566,6 +4566,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-06T05:07:46.195669+00:00",
+  "updated_at": "2026-10-06T12:51:43.552920+00:00",
   "version": 3
 }
