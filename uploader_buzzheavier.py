@@ -14,11 +14,15 @@ import json
 import os
 import re
 import sys
+import time
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import quote
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
@@ -177,82 +181,113 @@ async def download_media_with_retry(
 
 
 # ============================================================
-# SUBIDA A BUZZHEAVIER
+# SUBIDA A BUZZHEAVIER (CON RETRY Y NOMBRE SANEADO)
 # ============================================================
 
-def upload_to_buzzheavier(local_path: Path) -> str | None:
+def _make_upload_session() -> requests.Session:
+    """Sesión requests con retry a nivel socket (SSL incluido)."""
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0",
+    })
+    if BUZZHEAVIER_ACCOUNT_ID:
+        session.headers["Authorization"] = f"Bearer {BUZZHEAVIER_ACCOUNT_ID}"
+
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=2,                        # 2s, 4s, 8s
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["PUT", "POST"],
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+def _safe_url_name(filename: str) -> str:
+    """Nombre seguro para URL: sin #, [], {} ni espacios múltiples."""
+    safe = sanitize_filename(filename)
+    safe = re.sub(r"[#\[\]{}()<>\"'`|\\^~]", "_", safe)
+    safe = re.sub(r"\s+", " ", safe).strip()
+    return safe or "archivo.pdf"
+
+
+def upload_to_buzzheavier(local_path: Path, max_attempts: int = 3) -> str | None:
     """
-    Sube el archivo a BuzzHeavier.
+    Sube el archivo a BuzzHeavier con reintentos.
     Devuelve SOLO el ID del archivo subido.
     """
-    filename = local_path.name
+    filename = _safe_url_name(local_path.name)
     encoded_name = quote(filename, safe="")
     upload_url = f"https://w.buzzheavier.com/{encoded_name}"
 
-    headers = {"User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0"}
-    if BUZZHEAVIER_ACCOUNT_ID:
-        headers["Authorization"] = f"Bearer {BUZZHEAVIER_ACCOUNT_ID}"
-
-    session = requests.Session()
-    session.headers.update(headers)
-
-    try:
-        size_mb = local_path.stat().st_size / (1024 * 1024)
-        print(f"    ↑ Subiendo a BuzzHeavier: {filename} ({size_mb:.1f} MB)")
-
-        with open(local_path, "rb") as file_handle:
-            response = session.put(
-                upload_url,
-                data=file_handle,
-                timeout=UPLOAD_TIMEOUT,
-            )
-
-        print(f"    → Respuesta: HTTP {response.status_code}")
-
-        if response.status_code not in (200, 201):
-            print(
-                f"    ✗ Error HTTP {response.status_code}: "
-                f"{response.text[:300]}"
-            )
-            return None
-
-        # Parsear respuesta anidada:
-        # { "code": 201, "data": { "id": "abc123", ... } }
+    for attempt in range(1, max_attempts + 1):
+        session = _make_upload_session()
         try:
-            response_data = response.json()
-            inner = response_data
+            size_mb = local_path.stat().st_size / (1024 * 1024)
+            print(f"    ↑ Intento {attempt}/{max_attempts} — {filename} ({size_mb:.1f} MB)")
 
-            if (
-                isinstance(response_data, dict)
-                and isinstance(response_data.get("data"), dict)
-            ):
-                inner = response_data["data"]
+            with open(local_path, "rb") as fh:
+                response = session.put(upload_url, data=fh, timeout=UPLOAD_TIMEOUT)
 
-            file_id = inner.get("id") if isinstance(inner, dict) else None
+            print(f"    → HTTP {response.status_code}")
 
-            if not file_id and isinstance(response_data, dict):
-                file_id = response_data.get("id")
+            if response.status_code not in (200, 201):
+                print(f"    ✗ HTTP {response.status_code}: {response.text[:300]}")
+                if attempt < max_attempts:
+                    delay = 5 * attempt
+                    print(f"    ⏸  Reintentando en {delay}s...")
+                    time.sleep(delay)
+                    continue
+                return None
 
-            if file_id:
-                print(f"    ✓ ID obtenido: {file_id}")
-                return str(file_id)
+            try:
+                data = response.json()
+                inner = data.get("data") if isinstance(data.get("data"), dict) else data
+                file_id = inner.get("id") if isinstance(inner, dict) else None
+                if not file_id and isinstance(data, dict):
+                    file_id = data.get("id")
 
-            print(f"    ✗ No se encontró 'id' en: {response_data}")
+                if file_id:
+                    print(f"    ✓ ID obtenido: {file_id}")
+                    return str(file_id)
+
+                print(f"    ✗ No se encontró 'id' en: {data}")
+                return None
+
+            except json.JSONDecodeError:
+                print(f"    ✗ Respuesta no JSON: {response.text[:200]}")
+                return None
+
+        except (
+            requests.exceptions.SSLError,
+            requests.exceptions.ConnectionError,
+            requests.exceptions.Timeout,
+            requests.exceptions.ChunkedEncodingError,
+        ) as exc:
+            print(f"    ✗ Error de red ({type(exc).__name__}): {exc}")
+            if attempt < max_attempts:
+                delay = 5 * attempt
+                print(f"    ⏸  Reintentando en {delay}s...")
+                time.sleep(delay)
+                continue
             return None
 
-        except json.JSONDecodeError:
-            print(f"    ✗ Respuesta no es JSON: {response.text[:200]}")
+        except Exception as exc:
+            print(f"    ✗ Error inesperado: {type(exc).__name__}: {exc}")
             return None
 
-    except Exception as exc:
-        print(f"    ✗ Error subiendo: {type(exc).__name__}: {exc}")
-        return None
+        finally:
+            try:
+                session.close()
+            except Exception:
+                pass
 
-    finally:
-        try:
-            session.close()
-        except Exception:
-            pass
+    return None
 
 
 # ============================================================
