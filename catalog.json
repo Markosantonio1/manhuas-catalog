@@ -1262,6 +1262,1230 @@
   "schema": "manhuas-catalog-v3",
   "series": [
     {
+      "added_at": "2026-09-11T17:04:35+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/archimago_tracendiendo_a_travez.jpg",
+      "cover_message_id": 34,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/34",
+      "genres": [],
+      "hashtag": "#Archimago_tracendiendo_a_travez",
+      "id": "archimago_tracendiendo_a_travez",
+      "latest_chapter": 216,
+      "name": "Archimago tracendiendo a travez",
+      "package_count": 73,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Archimago Trascendiendo A Través.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4413,
+          "name": "1-10",
+          "size": 100130314,
+          "telegram_link": "https://t.me/manhuasgratis/4413"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Archimago Trascendiendo A Través.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4414,
+          "name": "11-20",
+          "size": 82037759,
+          "telegram_link": "https://t.me/manhuasgratis/4414"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   Archimago Trascendiendo A Través.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4415,
+          "name": "21-30",
+          "size": 73023588,
+          "telegram_link": "https://t.me/manhuasgratis/4415"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#31-40]   Archimago Trascendiendo A Través.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4416,
+          "name": "31-40",
+          "size": 65842101,
+          "telegram_link": "https://t.me/manhuasgratis/4416"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#41-50]   Archimago Trascendiendo A Través.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4417,
+          "name": "41-50",
+          "size": 59720130,
+          "telegram_link": "https://t.me/manhuasgratis/4417"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#51-60]   Archimago Trascendiendo A Través.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 4418,
+          "name": "51-60",
+          "size": 63592528,
+          "telegram_link": "https://t.me/manhuasgratis/4418"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#61-70]   Archimago Trascendiendo A Través.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 4419,
+          "name": "61-70",
+          "size": 64613050,
+          "telegram_link": "https://t.me/manhuasgratis/4419"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-09-11T17:04:35+00:00",
+          "download_ready": true,
+          "filename": "[#71-80]   Archimago Trascendiendo A Través.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 4420,
+          "name": "71-80",
+          "size": 59347033,
+          "telegram_link": "https://t.me/manhuasgratis/4420"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-09-11T17:04:36+00:00",
+          "download_ready": true,
+          "filename": "[#81-90]   Archimago Trascendiendo A Través.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4421,
+          "name": "81-90",
+          "size": 61403244,
+          "telegram_link": "https://t.me/manhuasgratis/4421"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-09-11T17:04:36+00:00",
+          "download_ready": true,
+          "filename": "[#91-100]   Archimago Trascendiendo A Través.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 4422,
+          "name": "91-100",
+          "size": 51303140,
+          "telegram_link": "https://t.me/manhuasgratis/4422"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135
+          ],
+          "date": "2026-09-11T17:04:36+00:00",
+          "download_ready": true,
+          "filename": "[#131-135]   Archimago Trascendiendo A Través.pdf",
+          "first": 131,
+          "last": 135,
+          "message_id": 4426,
+          "name": "131-135",
+          "size": 36222947,
+          "telegram_link": "https://t.me/manhuasgratis/4426"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            136
+          ],
+          "date": "2026-09-11T17:09:05+00:00",
+          "download_ready": true,
+          "filename": "[#136]   Archimago Trascendiendo A Través.pdf",
+          "first": 136,
+          "last": 136,
+          "message_id": 4427,
+          "name": "136",
+          "size": 8773464,
+          "telegram_link": "https://t.me/manhuasgratis/4427"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            137
+          ],
+          "date": "2026-09-11T17:09:09+00:00",
+          "download_ready": true,
+          "filename": "[#137]   Archimago Trascendiendo A Través.pdf",
+          "first": 137,
+          "last": 137,
+          "message_id": 4428,
+          "name": "137",
+          "size": 7075692,
+          "telegram_link": "https://t.me/manhuasgratis/4428"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            138
+          ],
+          "date": "2026-09-11T17:09:10+00:00",
+          "download_ready": true,
+          "filename": "[#138]   Archimago Trascendiendo A Través.pdf",
+          "first": 138,
+          "last": 138,
+          "message_id": 4429,
+          "name": "138",
+          "size": 6652855,
+          "telegram_link": "https://t.me/manhuasgratis/4429"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            139
+          ],
+          "date": "2026-09-11T17:09:11+00:00",
+          "download_ready": true,
+          "filename": "[#139]   Archimago Trascendiendo A Través.pdf",
+          "first": 139,
+          "last": 139,
+          "message_id": 4430,
+          "name": "139",
+          "size": 8113026,
+          "telegram_link": "https://t.me/manhuasgratis/4430"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            140
+          ],
+          "date": "2026-09-11T17:09:14+00:00",
+          "download_ready": true,
+          "filename": "[#140]   Archimago Trascendiendo A Través.pdf",
+          "first": 140,
+          "last": 140,
+          "message_id": 4431,
+          "name": "140",
+          "size": 8067403,
+          "telegram_link": "https://t.me/manhuasgratis/4431"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141
+          ],
+          "date": "2026-09-11T17:09:16+00:00",
+          "download_ready": true,
+          "filename": "[#141]   Archimago Trascendiendo A Través.pdf",
+          "first": 141,
+          "last": 141,
+          "message_id": 4432,
+          "name": "141",
+          "size": 6591406,
+          "telegram_link": "https://t.me/manhuasgratis/4432"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            142
+          ],
+          "date": "2026-09-11T17:09:18+00:00",
+          "download_ready": true,
+          "filename": "[#142]   Archimago Trascendiendo A Través.pdf",
+          "first": 142,
+          "last": 142,
+          "message_id": 4433,
+          "name": "142",
+          "size": 8858127,
+          "telegram_link": "https://t.me/manhuasgratis/4433"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            143
+          ],
+          "date": "2026-09-11T17:09:20+00:00",
+          "download_ready": true,
+          "filename": "[#143]   Archimago Trascendiendo A Través.pdf",
+          "first": 143,
+          "last": 143,
+          "message_id": 4434,
+          "name": "143",
+          "size": 11037209,
+          "telegram_link": "https://t.me/manhuasgratis/4434"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            144
+          ],
+          "date": "2026-09-11T17:09:21+00:00",
+          "download_ready": true,
+          "filename": "[#144]   Archimago Trascendiendo A Través.pdf",
+          "first": 144,
+          "last": 144,
+          "message_id": 4435,
+          "name": "144",
+          "size": 8377097,
+          "telegram_link": "https://t.me/manhuasgratis/4435"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            145
+          ],
+          "date": "2026-09-11T17:09:23+00:00",
+          "download_ready": true,
+          "filename": "[#145]   Archimago Trascendiendo A Través.pdf",
+          "first": 145,
+          "last": 145,
+          "message_id": 4436,
+          "name": "145",
+          "size": 8303494,
+          "telegram_link": "https://t.me/manhuasgratis/4436"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            146
+          ],
+          "date": "2026-09-11T17:09:25+00:00",
+          "download_ready": true,
+          "filename": "[#146]   Archimago Trascendiendo A Través.pdf",
+          "first": 146,
+          "last": 146,
+          "message_id": 4437,
+          "name": "146",
+          "size": 8535918,
+          "telegram_link": "https://t.me/manhuasgratis/4437"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            147
+          ],
+          "date": "2026-09-11T17:09:29+00:00",
+          "download_ready": true,
+          "filename": "[#147]   Archimago Trascendiendo A Través.pdf",
+          "first": 147,
+          "last": 147,
+          "message_id": 4438,
+          "name": "147",
+          "size": 9675163,
+          "telegram_link": "https://t.me/manhuasgratis/4438"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            148
+          ],
+          "date": "2026-09-11T17:09:31+00:00",
+          "download_ready": true,
+          "filename": "[#148]   Archimago Trascendiendo A Través.pdf",
+          "first": 148,
+          "last": 148,
+          "message_id": 4439,
+          "name": "148",
+          "size": 9771359,
+          "telegram_link": "https://t.me/manhuasgratis/4439"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            149
+          ],
+          "date": "2026-09-11T17:09:33+00:00",
+          "download_ready": true,
+          "filename": "[#149]   Archimago Trascendiendo A Través.pdf",
+          "first": 149,
+          "last": 149,
+          "message_id": 4440,
+          "name": "149",
+          "size": 10041410,
+          "telegram_link": "https://t.me/manhuasgratis/4440"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            150
+          ],
+          "date": "2026-09-11T17:09:34+00:00",
+          "download_ready": true,
+          "filename": "[#150]   Archimago Trascendiendo A Través.pdf",
+          "first": 150,
+          "last": 150,
+          "message_id": 4441,
+          "name": "150",
+          "size": 8586698,
+          "telegram_link": "https://t.me/manhuasgratis/4441"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151
+          ],
+          "date": "2026-09-11T17:09:37+00:00",
+          "download_ready": true,
+          "filename": "[#151]   Archimago Trascendiendo A Través.pdf",
+          "first": 151,
+          "last": 151,
+          "message_id": 4442,
+          "name": "151",
+          "size": 9480861,
+          "telegram_link": "https://t.me/manhuasgratis/4442"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            152
+          ],
+          "date": "2026-09-11T17:09:39+00:00",
+          "download_ready": true,
+          "filename": "[#152]   Archimago Trascendiendo A Través.pdf",
+          "first": 152,
+          "last": 152,
+          "message_id": 4443,
+          "name": "152",
+          "size": 8938679,
+          "telegram_link": "https://t.me/manhuasgratis/4443"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            153
+          ],
+          "date": "2026-09-11T17:09:41+00:00",
+          "download_ready": true,
+          "filename": "[#153]   Archimago Trascendiendo A Través.pdf",
+          "first": 153,
+          "last": 153,
+          "message_id": 4444,
+          "name": "153",
+          "size": 9355272,
+          "telegram_link": "https://t.me/manhuasgratis/4444"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            154
+          ],
+          "date": "2026-09-11T17:09:43+00:00",
+          "download_ready": true,
+          "filename": "[#154]   Archimago Trascendiendo A Través.pdf",
+          "first": 154,
+          "last": 154,
+          "message_id": 4445,
+          "name": "154",
+          "size": 9262641,
+          "telegram_link": "https://t.me/manhuasgratis/4445"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            155
+          ],
+          "date": "2026-09-11T17:09:45+00:00",
+          "download_ready": true,
+          "filename": "[#155]   Archimago Trascendiendo A Través.pdf",
+          "first": 155,
+          "last": 155,
+          "message_id": 4446,
+          "name": "155",
+          "size": 7663176,
+          "telegram_link": "https://t.me/manhuasgratis/4446"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            156
+          ],
+          "date": "2026-09-11T17:09:48+00:00",
+          "download_ready": true,
+          "filename": "[#156]   Archimago Trascendiendo A Través.pdf",
+          "first": 156,
+          "last": 156,
+          "message_id": 4447,
+          "name": "156",
+          "size": 8359955,
+          "telegram_link": "https://t.me/manhuasgratis/4447"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            157
+          ],
+          "date": "2026-09-11T17:09:50+00:00",
+          "download_ready": true,
+          "filename": "[#157]   Archimago Trascendiendo A Través.pdf",
+          "first": 157,
+          "last": 157,
+          "message_id": 4448,
+          "name": "157",
+          "size": 8136981,
+          "telegram_link": "https://t.me/manhuasgratis/4448"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            158,
+            159,
+            160
+          ],
+          "date": "2026-09-11T17:16:24+00:00",
+          "download_ready": true,
+          "filename": "[#158-160]   Archimago Trascendiendo A Través.pdf",
+          "first": 158,
+          "last": 160,
+          "message_id": 4449,
+          "name": "158-160",
+          "size": 20423483,
+          "telegram_link": "https://t.me/manhuasgratis/4449"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163
+          ],
+          "date": "2026-09-11T17:16:27+00:00",
+          "download_ready": true,
+          "filename": "[#161-163]   Archimago Trascendiendo A Través.pdf",
+          "first": 161,
+          "last": 163,
+          "message_id": 4450,
+          "name": "161-163",
+          "size": 23042657,
+          "telegram_link": "https://t.me/manhuasgratis/4450"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            164
+          ],
+          "date": "2026-09-11T17:16:29+00:00",
+          "download_ready": true,
+          "filename": "[#164]   Archimago Trascendiendo A Través .pdf",
+          "first": 164,
+          "last": 164,
+          "message_id": 4451,
+          "name": "164",
+          "size": 8665555,
+          "telegram_link": "https://t.me/manhuasgratis/4451"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            165,
+            166
+          ],
+          "date": "2026-09-11T17:16:31+00:00",
+          "download_ready": true,
+          "filename": "[#165-166]   Archimago Trascendiendo A Travez.pdf",
+          "first": 165,
+          "last": 166,
+          "message_id": 4452,
+          "name": "165-166",
+          "size": 17758401,
+          "telegram_link": "https://t.me/manhuasgratis/4452"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            167,
+            168
+          ],
+          "date": "2026-09-11T17:16:34+00:00",
+          "download_ready": true,
+          "filename": "[#167-168]   Archimago Trascendiendo A Través.pdf",
+          "first": 167,
+          "last": 168,
+          "message_id": 4453,
+          "name": "167-168",
+          "size": 17582203,
+          "telegram_link": "https://t.me/manhuasgratis/4453"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            169
+          ],
+          "date": "2026-09-11T17:16:36+00:00",
+          "download_ready": true,
+          "filename": "[#169]   Archimago Trascendiendo A Través.pdf",
+          "first": 169,
+          "last": 169,
+          "message_id": 4454,
+          "name": "169",
+          "size": 8758809,
+          "telegram_link": "https://t.me/manhuasgratis/4454"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            170
+          ],
+          "date": "2026-09-11T17:21:43+00:00",
+          "download_ready": true,
+          "filename": "[#170]   Archimago Trascendiendo A Través.pdf",
+          "first": 170,
+          "last": 170,
+          "message_id": 4455,
+          "name": "170",
+          "size": 7143821,
+          "telegram_link": "https://t.me/manhuasgratis/4455"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173
+          ],
+          "date": "2026-09-11T17:21:43+00:00",
+          "download_ready": true,
+          "filename": "[#171-173]   Archimago Trascendiendo A Través.pdf",
+          "first": 171,
+          "last": 173,
+          "message_id": 4456,
+          "name": "171-173",
+          "size": 20938910,
+          "telegram_link": "https://t.me/manhuasgratis/4456"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            174,
+            175,
+            176
+          ],
+          "date": "2026-09-11T17:21:43+00:00",
+          "download_ready": true,
+          "filename": "[#174-176]   Archimago Trascendiendo A Través.pdf",
+          "first": 174,
+          "last": 176,
+          "message_id": 4457,
+          "name": "174-176",
+          "size": 23620052,
+          "telegram_link": "https://t.me/manhuasgratis/4457"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            177,
+            178
+          ],
+          "date": "2026-09-11T17:21:43+00:00",
+          "download_ready": true,
+          "filename": "[#177-178]   Archimago Trascendiendo A Través.pdf",
+          "first": 177,
+          "last": 178,
+          "message_id": 4458,
+          "name": "177-178",
+          "size": 20112591,
+          "telegram_link": "https://t.me/manhuasgratis/4458"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            179,
+            180
+          ],
+          "date": "2026-09-11T17:21:43+00:00",
+          "download_ready": true,
+          "filename": "[#179-180]   Archimago Trascendiendo A Través.pdf",
+          "first": 179,
+          "last": 180,
+          "message_id": 4459,
+          "name": "179-180",
+          "size": 24165002,
+          "telegram_link": "https://t.me/manhuasgratis/4459"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#181]   Archimago Trascendiendo a Través .pdf",
+          "first": 181,
+          "last": 181,
+          "message_id": 4460,
+          "name": "181",
+          "size": 9383881,
+          "telegram_link": "https://t.me/manhuasgratis/4460"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            182
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#182]   Archimago Trascendiendo a Través .pdf",
+          "first": 182,
+          "last": 182,
+          "message_id": 4461,
+          "name": "182",
+          "size": 9976586,
+          "telegram_link": "https://t.me/manhuasgratis/4461"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            183,
+            184
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#183-184]   Archimago Trascendiendo a Través .pdf",
+          "first": 183,
+          "last": 184,
+          "message_id": 4462,
+          "name": "183-184",
+          "size": 16698724,
+          "telegram_link": "https://t.me/manhuasgratis/4462"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            185
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#185]   Archimago Trascendiendo A Través.pdf",
+          "first": 185,
+          "last": 185,
+          "message_id": 4463,
+          "name": "185",
+          "size": 9436895,
+          "telegram_link": "https://t.me/manhuasgratis/4463"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            186
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#186]   Archimago Trascendiendo A Través.pdf",
+          "first": 186,
+          "last": 186,
+          "message_id": 4464,
+          "name": "186",
+          "size": 14206004,
+          "telegram_link": "https://t.me/manhuasgratis/4464"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            187,
+            188,
+            189
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#187-189]    Archimago Trascendiendo A Través.pdf",
+          "first": 187,
+          "last": 189,
+          "message_id": 4465,
+          "name": "187-189",
+          "size": 31377415,
+          "telegram_link": "https://t.me/manhuasgratis/4465"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            190
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#190]   Archimago Trascendiendo A Través.pdf",
+          "first": 190,
+          "last": 190,
+          "message_id": 4466,
+          "name": "190",
+          "size": 12233996,
+          "telegram_link": "https://t.me/manhuasgratis/4466"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#191-192]   Archimago Trascendiendo A Través.pdf",
+          "first": 191,
+          "last": 192,
+          "message_id": 4467,
+          "name": "191-192",
+          "size": 20985308,
+          "telegram_link": "https://t.me/manhuasgratis/4467"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            193
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#193]   Archimago Trascendiendo A Través.pdf",
+          "first": 193,
+          "last": 193,
+          "message_id": 4468,
+          "name": "193",
+          "size": 8212477,
+          "telegram_link": "https://t.me/manhuasgratis/4468"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            194
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#194]   Archimago Trascendiendo A Través.pdf",
+          "first": 194,
+          "last": 194,
+          "message_id": 4469,
+          "name": "194",
+          "size": 12029608,
+          "telegram_link": "https://t.me/manhuasgratis/4469"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            195
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#195]   Archimago Trascendiendo A Través.pdf",
+          "first": 195,
+          "last": 195,
+          "message_id": 4470,
+          "name": "195",
+          "size": 11213202,
+          "telegram_link": "https://t.me/manhuasgratis/4470"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            196
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#196]   Archimago Trascendiendo A Través.pdf",
+          "first": 196,
+          "last": 196,
+          "message_id": 4471,
+          "name": "196",
+          "size": 11085716,
+          "telegram_link": "https://t.me/manhuasgratis/4471"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            197,
+            198
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#197-198]   Archimago Trascendiendo A Través.pdf",
+          "first": 197,
+          "last": 198,
+          "message_id": 4472,
+          "name": "197-198",
+          "size": 18557025,
+          "telegram_link": "https://t.me/manhuasgratis/4472"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            199
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#199]   Archimago Trascendiendo A Través.pdf",
+          "first": 199,
+          "last": 199,
+          "message_id": 4473,
+          "name": "199",
+          "size": 12189917,
+          "telegram_link": "https://t.me/manhuasgratis/4473"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            200
+          ],
+          "date": "2026-09-11T17:21:44+00:00",
+          "download_ready": true,
+          "filename": "[#200]   Archimago Trascendiendo A Través.pdf",
+          "first": 200,
+          "last": 200,
+          "message_id": 4474,
+          "name": "200",
+          "size": 11078171,
+          "telegram_link": "https://t.me/manhuasgratis/4474"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#201]   Archimago Trascendiendo A Través.pdf",
+          "first": 201,
+          "last": 201,
+          "message_id": 4475,
+          "name": "201",
+          "size": 10663711,
+          "telegram_link": "https://t.me/manhuasgratis/4475"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            202
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#202]   Archimago Trascendiendo A Través.pdf",
+          "first": 202,
+          "last": 202,
+          "message_id": 4476,
+          "name": "202",
+          "size": 10548146,
+          "telegram_link": "https://t.me/manhuasgratis/4476"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            203
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#203]   Archimago Trascendiendo A Través.pdf",
+          "first": 203,
+          "last": 203,
+          "message_id": 4477,
+          "name": "203",
+          "size": 11594103,
+          "telegram_link": "https://t.me/manhuasgratis/4477"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            204
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#204]   Archimago Trascendiendo A Través.pdf",
+          "first": 204,
+          "last": 204,
+          "message_id": 4478,
+          "name": "204",
+          "size": 11571253,
+          "telegram_link": "https://t.me/manhuasgratis/4478"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            205
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#205]   Archimago Trascendiendo A Través.pdf",
+          "first": 205,
+          "last": 205,
+          "message_id": 4479,
+          "name": "205",
+          "size": 13059957,
+          "telegram_link": "https://t.me/manhuasgratis/4479"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            206
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#206]   Archimago Trascendiendo A Través.pdf",
+          "first": 206,
+          "last": 206,
+          "message_id": 4480,
+          "name": "206",
+          "size": 11665798,
+          "telegram_link": "https://t.me/manhuasgratis/4480"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            207
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#207]   Archimago Trascendiendo A Través.pdf",
+          "first": 207,
+          "last": 207,
+          "message_id": 4481,
+          "name": "207",
+          "size": 13251255,
+          "telegram_link": "https://t.me/manhuasgratis/4481"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            208
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#208]   Archimago Trascendiendo A Través.pdf",
+          "first": 208,
+          "last": 208,
+          "message_id": 4482,
+          "name": "208",
+          "size": 11346686,
+          "telegram_link": "https://t.me/manhuasgratis/4482"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            209
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#209]   Archimago Trascendiendo A Través.pdf",
+          "first": 209,
+          "last": 209,
+          "message_id": 4483,
+          "name": "209",
+          "size": 12002712,
+          "telegram_link": "https://t.me/manhuasgratis/4483"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            210
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#210]   Archimago Trascendiendo A Través.pdf",
+          "first": 210,
+          "last": 210,
+          "message_id": 4484,
+          "name": "210",
+          "size": 9967021,
+          "telegram_link": "https://t.me/manhuasgratis/4484"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#211]   Archimago Trascendiendo A Través.pdf",
+          "first": 211,
+          "last": 211,
+          "message_id": 4485,
+          "name": "211",
+          "size": 12000950,
+          "telegram_link": "https://t.me/manhuasgratis/4485"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            212,
+            213
+          ],
+          "date": "2026-09-11T17:21:45+00:00",
+          "download_ready": true,
+          "filename": "[#212-213]   Archimago Trascendiendo A Través.pdf",
+          "first": 212,
+          "last": 213,
+          "message_id": 4486,
+          "name": "212-213",
+          "size": 23235510,
+          "telegram_link": "https://t.me/manhuasgratis/4486"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            214,
+            215
+          ],
+          "date": "2026-09-23T14:58:02+00:00",
+          "download_ready": true,
+          "filename": "[#214-215]   Archimago Trascendiendo A Través.pdf",
+          "first": 214,
+          "last": 215,
+          "message_id": 4614,
+          "name": "214-215",
+          "size": 20950122,
+          "telegram_link": "https://t.me/manhuasgratis/4614"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            216
+          ],
+          "date": "2026-10-05T04:11:21+00:00",
+          "download_ready": true,
+          "filename": "[#216]   Archimago Trascendiendo A Través.pdf",
+          "first": 216,
+          "last": 216,
+          "message_id": 4840,
+          "name": "216",
+          "size": 13051824,
+          "telegram_link": "https://t.me/manhuasgratis/4840"
+        }
+      ],
+      "synopsis": "Mikhail Walpurgis, el único archimago de 9no círculo del mundo, cayó en batalla por culpa de un maldito héroe, y consiguió lanzar un último hechizo de magia avanzada,\n<Regresión del tiempo>. Al rebobinar el tiempo, retrocedió a 20 años atrás.",
+      "visible": false
+    },
+    {
       "added_at": "2026-09-08T22:09:55+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/dominio_absoluto_del_nivel_0.jpg",
       "cover_message_id": 4,
@@ -1591,6 +2815,1078 @@
       ],
       "synopsis": "Las Bestias Calamitosas aparecieron repentinamente en la Tierra, sumiendo a la humanidad en una terrible crisis. Tras perder a sus padres durante una masacre provocada por estos monstruos, Tenma Itsuki despierta como uno de los pocos humanos capaces de obtener poderes especiales.\nAunque es clasificado en el aparentemente débil Nivel Cero, Tenma posee una habilidad extraordinaria que le permite decodificar las técnicas de sus enemigos y aumentar sus atributos sin ningún límite. Impulsado por su deseo de venganza, comenzará un peligroso camino para hacerse cada vez más fuerte y convertirse en uno de los guerreros más poderosos de la humanidad.",
       "visible": true
+    },
+    {
+      "added_at": "2026-08-31T16:38:36+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_heroe_de_nivel_legendario_prodigio_de_la_academia.jpg",
+      "cover_message_id": 40,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/40",
+      "genres": [],
+      "hashtag": "#El_Heroe_De_Nivel_Legendario_Prodigio_De_La_Academia",
+      "id": "el_heroe_de_nivel_legendario_prodigio_de_la_academia",
+      "latest_chapter": 106,
+      "name": "El Heroe De Nivel Legendario Prodigio De La Academia",
+      "package_count": 48,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4140,
+          "name": "1-10",
+          "size": 122716223,
+          "telegram_link": "https://t.me/manhuasgratis/4140"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4141,
+          "name": "11-20",
+          "size": 110634236,
+          "telegram_link": "https://t.me/manhuasgratis/4141"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4142,
+          "name": "21-30",
+          "size": 124951641,
+          "telegram_link": "https://t.me/manhuasgratis/4142"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#31-40]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4143,
+          "name": "31-40",
+          "size": 101929929,
+          "telegram_link": "https://t.me/manhuasgratis/4143"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#41-50]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4144,
+          "name": "41-50",
+          "size": 118264884,
+          "telegram_link": "https://t.me/manhuasgratis/4144"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#51-58]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 51,
+          "last": 58,
+          "message_id": 4145,
+          "name": "51-58",
+          "size": 83686595,
+          "telegram_link": "https://t.me/manhuasgratis/4145"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            59
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#59]   El Héroe de Nivel Legendario Pródigo.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 4147,
+          "name": "59",
+          "size": 18187752,
+          "telegram_link": "https://t.me/manhuasgratis/4147"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            60,
+            61
+          ],
+          "date": "2026-08-31T16:38:36+00:00",
+          "download_ready": true,
+          "filename": "[#60-61]   El Heroe De Nivel Legendario Prodigio.pdf",
+          "first": 60,
+          "last": 61,
+          "message_id": 4148,
+          "name": "60-61",
+          "size": 26549846,
+          "telegram_link": "https://t.me/manhuasgratis/4148"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            62
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#62]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 62,
+          "last": 62,
+          "message_id": 4149,
+          "name": "62",
+          "size": 15733694,
+          "telegram_link": "https://t.me/manhuasgratis/4149"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            63,
+            64
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#63-64]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 63,
+          "last": 64,
+          "message_id": 4150,
+          "name": "63-64",
+          "size": 28980114,
+          "telegram_link": "https://t.me/manhuasgratis/4150"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            65
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#65]   El Héroe de Nivel Legendario Prodigio .pdf",
+          "first": 65,
+          "last": 65,
+          "message_id": 4151,
+          "name": "65",
+          "size": 15158188,
+          "telegram_link": "https://t.me/manhuasgratis/4151"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            66
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#66]   El Héroe de Nivel Legendario Prodigio .pdf",
+          "first": 66,
+          "last": 66,
+          "message_id": 4152,
+          "name": "66",
+          "size": 15296346,
+          "telegram_link": "https://t.me/manhuasgratis/4152"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            67,
+            68
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#67-68]   El Héroe de Nivel Legendario Prodigio .pdf",
+          "first": 67,
+          "last": 68,
+          "message_id": 4153,
+          "name": "67-68",
+          "size": 26089386,
+          "telegram_link": "https://t.me/manhuasgratis/4153"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            69
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#69]   El Héroe de Nivel Legendario Prodigio .pdf",
+          "first": 69,
+          "last": 69,
+          "message_id": 4154,
+          "name": "69",
+          "size": 15172140,
+          "telegram_link": "https://t.me/manhuasgratis/4154"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            70
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#70]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 70,
+          "last": 70,
+          "message_id": 4155,
+          "name": "70",
+          "size": 17325498,
+          "telegram_link": "https://t.me/manhuasgratis/4155"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#71]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 71,
+          "last": 71,
+          "message_id": 4156,
+          "name": "71",
+          "size": 18143508,
+          "telegram_link": "https://t.me/manhuasgratis/4156"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            72
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#72]   El Heroe de Nivel Legendario Prodigio.pdf",
+          "first": 72,
+          "last": 72,
+          "message_id": 4157,
+          "name": "72",
+          "size": 17935621,
+          "telegram_link": "https://t.me/manhuasgratis/4157"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            73
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#73]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 73,
+          "last": 73,
+          "message_id": 4158,
+          "name": "73",
+          "size": 16808002,
+          "telegram_link": "https://t.me/manhuasgratis/4158"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            74
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#74]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 74,
+          "last": 74,
+          "message_id": 4159,
+          "name": "74",
+          "size": 22948873,
+          "telegram_link": "https://t.me/manhuasgratis/4159"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            75
+          ],
+          "date": "2026-08-31T16:38:37+00:00",
+          "download_ready": true,
+          "filename": "[#75]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 75,
+          "last": 75,
+          "message_id": 4160,
+          "name": "75",
+          "size": 21277126,
+          "telegram_link": "https://t.me/manhuasgratis/4160"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            76
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#76]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 76,
+          "last": 76,
+          "message_id": 4161,
+          "name": "76",
+          "size": 14505033,
+          "telegram_link": "https://t.me/manhuasgratis/4161"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            77
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#77]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 77,
+          "last": 77,
+          "message_id": 4162,
+          "name": "77",
+          "size": 19451330,
+          "telegram_link": "https://t.me/manhuasgratis/4162"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            78
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#78]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 78,
+          "last": 78,
+          "message_id": 4163,
+          "name": "78",
+          "size": 17971035,
+          "telegram_link": "https://t.me/manhuasgratis/4163"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            79,
+            80
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#79-80]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 79,
+          "last": 80,
+          "message_id": 4164,
+          "name": "79-80",
+          "size": 33816151,
+          "telegram_link": "https://t.me/manhuasgratis/4164"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#81]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 81,
+          "last": 81,
+          "message_id": 4165,
+          "name": "81",
+          "size": 19683418,
+          "telegram_link": "https://t.me/manhuasgratis/4165"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            82
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#82]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 82,
+          "last": 82,
+          "message_id": 4166,
+          "name": "82",
+          "size": 16247358,
+          "telegram_link": "https://t.me/manhuasgratis/4166"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            83
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#83]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 83,
+          "last": 83,
+          "message_id": 4167,
+          "name": "83",
+          "size": 17327747,
+          "telegram_link": "https://t.me/manhuasgratis/4167"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            84
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#84]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 84,
+          "last": 84,
+          "message_id": 4168,
+          "name": "84",
+          "size": 16573401,
+          "telegram_link": "https://t.me/manhuasgratis/4168"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            85,
+            86,
+            87
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#85-87]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 85,
+          "last": 87,
+          "message_id": 4169,
+          "name": "85-87",
+          "size": 63682854,
+          "telegram_link": "https://t.me/manhuasgratis/4169"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            88
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#88]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 88,
+          "last": 88,
+          "message_id": 4170,
+          "name": "88",
+          "size": 20036602,
+          "telegram_link": "https://t.me/manhuasgratis/4170"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            89
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#89]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 89,
+          "last": 89,
+          "message_id": 4171,
+          "name": "89",
+          "size": 19348494,
+          "telegram_link": "https://t.me/manhuasgratis/4171"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            90
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#90]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 90,
+          "last": 90,
+          "message_id": 4172,
+          "name": "90",
+          "size": 18140230,
+          "telegram_link": "https://t.me/manhuasgratis/4172"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#91]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 91,
+          "last": 91,
+          "message_id": 4173,
+          "name": "91",
+          "size": 17078972,
+          "telegram_link": "https://t.me/manhuasgratis/4173"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            92
+          ],
+          "date": "2026-08-31T16:38:38+00:00",
+          "download_ready": true,
+          "filename": "[#92]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 92,
+          "last": 92,
+          "message_id": 4174,
+          "name": "92",
+          "size": 22644223,
+          "telegram_link": "https://t.me/manhuasgratis/4174"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            93
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#93]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 93,
+          "last": 93,
+          "message_id": 4175,
+          "name": "93",
+          "size": 18726111,
+          "telegram_link": "https://t.me/manhuasgratis/4175"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            94
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#94]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 94,
+          "last": 94,
+          "message_id": 4176,
+          "name": "94",
+          "size": 21024316,
+          "telegram_link": "https://t.me/manhuasgratis/4176"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            95
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#95]   El Héroe de Nivel Legendario Prodigio.pdf",
+          "first": 95,
+          "last": 95,
+          "message_id": 4177,
+          "name": "95",
+          "size": 18838660,
+          "telegram_link": "https://t.me/manhuasgratis/4177"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            96
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#96]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 96,
+          "last": 96,
+          "message_id": 4178,
+          "name": "96",
+          "size": 17427578,
+          "telegram_link": "https://t.me/manhuasgratis/4178"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            97
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#97]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 97,
+          "last": 97,
+          "message_id": 4179,
+          "name": "97",
+          "size": 20329458,
+          "telegram_link": "https://t.me/manhuasgratis/4179"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            98
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#98]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 98,
+          "last": 98,
+          "message_id": 4180,
+          "name": "98",
+          "size": 18639525,
+          "telegram_link": "https://t.me/manhuasgratis/4180"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            99
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#99]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 99,
+          "last": 99,
+          "message_id": 4181,
+          "name": "99",
+          "size": 17998623,
+          "telegram_link": "https://t.me/manhuasgratis/4181"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            100
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#100]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 100,
+          "last": 100,
+          "message_id": 4182,
+          "name": "100",
+          "size": 25937357,
+          "telegram_link": "https://t.me/manhuasgratis/4182"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101
+          ],
+          "date": "2026-08-31T16:38:39+00:00",
+          "download_ready": true,
+          "filename": "[#101]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 101,
+          "last": 101,
+          "message_id": 4183,
+          "name": "101",
+          "size": 19614516,
+          "telegram_link": "https://t.me/manhuasgratis/4183"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            102
+          ],
+          "date": "2026-09-08T21:49:12+00:00",
+          "download_ready": true,
+          "filename": "[#102]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 102,
+          "last": 102,
+          "message_id": 4349,
+          "name": "102",
+          "size": 17845327,
+          "telegram_link": "https://t.me/manhuasgratis/4349"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            103
+          ],
+          "date": "2026-09-13T22:14:59+00:00",
+          "download_ready": true,
+          "filename": "[#103]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 103,
+          "last": 103,
+          "message_id": 4515,
+          "name": "103",
+          "size": 23389120,
+          "telegram_link": "https://t.me/manhuasgratis/4515"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            104
+          ],
+          "date": "2026-09-21T14:06:36+00:00",
+          "download_ready": true,
+          "filename": "[#104]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 104,
+          "last": 104,
+          "message_id": 4605,
+          "name": "104",
+          "size": 21327023,
+          "telegram_link": "https://t.me/manhuasgratis/4605"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            105
+          ],
+          "date": "2026-09-28T23:33:23+00:00",
+          "download_ready": true,
+          "filename": "[#105]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 105,
+          "last": 105,
+          "message_id": 4660,
+          "name": "105",
+          "size": 15976781,
+          "telegram_link": "https://t.me/manhuasgratis/4660"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            106
+          ],
+          "date": "2026-09-29T20:50:54+00:00",
+          "download_ready": true,
+          "filename": "[#106]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "first": 106,
+          "last": 106,
+          "message_id": 4670,
+          "name": "106",
+          "size": 20757399,
+          "telegram_link": "https://t.me/manhuasgratis/4670"
+        }
+      ],
+      "synopsis": "Cinco héroes se enfrentaron a Erebos, el mal primordial que llevó al mundo al borde de la destrucción. El Guerrero, Arron. El Herrero Divino, Dweno. La Poeta de las Estrellas, Luna. El Rey Sabio, Lisinas. Y por último, el Héroe del Principio, Kyle-yo. Sin embargo, cuando reencarné, descubrí que todos éramos alabados como grandes héroes… Todos, excepto yo. Una academia de héroes que alberga los Registros de Héroes, un regalo de los cielos que registra los logros de los héroes. Me inscribiré allí y descubriré por qué fui escrito fuera de la historia. «¿Por qué no sigues adelante y te conviertes en un estudiante de honor?»",
+      "visible": false
+    },
+    {
+      "added_at": "2026-08-31T16:15:57+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_joven_heredero_de_la_familia_de_nigromantes.jpg",
+      "cover_message_id": 42,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/42",
+      "genres": [],
+      "hashtag": "#El_Joven_Heredero_de_la_Familia_de_Nigromantes",
+      "id": "el_joven_heredero_de_la_familia_de_nigromantes",
+      "latest_chapter": 66,
+      "name": "El Joven Heredero de la Familia de Nigromantes",
+      "package_count": 14,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "01_10 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4071,
+          "name": "1-10",
+          "size": 91454007,
+          "telegram_link": "https://t.me/manhuasgratis/4071"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "11_20 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4072,
+          "name": "11-20",
+          "size": 53645840,
+          "telegram_link": "https://t.me/manhuasgratis/4072"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "21_30 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4073,
+          "name": "21-30",
+          "size": 53623091,
+          "telegram_link": "https://t.me/manhuasgratis/4073"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "31_40 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4074,
+          "name": "31-40",
+          "size": 59839973,
+          "telegram_link": "https://t.me/manhuasgratis/4074"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "41_50 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4075,
+          "name": "41-50",
+          "size": 61911643,
+          "telegram_link": "https://t.me/manhuasgratis/4075"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "51_55 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 51,
+          "last": 55,
+          "message_id": 4076,
+          "name": "51-55",
+          "size": 41568181,
+          "telegram_link": "https://t.me/manhuasgratis/4076"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            56
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "56 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 4077,
+          "name": "56",
+          "size": 5887767,
+          "telegram_link": "https://t.me/manhuasgratis/4077"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            57
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "57 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 4078,
+          "name": "57",
+          "size": 8114353,
+          "telegram_link": "https://t.me/manhuasgratis/4078"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            58,
+            59
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "58_59 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 58,
+          "last": 59,
+          "message_id": 4079,
+          "name": "58-59",
+          "size": 17742658,
+          "telegram_link": "https://t.me/manhuasgratis/4079"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            60
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "60 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 60,
+          "last": 60,
+          "message_id": 4080,
+          "name": "60",
+          "size": 8387698,
+          "telegram_link": "https://t.me/manhuasgratis/4080"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "61 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 4081,
+          "name": "61",
+          "size": 8400769,
+          "telegram_link": "https://t.me/manhuasgratis/4081"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            62
+          ],
+          "date": "2026-08-31T16:15:57+00:00",
+          "download_ready": true,
+          "filename": "62 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 62,
+          "last": 62,
+          "message_id": 4082,
+          "name": "62",
+          "size": 7697854,
+          "telegram_link": "https://t.me/manhuasgratis/4082"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            63,
+            64
+          ],
+          "date": "2026-08-31T16:15:58+00:00",
+          "download_ready": true,
+          "filename": "63_64 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 63,
+          "last": 64,
+          "message_id": 4083,
+          "name": "63-64",
+          "size": 17862101,
+          "telegram_link": "https://t.me/manhuasgratis/4083"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            65,
+            66
+          ],
+          "date": "2026-08-31T16:15:58+00:00",
+          "download_ready": true,
+          "filename": "65_66 El Joven Heredero de la Familia de Nigromantes.pdf",
+          "first": 65,
+          "last": 66,
+          "message_id": 4084,
+          "name": "65-66",
+          "size": 17098446,
+          "telegram_link": "https://t.me/manhuasgratis/4084"
+        }
+      ],
+      "synopsis": "La muerte es solo el comienzo.\" Palabras más ciertas jamás se dijeron para el joven Leon von Marbas, heredero de una casa de nigromantes que alguna vez fue grandiosa. Forzado a ejecutar a su propio padre por el señor de una casa rival, Leon se encuentra de repente como líder de un clan en declive, amenazado por enemigos internos y externos. ¿La única manera de restaurar la gloria de su casa? Leon debe hacer un pacto con el demonio Marbas, la fuente original de la poderosa nigromancia por la que la Casa Marbas fue conocida alguna vez...",
+      "visible": false
     },
     {
       "added_at": "2026-10-06T03:00:42.604130+00:00",
@@ -4527,6 +6823,70 @@
       "visible": true
     },
     {
+      "added_at": "2026-09-12T12:21:53+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_septimo_principe_quiere_escapar.jpg",
+      "cover_message_id": 32,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/32",
+      "genres": [],
+      "hashtag": "#El_Septimo_Principe_Quiere_Escapar",
+      "id": "el_septimo_principe_quiere_escapar",
+      "latest_chapter": 20,
+      "name": "El Septimo Principe Quiere Escapar",
+      "package_count": 2,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-12T12:21:53+00:00",
+          "download_ready": true,
+          "filename": "01-10 El Séptimo Príncipe Quiere Escapar -.-.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4493,
+          "name": "1-10",
+          "size": 93958255,
+          "telegram_link": "https://t.me/manhuasgratis/4493"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-12T12:21:53+00:00",
+          "download_ready": true,
+          "filename": "11-20 El Séptimo Príncipe Quiere Escapar -.-.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4494,
+          "name": "11-20",
+          "size": 74997355,
+          "telegram_link": "https://t.me/manhuasgratis/4494"
+        }
+      ],
+      "synopsis": "Al final de un día agotador, sentí un dolor repentino... ¡y de pronto me encontré transmigrado en la novela de fantasía \"Dark Header\"!\nPero de todas las personas posibles... ¿¡tuve que convertirme en el depravado séptimo príncipe, destinado a ser ejecutado miserablemente tres años después!?\nA partir de este momento, solo tengo un objetivo: mantener un perfil bajo hasta que aparezca el protagonista original y luego escapar discretamente del imperio.\nSin embargo, los eventos de la historia original comenzaron a desarrollarse mucho antes de lo esperado. Mientras me muevo entre el palacio imperial y los suburbios... comienza un esfuerzo encubierto para contener los daños.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-06T03:00:42.605124+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_stream_del_reencarnado.jpg",
       "cover_message_id": 14,
@@ -5609,6 +7969,2034 @@
       ],
       "synopsis": "En la Era de la Aventura iniciada por el surgimiento de Gates, marcada por absoluta desesperanza, indigencia, desesperación y desesperación, todos habían perdido la esperanza y perdido el coraje para continuar luchando, excepto un aventurero que se negó a caer hasta su último aliento. . \"Eres el único que queda, último aventurero Elpam\". Cuando la historia de los aventureros se vio obligada a llegar a su fin, el Último Aventurero regresó al lugar donde comenzó toda esta historia.",
       "visible": true
+    },
+    {
+      "added_at": "2026-08-29T13:13:01+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/emperador_magico.jpg",
+      "cover_message_id": 44,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/44",
+      "genres": [],
+      "hashtag": "#Emperador_Magico",
+      "id": "emperador_magico",
+      "latest_chapter": 915,
+      "name": "Emperador Magico",
+      "package_count": 71,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "01-20 Emperador Mágico.pdf",
+          "first": 1,
+          "last": 20,
+          "message_id": 3952,
+          "name": "1-20",
+          "size": 177019197,
+          "telegram_link": "https://t.me/manhuasgratis/3952"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "21-50 Emperador Mágico.pdf",
+          "first": 21,
+          "last": 50,
+          "message_id": 3953,
+          "name": "21-50",
+          "size": 198942495,
+          "telegram_link": "https://t.me/manhuasgratis/3953"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "51-80 Emperador Mágico.pdf",
+          "first": 51,
+          "last": 80,
+          "message_id": 3954,
+          "name": "51-80",
+          "size": 194771254,
+          "telegram_link": "https://t.me/manhuasgratis/3954"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "81-100 Emperador Mágico.pdf",
+          "first": 81,
+          "last": 100,
+          "message_id": 3955,
+          "name": "81-100",
+          "size": 144551212,
+          "telegram_link": "https://t.me/manhuasgratis/3955"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "101-130 Emperador Mágico.pdf",
+          "first": 101,
+          "last": 130,
+          "message_id": 3956,
+          "name": "101-130",
+          "size": 227159506,
+          "telegram_link": "https://t.me/manhuasgratis/3956"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "131-160 Emperador Mágico.pdf",
+          "first": 131,
+          "last": 160,
+          "message_id": 3957,
+          "name": "131-160",
+          "size": 233993166,
+          "telegram_link": "https://t.me/manhuasgratis/3957"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-08-29T13:13:01+00:00",
+          "download_ready": true,
+          "filename": "161-190 Emperador Mágico.pdf",
+          "first": 161,
+          "last": 190,
+          "message_id": 3958,
+          "name": "161-190",
+          "size": 225009329,
+          "telegram_link": "https://t.me/manhuasgratis/3958"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "191-220 Emperador Mágico.pdf",
+          "first": 191,
+          "last": 220,
+          "message_id": 3959,
+          "name": "191-220",
+          "size": 217964830,
+          "telegram_link": "https://t.me/manhuasgratis/3959"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "221-240 Emperador Mágico.pdf",
+          "first": 221,
+          "last": 240,
+          "message_id": 3960,
+          "name": "221-240",
+          "size": 163234016,
+          "telegram_link": "https://t.me/manhuasgratis/3960"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "241-260 Emperador Mágico.pdf",
+          "first": 241,
+          "last": 260,
+          "message_id": 3961,
+          "name": "241-260",
+          "size": 165353547,
+          "telegram_link": "https://t.me/manhuasgratis/3961"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "261-280 Emperador Mágico.pdf",
+          "first": 261,
+          "last": 280,
+          "message_id": 3962,
+          "name": "261-280",
+          "size": 178954409,
+          "telegram_link": "https://t.me/manhuasgratis/3962"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "281-300 Emperador Mágico.pdf",
+          "first": 281,
+          "last": 300,
+          "message_id": 3963,
+          "name": "281-300",
+          "size": 128646185,
+          "telegram_link": "https://t.me/manhuasgratis/3963"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "301-320 Emperador Mágico.pdf",
+          "first": 301,
+          "last": 320,
+          "message_id": 3964,
+          "name": "301-320",
+          "size": 118006854,
+          "telegram_link": "https://t.me/manhuasgratis/3964"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "321-350 Emperador Mágico.pdf",
+          "first": 321,
+          "last": 350,
+          "message_id": 3965,
+          "name": "321-350",
+          "size": 215881157,
+          "telegram_link": "https://t.me/manhuasgratis/3965"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            541,
+            542,
+            543,
+            544,
+            545,
+            546,
+            547,
+            548
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#541-548] • Emperador Mágico.pdf",
+          "first": 541,
+          "last": 548,
+          "message_id": 3984,
+          "name": "541-548",
+          "size": 56420649,
+          "telegram_link": "https://t.me/manhuasgratis/3984"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            549
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#549] • Emperador Mágico.pdf",
+          "first": 549,
+          "last": 549,
+          "message_id": 3985,
+          "name": "549",
+          "size": 9221517,
+          "telegram_link": "https://t.me/manhuasgratis/3985"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            550
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#550] • Emperador Mágico.pdf",
+          "first": 550,
+          "last": 550,
+          "message_id": 3986,
+          "name": "550",
+          "size": 8396947,
+          "telegram_link": "https://t.me/manhuasgratis/3986"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            551
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#551] • Emperador Mágico.pdf",
+          "first": 551,
+          "last": 551,
+          "message_id": 3987,
+          "name": "551",
+          "size": 7370057,
+          "telegram_link": "https://t.me/manhuasgratis/3987"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            552
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#552] • Emperador Mágico.pdf",
+          "first": 552,
+          "last": 552,
+          "message_id": 3988,
+          "name": "552",
+          "size": 8645227,
+          "telegram_link": "https://t.me/manhuasgratis/3988"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            553,
+            554
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#553-554] • Emperador Mágico.pdf",
+          "first": 553,
+          "last": 554,
+          "message_id": 3989,
+          "name": "553-554",
+          "size": 19609770,
+          "telegram_link": "https://t.me/manhuasgratis/3989"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            555
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#555] • Emperador Mágico.pdf",
+          "first": 555,
+          "last": 555,
+          "message_id": 3990,
+          "name": "555",
+          "size": 8376720,
+          "telegram_link": "https://t.me/manhuasgratis/3990"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            556,
+            557
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#556-557] • Emperador Mágico.pdf",
+          "first": 556,
+          "last": 557,
+          "message_id": 3991,
+          "name": "556-557",
+          "size": 16709876,
+          "telegram_link": "https://t.me/manhuasgratis/3991"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            558,
+            559,
+            560
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#558-560] • Emperador Mágico.pdf",
+          "first": 558,
+          "last": 560,
+          "message_id": 3992,
+          "name": "558-560",
+          "size": 22187377,
+          "telegram_link": "https://t.me/manhuasgratis/3992"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            561,
+            562,
+            563
+          ],
+          "date": "2026-08-29T13:18:00+00:00",
+          "download_ready": true,
+          "filename": "[#561-563] • Emperador Mágico.pdf",
+          "first": 561,
+          "last": 563,
+          "message_id": 3993,
+          "name": "561-563",
+          "size": 27513017,
+          "telegram_link": "https://t.me/manhuasgratis/3993"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            564,
+            565,
+            566,
+            567,
+            568,
+            569,
+            570
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#564-570] • Emperador Mágico .pdf",
+          "first": 564,
+          "last": 570,
+          "message_id": 3994,
+          "name": "564-570",
+          "size": 66433576,
+          "telegram_link": "https://t.me/manhuasgratis/3994"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            571,
+            572,
+            573,
+            574,
+            575,
+            576,
+            577,
+            578,
+            579,
+            580
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#571-580] • Emperador Mágico.pdf",
+          "first": 571,
+          "last": 580,
+          "message_id": 3995,
+          "name": "571-580",
+          "size": 85079010,
+          "telegram_link": "https://t.me/manhuasgratis/3995"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            581,
+            582,
+            583,
+            584
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#581-584] • Emperador Mágico.pdf",
+          "first": 581,
+          "last": 584,
+          "message_id": 3996,
+          "name": "581-584",
+          "size": 33334672,
+          "telegram_link": "https://t.me/manhuasgratis/3996"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            585,
+            586
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#585-586] • Emperador Mágico.pdf",
+          "first": 585,
+          "last": 586,
+          "message_id": 3997,
+          "name": "585-586",
+          "size": 18799347,
+          "telegram_link": "https://t.me/manhuasgratis/3997"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            587,
+            588,
+            589
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#587-589] • Emperador Mágico.pdf",
+          "first": 587,
+          "last": 589,
+          "message_id": 3998,
+          "name": "587-589",
+          "size": 20526098,
+          "telegram_link": "https://t.me/manhuasgratis/3998"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            590,
+            591,
+            592,
+            593,
+            594,
+            595,
+            596,
+            597,
+            598,
+            599,
+            600,
+            601,
+            602,
+            603,
+            604,
+            605,
+            606,
+            607
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#590-607] • Emperador Mágico.pdf",
+          "first": 590,
+          "last": 607,
+          "message_id": 3999,
+          "name": "590-607",
+          "size": 143505482,
+          "telegram_link": "https://t.me/manhuasgratis/3999"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            608
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#608] • Emperador Mágico.pdf",
+          "first": 608,
+          "last": 608,
+          "message_id": 4000,
+          "name": "608",
+          "size": 9509591,
+          "telegram_link": "https://t.me/manhuasgratis/4000"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            609
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#609] • Emperador Mágico.pdf",
+          "first": 609,
+          "last": 609,
+          "message_id": 4001,
+          "name": "609",
+          "size": 9826103,
+          "telegram_link": "https://t.me/manhuasgratis/4001"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            610
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#610] • Emperador Mágico.pdf",
+          "first": 610,
+          "last": 610,
+          "message_id": 4002,
+          "name": "610",
+          "size": 10554685,
+          "telegram_link": "https://t.me/manhuasgratis/4002"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            611,
+            612
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#611-612] • Emperador Mágico .pdf",
+          "first": 611,
+          "last": 612,
+          "message_id": 4003,
+          "name": "611-612",
+          "size": 17626984,
+          "telegram_link": "https://t.me/manhuasgratis/4003"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            613,
+            614
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#613-614] • Emperador Mágico .pdf",
+          "first": 613,
+          "last": 614,
+          "message_id": 4004,
+          "name": "613-614",
+          "size": 17288422,
+          "telegram_link": "https://t.me/manhuasgratis/4004"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            615
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#615] • Emperador Mágico .pdf",
+          "first": 615,
+          "last": 615,
+          "message_id": 4005,
+          "name": "615",
+          "size": 9358898,
+          "telegram_link": "https://t.me/manhuasgratis/4005"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            616,
+            617
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#616-617] • Emperador Mágico .pdf",
+          "first": 616,
+          "last": 617,
+          "message_id": 4006,
+          "name": "616-617",
+          "size": 19456323,
+          "telegram_link": "https://t.me/manhuasgratis/4006"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            618,
+            619,
+            620
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[#618-620] • Emperador Mágico .pdf",
+          "first": 618,
+          "last": 620,
+          "message_id": 4007,
+          "name": "618-620",
+          "size": 27288304,
+          "telegram_link": "https://t.me/manhuasgratis/4007"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            621,
+            622,
+            623,
+            624,
+            625,
+            626
+          ],
+          "date": "2026-08-29T13:18:01+00:00",
+          "download_ready": true,
+          "filename": "[621-626] • Emperador Mágico .pdf",
+          "first": 621,
+          "last": 626,
+          "message_id": 4008,
+          "name": "621-626",
+          "size": 52646569,
+          "telegram_link": "https://t.me/manhuasgratis/4008"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            627
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#627] • Emperador Mágico .pdf",
+          "first": 627,
+          "last": 627,
+          "message_id": 4009,
+          "name": "627",
+          "size": 9464984,
+          "telegram_link": "https://t.me/manhuasgratis/4009"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            628,
+            629,
+            630
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#628-630] • Emperador Mágico.pdf",
+          "first": 628,
+          "last": 630,
+          "message_id": 4010,
+          "name": "628-630",
+          "size": 28455790,
+          "telegram_link": "https://t.me/manhuasgratis/4010"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            631,
+            632,
+            633,
+            634,
+            635,
+            636,
+            637,
+            638,
+            639,
+            640
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#631-640] • Emperador Mágico.pdf",
+          "first": 631,
+          "last": 640,
+          "message_id": 4011,
+          "name": "631-640",
+          "size": 82222607,
+          "telegram_link": "https://t.me/manhuasgratis/4011"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649,
+            650
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#641-650] • Emperador Mágico.pdf",
+          "first": 641,
+          "last": 650,
+          "message_id": 4012,
+          "name": "641-650",
+          "size": 101354236,
+          "telegram_link": "https://t.me/manhuasgratis/4012"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            651,
+            652,
+            653,
+            654,
+            655,
+            656,
+            657,
+            658,
+            659,
+            660
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#651-660] • Emperador Mágico.pdf",
+          "first": 651,
+          "last": 660,
+          "message_id": 4013,
+          "name": "651-660",
+          "size": 77974652,
+          "telegram_link": "https://t.me/manhuasgratis/4013"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            661,
+            662,
+            663,
+            664,
+            665,
+            666,
+            667,
+            668,
+            669,
+            670
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#661-670] • Emperador Mágico.pdf",
+          "first": 661,
+          "last": 670,
+          "message_id": 4014,
+          "name": "661-670",
+          "size": 83200392,
+          "telegram_link": "https://t.me/manhuasgratis/4014"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            671,
+            672,
+            673,
+            674,
+            675,
+            676,
+            677,
+            678,
+            679,
+            680
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#671-680] • Emperador Mágico.pdf",
+          "first": 671,
+          "last": 680,
+          "message_id": 4015,
+          "name": "671-680",
+          "size": 82093694,
+          "telegram_link": "https://t.me/manhuasgratis/4015"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            681,
+            682,
+            683,
+            684,
+            685,
+            686,
+            687,
+            688,
+            689,
+            690
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#681-690] • Emperador Mágico.pdf",
+          "first": 681,
+          "last": 690,
+          "message_id": 4016,
+          "name": "681-690",
+          "size": 96700031,
+          "telegram_link": "https://t.me/manhuasgratis/4016"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            691,
+            692,
+            693,
+            694,
+            695,
+            696,
+            697,
+            698,
+            699,
+            700
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#691-700] • Emperador Mágico.pdf",
+          "first": 691,
+          "last": 700,
+          "message_id": 4017,
+          "name": "691-700",
+          "size": 91384659,
+          "telegram_link": "https://t.me/manhuasgratis/4017"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            701,
+            702,
+            703,
+            704,
+            705,
+            706,
+            707,
+            708,
+            709,
+            710
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#701-710] • Emperador Mágico.pdf",
+          "first": 701,
+          "last": 710,
+          "message_id": 4018,
+          "name": "701-710",
+          "size": 87653797,
+          "telegram_link": "https://t.me/manhuasgratis/4018"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            711,
+            712,
+            713,
+            714,
+            715
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#711-715] • Emperador Mágico.pdf",
+          "first": 711,
+          "last": 715,
+          "message_id": 4019,
+          "name": "711-715",
+          "size": 43831779,
+          "telegram_link": "https://t.me/manhuasgratis/4019"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            716,
+            717,
+            718,
+            719
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#716-719] • Emperador Mágico.pdf",
+          "first": 716,
+          "last": 719,
+          "message_id": 4020,
+          "name": "716-719",
+          "size": 37918983,
+          "telegram_link": "https://t.me/manhuasgratis/4020"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            720
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#720] • Emperador Mágico.pdf",
+          "first": 720,
+          "last": 720,
+          "message_id": 4021,
+          "name": "720",
+          "size": 10503163,
+          "telegram_link": "https://t.me/manhuasgratis/4021"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            721,
+            722,
+            723
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#721-723]  Emperador Mágico .pdf",
+          "first": 721,
+          "last": 723,
+          "message_id": 4022,
+          "name": "721-723",
+          "size": 36277434,
+          "telegram_link": "https://t.me/manhuasgratis/4022"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            724,
+            725,
+            726,
+            727,
+            728,
+            729,
+            730
+          ],
+          "date": "2026-08-29T13:18:02+00:00",
+          "download_ready": true,
+          "filename": "[#724-730] • Emperador Mágico .pdf",
+          "first": 724,
+          "last": 730,
+          "message_id": 4023,
+          "name": "724-730",
+          "size": 75350086,
+          "telegram_link": "https://t.me/manhuasgratis/4023"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            731,
+            732,
+            733,
+            734,
+            735,
+            736,
+            737,
+            738,
+            739,
+            740
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "731-740 Emperador Demoníaco -.-.pdf",
+          "first": 731,
+          "last": 740,
+          "message_id": 4024,
+          "name": "731-740",
+          "size": 73648632,
+          "telegram_link": "https://t.me/manhuasgratis/4024"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            741,
+            742,
+            743,
+            744,
+            745,
+            746,
+            747,
+            748,
+            749,
+            750,
+            751,
+            752,
+            753,
+            754,
+            755,
+            756,
+            757,
+            758,
+            759,
+            760
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "741-760 Emperador Demoníaco -.-.pdf",
+          "first": 741,
+          "last": 760,
+          "message_id": 4025,
+          "name": "741-760",
+          "size": 173131671,
+          "telegram_link": "https://t.me/manhuasgratis/4025"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            761,
+            762,
+            763,
+            764,
+            765,
+            766,
+            767,
+            768,
+            769,
+            770
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "761-770 Emperador Demoníaco -.-.pdf",
+          "first": 761,
+          "last": 770,
+          "message_id": 4026,
+          "name": "761-770",
+          "size": 103185675,
+          "telegram_link": "https://t.me/manhuasgratis/4026"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            771,
+            772,
+            773,
+            774,
+            775,
+            776,
+            777,
+            778,
+            779,
+            780
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "771-780 Emperador Demoníaco -.-.pdf",
+          "first": 771,
+          "last": 780,
+          "message_id": 4027,
+          "name": "771-780",
+          "size": 93511030,
+          "telegram_link": "https://t.me/manhuasgratis/4027"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            781,
+            782,
+            783,
+            784,
+            785,
+            786,
+            787,
+            788,
+            789,
+            790,
+            791,
+            792,
+            793,
+            794,
+            795,
+            796,
+            797,
+            798,
+            799,
+            800,
+            801
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "781-801 Emperador Demoníaco -.-.pdf",
+          "first": 781,
+          "last": 801,
+          "message_id": 4028,
+          "name": "781-801",
+          "size": 189762264,
+          "telegram_link": "https://t.me/manhuasgratis/4028"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            802,
+            803,
+            804,
+            805,
+            806,
+            807,
+            808,
+            809,
+            810,
+            811,
+            812,
+            813,
+            814,
+            815,
+            816,
+            817,
+            818,
+            819
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "802-819 Emperador Demoníaco -.-.pdf",
+          "first": 802,
+          "last": 819,
+          "message_id": 4029,
+          "name": "802-819",
+          "size": 122199910,
+          "telegram_link": "https://t.me/manhuasgratis/4029"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            820,
+            821,
+            822,
+            823,
+            824,
+            825,
+            826,
+            827,
+            828,
+            829,
+            830,
+            831,
+            832,
+            833,
+            834
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "820-834 Emperador Demoníaco -.-.pdf",
+          "first": 820,
+          "last": 834,
+          "message_id": 4030,
+          "name": "820-834",
+          "size": 93608519,
+          "telegram_link": "https://t.me/manhuasgratis/4030"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            835,
+            836,
+            837,
+            838,
+            839,
+            840,
+            841,
+            842
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "835-842 Emperador Demoníaco -.-.pdf",
+          "first": 835,
+          "last": 842,
+          "message_id": 4031,
+          "name": "835-842",
+          "size": 65853187,
+          "telegram_link": "https://t.me/manhuasgratis/4031"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            843,
+            844,
+            845,
+            846,
+            847,
+            848,
+            849,
+            850
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "843-850 Emperador Demoniaco -.-.pdf",
+          "first": 843,
+          "last": 850,
+          "message_id": 4032,
+          "name": "843-850",
+          "size": 79071306,
+          "telegram_link": "https://t.me/manhuasgratis/4032"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            851,
+            852,
+            853,
+            854,
+            855,
+            856
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "851-856 Emperador Demoníaco -.-.pdf",
+          "first": 851,
+          "last": 856,
+          "message_id": 4033,
+          "name": "851-856",
+          "size": 51310129,
+          "telegram_link": "https://t.me/manhuasgratis/4033"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            857,
+            858,
+            859,
+            860
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "857-860 Emperador Demoníaco -.-.pdf",
+          "first": 857,
+          "last": 860,
+          "message_id": 4034,
+          "name": "857-860",
+          "size": 35311395,
+          "telegram_link": "https://t.me/manhuasgratis/4034"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            861,
+            862,
+            863,
+            864,
+            865,
+            866
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "861-866 Emperador Demoníaco -.-.pdf",
+          "first": 861,
+          "last": 866,
+          "message_id": 4035,
+          "name": "861-866",
+          "size": 54132005,
+          "telegram_link": "https://t.me/manhuasgratis/4035"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            901,
+            902
+          ],
+          "date": "2026-08-29T13:19:44+00:00",
+          "download_ready": true,
+          "filename": "901_902 Emperador Magico.pdf",
+          "first": 901,
+          "last": 902,
+          "message_id": 4054,
+          "name": "901-902",
+          "size": 42016380,
+          "telegram_link": "https://t.me/manhuasgratis/4054"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            903
+          ],
+          "date": "2026-08-31T12:37:18+00:00",
+          "download_ready": true,
+          "filename": "│903│Emperador Mágico.pdf",
+          "first": 903,
+          "last": 903,
+          "message_id": 4069,
+          "name": "903",
+          "size": 9617994,
+          "telegram_link": "https://t.me/manhuasgratis/4069"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            907,
+            908,
+            909
+          ],
+          "date": "2026-09-13T22:15:18+00:00",
+          "download_ready": true,
+          "filename": "│907-909│Emperador Mágico.pdf",
+          "first": 907,
+          "last": 909,
+          "message_id": 4522,
+          "name": "907-909",
+          "size": 26192823,
+          "telegram_link": "https://t.me/manhuasgratis/4522"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            913
+          ],
+          "date": "2026-09-25T14:03:49+00:00",
+          "download_ready": true,
+          "filename": "│913│Emperador Mágico.pdf",
+          "first": 913,
+          "last": 913,
+          "message_id": 4631,
+          "name": "913",
+          "size": 8184032,
+          "telegram_link": "https://t.me/manhuasgratis/4631"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            914,
+            915
+          ],
+          "date": "2026-09-28T14:20:14+00:00",
+          "download_ready": true,
+          "filename": "│914-915│Emperador Mágico.pdf",
+          "first": 914,
+          "last": 915,
+          "message_id": 4654,
+          "name": "914-915",
+          "size": 15683329,
+          "telegram_link": "https://t.me/manhuasgratis/4654"
+        }
+      ],
+      "synopsis": "Zhuo Yifan es un emperador mágico o puede llamarse un emperador demonio, porque tiene un antiguo libro del emperador que se llama el «Libro de los Nueve Secretos», fue atacado por los siete emperadores e incluso su discípulo lo traicionó. Y para no dejar que obtengan el libro Zhuo Yifan condujo el asesinato de su cuerpo así mismo del libro. Luego, su alma entra y vuelve a la vida en un criado familiar llamado Zhuo Fan. Debido a que una magia demoníaca lo está frenando, debe unir los recuerdos del niño y no puede ignorar a la familia y la amante a la que sirve. ¿Cómo es su vida reconstruyendo a su familia y volviendo a ser el más fuerte del continente…?",
+      "visible": false
+    },
+    {
+      "added_at": "2026-08-21T20:15:50+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/esclavo_corporativo_en_una_historia_de_fantasmas.jpg",
+      "cover_message_id": 36,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/36",
+      "genres": [],
+      "hashtag": "#Esclavo_Corporativo_en_una_Historia_de_Fantasmas",
+      "id": "esclavo_corporativo_en_una_historia_de_fantasmas",
+      "latest_chapter": 38,
+      "name": "Esclavo Corporativo en una Historia de Fantasmas",
+      "package_count": 18,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-21T20:15:50+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 2032,
+          "name": "1-10",
+          "size": 175971088,
+          "telegram_link": "https://t.me/manhuasgratis/2032"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-11T16:59:48+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4408,
+          "name": "1-10",
+          "size": 175971088,
+          "telegram_link": "https://t.me/manhuasgratis/4408"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-21T20:15:50+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 2033,
+          "name": "11-20",
+          "size": 168803321,
+          "telegram_link": "https://t.me/manhuasgratis/2033"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-11T16:59:48+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4409,
+          "name": "11-20",
+          "size": 168803321,
+          "telegram_link": "https://t.me/manhuasgratis/4409"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "date": "2026-08-21T20:15:50+00:00",
+          "download_ready": true,
+          "filename": "[#21-26]   Esclavo Corporativo en una Historia de Fantasmas .pdf",
+          "first": 21,
+          "last": 26,
+          "message_id": 2034,
+          "name": "21-26",
+          "size": 97252505,
+          "telegram_link": "https://t.me/manhuasgratis/2034"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "date": "2026-09-11T16:59:48+00:00",
+          "download_ready": true,
+          "filename": "[#21-26]   Esclavo Corporativo en una Historia de Fantasmas .pdf",
+          "first": 21,
+          "last": 26,
+          "message_id": 4410,
+          "name": "21-26",
+          "size": 97252505,
+          "telegram_link": "https://t.me/manhuasgratis/4410"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            27
+          ],
+          "date": "2026-08-21T20:15:50+00:00",
+          "download_ready": true,
+          "filename": "[#27]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 2035,
+          "name": "27",
+          "size": 16746266,
+          "telegram_link": "https://t.me/manhuasgratis/2035"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            28
+          ],
+          "date": "2026-08-21T20:17:43+00:00",
+          "download_ready": true,
+          "filename": "[#28] • Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 2036,
+          "name": "28",
+          "size": 14779214,
+          "telegram_link": "https://t.me/manhuasgratis/2036"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29
+          ],
+          "date": "2026-08-21T20:17:46+00:00",
+          "download_ready": true,
+          "filename": "[#29] • Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 29,
+          "last": 29,
+          "message_id": 2037,
+          "name": "29",
+          "size": 12528081,
+          "telegram_link": "https://t.me/manhuasgratis/2037"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            30
+          ],
+          "date": "2026-08-21T20:17:48+00:00",
+          "download_ready": true,
+          "filename": "[#30]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 30,
+          "last": 30,
+          "message_id": 2038,
+          "name": "30",
+          "size": 10686984,
+          "telegram_link": "https://t.me/manhuasgratis/2038"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31
+          ],
+          "date": "2026-08-21T20:17:50+00:00",
+          "download_ready": true,
+          "filename": "[#31] • Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 2039,
+          "name": "31",
+          "size": 10233978,
+          "telegram_link": "https://t.me/manhuasgratis/2039"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            32
+          ],
+          "date": "2026-08-22T19:39:09+00:00",
+          "download_ready": true,
+          "filename": "[#32] • Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 32,
+          "last": 32,
+          "message_id": 2601,
+          "name": "32",
+          "size": 11475213,
+          "telegram_link": "https://t.me/manhuasgratis/2601"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            33,
+            34
+          ],
+          "date": "2026-09-04T17:07:48+00:00",
+          "download_ready": true,
+          "filename": "[#33-34]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 33,
+          "last": 34,
+          "message_id": 4310,
+          "name": "33-34",
+          "size": 20507298,
+          "telegram_link": "https://t.me/manhuasgratis/4310"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            35
+          ],
+          "date": "2026-09-11T17:03:17+00:00",
+          "download_ready": true,
+          "filename": "[#35]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 35,
+          "last": 35,
+          "message_id": 4411,
+          "name": "35",
+          "size": 8907430,
+          "telegram_link": "https://t.me/manhuasgratis/4411"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            36
+          ],
+          "date": "2026-09-19T03:55:37+00:00",
+          "download_ready": true,
+          "filename": "[#36]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 4581,
+          "name": "36",
+          "size": 10877344,
+          "telegram_link": "https://t.me/manhuasgratis/4581"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            37
+          ],
+          "date": "2026-09-25T21:46:23+00:00",
+          "download_ready": true,
+          "filename": "[#37]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 4634,
+          "name": "37",
+          "size": 9499563,
+          "telegram_link": "https://t.me/manhuasgratis/4634"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-10-03T04:10:48+00:00",
+          "download_ready": true,
+          "filename": "[#38]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 4814,
+          "name": "38",
+          "size": 11535775,
+          "telegram_link": "https://t.me/manhuasgratis/4814"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-10-03T04:10:50+00:00",
+          "download_ready": true,
+          "filename": "[#38]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 4815,
+          "name": "38",
+          "size": 11535775,
+          "telegram_link": "https://t.me/manhuasgratis/4815"
+        }
+      ],
+      "synopsis": "Un evento temporal de una obra de 'fantasía moderna' que me gustaba tanto que incluso me tomé un valioso día libre en el trabajo para asistir. Ese mismo día, terminé transmigrando como un personaje en ese mismísimo mundo de fantasía. ¡Y nada menos que como un empleado recién contratado en una corporación grande y famosa! Un trabajo de ensueño con excelentes beneficios, un sueldo magnífico e incluso jefes amables y competentes. ¡Estoy usando la información que conozco sobre este mundo para ascender de puesto a la velocidad de la luz!",
+      "visible": false
     },
     {
       "added_at": "2026-10-06T03:00:42.605124+00:00",
@@ -6927,6 +11315,115 @@
       ],
       "synopsis": "Soy un extra villano de tercera en mi juego favorito. No tengo ambiciones y sólo quiero vivir una vida tranquila. Pero vaya, este mundo es un lugar difícil para sobrevivir. Sobreviviré hasta el final de esta historia, de una forma que el protagonista no puede. Sobreviviré a la manera de un villano de tercera.",
       "visible": true
+    },
+    {
+      "added_at": "2026-09-19T03:41:57+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/haciendome_rico_con_la_caza_automatica.jpg",
+      "cover_message_id": 30,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/30",
+      "genres": [],
+      "hashtag": "#Haciendome_Rico_con_la_Caza_Automática",
+      "id": "haciendome_rico_con_la_caza_automatica",
+      "latest_chapter": 23,
+      "name": "Haciendome Rico con la Caza Automática",
+      "package_count": 5,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-19T03:41:57+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Haciendome Rico con la Caza Automática.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4562,
+          "name": "1-10",
+          "size": 116865986,
+          "telegram_link": "https://t.me/manhuasgratis/4562"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-19T03:41:57+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Haciendome Rico con la Caza Automática.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4563,
+          "name": "11-20",
+          "size": 118802328,
+          "telegram_link": "https://t.me/manhuasgratis/4563"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-01T04:11:22+00:00",
+          "download_ready": true,
+          "filename": "[#21]   Haciéndome Rico con la Caza Automática.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 4744,
+          "name": "21",
+          "size": 14005866,
+          "telegram_link": "https://t.me/manhuasgratis/4744"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-01T04:11:24+00:00",
+          "download_ready": true,
+          "filename": "[#22]   Haciéndome Rico con la Caza Automática.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 4745,
+          "name": "22",
+          "size": 11605915,
+          "telegram_link": "https://t.me/manhuasgratis/4745"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-04T20:10:53+00:00",
+          "download_ready": true,
+          "filename": "[#23]   Haciéndome Rico con la Caza Automática.pdf",
+          "first": 23,
+          "last": 23,
+          "message_id": 4834,
+          "name": "23",
+          "size": 12360922,
+          "telegram_link": "https://t.me/manhuasgratis/4834"
+        }
+      ],
+      "synopsis": "¡Gritemos hoy también: \"¡La seguridad es lo primero!\"! Una era donde destacan los Despertados y los Cazadores. Ha-jun, un trabajador diario en la construcción, despierta como \"Director de la Oficina de Empleo\". Pero... ¡¿los trabajadores que invoca despejan las mazmorras por sí solos?! Reclutando desde orcos hasta trabajadores de la más alta categoría, Ha-jun desarrolla su propio equipo de \"caza automática\". Mientras oculta su identidad, Ha-jun va aumentando su poder e influencia, pero su presencia comienza a llamar gradualmente la atención de los mejores cazadores del país y de las grandes potencias extranjeras...!",
+      "visible": false
     },
     {
       "added_at": "2026-09-19T22:04:32+00:00",
@@ -9687,6 +14184,924 @@
       ],
       "synopsis": "El juego ha llegado a la realidad y las reglas del mundo han cambiado completamente, haciendo que la humanidad entre en una era de profesiones que lo cambia todo. ¡Solo obteniendo una profesión puedes subir de nivel y volverte fuerte y pararte en la cima del mundo! En el día del cambio de trabajo, Lin Moyu obtuvo la única profesión oculta, la de nigromante. Desde entonces, las cosas invocadas nunca mueren y Lin Moyu tampoco Muere. “Me siento en el trono de huesos mientras camino entre la vida y la muerte”",
       "visible": true
+    },
+    {
+      "added_at": "2026-09-01T15:08:43+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/the_novels_extra.jpg",
+      "cover_message_id": 38,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/38",
+      "genres": [],
+      "hashtag": "#The_Novels_Extra",
+      "id": "the_novels_extra",
+      "latest_chapter": 174,
+      "name": "The Novels Extra",
+      "package_count": 52,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-01T15:08:43+00:00",
+          "download_ready": true,
+          "filename": "┆001-010┆El Extra De La Novela (Remake).pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4208,
+          "name": "1-10",
+          "size": 89467720,
+          "telegram_link": "https://t.me/manhuasgratis/4208"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-01T15:08:43+00:00",
+          "download_ready": true,
+          "filename": "┆011-020┆El Extra De La Novela (Remake).pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4209,
+          "name": "11-20",
+          "size": 80547878,
+          "telegram_link": "https://t.me/manhuasgratis/4209"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-09-01T15:08:43+00:00",
+          "download_ready": true,
+          "filename": "┆021-030┆El Extra De La Novela (Remake).pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 4210,
+          "name": "21-30",
+          "size": 82723703,
+          "telegram_link": "https://t.me/manhuasgratis/4210"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-09-01T15:08:43+00:00",
+          "download_ready": true,
+          "filename": "┆031-040┆El Extra De La Novela (Remake).pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 4211,
+          "name": "31-40",
+          "size": 84452178,
+          "telegram_link": "https://t.me/manhuasgratis/4211"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆041-050┆El Extra De La Novela (Remake).pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 4212,
+          "name": "41-50",
+          "size": 82743234,
+          "telegram_link": "https://t.me/manhuasgratis/4212"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆051-060┆El Extra De La Novela (Remake).pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 4213,
+          "name": "51-60",
+          "size": 103563225,
+          "telegram_link": "https://t.me/manhuasgratis/4213"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆061-070┆El Extra De La Novela (Remake).pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 4214,
+          "name": "61-70",
+          "size": 110324765,
+          "telegram_link": "https://t.me/manhuasgratis/4214"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆071-080┆El Extra De La Novela (Remake).pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 4215,
+          "name": "71-80",
+          "size": 121129832,
+          "telegram_link": "https://t.me/manhuasgratis/4215"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆081-090┆El Extra De La Novela (Remake).pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 4216,
+          "name": "81-90",
+          "size": 114964721,
+          "telegram_link": "https://t.me/manhuasgratis/4216"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆091-100┆El Extra De La Novela (Remake).pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 4217,
+          "name": "91-100",
+          "size": 112162033,
+          "telegram_link": "https://t.me/manhuasgratis/4217"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆101-110┆El Extra De La Novela (Remake).pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 4218,
+          "name": "101-110",
+          "size": 123981042,
+          "telegram_link": "https://t.me/manhuasgratis/4218"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆111-120┆El Extra De La Novela (Remake).pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 4219,
+          "name": "111-120",
+          "size": 122183299,
+          "telegram_link": "https://t.me/manhuasgratis/4219"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆121-130┆El Extra De La Novela (Remake).pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 4220,
+          "name": "121-130",
+          "size": 120677141,
+          "telegram_link": "https://t.me/manhuasgratis/4220"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆131-132┆El Extra De La Novela (Remake).pdf",
+          "first": 131,
+          "last": 132,
+          "message_id": 4221,
+          "name": "131-132",
+          "size": 26418084,
+          "telegram_link": "https://t.me/manhuasgratis/4221"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            133,
+            134,
+            135,
+            136
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆133-136┆El Extra De La Novela (Remake).pdf",
+          "first": 133,
+          "last": 136,
+          "message_id": 4222,
+          "name": "133-136",
+          "size": 54717396,
+          "telegram_link": "https://t.me/manhuasgratis/4222"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            137
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆137┆El Extra De La Novela (Remake).pdf",
+          "first": 137,
+          "last": 137,
+          "message_id": 4223,
+          "name": "137",
+          "size": 14305734,
+          "telegram_link": "https://t.me/manhuasgratis/4223"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            138
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆138┆El Extra De La Novela (Remake).pdf",
+          "first": 138,
+          "last": 138,
+          "message_id": 4224,
+          "name": "138",
+          "size": 15381012,
+          "telegram_link": "https://t.me/manhuasgratis/4224"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            139
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆139┆El Extra De La Novela (Remake).pdf",
+          "first": 139,
+          "last": 139,
+          "message_id": 4225,
+          "name": "139",
+          "size": 11030236,
+          "telegram_link": "https://t.me/manhuasgratis/4225"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            140
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆140┆El Extra De La Novela (Remake).pdf",
+          "first": 140,
+          "last": 140,
+          "message_id": 4226,
+          "name": "140",
+          "size": 12167728,
+          "telegram_link": "https://t.me/manhuasgratis/4226"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆141┆El Extra De La Novela (Remake).pdf",
+          "first": 141,
+          "last": 141,
+          "message_id": 4227,
+          "name": "141",
+          "size": 12728655,
+          "telegram_link": "https://t.me/manhuasgratis/4227"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            142
+          ],
+          "date": "2026-09-01T15:08:44+00:00",
+          "download_ready": true,
+          "filename": "┆142┆El Extra De La Novela (Remake).pdf",
+          "first": 142,
+          "last": 142,
+          "message_id": 4228,
+          "name": "142",
+          "size": 10902672,
+          "telegram_link": "https://t.me/manhuasgratis/4228"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            143
+          ],
+          "date": "2026-09-01T15:08:45+00:00",
+          "download_ready": true,
+          "filename": "┆143┆El Extra De La Novela (Remake).pdf",
+          "first": 143,
+          "last": 143,
+          "message_id": 4229,
+          "name": "143",
+          "size": 13091952,
+          "telegram_link": "https://t.me/manhuasgratis/4229"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            144,
+            145
+          ],
+          "date": "2026-09-01T15:08:45+00:00",
+          "download_ready": true,
+          "filename": "144-145 • El extra de la novela (remake).pdf",
+          "first": 144,
+          "last": 145,
+          "message_id": 4230,
+          "name": "144-145",
+          "size": 20656216,
+          "telegram_link": "https://t.me/manhuasgratis/4230"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            146
+          ],
+          "date": "2026-09-01T15:08:45+00:00",
+          "download_ready": true,
+          "filename": "146 • El Extra de la Novela (Remake).pdf",
+          "first": 146,
+          "last": 146,
+          "message_id": 4231,
+          "name": "146",
+          "size": 9272666,
+          "telegram_link": "https://t.me/manhuasgratis/4231"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            147
+          ],
+          "date": "2026-09-01T15:08:45+00:00",
+          "download_ready": true,
+          "filename": "147 • El Extra de la Novela (Remake).pdf",
+          "first": 147,
+          "last": 147,
+          "message_id": 4232,
+          "name": "147",
+          "size": 5614219,
+          "telegram_link": "https://t.me/manhuasgratis/4232"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            148
+          ],
+          "date": "2026-09-01T15:08:45+00:00",
+          "download_ready": true,
+          "filename": "148 • El Extra de la Novela (Remake).pdf",
+          "first": 148,
+          "last": 148,
+          "message_id": 4233,
+          "name": "148",
+          "size": 5908240,
+          "telegram_link": "https://t.me/manhuasgratis/4233"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            149
+          ],
+          "date": "2026-09-01T15:12:21+00:00",
+          "download_ready": true,
+          "filename": "│149│El Extra de la Novela [Remake].pdf",
+          "first": 149,
+          "last": 149,
+          "message_id": 4234,
+          "name": "149",
+          "size": 13120215,
+          "telegram_link": "https://t.me/manhuasgratis/4234"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            150
+          ],
+          "date": "2026-09-01T15:12:25+00:00",
+          "download_ready": true,
+          "filename": "│150│El Extra de la Novela [Remake].pdf",
+          "first": 150,
+          "last": 150,
+          "message_id": 4235,
+          "name": "150",
+          "size": 10042923,
+          "telegram_link": "https://t.me/manhuasgratis/4235"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151
+          ],
+          "date": "2026-09-01T15:12:27+00:00",
+          "download_ready": true,
+          "filename": "│151│El Extra de la Novela [Remake].pdf",
+          "first": 151,
+          "last": 151,
+          "message_id": 4236,
+          "name": "151",
+          "size": 12023106,
+          "telegram_link": "https://t.me/manhuasgratis/4236"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            152
+          ],
+          "date": "2026-09-01T15:12:30+00:00",
+          "download_ready": true,
+          "filename": "│152│El Extra de la Novela [Remake].pdf",
+          "first": 152,
+          "last": 152,
+          "message_id": 4237,
+          "name": "152",
+          "size": 9396783,
+          "telegram_link": "https://t.me/manhuasgratis/4237"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            153
+          ],
+          "date": "2026-09-01T15:12:33+00:00",
+          "download_ready": true,
+          "filename": "│153│El Extra de la Novela [Remake].pdf",
+          "first": 153,
+          "last": 153,
+          "message_id": 4238,
+          "name": "153",
+          "size": 11500255,
+          "telegram_link": "https://t.me/manhuasgratis/4238"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            154
+          ],
+          "date": "2026-09-01T15:12:34+00:00",
+          "download_ready": true,
+          "filename": "154 • El Extra de la Novela (Remake).pdf",
+          "first": 154,
+          "last": 154,
+          "message_id": 4239,
+          "name": "154",
+          "size": 8203856,
+          "telegram_link": "https://t.me/manhuasgratis/4239"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            155
+          ],
+          "date": "2026-09-01T15:12:37+00:00",
+          "download_ready": true,
+          "filename": "│155│El Extra de la Novela [Remake].pdf",
+          "first": 155,
+          "last": 155,
+          "message_id": 4240,
+          "name": "155",
+          "size": 10462192,
+          "telegram_link": "https://t.me/manhuasgratis/4240"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            156
+          ],
+          "date": "2026-09-01T15:12:39+00:00",
+          "download_ready": true,
+          "filename": "│156│El Extra de la Novela [Remake].pdf",
+          "first": 156,
+          "last": 156,
+          "message_id": 4241,
+          "name": "156",
+          "size": 8572748,
+          "telegram_link": "https://t.me/manhuasgratis/4241"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            157
+          ],
+          "date": "2026-09-01T15:12:42+00:00",
+          "download_ready": true,
+          "filename": "157 • El Extra de la Novela (Remake).pdf",
+          "first": 157,
+          "last": 157,
+          "message_id": 4242,
+          "name": "157",
+          "size": 10439643,
+          "telegram_link": "https://t.me/manhuasgratis/4242"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            158
+          ],
+          "date": "2026-09-01T15:12:45+00:00",
+          "download_ready": true,
+          "filename": "│158│El Extra de la Novela [Remake].pdf",
+          "first": 158,
+          "last": 158,
+          "message_id": 4243,
+          "name": "158",
+          "size": 11987697,
+          "telegram_link": "https://t.me/manhuasgratis/4243"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            159
+          ],
+          "date": "2026-09-01T15:12:47+00:00",
+          "download_ready": true,
+          "filename": "│159│El Extra de la Novela [Remake].pdf",
+          "first": 159,
+          "last": 159,
+          "message_id": 4244,
+          "name": "159",
+          "size": 12562722,
+          "telegram_link": "https://t.me/manhuasgratis/4244"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            160
+          ],
+          "date": "2026-09-01T15:12:49+00:00",
+          "download_ready": true,
+          "filename": "│160│El Extra de la Novela [Remake].pdf",
+          "first": 160,
+          "last": 160,
+          "message_id": 4245,
+          "name": "160",
+          "size": 11464889,
+          "telegram_link": "https://t.me/manhuasgratis/4245"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161
+          ],
+          "date": "2026-09-01T15:12:51+00:00",
+          "download_ready": true,
+          "filename": "│161│El Extra de la Novela [Remake].pdf",
+          "first": 161,
+          "last": 161,
+          "message_id": 4246,
+          "name": "161",
+          "size": 8088684,
+          "telegram_link": "https://t.me/manhuasgratis/4246"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            162
+          ],
+          "date": "2026-09-01T15:12:53+00:00",
+          "download_ready": true,
+          "filename": "│162│El Extra de la Novela [Remake].pdf",
+          "first": 162,
+          "last": 162,
+          "message_id": 4247,
+          "name": "162",
+          "size": 10351211,
+          "telegram_link": "https://t.me/manhuasgratis/4247"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            163
+          ],
+          "date": "2026-09-01T15:12:56+00:00",
+          "download_ready": true,
+          "filename": "│163│El Extra de la Novela [Remake].pdf",
+          "first": 163,
+          "last": 163,
+          "message_id": 4248,
+          "name": "163",
+          "size": 10461472,
+          "telegram_link": "https://t.me/manhuasgratis/4248"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            164
+          ],
+          "date": "2026-09-01T15:12:58+00:00",
+          "download_ready": true,
+          "filename": "│164│El Extra de la Novela [Remake].pdf",
+          "first": 164,
+          "last": 164,
+          "message_id": 4249,
+          "name": "164",
+          "size": 8353142,
+          "telegram_link": "https://t.me/manhuasgratis/4249"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            165
+          ],
+          "date": "2026-09-01T15:13:00+00:00",
+          "download_ready": true,
+          "filename": "│165│El Extra de la Novela [Remake].pdf",
+          "first": 165,
+          "last": 165,
+          "message_id": 4250,
+          "name": "165",
+          "size": 11745150,
+          "telegram_link": "https://t.me/manhuasgratis/4250"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            166
+          ],
+          "date": "2026-09-01T15:13:02+00:00",
+          "download_ready": true,
+          "filename": "│166│El Extra de la Novela [Remake].pdf",
+          "first": 166,
+          "last": 166,
+          "message_id": 4251,
+          "name": "166",
+          "size": 7676858,
+          "telegram_link": "https://t.me/manhuasgratis/4251"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            167
+          ],
+          "date": "2026-09-01T15:13:05+00:00",
+          "download_ready": true,
+          "filename": "167 • El Extra de la Novela (Remake).pdf",
+          "first": 167,
+          "last": 167,
+          "message_id": 4252,
+          "name": "167",
+          "size": 8659381,
+          "telegram_link": "https://t.me/manhuasgratis/4252"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            168
+          ],
+          "date": "2026-09-01T15:13:08+00:00",
+          "download_ready": true,
+          "filename": "168 • El Extra de la Novela (Remake).pdf",
+          "first": 168,
+          "last": 168,
+          "message_id": 4253,
+          "name": "168",
+          "size": 7618381,
+          "telegram_link": "https://t.me/manhuasgratis/4253"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            169
+          ],
+          "date": "2026-09-01T15:13:10+00:00",
+          "download_ready": true,
+          "filename": "169 • El Extra de la Novela (Remake).pdf",
+          "first": 169,
+          "last": 169,
+          "message_id": 4254,
+          "name": "169",
+          "size": 8800125,
+          "telegram_link": "https://t.me/manhuasgratis/4254"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            170
+          ],
+          "date": "2026-09-01T15:13:11+00:00",
+          "download_ready": true,
+          "filename": "│170│El Extra de la Novela [Remake].pdf",
+          "first": 170,
+          "last": 170,
+          "message_id": 4255,
+          "name": "170",
+          "size": 9636316,
+          "telegram_link": "https://t.me/manhuasgratis/4255"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171
+          ],
+          "date": "2026-09-08T15:09:26+00:00",
+          "download_ready": true,
+          "filename": "│171│El Extra de la Novela [Remake].pdf",
+          "first": 171,
+          "last": 171,
+          "message_id": 4347,
+          "name": "171",
+          "size": 7461399,
+          "telegram_link": "https://t.me/manhuasgratis/4347"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            172
+          ],
+          "date": "2026-09-14T21:30:07+00:00",
+          "download_ready": true,
+          "filename": "172 • El Extra de la Novela (Remake).pdf",
+          "first": 172,
+          "last": 172,
+          "message_id": 4538,
+          "name": "172",
+          "size": 8130608,
+          "telegram_link": "https://t.me/manhuasgratis/4538"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            173
+          ],
+          "date": "2026-09-22T13:09:37+00:00",
+          "download_ready": true,
+          "filename": "│173│El Extra de la Novela [Remake].pdf",
+          "first": 173,
+          "last": 173,
+          "message_id": 4613,
+          "name": "173",
+          "size": 11097842,
+          "telegram_link": "https://t.me/manhuasgratis/4613"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            174
+          ],
+          "date": "2026-09-29T12:13:03+00:00",
+          "download_ready": true,
+          "filename": "│174│El Extra de la Novela [Remake].pdf",
+          "first": 174,
+          "last": 174,
+          "message_id": 4666,
+          "name": "174",
+          "size": 10206117,
+          "telegram_link": "https://t.me/manhuasgratis/4666"
+        }
+      ],
+      "synopsis": "Al despertar, Kim Hajin se encuentra en un mundo familiar pero en un cuerpo desconocido.\nUn mundo que él mismo creó y una historia que escribió, pero que nunca terminó.\nSe había convertido en el extra de su novela, un personaje de relleno sin importancia para la historia.\nLa única pista para escapar es permanecer cerca de la historia principal.\nSin embargo, pronto descubre que el mundo no es exactamente idéntico a su creación.",
+      "visible": false
     }
   ],
   "source": {
@@ -9695,6 +15110,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-07T00:26:29.261100+00:00",
+  "updated_at": "2026-10-07T02:35:15.977181+00:00",
   "version": 3
 }
