@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "1.5",
+  "version_code": 4,
+  "version_name": "1.4",
   "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/1.5/app-release.apk",
   "changelog": "Novedades:\n- Añadido descarga completa\n- descarga automatica en opciones\n- Correcciones varias"
 }
