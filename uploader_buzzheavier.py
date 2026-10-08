@@ -115,14 +115,15 @@ def find_packages_without_url(catalog: dict) -> list:
 def _check_url_alive(url: str) -> str:
     """
     Devuelve:
-      "alive"    → 200/206 → la URL funciona
-      "dead"     → 403/404/410 → murió, hay que resubir
+      "alive"    → 200/206 + PDF real
+      "dead"     → 403/404/410, HTML de error, PDF vacío/inválido
       "unknown"  → error de red, timeout, 5xx → NO borrar (falso positivo)
     """
     for attempt in range(VERIFY_RETRY + 1):
         try:
             headers = {
-                "Range": "bytes=0-0",
+                # Pedimos 5 bytes para poder comprobar la magic number del PDF
+                "Range": "bytes=0-4",
                 "User-Agent": "Mozilla/5.0 (Android) ManhuasApp/1.0",
             }
             r = requests.get(
@@ -132,19 +133,78 @@ def _check_url_alive(url: str) -> str:
                 allow_redirects=True,
                 stream=True,
             )
+
             status = r.status_code
+            content_type = (r.headers.get("Content-Type") or "").lower()
+            content_length_h = r.headers.get("Content-Length")
+            content_range_h = r.headers.get("Content-Range")
+
+            # Leer los primeros bytes sin descargar todo
+            first_bytes = b""
+            if status in (200, 206):
+                try:
+                    first_bytes = next(r.iter_content(chunk_size=5), b"")
+                except Exception:
+                    first_bytes = b""
+
             r.close()
 
-            if status in (200, 206):
-                return "alive"
+            # ── 1. Status code ──
             if status in (403, 404, 410):
                 return "dead"
-            if 500 <= status < 600:
-                if attempt < VERIFY_RETRY:
-                    time.sleep(2 * (attempt + 1))
-                    continue
+            if status not in (200, 206):
+                if 500 <= status < 600:
+                    if attempt < VERIFY_RETRY:
+                        time.sleep(2 * (attempt + 1))
+                        continue
+                    return "unknown"
                 return "unknown"
-            return "unknown"
+
+            # ── 2. Content-Type debe ser PDF, no HTML ──
+            if content_type.startswith("text/html"):
+                return "dead"
+            if content_type and not (
+                "pdf" in content_type
+                or "octet-stream" in content_type
+                or "binary" in content_type
+                or content_type == ""
+            ):
+                # Content-Type raro pero no HTML. Podría ser otro binario.
+                # Lo dejamos pasar como unknown para no borrar por error.
+                return "unknown"
+
+            # ── 3. Tamaño real del archivo ──
+            size_bytes = None
+            if content_length_h:
+                try:
+                    size_bytes = int(content_length_h)
+                except ValueError:
+                    pass
+
+            if content_range_h:
+                # Formato: "bytes 0-4/12345" → total = 12345
+                try:
+                    total = content_range_h.split("/")[-1]
+                    if total != "*":
+                        size_bytes = int(total)
+                except Exception:
+                    pass
+
+            # Si sabemos el tamaño y es sospechosamente pequeño → muerto
+            if size_bytes is not None and size_bytes < 1024:
+                return "dead"
+
+            # ── 4. Magic number de PDF ──
+            # Un PDF real empieza con "%PDF"
+            if first_bytes:
+                if not first_bytes.startswith(b"%PDF"):
+                    return "dead"
+            else:
+                # No pudimos leer bytes pero el status y headers son OK.
+                # Es raro pero no concluyente → unknown para no borrar.
+                return "unknown"
+
+            return "alive"
 
         except requests.exceptions.Timeout:
             if attempt < VERIFY_RETRY:
