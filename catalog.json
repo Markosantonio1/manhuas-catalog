@@ -5934,6 +5934,692 @@
       "visible": true
     },
     {
+      "added_at": "2026-03-26T15:10:56+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_regreso_del_espadachin_oscuro.jpg",
+      "cover_message_id": 52,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/52",
+      "genres": [],
+      "hashtag": "#El_Regreso_del_Espadachín_Oscuro",
+      "id": "el_regreso_del_espadachin_oscuro",
+      "latest_chapter": 68,
+      "name": "El Regreso del Espadachín Oscuro",
+      "package_count": 43,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-07T23:49:48+00:00",
+          "download_ready": true,
+          "filename": "01_10 El Regreso del Espadachín Oscuro.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 5125,
+          "name": "1-10",
+          "size": 85453138,
+          "telegram_link": "https://t.me/manhuasgratis/5125"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-07T23:49:48+00:00",
+          "download_ready": true,
+          "filename": "11_20 El Regreso del Espadachín Oscuro.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5126,
+          "name": "11-20",
+          "size": 81442477,
+          "telegram_link": "https://t.me/manhuasgratis/5126"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "date": "2026-10-07T23:49:48+00:00",
+          "download_ready": true,
+          "filename": "21_28 El Regreso del Espadachín Oscuro.pdf",
+          "first": 21,
+          "last": 28,
+          "message_id": 5127,
+          "name": "21-28",
+          "size": 64817797,
+          "telegram_link": "https://t.me/manhuasgratis/5127"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29
+          ],
+          "date": "2026-03-26T15:10:56+00:00",
+          "download_ready": true,
+          "filename": "29 El Regreso del Espadachín Oscuro .pdf",
+          "first": 29,
+          "last": 29,
+          "message_id": 487,
+          "name": "29",
+          "size": 8079011,
+          "telegram_link": "https://t.me/manhuasgratis/487"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            30
+          ],
+          "date": "2026-03-26T15:10:56+00:00",
+          "download_ready": true,
+          "filename": "30 El Regreso del Espadachín Oscuro.pdf",
+          "first": 30,
+          "last": 30,
+          "message_id": 488,
+          "name": "30",
+          "size": 8128543,
+          "telegram_link": "https://t.me/manhuasgratis/488"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31
+          ],
+          "date": "2026-03-26T15:10:56+00:00",
+          "download_ready": true,
+          "filename": "31 El Regreso del Espadachín Oscuro.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 489,
+          "name": "31",
+          "size": 8683256,
+          "telegram_link": "https://t.me/manhuasgratis/489"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            32
+          ],
+          "date": "2026-03-26T15:10:56+00:00",
+          "download_ready": true,
+          "filename": "32 El Regreso del Espadachín Oscuro .pdf",
+          "first": 32,
+          "last": 32,
+          "message_id": 490,
+          "name": "32",
+          "size": 11152680,
+          "telegram_link": "https://t.me/manhuasgratis/490"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            33
+          ],
+          "date": "2026-03-26T15:10:56+00:00",
+          "download_ready": true,
+          "filename": "33 El Regreso del Espadachín Oscuro.pdf",
+          "first": 33,
+          "last": 33,
+          "message_id": 491,
+          "name": "33",
+          "size": 9366707,
+          "telegram_link": "https://t.me/manhuasgratis/491"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            34
+          ],
+          "date": "2026-03-26T15:10:56+00:00",
+          "download_ready": true,
+          "filename": "34 El Regreso del Espadachín Oscuro .pdf",
+          "first": 34,
+          "last": 34,
+          "message_id": 492,
+          "name": "34",
+          "size": 9861240,
+          "telegram_link": "https://t.me/manhuasgratis/492"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            35
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "35 El Regreso del Espadachín Oscuro.pdf",
+          "first": 35,
+          "last": 35,
+          "message_id": 493,
+          "name": "35",
+          "size": 7077809,
+          "telegram_link": "https://t.me/manhuasgratis/493"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            36
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "36 El Regreso del Espadachín Oscuro .pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 494,
+          "name": "36",
+          "size": 9306712,
+          "telegram_link": "https://t.me/manhuasgratis/494"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            37
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "37 El Regreso del Espadachín Oscuro .pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 495,
+          "name": "37",
+          "size": 7947823,
+          "telegram_link": "https://t.me/manhuasgratis/495"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "38 El Regreso del Espadachín Oscuro.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 496,
+          "name": "38",
+          "size": 9773558,
+          "telegram_link": "https://t.me/manhuasgratis/496"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            39
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "39 El Regreso del Espadachín Oscuro .pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 497,
+          "name": "39",
+          "size": 9112349,
+          "telegram_link": "https://t.me/manhuasgratis/497"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "40 El Regreso del Espadachín Oscuro.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 498,
+          "name": "40",
+          "size": 7658572,
+          "telegram_link": "https://t.me/manhuasgratis/498"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "41 El Regreso del Espadachín Oscuro .pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 499,
+          "name": "41",
+          "size": 7563971,
+          "telegram_link": "https://t.me/manhuasgratis/499"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            42
+          ],
+          "date": "2026-03-26T15:10:57+00:00",
+          "download_ready": true,
+          "filename": "42 El Regreso del Espadachín Oscuro .pdf",
+          "first": 42,
+          "last": 42,
+          "message_id": 500,
+          "name": "42",
+          "size": 8920099,
+          "telegram_link": "https://t.me/manhuasgratis/500"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43
+          ],
+          "date": "2026-04-07T02:11:40+00:00",
+          "download_ready": true,
+          "filename": "[43] El Regreso del Espadachín Oscuro.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 568,
+          "name": "43",
+          "size": 9210856,
+          "telegram_link": "https://t.me/manhuasgratis/568"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            44
+          ],
+          "date": "2026-04-10T11:56:11+00:00",
+          "download_ready": true,
+          "filename": "[44] El Regreso del Espadachín Oscuro .pdf",
+          "first": 44,
+          "last": 44,
+          "message_id": 578,
+          "name": "44",
+          "size": 9655191,
+          "telegram_link": "https://t.me/manhuasgratis/578"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            45
+          ],
+          "date": "2026-04-17T17:51:38+00:00",
+          "download_ready": true,
+          "filename": "[45] El Regreso del Espadachín Oscuro.pdf",
+          "first": 45,
+          "last": 45,
+          "message_id": 616,
+          "name": "45",
+          "size": 8362178,
+          "telegram_link": "https://t.me/manhuasgratis/616"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            46
+          ],
+          "date": "2026-05-05T12:33:57+00:00",
+          "download_ready": true,
+          "filename": "[46] El Regreso del Espadachín Oscuro.pdf",
+          "first": 46,
+          "last": 46,
+          "message_id": 663,
+          "name": "46",
+          "size": 10854426,
+          "telegram_link": "https://t.me/manhuasgratis/663"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            47
+          ],
+          "date": "2026-05-05T12:34:36+00:00",
+          "download_ready": true,
+          "filename": "[47] El Regreso del Espadachín Oscuro.pdf",
+          "first": 47,
+          "last": 47,
+          "message_id": 664,
+          "name": "47",
+          "size": 9273595,
+          "telegram_link": "https://t.me/manhuasgratis/664"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            48
+          ],
+          "date": "2026-05-27T18:54:13+00:00",
+          "download_ready": true,
+          "filename": "[48] El Regreso del Espadachín Oscuro.pdf",
+          "first": 48,
+          "last": 48,
+          "message_id": 675,
+          "name": "48",
+          "size": 9952511,
+          "telegram_link": "https://t.me/manhuasgratis/675"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            49
+          ],
+          "date": "2026-05-27T18:54:13+00:00",
+          "download_ready": true,
+          "filename": "[49] El Regreso del Espadachín Oscuro.pdf",
+          "first": 49,
+          "last": 49,
+          "message_id": 676,
+          "name": "49",
+          "size": 9954244,
+          "telegram_link": "https://t.me/manhuasgratis/676"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            50
+          ],
+          "date": "2026-05-27T18:54:13+00:00",
+          "download_ready": true,
+          "filename": "[50] El Regreso del Espadachín Oscuro.pdf",
+          "first": 50,
+          "last": 50,
+          "message_id": 677,
+          "name": "50",
+          "size": 11455624,
+          "telegram_link": "https://t.me/manhuasgratis/677"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51
+          ],
+          "date": "2026-06-04T00:30:09+00:00",
+          "download_ready": true,
+          "filename": "[51] El Regreso del Espadachín Oscuro.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 681,
+          "name": "51",
+          "size": 10845656,
+          "telegram_link": "https://t.me/manhuasgratis/681"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            52
+          ],
+          "date": "2026-06-04T00:30:09+00:00",
+          "download_ready": true,
+          "filename": "[52] El Regreso del Espadachín Oscuro.pdf",
+          "first": 52,
+          "last": 52,
+          "message_id": 682,
+          "name": "52",
+          "size": 11141594,
+          "telegram_link": "https://t.me/manhuasgratis/682"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            53
+          ],
+          "date": "2026-06-15T21:31:07+00:00",
+          "download_ready": true,
+          "filename": "[53] El Regreso del Espadachín Oscuro.pdf",
+          "first": 53,
+          "last": 53,
+          "message_id": 683,
+          "name": "53",
+          "size": 11004556,
+          "telegram_link": "https://t.me/manhuasgratis/683"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            54
+          ],
+          "date": "2026-08-13T19:37:55+00:00",
+          "download_ready": true,
+          "filename": "54 El Regreso del Espadachín Oscuro.pdf",
+          "first": 54,
+          "last": 54,
+          "message_id": 794,
+          "name": "54",
+          "size": 9176718,
+          "telegram_link": "https://t.me/manhuasgratis/794"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            55
+          ],
+          "date": "2026-08-13T19:38:01+00:00",
+          "download_ready": true,
+          "filename": "55 El Regreso del Espadachín Oscuro.pdf",
+          "first": 55,
+          "last": 55,
+          "message_id": 795,
+          "name": "55",
+          "size": 8144712,
+          "telegram_link": "https://t.me/manhuasgratis/795"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            56
+          ],
+          "date": "2026-08-13T19:38:07+00:00",
+          "download_ready": true,
+          "filename": "56 El Regreso del Espadachín Oscuro .pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 796,
+          "name": "56",
+          "size": 7692300,
+          "telegram_link": "https://t.me/manhuasgratis/796"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            57
+          ],
+          "date": "2026-08-13T19:38:14+00:00",
+          "download_ready": true,
+          "filename": "57 El Regreso del Espadachín Oscuro .pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 797,
+          "name": "57",
+          "size": 8910703,
+          "telegram_link": "https://t.me/manhuasgratis/797"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            58
+          ],
+          "date": "2026-08-13T19:38:20+00:00",
+          "download_ready": true,
+          "filename": "58 El Regreso del Espadachín Oscuro .pdf",
+          "first": 58,
+          "last": 58,
+          "message_id": 798,
+          "name": "58",
+          "size": 9136937,
+          "telegram_link": "https://t.me/manhuasgratis/798"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            59
+          ],
+          "date": "2026-08-13T19:38:26+00:00",
+          "download_ready": true,
+          "filename": "59 El Regreso del Espadachín Oscuro .pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 799,
+          "name": "59",
+          "size": 10493196,
+          "telegram_link": "https://t.me/manhuasgratis/799"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            60
+          ],
+          "date": "2026-08-13T19:38:32+00:00",
+          "download_ready": true,
+          "filename": "60 El Regreso del Espadachín Oscuro .pdf",
+          "first": 60,
+          "last": 60,
+          "message_id": 800,
+          "name": "60",
+          "size": 8272382,
+          "telegram_link": "https://t.me/manhuasgratis/800"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61
+          ],
+          "date": "2026-08-13T19:38:38+00:00",
+          "download_ready": true,
+          "filename": "61 El Regreso del Espadachín Oscuro.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 801,
+          "name": "61",
+          "size": 7665644,
+          "telegram_link": "https://t.me/manhuasgratis/801"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            62
+          ],
+          "date": "2026-08-17T19:16:20+00:00",
+          "download_ready": true,
+          "filename": "[#62]   El Regreso del Espadachín Oscuro.pdf",
+          "first": 62,
+          "last": 62,
+          "message_id": 1578,
+          "name": "62",
+          "size": 8303246,
+          "telegram_link": "https://t.me/manhuasgratis/1578"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            63
+          ],
+          "date": "2026-09-01T20:07:58+00:00",
+          "download_ready": true,
+          "filename": "[63] El Regreso del Espadachín Oscuro.pdf",
+          "first": 63,
+          "last": 63,
+          "message_id": 4284,
+          "name": "63",
+          "size": 9639143,
+          "telegram_link": "https://t.me/manhuasgratis/4284"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            64
+          ],
+          "date": "2026-09-08T00:12:59+00:00",
+          "download_ready": true,
+          "filename": "[64] El Regreso del Espadachín Oscuro.pdf",
+          "first": 64,
+          "last": 64,
+          "message_id": 4342,
+          "name": "64",
+          "size": 10221092,
+          "telegram_link": "https://t.me/manhuasgratis/4342"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            65
+          ],
+          "date": "2026-09-14T12:32:33+00:00",
+          "download_ready": true,
+          "filename": "[65] El Regreso del Espadachín Oscuro.pdf",
+          "first": 65,
+          "last": 65,
+          "message_id": 4534,
+          "name": "65",
+          "size": 9961163,
+          "telegram_link": "https://t.me/manhuasgratis/4534"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            66
+          ],
+          "date": "2026-09-23T14:58:05+00:00",
+          "download_ready": true,
+          "filename": "[#66]   El Regreso del Espadachín Oscuro.pdf",
+          "first": 66,
+          "last": 66,
+          "message_id": 4616,
+          "name": "66",
+          "size": 9973650,
+          "telegram_link": "https://t.me/manhuasgratis/4616"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            67
+          ],
+          "date": "2026-10-01T20:11:15+00:00",
+          "download_ready": true,
+          "filename": "[67] El Regreso del Espadachín Oscuro.pdf",
+          "first": 67,
+          "last": 67,
+          "message_id": 4802,
+          "name": "67",
+          "size": 10145344,
+          "telegram_link": "https://t.me/manhuasgratis/4802"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            68
+          ],
+          "date": "2026-10-07T20:11:50+00:00",
+          "download_ready": true,
+          "filename": "[68] El Regreso del Espadachín Oscuro.pdf",
+          "first": 68,
+          "last": 68,
+          "message_id": 5123,
+          "name": "68",
+          "size": 10460249,
+          "telegram_link": "https://t.me/manhuasgratis/5123"
+        }
+      ],
+      "synopsis": "Gray Lee, un soldado anónimo, muere en una batalla desesperada contra el temible \"Liquidador\", capaz de destruir continentes. Sin embargo, en lugar de morir, es salvado por Chronos, el Maestro del Tiempo, quien le otorga un misterioso poder y lo envía al pasado para cambiar el destino del mundo.\nAhora de regreso en su ciudad natal, con recuerdos del futuro y la capacidad de trascender el tiempo, Gray está decidido a aprovechar su segunda oportunidad y convertirse en un guerrero más fuerte que los héroes legendarios.",
+      "visible": false
+    },
+    {
       "added_at": "2026-09-30T15:45:52+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_retorno_de_una_leyenda.jpg",
       "cover_message_id": 16,
@@ -21182,6 +21868,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-07T23:06:07.944840+00:00",
+  "updated_at": "2026-10-08T00:01:00.742929+00:00",
   "version": 3
 }
