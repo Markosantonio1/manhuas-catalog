@@ -1269,9 +1269,9 @@
       "genres": [],
       "hashtag": "#Apocalipsis_Despiadado_Acumular_Billones_de_Suministros_al_Principio",
       "id": "apocalipsis_despiadado_acumular_billones_de_suministros_al_principio",
-      "latest_chapter": 67,
+      "latest_chapter": 117,
       "name": "Apocalipsis Despiadado Acumular Billones de Suministros al Principio",
-      "package_count": 8,
+      "package_count": 13,
       "packages": [
         {
           "buzzheavier_id": "wajvowjft26n",
@@ -1467,6 +1467,126 @@
           "name": "61-67",
           "size": 53543206,
           "telegram_link": "https://t.me/manhuasgratis/5169"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "date": "2026-10-08T02:17:43+00:00",
+          "download_ready": true,
+          "filename": "68_77_Apocalipsis_Despiadado_Acumular_Billones_de_Suministros_al.pdf",
+          "first": 68,
+          "last": 77,
+          "message_id": 5170,
+          "name": "68-77",
+          "size": 113188381,
+          "telegram_link": "https://t.me/manhuasgratis/5170"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ],
+          "date": "2026-10-08T02:17:43+00:00",
+          "download_ready": true,
+          "filename": "78_87_Apocalipsis_Despiadado_Acumular_Billones_de_Suministros_al.pdf",
+          "first": 78,
+          "last": 87,
+          "message_id": 5171,
+          "name": "78-87",
+          "size": 121548256,
+          "telegram_link": "https://t.me/manhuasgratis/5171"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97
+          ],
+          "date": "2026-10-08T02:17:43+00:00",
+          "download_ready": true,
+          "filename": "88_97_Apocalipsis_Despiadado_Acumular_Billones_de_Suministros_al.pdf",
+          "first": 88,
+          "last": 97,
+          "message_id": 5172,
+          "name": "88-97",
+          "size": 121018294,
+          "telegram_link": "https://t.me/manhuasgratis/5172"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ],
+          "date": "2026-10-08T02:17:43+00:00",
+          "download_ready": true,
+          "filename": "98_107_Apocalipsis_Despiadado_Acumular_Billones_de_Suministros_al.pdf",
+          "first": 98,
+          "last": 107,
+          "message_id": 5173,
+          "name": "98-107",
+          "size": 114466410,
+          "telegram_link": "https://t.me/manhuasgratis/5173"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117
+          ],
+          "date": "2026-10-08T02:17:43+00:00",
+          "download_ready": true,
+          "filename": "108_117_Apocalipsis_Despiadado_Acumular_Billones_de_Suministros.pdf",
+          "first": 108,
+          "last": 117,
+          "message_id": 5174,
+          "name": "108-117",
+          "size": 128294555,
+          "telegram_link": "https://t.me/manhuasgratis/5174"
         }
       ],
       "synopsis": "Su Chen, quien renació antes del apocalipsis, no habló mucho. Debido a que experimentó el apocalipsis en su vida anterior y fue asesinado por su prometida, conocía la importancia de los suministros y confiaba en su capacidad para expandirse y saltar en el espacio. acumular una gran cantidad de suministros y esperar el apocalipsis. ¡En ese momento, tu vida cambiará por completo!",
@@ -22182,6 +22302,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-08T02:11:49.072406+00:00",
+  "updated_at": "2026-10-08T02:30:06.072331+00:00",
   "version": 3
 }
