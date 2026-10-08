@@ -1262,6 +1262,201 @@
   "schema": "manhuas-catalog-v3",
   "series": [
     {
+      "added_at": "2026-10-08T00:50:53+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/apocalipsis_despiadado_acumular_billones_de_suministros_al_principio.jpg",
+      "cover_message_id": 54,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/54",
+      "genres": [],
+      "hashtag": "#Apocalipsis_Despiadado_Acumular_Billones_de_Suministros_al_Principio",
+      "id": "apocalipsis_despiadado_acumular_billones_de_suministros_al_principio",
+      "latest_chapter": 67,
+      "name": "Apocalipsis Despiadado Acumular Billones de Suministros al Principio",
+      "package_count": 8,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#01-10] • Apocalipsis Despiadado.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 5162,
+          "name": "1-10",
+          "size": 68455966,
+          "telegram_link": "https://t.me/manhuasgratis/5162"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#11-20] • Apocalipsis Despiadado.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5163,
+          "name": "11-20",
+          "size": 76835473,
+          "telegram_link": "https://t.me/manhuasgratis/5163"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#21-30] • Apocalipsis Despiadado.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 5164,
+          "name": "21-30",
+          "size": 71683089,
+          "telegram_link": "https://t.me/manhuasgratis/5164"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#31-40] • Apocalipsis Despiadado.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 5165,
+          "name": "31-40",
+          "size": 71883184,
+          "telegram_link": "https://t.me/manhuasgratis/5165"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#41-42] • Apocalipsis Despiadado.pdf",
+          "first": 41,
+          "last": 42,
+          "message_id": 5166,
+          "name": "41-42",
+          "size": 12706867,
+          "telegram_link": "https://t.me/manhuasgratis/5166"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#43-50] • Apocalipsis Despiadado.pdf",
+          "first": 43,
+          "last": 50,
+          "message_id": 5167,
+          "name": "43-50",
+          "size": 56669206,
+          "telegram_link": "https://t.me/manhuasgratis/5167"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#51-60] • Apocalipsis Despiadado.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 5168,
+          "name": "51-60",
+          "size": 69910402,
+          "telegram_link": "https://t.me/manhuasgratis/5168"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ],
+          "date": "2026-10-08T00:50:53+00:00",
+          "download_ready": true,
+          "filename": "[#61-67] • Apocalipsis Despiadado.pdf",
+          "first": 61,
+          "last": 67,
+          "message_id": 5169,
+          "name": "61-67",
+          "size": 53543206,
+          "telegram_link": "https://t.me/manhuasgratis/5169"
+        }
+      ],
+      "synopsis": "Su Chen, quien renació antes del apocalipsis, no habló mucho. Debido a que experimentó el apocalipsis en su vida anterior y fue asesinado por su prometida, conocía la importancia de los suministros y confiaba en su capacidad para expandirse y saltar en el espacio. acumular una gran cantidad de suministros y esperar el apocalipsis. ¡En ese momento, tu vida cambiará por completo!",
+      "visible": false
+    },
+    {
       "added_at": "2026-09-11T17:04:35+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/archimago_tracendiendo_a_travez.jpg",
       "cover_message_id": 34,
@@ -21959,6 +22154,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-08T00:01:00.742929+00:00",
+  "updated_at": "2026-10-08T02:11:49.072406+00:00",
   "version": 3
 }
