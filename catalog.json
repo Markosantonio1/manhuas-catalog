@@ -3249,6 +3249,634 @@
       "visible": true
     },
     {
+      "added_at": "2026-08-22T03:22:33+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_devoto_caballero.jpg",
+      "cover_message_id": 58,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/58",
+      "genres": [],
+      "hashtag": "#El_Devoto_Caballero",
+      "id": "el_devoto_caballero",
+      "latest_chapter": 178,
+      "name": "El Devoto Caballero",
+      "package_count": 31,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "01_10 El Devoto Caballero.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 2409,
+          "name": "1-10",
+          "size": 81959648,
+          "telegram_link": "https://t.me/manhuasgratis/2409"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "11_20 El Devoto Caballero.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 2410,
+          "name": "11-20",
+          "size": 84589998,
+          "telegram_link": "https://t.me/manhuasgratis/2410"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "21_30 El Devoto Caballero.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 2411,
+          "name": "21-30",
+          "size": 97663433,
+          "telegram_link": "https://t.me/manhuasgratis/2411"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "31_40 El Devoto Caballero.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 2412,
+          "name": "31-40",
+          "size": 95652747,
+          "telegram_link": "https://t.me/manhuasgratis/2412"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "41_50 El Devoto Caballero.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 2413,
+          "name": "41-50",
+          "size": 93746245,
+          "telegram_link": "https://t.me/manhuasgratis/2413"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "51_60 El Devoto Caballero.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 2414,
+          "name": "51-60",
+          "size": 92097515,
+          "telegram_link": "https://t.me/manhuasgratis/2414"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "61_70 El Devoto Caballero.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 2415,
+          "name": "61-70",
+          "size": 76514294,
+          "telegram_link": "https://t.me/manhuasgratis/2415"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "71_80 El Devoto Caballero.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 2416,
+          "name": "71-80",
+          "size": 79265838,
+          "telegram_link": "https://t.me/manhuasgratis/2416"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "81_90 El Devoto Caballero.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 2417,
+          "name": "81-90",
+          "size": 74369295,
+          "telegram_link": "https://t.me/manhuasgratis/2417"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "91_100 El Devoto Caballero.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 2418,
+          "name": "91-100",
+          "size": 68738683,
+          "telegram_link": "https://t.me/manhuasgratis/2418"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "101_110 El Devoto Caballero.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 2419,
+          "name": "101-110",
+          "size": 80654688,
+          "telegram_link": "https://t.me/manhuasgratis/2419"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "111_120 El Devoto Caballero.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 2420,
+          "name": "111-120",
+          "size": 83311497,
+          "telegram_link": "https://t.me/manhuasgratis/2420"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "121_130 El Devoto Caballero.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 2421,
+          "name": "121-130",
+          "size": 84143323,
+          "telegram_link": "https://t.me/manhuasgratis/2421"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-08-22T03:22:33+00:00",
+          "download_ready": true,
+          "filename": "131_140 El Devoto Caballero.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 2422,
+          "name": "131-140",
+          "size": 81315300,
+          "telegram_link": "https://t.me/manhuasgratis/2422"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-08-22T03:22:34+00:00",
+          "download_ready": true,
+          "filename": "141_150 El Devoto Caballero.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 2423,
+          "name": "141-150",
+          "size": 99127097,
+          "telegram_link": "https://t.me/manhuasgratis/2423"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-08-22T03:22:34+00:00",
+          "download_ready": true,
+          "filename": "151_160 El Devoto Caballero.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 2424,
+          "name": "151-160",
+          "size": 91969113,
+          "telegram_link": "https://t.me/manhuasgratis/2424"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162
+          ],
+          "date": "2026-08-22T03:22:34+00:00",
+          "download_ready": true,
+          "filename": "161_162 El Devoto Caballero.pdf",
+          "first": 161,
+          "last": 162,
+          "message_id": 2425,
+          "name": "161-162",
+          "size": 28381233,
+          "telegram_link": "https://t.me/manhuasgratis/2425"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            163,
+            164
+          ],
+          "date": "2026-08-22T03:22:34+00:00",
+          "download_ready": true,
+          "filename": "163_164 El Devoto Caballero.pdf",
+          "first": 163,
+          "last": 164,
+          "message_id": 2426,
+          "name": "163-164",
+          "size": 28670953,
+          "telegram_link": "https://t.me/manhuasgratis/2426"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            165
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "165 El Devoto Caballero.pdf",
+          "first": 165,
+          "last": 165,
+          "message_id": 2427,
+          "name": "165",
+          "size": 10505966,
+          "telegram_link": "https://t.me/manhuasgratis/2427"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            166
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "166 El Devoto Caballero.pdf",
+          "first": 166,
+          "last": 166,
+          "message_id": 2428,
+          "name": "166",
+          "size": 11700401,
+          "telegram_link": "https://t.me/manhuasgratis/2428"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            167,
+            168
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "167_168 El Devoto Caballero.pdf",
+          "first": 167,
+          "last": 168,
+          "message_id": 2429,
+          "name": "167-168",
+          "size": 24294139,
+          "telegram_link": "https://t.me/manhuasgratis/2429"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            169
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "169 El Devoto Caballero.pdf",
+          "first": 169,
+          "last": 169,
+          "message_id": 2430,
+          "name": "169",
+          "size": 15279425,
+          "telegram_link": "https://t.me/manhuasgratis/2430"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            170
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "170 El Devoto Caballero.pdf",
+          "first": 170,
+          "last": 170,
+          "message_id": 2431,
+          "name": "170",
+          "size": 13508774,
+          "telegram_link": "https://t.me/manhuasgratis/2431"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "171 El Devoto Caballero.pdf",
+          "first": 171,
+          "last": 171,
+          "message_id": 2432,
+          "name": "171",
+          "size": 11663741,
+          "telegram_link": "https://t.me/manhuasgratis/2432"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            172
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "172 El Devoto Caballero.pdf",
+          "first": 172,
+          "last": 172,
+          "message_id": 2433,
+          "name": "172",
+          "size": 11699813,
+          "telegram_link": "https://t.me/manhuasgratis/2433"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            173
+          ],
+          "date": "2026-08-22T03:24:58+00:00",
+          "download_ready": true,
+          "filename": "173 El Devoto Caballero.pdf",
+          "first": 173,
+          "last": 173,
+          "message_id": 2434,
+          "name": "173",
+          "size": 12437993,
+          "telegram_link": "https://t.me/manhuasgratis/2434"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            174
+          ],
+          "date": "2026-08-22T03:24:59+00:00",
+          "download_ready": true,
+          "filename": "174 El Devoto Caballero.pdf",
+          "first": 174,
+          "last": 174,
+          "message_id": 2435,
+          "name": "174",
+          "size": 14100694,
+          "telegram_link": "https://t.me/manhuasgratis/2435"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            175
+          ],
+          "date": "2026-08-22T03:24:59+00:00",
+          "download_ready": true,
+          "filename": "175 El Devoto Caballero.pdf",
+          "first": 175,
+          "last": 175,
+          "message_id": 2436,
+          "name": "175",
+          "size": 12197957,
+          "telegram_link": "https://t.me/manhuasgratis/2436"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            176
+          ],
+          "date": "2026-08-22T03:24:59+00:00",
+          "download_ready": true,
+          "filename": "176 El Devoto Caballero.pdf",
+          "first": 176,
+          "last": 176,
+          "message_id": 2437,
+          "name": "176",
+          "size": 12187142,
+          "telegram_link": "https://t.me/manhuasgratis/2437"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            177
+          ],
+          "date": "2026-08-22T03:24:59+00:00",
+          "download_ready": true,
+          "filename": "177 El Devoto Caballero.pdf",
+          "first": 177,
+          "last": 177,
+          "message_id": 2438,
+          "name": "177",
+          "size": 13889223,
+          "telegram_link": "https://t.me/manhuasgratis/2438"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            178
+          ],
+          "date": "2026-08-22T03:27:14+00:00",
+          "download_ready": true,
+          "filename": "178 El Devoto Caballero.pdf",
+          "first": 178,
+          "last": 178,
+          "message_id": 2439,
+          "name": "178",
+          "size": 12445461,
+          "telegram_link": "https://t.me/manhuasgratis/2439"
+        }
+      ],
+      "synopsis": "Regresé a la Tierra después de cazar demonios en el otro mundo durante trescientos años. Pero no regresé solo.",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-31T16:38:36+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_heroe_de_nivel_legendario_prodigio_de_la_academia.jpg",
       "cover_message_id": 40,
@@ -8087,6 +8715,664 @@
       ],
       "synopsis": "Debido a una situación como la del segundo FMI, la empresa de seguridad donde trabajaba Jang Taesan quiebra, y él se convierte en un desempleado que deambula por Noryangjin-dong. Intenta suicidarse saltando de un puente PERO ya había otro suicidándose en ese puente. todo bajoneado ve un niño en una pasarela y un coche modelo rayo McQueen a toda velocidad, Pierde la vida al salvar a un estudiante de primaria que casi es atropellado por el rasho. Pero no todo es malo para nuestro chico suicida. gracias a su buena acción, retrocede 14 años en el tiempo y es recibido en una nueva vida.",
       "visible": true
+    },
+    {
+      "added_at": "2026-08-22T12:34:15+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_retorno_del_patriarca_mil_anos_despues.jpg",
+      "cover_message_id": 56,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/56",
+      "genres": [],
+      "hashtag": "#El_Retorno_del_Patriarca_Mil_Años_Después",
+      "id": "el_retorno_del_patriarca_mil_anos_despues",
+      "latest_chapter": 54,
+      "name": "El Retorno del Patriarca Mil Años Después",
+      "package_count": 42,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "01_10 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 2442,
+          "name": "1-10",
+          "size": 70522621,
+          "telegram_link": "https://t.me/manhuasgratis/2442"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "11_13 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 11,
+          "last": 13,
+          "message_id": 2443,
+          "name": "11-13",
+          "size": 17860389,
+          "telegram_link": "https://t.me/manhuasgratis/2443"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            14
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "14 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 14,
+          "last": 14,
+          "message_id": 2444,
+          "name": "14",
+          "size": 8266433,
+          "telegram_link": "https://t.me/manhuasgratis/2444"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            15
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "15 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 15,
+          "last": 15,
+          "message_id": 2445,
+          "name": "15",
+          "size": 6625965,
+          "telegram_link": "https://t.me/manhuasgratis/2445"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            16
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "16 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 2446,
+          "name": "16",
+          "size": 12177169,
+          "telegram_link": "https://t.me/manhuasgratis/2446"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            17
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "17 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 17,
+          "last": 17,
+          "message_id": 2447,
+          "name": "17",
+          "size": 6458867,
+          "telegram_link": "https://t.me/manhuasgratis/2447"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            18
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "18 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 18,
+          "last": 18,
+          "message_id": 2448,
+          "name": "18",
+          "size": 9249114,
+          "telegram_link": "https://t.me/manhuasgratis/2448"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            19
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "19 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 19,
+          "last": 19,
+          "message_id": 2449,
+          "name": "19",
+          "size": 6928450,
+          "telegram_link": "https://t.me/manhuasgratis/2449"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            20
+          ],
+          "date": "2026-08-22T12:34:15+00:00",
+          "download_ready": true,
+          "filename": "20 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 20,
+          "last": 20,
+          "message_id": 2450,
+          "name": "20",
+          "size": 8140619,
+          "telegram_link": "https://t.me/manhuasgratis/2450"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "21 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 2451,
+          "name": "21",
+          "size": 6575191,
+          "telegram_link": "https://t.me/manhuasgratis/2451"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            22
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "22 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 2452,
+          "name": "22",
+          "size": 6704719,
+          "telegram_link": "https://t.me/manhuasgratis/2452"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            23
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "23 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 23,
+          "last": 23,
+          "message_id": 2453,
+          "name": "23",
+          "size": 9049177,
+          "telegram_link": "https://t.me/manhuasgratis/2453"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            24
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "24 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 24,
+          "last": 24,
+          "message_id": 2454,
+          "name": "24",
+          "size": 8069619,
+          "telegram_link": "https://t.me/manhuasgratis/2454"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            25
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "25 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 25,
+          "last": 25,
+          "message_id": 2455,
+          "name": "25",
+          "size": 9715710,
+          "telegram_link": "https://t.me/manhuasgratis/2455"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            26
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "26 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 2456,
+          "name": "26",
+          "size": 7115647,
+          "telegram_link": "https://t.me/manhuasgratis/2456"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            27
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "27 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 2457,
+          "name": "27",
+          "size": 10460112,
+          "telegram_link": "https://t.me/manhuasgratis/2457"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            28
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "28 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 2458,
+          "name": "28",
+          "size": 6945744,
+          "telegram_link": "https://t.me/manhuasgratis/2458"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "29 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 29,
+          "last": 29,
+          "message_id": 2459,
+          "name": "29",
+          "size": 11366175,
+          "telegram_link": "https://t.me/manhuasgratis/2459"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            30
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "30 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 30,
+          "last": 30,
+          "message_id": 2460,
+          "name": "30",
+          "size": 9815602,
+          "telegram_link": "https://t.me/manhuasgratis/2460"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "31 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 2461,
+          "name": "31",
+          "size": 10675526,
+          "telegram_link": "https://t.me/manhuasgratis/2461"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            32
+          ],
+          "date": "2026-08-22T12:34:16+00:00",
+          "download_ready": true,
+          "filename": "32 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 32,
+          "last": 32,
+          "message_id": 2462,
+          "name": "32",
+          "size": 11518542,
+          "telegram_link": "https://t.me/manhuasgratis/2462"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            33
+          ],
+          "date": "2026-08-22T12:47:04+00:00",
+          "download_ready": true,
+          "filename": "33 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 33,
+          "last": 33,
+          "message_id": 2465,
+          "name": "33",
+          "size": 12275125,
+          "telegram_link": "https://t.me/manhuasgratis/2465"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            34
+          ],
+          "date": "2026-08-22T12:47:04+00:00",
+          "download_ready": true,
+          "filename": "34 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 34,
+          "last": 34,
+          "message_id": 2466,
+          "name": "34",
+          "size": 10803993,
+          "telegram_link": "https://t.me/manhuasgratis/2466"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            35
+          ],
+          "date": "2026-08-22T12:47:04+00:00",
+          "download_ready": true,
+          "filename": "35 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 35,
+          "last": 35,
+          "message_id": 2467,
+          "name": "35",
+          "size": 10639742,
+          "telegram_link": "https://t.me/manhuasgratis/2467"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            36
+          ],
+          "date": "2026-08-22T12:47:04+00:00",
+          "download_ready": true,
+          "filename": "36 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 2468,
+          "name": "36",
+          "size": 10846841,
+          "telegram_link": "https://t.me/manhuasgratis/2468"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            37
+          ],
+          "date": "2026-08-22T12:47:04+00:00",
+          "download_ready": true,
+          "filename": "37 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 2469,
+          "name": "37",
+          "size": 13667103,
+          "telegram_link": "https://t.me/manhuasgratis/2469"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-08-22T12:47:04+00:00",
+          "download_ready": true,
+          "filename": "38 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 2470,
+          "name": "38",
+          "size": 7339082,
+          "telegram_link": "https://t.me/manhuasgratis/2470"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            39
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "39 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 2471,
+          "name": "39",
+          "size": 7217554,
+          "telegram_link": "https://t.me/manhuasgratis/2471"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "40 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 2472,
+          "name": "40",
+          "size": 13105844,
+          "telegram_link": "https://t.me/manhuasgratis/2472"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "41 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 2473,
+          "name": "41",
+          "size": 10633584,
+          "telegram_link": "https://t.me/manhuasgratis/2473"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            42
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "42 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 42,
+          "last": 42,
+          "message_id": 2474,
+          "name": "42",
+          "size": 9801416,
+          "telegram_link": "https://t.me/manhuasgratis/2474"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "43 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 2475,
+          "name": "43",
+          "size": 17505062,
+          "telegram_link": "https://t.me/manhuasgratis/2475"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            44
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "44 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 44,
+          "last": 44,
+          "message_id": 2476,
+          "name": "44",
+          "size": 17522599,
+          "telegram_link": "https://t.me/manhuasgratis/2476"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            45
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "45 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 45,
+          "last": 45,
+          "message_id": 2477,
+          "name": "45",
+          "size": 13631485,
+          "telegram_link": "https://t.me/manhuasgratis/2477"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            46
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "46 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 46,
+          "last": 46,
+          "message_id": 2478,
+          "name": "46",
+          "size": 9737007,
+          "telegram_link": "https://t.me/manhuasgratis/2478"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            47
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "47 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 47,
+          "last": 47,
+          "message_id": 2479,
+          "name": "47",
+          "size": 14897018,
+          "telegram_link": "https://t.me/manhuasgratis/2479"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            48
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "48 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 48,
+          "last": 48,
+          "message_id": 2480,
+          "name": "48",
+          "size": 11950994,
+          "telegram_link": "https://t.me/manhuasgratis/2480"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            49
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "49 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 49,
+          "last": 49,
+          "message_id": 2481,
+          "name": "49",
+          "size": 11911310,
+          "telegram_link": "https://t.me/manhuasgratis/2481"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            50
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "50 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 50,
+          "last": 50,
+          "message_id": 2482,
+          "name": "50",
+          "size": 11728049,
+          "telegram_link": "https://t.me/manhuasgratis/2482"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "51 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 2483,
+          "name": "51",
+          "size": 12026757,
+          "telegram_link": "https://t.me/manhuasgratis/2483"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            52,
+            53
+          ],
+          "date": "2026-08-22T12:47:05+00:00",
+          "download_ready": true,
+          "filename": "52_53 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 52,
+          "last": 53,
+          "message_id": 2484,
+          "name": "52-53",
+          "size": 26532382,
+          "telegram_link": "https://t.me/manhuasgratis/2484"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            54
+          ],
+          "date": "2026-08-27T03:20:44+00:00",
+          "download_ready": true,
+          "filename": "54 El Retorno del Patriarca Mil Años Después.pdf",
+          "first": 54,
+          "last": 54,
+          "message_id": 3654,
+          "name": "54",
+          "size": 11902861,
+          "telegram_link": "https://t.me/manhuasgratis/3654"
+        }
+      ],
+      "synopsis": "Gilfas El-Dragon, el legendario fundador de la casa El-Dragon, se convirtió en el guerrero más fuerte con un único fin: la búsqueda insaciable del dominio marcial. Para poder llevar su poder al límite por toda la eternidad, consumió el Fruto del Dragón Divino, un manjar del que se rumoreaba que otorgaba la inmortalidad.\nSin embargo, el rumor resultó ser falso. El cuerpo de Gilfas envejeció y, tras una larga vida, exhaló su último aliento en brazos de su hijo… O eso parecía.",
+      "visible": false
     },
     {
       "added_at": "2026-09-12T12:21:53+00:00",
@@ -22312,6 +23598,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-08T02:30:06.072331+00:00",
+  "updated_at": "2026-10-08T02:41:27.732981+00:00",
   "version": 3
 }
