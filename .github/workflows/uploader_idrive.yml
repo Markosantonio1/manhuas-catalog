@@ -11,6 +11,7 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     permissions:
       contents: write
 
@@ -40,6 +41,7 @@ jobs:
           IDRIVE_BUCKET: ${{ secrets.IDRIVE_BUCKET }}
           IDRIVE_REGION: ${{ secrets.IDRIVE_REGION }}
           MAX_PACKAGES_PER_RUN: ${{ github.event.inputs.max_packages }}
+          SAVE_EVERY_N: '10'
         run: python uploader_idrive.py
 
       - name: Commit y push del catálogo actualizado
