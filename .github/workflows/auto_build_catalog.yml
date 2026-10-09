@@ -9,7 +9,7 @@ on:
         default: '100'
 
 concurrency:
-  group: auto-build-catalog
+  group: catalog-write
   cancel-in-progress: false
 
 jobs:
@@ -106,4 +106,4 @@ jobs:
           echo "   pero no se disparó un nuevo uploader."
           echo ""
           echo "   Cuando el uploader actual termine, el próximo ciclo"
-          echo "   horario volverá a intentar."
+          echo "   horario volverá a intentar."rario volverá a intentar."
