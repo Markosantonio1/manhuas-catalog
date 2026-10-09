@@ -91,7 +91,7 @@ def compute_key(series_id: str, message_id: int, filename: str) -> str:
 # ============================================================
 
 def git_commit_and_push(mensaje: str) -> bool:
-    """Hace git config + add + commit + push. No aborta si falla."""
+    """Hace git config + add + commit + pull --rebase + push."""
     try:
         subprocess.run(
             ["git", "config", "user.name", "github-actions[bot]"],
@@ -106,12 +106,24 @@ def git_commit_and_push(mensaje: str) -> bool:
             ["git", "add", "catalog.json"],
             check=False, capture_output=True,
         )
-        c = subprocess.run(
+        subprocess.run(
             ["git", "commit", "-m", mensaje, "--allow-empty"],
             check=False, capture_output=True, text=True,
         )
-        if c.returncode != 0:
-            print(f"    ⚠ commit rc={c.returncode}: {c.stdout[:200]}")
+
+        # Integrar cambios remotos (el auto_build_catalog puede haber pusheado
+        # mientras este workflow estaba corriendo)
+        pr = subprocess.run(
+            ["git", "pull", "--rebase", "origin", "main"],
+            check=False, capture_output=True, text=True,
+        )
+        if pr.returncode != 0:
+            print(f"    ⚠ pull --rebase rc={pr.returncode}: {pr.stderr[:300]}")
+            subprocess.run(
+                ["git", "rebase", "--abort"],
+                check=False, capture_output=True,
+            )
+            return False
 
         p = subprocess.run(
             ["git", "push"],
@@ -206,7 +218,6 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
 
     reconciliados = 0
     ya_con_url = 0
-    sin_key_calculable = 0
     pendientes_reales = []
 
     for list_key in ("series", "novels"):
