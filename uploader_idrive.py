@@ -56,6 +56,10 @@ TEMP_DOWNLOAD_DIR = BASE_DIR / "temp_idrive_uploads"
 # ============================================================
 
 def sanitize_filename(value: str) -> str:
+    """
+    ⚠ IMPORTANTE: mantener IDÉNTICA a refresh_urls_idrive.py.
+    Si cambia aquí, cambiar también allí.
+    """
     cleaned = re.sub(r"[\\/:*?\"<>|]", "_", value or "")
     cleaned = re.sub(r"[\x00-\x1f]", "_", cleaned)
     cleaned = cleaned.strip()
@@ -74,26 +78,12 @@ def save_catalog(catalog: dict, silent: bool = False) -> None:
         encoding="utf-8",
     )
     if not silent:
-        print(f"✓ Catálogo guardado")
+        print("✓ Catálogo guardado")
 
 
-def find_packages_without_url(catalog: dict) -> list:
-    """Paquetes sin download_url Y sin buzzheavier_id (aún no procesados)."""
-    pending = []
-
-    for list_key in ("series", "novels"):
-        for series in catalog.get(list_key, []):
-            for pack in series.get("packages", []):
-                url = pack.get("download_url")
-                buzz_id = pack.get("buzzheavier_id")
-
-                has_url = url and str(url).strip()
-                has_id = buzz_id and str(buzz_id).strip()
-
-                if not has_url and not has_id:
-                    pending.append((series, pack))
-
-    return pending
+def compute_key(series_id: str, message_id: int, filename: str) -> str:
+    """Calcula la key que tendría este paquete en IDrive."""
+    return f"{series_id}/{message_id}_{sanitize_filename(filename)}"
 
 
 # ============================================================
@@ -134,6 +124,130 @@ def git_commit_and_push(mensaje: str) -> bool:
     except Exception as exc:
         print(f"    ⚠ Error commit/push: {exc}")
         return False
+
+
+# ============================================================
+# IDRIVE E2 — CLIENTE Y OPERACIONES
+# ============================================================
+
+def get_s3_client():
+    return boto3.client(
+        "s3",
+        endpoint_url=IDRIVE_ENDPOINT,
+        aws_access_key_id=IDRIVE_ACCESS_KEY,
+        aws_secret_access_key=IDRIVE_SECRET_KEY,
+        config=Config(signature_version="s3v4", s3={"addressing_style": "virtual"}),
+        region_name=IDRIVE_REGION,
+    )
+
+
+def list_all_keys_in_bucket(s3) -> set:
+    """
+    Lista TODAS las keys del bucket con paginación (S3 lista de 1000 en 1000).
+    Devuelve un set para lookups O(1).
+    """
+    keys = set()
+    paginator = s3.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=IDRIVE_BUCKET):
+        for obj in page.get("Contents", []):
+            keys.add(obj["Key"])
+    return keys
+
+
+def subir_a_idrive(s3, ruta_local: Path, key: str) -> bool:
+    try:
+        s3.upload_file(str(ruta_local), IDRIVE_BUCKET, key)
+        return True
+    except ClientError as e:
+        print(f"    ✗ Error subiendo a IDrive: {e}")
+        return False
+
+
+def generar_url_prefirmada(s3, key: str) -> str | None:
+    try:
+        url = s3.generate_presigned_url(
+            "get_object",
+            Params={"Bucket": IDRIVE_BUCKET, "Key": key},
+            ExpiresIn=PRESIGN_EXPIRATION,
+        )
+        return url
+    except ClientError as e:
+        print(f"    ✗ Error generando URL: {e}")
+        return None
+
+
+# ============================================================
+# RECONCILIACIÓN — detectar qué está en IDrive pero sin URL
+# ============================================================
+
+def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
+    """
+    Recorre el catálogo y comprueba cada paquete contra las keys existentes
+    en IDrive.
+
+    Devuelve (reconciliados, pendientes_reales):
+      - reconciliados: nº de paquetes que ya estaban en IDrive y se les
+        ha generado la URL (sin re-subir)
+      - pendientes_reales: lista de (series, pack) que NO están en IDrive
+        y que hay que subir de verdad
+    """
+    print("\n" + "=" * 60)
+    print("RECONCILIACIÓN CON IDRIVE")
+    print("=" * 60)
+
+    try:
+        print("Listando archivos ya existentes en IDrive...")
+        existing_keys = list_all_keys_in_bucket(s3)
+        print(f"  → {len(existing_keys)} archivos encontrados en el bucket")
+    except Exception as exc:
+        print(f"  ✗ Error listando IDrive: {exc}")
+        print("  ⚠ Abortando para no duplicar subidas.")
+        raise
+
+    reconciliados = 0
+    ya_con_url = 0
+    sin_key_calculable = 0
+    pendientes_reales = []
+
+    for list_key in ("series", "novels"):
+        for series in catalog.get(list_key, []):
+            series_id = series.get("id", "").strip()
+            if not series_id:
+                continue
+            for pack in series.get("packages", []):
+                message_id = pack.get("message_id")
+                filename = pack.get("filename", "")
+
+                if not message_id:
+                    continue
+
+                expected_key = compute_key(series_id, int(message_id), filename)
+
+                if expected_key in existing_keys:
+                    # El archivo YA está en IDrive
+                    if not pack.get("download_url"):
+                        url = generar_url_prefirmada(s3, expected_key)
+                        if url:
+                            pack["download_url"] = url
+                            reconciliados += 1
+                            if reconciliados <= 20:
+                                print(f"  ↻ [{series_id}] msg {message_id}: URL regenerada")
+                    else:
+                        ya_con_url += 1
+                else:
+                    # No está en IDrive, hay que subirlo
+                    pendientes_reales.append((series, pack))
+
+    print()
+    print(f"  ✓ Reconciliados (estaban sin URL): {reconciliados}")
+    print(f"  • Ya tenían URL: {ya_con_url}")
+    print(f"  • Pendientes reales (subir): {len(pendientes_reales)}")
+
+    if reconciliados > 0:
+        print(f"\n  💾 Guardando {reconciliados} URLs nuevas en catalog.json...")
+        save_catalog(catalog, silent=True)
+
+    return reconciliados, pendientes_reales
 
 
 # ============================================================
@@ -189,43 +303,6 @@ async def download_media_with_retry(client, message_id, local_path):
 
 
 # ============================================================
-# IDRIVE E2 — SUBIDA Y URL PREFIRMADA
-# ============================================================
-
-def get_s3_client():
-    return boto3.client(
-        "s3",
-        endpoint_url=IDRIVE_ENDPOINT,
-        aws_access_key_id=IDRIVE_ACCESS_KEY,
-        aws_secret_access_key=IDRIVE_SECRET_KEY,
-        config=Config(signature_version="s3v4", s3={"addressing_style": "virtual"}),
-        region_name=IDRIVE_REGION,
-    )
-
-
-def subir_a_idrive(s3, ruta_local: Path, key: str) -> bool:
-    try:
-        s3.upload_file(str(ruta_local), IDRIVE_BUCKET, key)
-        return True
-    except ClientError as e:
-        print(f"    ✗ Error subiendo a IDrive: {e}")
-        return False
-
-
-def generar_url_prefirmada(s3, key: str) -> str | None:
-    try:
-        url = s3.generate_presigned_url(
-            "get_object",
-            Params={"Bucket": IDRIVE_BUCKET, "Key": key},
-            ExpiresIn=PRESIGN_EXPIRATION,
-        )
-        return url
-    except ClientError as e:
-        print(f"    ✗ Error generando URL: {e}")
-        return None
-
-
-# ============================================================
 # PROCESO PRINCIPAL
 # ============================================================
 
@@ -257,21 +334,46 @@ async def main():
     catalog = load_catalog()
 
     # --------------------------------------------------------
-    # ENCONTRAR PENDIENTES
+    # FASE 1 — RECONCILIACIÓN
     # --------------------------------------------------------
-    pending = find_packages_without_url(catalog)
-    total = len(pending)
-    print(f"\nPaquetes sin subir detectados: {total}")
+    s3 = get_s3_client()
 
-    if total == 0:
-        print("Nada que procesar.")
-        await client.disconnect()
+    try:
+        reconciliados, pendientes_reales = reconcile_catalog_with_idrive(s3, catalog)
+    except Exception as exc:
+        print(f"\n✗ Reconciliación falló: {exc}")
+        print("  Abortando para no re-subir a ciegas.")
+        try:
+            await client.disconnect()
+        except Exception:
+            pass
+        sys.exit(1)
+
+    # Si hubo reconciliación, commit inmediato
+    if reconciliados > 0:
+        if git_commit_and_push(
+            f"IDrive: reconciliar {reconciliados} URLs existentes"
+        ):
+            print("  ✓ Commit de reconciliación subido a GitHub")
+        else:
+            print("  ⚠ No se pudo subir el commit de reconciliación")
+
+    total_pendientes = len(pendientes_reales)
+    print(f"\nPaquetes reales por subir: {total_pendientes}")
+
+    # --------------------------------------------------------
+    # FASE 2 — SUBIDA REAL
+    # --------------------------------------------------------
+    if total_pendientes == 0:
+        print("Nada que subir. Fin.")
+        try:
+            await client.disconnect()
+        except Exception:
+            pass
         return
 
-    to_process = pending[:MAX_PACKAGES_PER_RUN]
+    to_process = pendientes_reales[:MAX_PACKAGES_PER_RUN]
     print(f"Procesando {len(to_process)} paquetes (límite: {MAX_PACKAGES_PER_RUN})")
-
-    s3 = get_s3_client()
 
     success_count = 0
     fail_count = 0
@@ -309,16 +411,14 @@ async def main():
                 continue
 
             # Subir a IDrive e2
-            key = f"{series_id}/{message_id}_{sanitize_filename(filename)}"
+            key = compute_key(series_id, int(message_id), filename)
 
             if subir_a_idrive(s3, local_file, key):
-                # Generar URL prefirmada (7 días)
                 url = generar_url_prefirmada(s3, key)
-
                 if url:
                     pack["download_url"] = url
                     success_count += 1
-                    print(f"    ✓ URL prefirmada generada (válida 7 días)")
+                    print("    ✓ URL prefirmada generada (válida 7 días)")
                 else:
                     fail_count += 1
                     print("    ✗ No se pudo generar URL")
@@ -335,25 +435,26 @@ async def main():
 
             gc.collect()
 
-            # Guardar checkpoint local
+            # Checkpoint local
             try:
                 save_catalog(catalog, silent=True)
             except Exception as exc:
                 print(f"    ⚠ No se pudo guardar checkpoint: {exc}")
 
-            # Checkpoint remoto cada N paquetes
+            # Checkpoint remoto
             if idx % SAVE_EVERY_N == 0 and idx < len(to_process):
                 print(f"    💾 Checkpoint remoto: {idx}/{len(to_process)}")
-                if git_commit_and_push(f"IDrive: checkpoint {idx}/{len(to_process)}"):
-                    print(f"    ✓ Checkpoint subido a GitHub")
+                if git_commit_and_push(
+                    f"IDrive: checkpoint {idx}/{len(to_process)}"
+                ):
+                    print("    ✓ Checkpoint subido a GitHub")
                 else:
-                    print(f"    ⚠ Checkpoint NO subido (se reintentará al final)")
+                    print("    ⚠ Checkpoint NO subido (se reintentará al final)")
 
             if idx < len(to_process):
-                print(f"    ⏸  Pausa de 3s...")
+                print("    ⏸  Pausa de 3s...")
                 await asyncio.sleep(3)
     finally:
-        # Guardar y subir SIEMPRE, haya fallado o no
         print("\n" + "-" * 60)
         print("Guardado final...")
         try:
@@ -371,19 +472,21 @@ async def main():
     # REPORTE FINAL
     # --------------------------------------------------------
     print("\n" + "=" * 60)
-    print(f"✓ Subidos: {success_count}")
+    print(f"✓ Reconciliados: {reconciliados}")
+    print(f"✓ Subidos nuevos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
-    print(f"📦 Total: {total}")
+    print(f"📦 Pendientes reales antes de esta corrida: {total_pendientes}")
+    print(f"📦 Pendientes reales después: {total_pendientes - success_count}")
     print("=" * 60)
 
-    # Notificar por Telegram
     try:
         report = (
             f"📊 *Uploader IDrive e2 — Reporte*\n"
             f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
-            f"✅ Subidos: {success_count}\n"
+            f"↻ Reconciliados (URL regenerada): {reconciliados}\n"
+            f"✅ Subidos nuevos: {success_count}\n"
             f"❌ Fallidos: {fail_count}\n"
-            f"📊 Procesados: {len(to_process)} de {total}\n"
+            f"📊 Pendientes restantes: {total_pendientes - success_count}\n"
         )
         await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
         print("✓ Reporte enviado por Telegram.")
