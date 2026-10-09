@@ -1,0 +1,41 @@
+name: Refresh IDrive URLs
+
+on:
+  schedule:
+    - cron: '0 3 */4 * *'   # Cada 4 días a las 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install boto3
+
+      - name: Regenerar URLs
+        env:
+          IDRIVE_ENDPOINT: ${{ secrets.IDRIVE_ENDPOINT }}
+          IDRIVE_ACCESS_KEY: ${{ secrets.IDRIVE_ACCESS_KEY }}
+          IDRIVE_SECRET_KEY: ${{ secrets.IDRIVE_SECRET_KEY }}
+          IDRIVE_BUCKET: ${{ secrets.IDRIVE_BUCKET }}
+          IDRIVE_REGION: ${{ secrets.IDRIVE_REGION }}
+        run: python refresh_urls_idrive.py
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git commit -m "🔄 Regenerar URLs IDrive [$(date +'%Y-%m-%d')]" || echo "Sin cambios"
+          git push
