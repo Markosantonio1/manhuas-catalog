@@ -4,6 +4,7 @@ import gc
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -41,6 +42,9 @@ MAIN_CHANNEL = "manhuasgratis"
 
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
+# Cada cuántos paquetes se hace checkpoint (commit + push remoto)
+SAVE_EVERY_N = int(os.getenv("SAVE_EVERY_N", "10"))
+
 # Prefirmadas duran máximo 7 días (604800 segundos)
 PRESIGN_EXPIRATION = 604800
 
@@ -64,12 +68,13 @@ def load_catalog() -> dict:
     return json.loads(CATALOG_FILE.read_text(encoding="utf-8"))
 
 
-def save_catalog(catalog: dict) -> None:
+def save_catalog(catalog: dict, silent: bool = False) -> None:
     CATALOG_FILE.write_text(
         json.dumps(catalog, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"✓ Catálogo guardado")
+    if not silent:
+        print(f"✓ Catálogo guardado")
 
 
 def find_packages_without_url(catalog: dict) -> list:
@@ -89,6 +94,46 @@ def find_packages_without_url(catalog: dict) -> list:
                     pending.append((series, pack))
 
     return pending
+
+
+# ============================================================
+# GIT — CHECKPOINTS REMOTOS
+# ============================================================
+
+def git_commit_and_push(mensaje: str) -> bool:
+    """Hace git config + add + commit + push. No aborta si falla."""
+    try:
+        subprocess.run(
+            ["git", "config", "user.name", "github-actions[bot]"],
+            check=False, capture_output=True,
+        )
+        subprocess.run(
+            ["git", "config", "user.email",
+             "github-actions[bot]@users.noreply.github.com"],
+            check=False, capture_output=True,
+        )
+        subprocess.run(
+            ["git", "add", "catalog.json"],
+            check=False, capture_output=True,
+        )
+        c = subprocess.run(
+            ["git", "commit", "-m", mensaje, "--allow-empty"],
+            check=False, capture_output=True, text=True,
+        )
+        if c.returncode != 0:
+            print(f"    ⚠ commit rc={c.returncode}: {c.stdout[:200]}")
+
+        p = subprocess.run(
+            ["git", "push"],
+            check=False, capture_output=True, text=True,
+        )
+        if p.returncode != 0:
+            print(f"    ⚠ push rc={p.returncode}: {p.stderr[:300]}")
+            return False
+        return True
+    except Exception as exc:
+        print(f"    ⚠ Error commit/push: {exc}")
+        return False
 
 
 # ============================================================
@@ -188,6 +233,7 @@ async def main():
     print("=" * 60)
     print("UPLOADER IDRIVE E2 — GitHub Actions")
     print("=" * 60)
+    print(f"Checkpoint cada {SAVE_EVERY_N} paquetes")
 
     if not TELEGRAM_SESSION_STR:
         raise RuntimeError("Falta TELEGRAM_SESSION_STR.")
@@ -230,79 +276,100 @@ async def main():
     success_count = 0
     fail_count = 0
 
-    for idx, (series, pack) in enumerate(to_process, start=1):
-        series_name = series.get("name", "Desconocida")
-        series_id = series.get("id", "")
-        pack_name = pack.get("name", "Paquete")
-        message_id = pack.get("message_id")
-        filename = pack.get("filename", f"{message_id}.pdf")
-        is_visible = series.get("visible", True)
-        tag = "" if is_visible else " [OCULTA]"
+    try:
+        for idx, (series, pack) in enumerate(to_process, start=1):
+            series_name = series.get("name", "Desconocida")
+            series_id = series.get("id", "")
+            pack_name = pack.get("name", "Paquete")
+            message_id = pack.get("message_id")
+            filename = pack.get("filename", f"{message_id}.pdf")
+            is_visible = series.get("visible", True)
+            tag = "" if is_visible else " [OCULTA]"
 
-        print(f"\n[{idx}/{len(to_process)}] {series_name}{tag} → {pack_name}")
+            print(f"\n[{idx}/{len(to_process)}] {series_name}{tag} → {pack_name}")
 
-        local_file = TEMP_DOWNLOAD_DIR / sanitize_filename(filename)
+            local_file = TEMP_DOWNLOAD_DIR / sanitize_filename(filename)
 
-        if not message_id:
-            print("    ✗ Paquete sin message_id")
-            fail_count += 1
-            continue
+            if not message_id:
+                print("    ✗ Paquete sin message_id")
+                fail_count += 1
+                continue
 
-        # Descargar de Telegram
-        ok = await download_media_with_retry(client, message_id, local_file)
+            # Descargar de Telegram
+            ok = await download_media_with_retry(client, message_id, local_file)
 
-        if not ok:
-            print("    ✗ Descarga fallida tras reintentos")
-            fail_count += 1
-            if local_file.exists():
-                try:
-                    local_file.unlink()
-                except OSError:
-                    pass
-            continue
+            if not ok:
+                print("    ✗ Descarga fallida tras reintentos")
+                fail_count += 1
+                if local_file.exists():
+                    try:
+                        local_file.unlink()
+                    except OSError:
+                        pass
+                continue
 
-        # Subir a IDrive e2
-        key = f"{series_id}/{message_id}_{sanitize_filename(filename)}"
+            # Subir a IDrive e2
+            key = f"{series_id}/{message_id}_{sanitize_filename(filename)}"
 
-        if subir_a_idrive(s3, local_file, key):
-            # Generar URL prefirmada (7 días)
-            url = generar_url_prefirmada(s3, key)
+            if subir_a_idrive(s3, local_file, key):
+                # Generar URL prefirmada (7 días)
+                url = generar_url_prefirmada(s3, key)
 
-            if url:
-                pack["download_url"] = url
-                success_count += 1
-                print(f"    ✓ URL prefirmada generada (válida 7 días)")
+                if url:
+                    pack["download_url"] = url
+                    success_count += 1
+                    print(f"    ✓ URL prefirmada generada (válida 7 días)")
+                else:
+                    fail_count += 1
+                    print("    ✗ No se pudo generar URL")
             else:
                 fail_count += 1
-                print("    ✗ No se pudo generar URL")
-        else:
-            fail_count += 1
-            print("    ✗ Falló la subida a IDrive")
+                print("    ✗ Falló la subida a IDrive")
 
-        # Limpiar
-        try:
-            if local_file.exists():
-                local_file.unlink()
-        except OSError:
-            pass
+            # Limpiar
+            try:
+                if local_file.exists():
+                    local_file.unlink()
+            except OSError:
+                pass
 
-        gc.collect()
+            gc.collect()
 
-        # Guardar checkpoint
+            # Guardar checkpoint local
+            try:
+                save_catalog(catalog, silent=True)
+            except Exception as exc:
+                print(f"    ⚠ No se pudo guardar checkpoint: {exc}")
+
+            # Checkpoint remoto cada N paquetes
+            if idx % SAVE_EVERY_N == 0 and idx < len(to_process):
+                print(f"    💾 Checkpoint remoto: {idx}/{len(to_process)}")
+                if git_commit_and_push(f"IDrive: checkpoint {idx}/{len(to_process)}"):
+                    print(f"    ✓ Checkpoint subido a GitHub")
+                else:
+                    print(f"    ⚠ Checkpoint NO subido (se reintentará al final)")
+
+            if idx < len(to_process):
+                print(f"    ⏸  Pausa de 3s...")
+                await asyncio.sleep(3)
+    finally:
+        # Guardar y subir SIEMPRE, haya fallado o no
+        print("\n" + "-" * 60)
+        print("Guardado final...")
         try:
             save_catalog(catalog)
+            if git_commit_and_push(
+                f"IDrive: guardado final ({success_count} subidos)"
+            ):
+                print("✓ Catálogo final subido a GitHub")
+            else:
+                print("⚠ No se pudo subir el catálogo final")
         except Exception as exc:
-            print(f"    ⚠ No se pudo guardar checkpoint: {exc}")
-
-        if idx < len(to_process):
-            print(f"    ⏸  Pausa de 3s...")
-            await asyncio.sleep(3)
+            print(f"⚠ Error en guardado final: {exc}")
 
     # --------------------------------------------------------
-    # GUARDAR Y REPORTAR
+    # REPORTE FINAL
     # --------------------------------------------------------
-    save_catalog(catalog)
-
     print("\n" + "=" * 60)
     print(f"✓ Subidos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
