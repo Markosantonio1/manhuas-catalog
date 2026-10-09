@@ -5,7 +5,7 @@
 import json
 import os
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 
 import boto3
 from botocore.config import Config
@@ -38,15 +38,15 @@ def get_s3_client():
 def extraer_key_desde_url(url: str, bucket: str) -> str | None:
     """
     Extrae el key S3 desde una URL prefirmada antigua.
-    Soporta los formatos:
-      - https://bucket.s3.region.idrivee2.com/key?params
-      - https://s3.region.idrivee2.com/bucket/key?params
+
+    IMPORTANTE: se hace unquote() del path para des-encodear %20, %C3%B3, etc.
+    Sin esto, boto3 re-encodea el '%' como '%25' y firma una key inexistente.
     """
     if not url:
         return None
     try:
         parsed = urlparse(url)
-        path = parsed.path.lstrip("/")
+        path = unquote(parsed.path).lstrip("/")
         if path.startswith(bucket + "/"):
             path = path[len(bucket) + 1:]
         return path
@@ -70,16 +70,18 @@ def main():
 
     for list_key in ("series", "novels"):
         for series in catalog.get(list_key, []):
+            series_id = series.get("id", "?")
             for pack in series.get("packages", []):
                 url_actual = pack.get("download_url")
                 if not url_actual:
                     continue
 
                 total += 1
+                message_id = pack.get("message_id", "?")
 
                 key = extraer_key_desde_url(url_actual, IDRIVE_BUCKET)
                 if not key:
-                    print(f"   ⚠ No se pudo extraer key: {url_actual[:80]}")
+                    print(f"   ⚠ [{series_id}] msg {message_id}: no se pudo extraer key de {url_actual[:80]}")
                     errores += 1
                     continue
 
@@ -92,7 +94,7 @@ def main():
                     pack["download_url"] = nueva_url
                     regeneradas += 1
                 except ClientError as e:
-                    print(f"   ✗ Error regenerando: {e}")
+                    print(f"   ✗ [{series_id}] msg {message_id}: {e}")
                     errores += 1
 
     CATALOG_FILE.write_text(
