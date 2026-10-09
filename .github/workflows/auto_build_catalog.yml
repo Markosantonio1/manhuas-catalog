@@ -1,0 +1,66 @@
+name: Auto Build Catalog
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'   # 2 veces al día: 6:00 y 18:00 UTC
+  workflow_dispatch:
+    inputs:
+      max_packages_upload:
+        description: 'Máx PDFs a subir en el uploader encadenado'
+        required: false
+        default: '100'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+      actions: write
+
+    outputs:
+      changed: ${{ steps.build.outputs.changed }}
+      changes: ${{ steps.build.outputs.changes }}
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install telethon boto3 requests python-dotenv
+
+      - name: Escanear y actualizar catálogo
+        id: build
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION_STR: ${{ secrets.TELEGRAM_SESSION_STR }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TRIGGER_UPLOADER: '0'          # ← disparamos desde el job upload
+          MAX_PACKAGES_UPLOAD: ${{ github.event.inputs.max_packages_upload || '100' }}
+        run: python catalog_builder_light.py
+
+  upload:
+    needs: build
+    if: needs.build.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - name: Disparar uploader
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/uploader_idrive.yml/dispatches \
+            -d '{"ref":"main","inputs":{"max_packages":"${{ github.event.inputs.max_packages_upload || '100' }}"}}'
