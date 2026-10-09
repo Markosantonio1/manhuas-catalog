@@ -111,8 +111,8 @@ def git_commit_and_push(mensaje: str) -> bool:
             check=False, capture_output=True, text=True,
         )
 
-        # Integrar cambios remotos (el auto_build_catalog puede haber pusheado
-        # mientras este workflow estaba corriendo)
+        # Integrar cambios remotos (el auto_build_catalog puede haber
+        # pusheado mientras este workflow estaba corriendo)
         pr = subprocess.run(
             ["git", "pull", "--rebase", "origin", "main"],
             check=False, capture_output=True, text=True,
