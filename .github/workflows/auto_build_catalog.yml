@@ -2,7 +2,7 @@ name: Auto Build Catalog
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'   # 2 veces al día: 6:00 y 18:00 UTC
+    - cron: '5 * * * *'   # cada hora, en el minuto 5 (para evitar el pico de :00)
   workflow_dispatch:
     inputs:
       max_packages_upload:
@@ -10,10 +10,14 @@ on:
         required: false
         default: '100'
 
+concurrency:
+  group: auto-build-catalog
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 30
     permissions:
       contents: write
       actions: write
@@ -43,7 +47,7 @@ jobs:
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_SESSION_STR: ${{ secrets.TELEGRAM_SESSION_STR }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TRIGGER_UPLOADER: '0'          # ← disparamos desde el job upload
+          TRIGGER_UPLOADER: '0'
           MAX_PACKAGES_UPLOAD: ${{ github.event.inputs.max_packages_upload || '100' }}
         run: python catalog_builder_light.py
 
