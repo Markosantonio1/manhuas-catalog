@@ -1,0 +1,51 @@
+name: Uploader IDrive e2
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_packages:
+        description: 'Máximo de paquetes a procesar'
+        required: false
+        default: '5'
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          pip install telethon boto3 python-dotenv
+
+      - name: Subir a IDrive e2
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION_STR: ${{ secrets.TELEGRAM_SESSION_STR }}
+          IDRIVE_ENDPOINT: ${{ secrets.IDRIVE_ENDPOINT }}
+          IDRIVE_ACCESS_KEY: ${{ secrets.IDRIVE_ACCESS_KEY }}
+          IDRIVE_SECRET_KEY: ${{ secrets.IDRIVE_SECRET_KEY }}
+          IDRIVE_BUCKET: ${{ secrets.IDRIVE_BUCKET }}
+          IDRIVE_REGION: ${{ secrets.IDRIVE_REGION }}
+          MAX_PACKAGES_PER_RUN: ${{ github.event.inputs.max_packages }}
+        run: python uploader_idrive.py
+
+      - name: Commit y push del catálogo actualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git commit -m "🚀 Subir paquetes a IDrive e2 [$(date +'%Y-%m-%d %H:%M')]" || echo "Sin cambios"
+          git push
