@@ -197,6 +197,9 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
     Recorre el catálogo y comprueba cada paquete contra las keys existentes
     en IDrive.
 
+    ⚠ SOLO procesa MANHUAS (lista "series"). Las novelas se excluyen
+    porque su almacenamiento es GitHub, no IDrive.
+
     Devuelve (reconciliados, pendientes_reales):
       - reconciliados: nº de paquetes que ya estaban en IDrive y se les
         ha generado la URL (sin re-subir)
@@ -204,7 +207,7 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
         y que hay que subir de verdad
     """
     print("\n" + "=" * 60)
-    print("RECONCILIACIÓN CON IDRIVE")
+    print("RECONCILIACIÓN CON IDRIVE (solo manhuas)")
     print("=" * 60)
 
     try:
@@ -220,7 +223,8 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
     ya_con_url = 0
     pendientes_reales = []
 
-    for list_key in ("series", "novels"):
+    # ⚠ Solo "series" (manhuas). Sin "novels".
+    for list_key in ("series",):
         for series in catalog.get(list_key, []):
             series_id = series.get("id", "").strip()
             if not series_id:
@@ -319,7 +323,7 @@ async def download_media_with_retry(client, message_id, local_path):
 
 async def main():
     print("=" * 60)
-    print("UPLOADER IDRIVE E2 — GitHub Actions")
+    print("UPLOADER IDRIVE E2 — GitHub Actions (solo manhuas)")
     print("=" * 60)
     print(f"Checkpoint cada {SAVE_EVERY_N} paquetes")
 
@@ -370,7 +374,7 @@ async def main():
             print("  ⚠ No se pudo subir el commit de reconciliación")
 
     total_pendientes = len(pendientes_reales)
-    print(f"\nPaquetes reales por subir: {total_pendientes}")
+    print(f"\nPaquetes reales por subir (solo manhuas): {total_pendientes}")
 
     # --------------------------------------------------------
     # FASE 2 — SUBIDA REAL
@@ -486,18 +490,18 @@ async def main():
     print(f"✓ Reconciliados: {reconciliados}")
     print(f"✓ Subidos nuevos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
-    print(f"📦 Pendientes reales antes de esta corrida: {total_pendientes}")
-    print(f"📦 Pendientes reales después: {total_pendientes - success_count}")
+    print(f"📦 Pendientes manhuas antes: {total_pendientes}")
+    print(f"📦 Pendientes manhuas después: {total_pendientes - success_count}")
     print("=" * 60)
 
     try:
         report = (
-            f"📊 *Uploader IDrive e2 — Reporte*\n"
+            f"📊 *Uploader IDrive e2 (manhuas)*\n"
             f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
-            f"↻ Reconciliados (URL regenerada): {reconciliados}\n"
+            f"↻ Reconciliados: {reconciliados}\n"
             f"✅ Subidos nuevos: {success_count}\n"
             f"❌ Fallidos: {fail_count}\n"
-            f"📊 Pendientes restantes: {total_pendientes - success_count}\n"
+            f"📊 Pendientes restantes (manhuas): {total_pendientes - success_count}\n"
         )
         await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
         print("✓ Reporte enviado por Telegram.")
