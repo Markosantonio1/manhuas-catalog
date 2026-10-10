@@ -41,9 +41,17 @@ def extraer_key_desde_url(url: str, bucket: str) -> str | None:
 
     IMPORTANTE: se hace unquote() del path para des-encodear %20, %C3%B3, etc.
     Sin esto, boto3 re-encodea el '%' como '%25' y firma una key inexistente.
+
+    Devuelve None si la URL no es de IDrive (por ejemplo, de GitHub), para
+    que el llamador pueda saltarla sin contar como error.
     """
     if not url:
         return None
+
+    # ⚠ Si no es una URL de IDrive e2, la saltamos (ej. novelas en GitHub)
+    if "idrivee2" not in url:
+        return None
+
     try:
         parsed = urlparse(url)
         path = unquote(parsed.path).lstrip("/")
@@ -66,6 +74,7 @@ def main():
 
     total = 0
     regeneradas = 0
+    saltadas = 0       # URLs que no son de IDrive (ej. novelas en GitHub)
     errores = 0
 
     for list_key in ("series", "novels"):
@@ -79,9 +88,14 @@ def main():
                 total += 1
                 message_id = pack.get("message_id", "?")
 
+                # Si no es URL de IDrive, la saltamos silenciosamente
+                if "idrivee2" not in str(url_actual):
+                    saltadas += 1
+                    continue
+
                 key = extraer_key_desde_url(url_actual, IDRIVE_BUCKET)
                 if not key:
-                    print(f"   ⚠ [{series_id}] msg {message_id}: no se pudo extraer key de {url_actual[:80]}")
+                    print(f"   ⚠ [{series_id}] msg {message_id}: no se pudo extraer key")
                     errores += 1
                     continue
 
@@ -102,8 +116,9 @@ def main():
         encoding="utf-8",
     )
 
-    print(f"\n✓ Total URLs: {total}")
-    print(f"✓ Regeneradas: {regeneradas}")
+    print(f"\n✓ Total URLs revisadas: {total}")
+    print(f"✓ Regeneradas (IDrive): {regeneradas}")
+    print(f"• Saltadas (no IDrive, ej. GitHub): {saltadas}")
     print(f"✗ Errores: {errores}")
 
 
