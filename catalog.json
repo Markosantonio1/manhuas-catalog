@@ -14854,9 +14854,9 @@
       "genres": [],
       "hashtag": "#Genio_Espadachín_De_La_Academia",
       "id": "genio_espadachin_de_la_academia",
-      "latest_chapter": 157,
+      "latest_chapter": 158,
       "name": "Genio Espadachín De La Academia",
-      "package_count": 34,
+      "package_count": 35,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -15524,6 +15524,21 @@
           "size": 10247263,
           "telegram_link": "https://t.me/manhuasgratis/4884",
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/genio_espadachin_de_la_academia/4884_157%20%E2%80%A2%20Genio%20Espadach%C3%ADn%20De%20La%20Academia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261010%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261010T022332Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=013f0e084f540083fab6b40d79623f359da1fd365ee177ff40eb18b064764552"
+        },
+        {
+          "name": "158",
+          "first": 158,
+          "last": 158,
+          "channel_id": -1003003829878,
+          "message_id": 5213,
+          "filename": "158 • Genio Espadachín De La Academia.pdf",
+          "size": 10881334,
+          "date": "2026-10-11T04:11:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5213",
+          "download_ready": true,
+          "chapters": [
+            158
+          ]
         }
       ],
       "synopsis": "Sinopsis: Tras una batalla trascendental contra gigantes por el destino del mundo, Ronan emerge victorioso como el último hombre en pie del ejército imperial.\nMientras lamenta esta victoria vacía junto a su moribundo comandante, el Gran Mariscal Adeshan, pronto descubren que la guerra está lejos de terminar y una fuerza abrumadora de gigantes desciende de los cielos.\nTemiendo lo peor, pero viendo esperanza en el valiente Ronan, Adeshan usa su último viaje en el tiempo para enviarlo al pasado, ¡para que pueda inscribirse en la prestigiosa Academia Phileon y convertirse en el espadachín más poderoso que el imperio haya visto jamás!",
@@ -30139,6 +30154,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-10T05:20:33.114444+00:00",
+  "updated_at": "2026-10-11T04:20:36.398698+00:00",
   "version": 3
 }
