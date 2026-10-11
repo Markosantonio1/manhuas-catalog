@@ -20882,9 +20882,9 @@
       ],
       "hashtag": "#Han_Pasado_30_Años_Desde_el_Prólogo",
       "id": "han_pasado_30_anos_desde_el_prologo",
-      "latest_chapter": 19,
+      "latest_chapter": 20,
       "name": "Han Pasado 30 Años Desde el Prólogo",
-      "package_count": 12,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -21084,6 +21084,21 @@
           "name": "19",
           "size": 11318784,
           "telegram_link": "https://t.me/manhuasgratis/4829"
+        },
+        {
+          "name": "20",
+          "first": 20,
+          "last": 20,
+          "channel_id": -1003003829878,
+          "message_id": 5219,
+          "filename": "[#20]   Han Pasado 30 Años Desde El Prólogo.pdf",
+          "size": 15307542,
+          "date": "2026-10-11T20:11:21+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5219",
+          "download_ready": true,
+          "chapters": [
+            20
+          ]
         }
       ],
       "synopsis": "Fui transmigrado a un juego que nunca había visto antes. Pensé que era un RPG de primer nivel — así que, en vez de seguir la trama principal, me dediqué a explorar, a pelear, a sobrevivir. Treinta años después, me había convertido en un héroe de guerra curtido en incontables batallas. Me retiré pensando que por fin podría descansar en paz. Pero resulta que todo eso — la guerra, las tres décadas, mi leyenda — era solo el prólogo. El verdadero juego era una historia de academia... y ahora tengo que sentarme en un salón de clases rodeado de adolescentes, cargando tres décadas de trauma, instinto militar y reflejos.",
@@ -40143,6 +40158,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-11T17:47:07.887846+00:00",
+  "updated_at": "2026-10-11T23:11:51.271641+00:00",
   "version": 3
 }
