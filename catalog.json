@@ -946,8 +946,8 @@
             4
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/311_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2004.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231626Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6131e626765a2ff57de8a37c08230b1315203407dd81384e0482bfc96c73a71",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 04.pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -971,7 +971,8 @@
           "message_id": 312,
           "name": "Volumen 5",
           "size": 4805194,
-          "telegram_link": "https://t.me/c/-1004334091126/312"
+          "telegram_link": "https://t.me/c/-1004334091126/312",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/312_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2005.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231634Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=56dddd87ee7220ad977c5be85afe11882b9b42f86a443503c377d3ccf8e77e31"
         },
         {
           "channel_id": -1004334091126,
@@ -987,7 +988,8 @@
           "message_id": 313,
           "name": "Volumen 6",
           "size": 5856022,
-          "telegram_link": "https://t.me/c/-1004334091126/313"
+          "telegram_link": "https://t.me/c/-1004334091126/313",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/313_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2006.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231644Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8fa5f87f464ac7e9ebcec3f2e851b0f4cd93a6a5f7d0a74fd26389446c431d80"
         },
         {
           "channel_id": -1004334091126,
@@ -995,8 +997,8 @@
             7
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/314_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2007.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231658Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=25fa4d00c98c767eb9ba38fca13360c1462125dd3b0ae8c276f0abc3fe13e15a",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 07.pdf",
           "first": 7,
           "is_novel_volume": true,
@@ -1012,8 +1014,8 @@
             8
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/315_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2008.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231722Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e26a25a67b5437af30bf078c7691e36a61dcc7011911d08cc905637e494a693a",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 08.pdf",
           "first": 8,
           "is_novel_volume": true,
@@ -1029,8 +1031,8 @@
             9
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/316_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2009.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231731Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5db037e743f6842333de206ec1081fa3cef2dc876b260d0cbf95dae32be111e3",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 09.pdf",
           "first": 9,
           "is_novel_volume": true,
@@ -1046,8 +1048,8 @@
             10
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/317_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2010.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231740Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=81b846d931e5afc806c65c97662650f733b26d9ee3f12daeba6d8ed8b3f00f08",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 10.pdf",
           "first": 10,
           "is_novel_volume": true,
@@ -1063,8 +1065,8 @@
             11
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/318_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2011.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231748Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4a1b22913c91ecbc373ae20eaac70d43d9f47cdbf69e7cb4828364f81d43a4a2",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 11.pdf",
           "first": 11,
           "is_novel_volume": true,
@@ -1080,8 +1082,8 @@
             12
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/319_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2012.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231757Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c215af9727105743eafad776dcc3112493ce2ace80bf65ac75289d5a29b3f7a3",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 12.pdf",
           "first": 12,
           "is_novel_volume": true,
@@ -1097,8 +1099,8 @@
             13
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/320_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2013.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231806Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4a24c99edce61c16ceca17423e8b7dc2e46aed87747e943181f1422370a144af",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 13.pdf",
           "first": 13,
           "is_novel_volume": true,
