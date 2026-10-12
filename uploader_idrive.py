@@ -13,6 +13,7 @@ from datetime import datetime
 import boto3
 from botocore.config import Config
 from botocore.exceptions import ClientError
+from dotenv import load_dotenv
 
 from telethon import TelegramClient
 from telethon.sessions import StringSession
@@ -23,6 +24,8 @@ from telethon.sessions import StringSession
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
+
+load_dotenv(BASE_DIR / ".env")
 
 CATALOG_FILE = BASE_DIR / "catalog.json"
 
@@ -39,6 +42,7 @@ IDRIVE_REGION = os.getenv("IDRIVE_REGION", "us-southeast-1")
 
 NOTIFY_USERNAME = "@Markosantonio"
 MAIN_CHANNEL = "manhuasgratis"
+NOVELS_CHANNEL = -1004334091126
 
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
@@ -81,9 +85,15 @@ def save_catalog(catalog: dict, silent: bool = False) -> None:
         print("✓ Catálogo guardado")
 
 
-def compute_key(series_id: str, message_id: int, filename: str) -> str:
+def compute_key(
+    series_id: str,
+    message_id: int,
+    filename: str,
+    is_novel: bool = False,
+) -> str:
     """Calcula la key que tendría este paquete en IDrive."""
-    return f"{series_id}/{message_id}_{sanitize_filename(filename)}"
+    prefix = "novels/" if is_novel else ""
+    return f"{prefix}{series_id}/{message_id}_{sanitize_filename(filename)}"
 
 
 # ============================================================
@@ -197,17 +207,16 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
     Recorre el catálogo y comprueba cada paquete contra las keys existentes
     en IDrive.
 
-    ⚠ SOLO procesa MANHUAS (lista "series"). Las novelas se excluyen
-    porque su almacenamiento es GitHub, no IDrive.
+    Procesa MANHUAS (lista "series") y NOVELAS (lista "novels").
 
     Devuelve (reconciliados, pendientes_reales):
       - reconciliados: nº de paquetes que ya estaban en IDrive y se les
         ha generado la URL (sin re-subir)
-      - pendientes_reales: lista de (series, pack) que NO están en IDrive
-        y que hay que subir de verdad
+      - pendientes_reales: lista de (series, pack, list_key) que NO están
+        en IDrive y que hay que subir de verdad
     """
     print("\n" + "=" * 60)
-    print("RECONCILIACIÓN CON IDRIVE (solo manhuas)")
+    print("RECONCILIACIÓN CON IDRIVE (manhuas + novelas)")
     print("=" * 60)
 
     try:
@@ -223,8 +232,8 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
     ya_con_url = 0
     pendientes_reales = []
 
-    # ⚠ Solo "series" (manhuas). Sin "novels".
-    for list_key in ("series",):
+    for list_key in ("series", "novels"):
+        is_novel = (list_key == "novels")
         for series in catalog.get(list_key, []):
             series_id = series.get("id", "").strip()
             if not series_id:
@@ -236,25 +245,36 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
                 if not message_id:
                     continue
 
-                expected_key = compute_key(series_id, int(message_id), filename)
+                expected_key = compute_key(
+                    series_id,
+                    int(message_id),
+                    filename,
+                    is_novel=is_novel,
+                )
 
                 if expected_key in existing_keys:
                     # El archivo YA está en IDrive
-                    if not pack.get("download_url"):
+                    current_url = pack.get("download_url") or ""
+                    es_url_idrive = "idrivee2" in str(current_url)
+                    if not current_url or not es_url_idrive:
                         url = generar_url_prefirmada(s3, expected_key)
                         if url:
                             pack["download_url"] = url
                             reconciliados += 1
                             if reconciliados <= 20:
-                                print(f"  ↻ [{series_id}] msg {message_id}: URL regenerada")
+                                tipo = "novela" if is_novel else "manhua"
+                                print(
+                                    f"  ↻ [{tipo} {series_id}] "
+                                    f"msg {message_id}: URL regenerada"
+                                )
                     else:
                         ya_con_url += 1
                 else:
                     # No está en IDrive, hay que subirlo
-                    pendientes_reales.append((series, pack))
+                    pendientes_reales.append((series, pack, list_key))
 
     print()
-    print(f"  ✓ Reconciliados (estaban sin URL): {reconciliados}")
+    print(f"  ✓ Reconciliados (estaban sin URL o migrados): {reconciliados}")
     print(f"  • Ya tenían URL: {ya_con_url}")
     print(f"  • Pendientes reales (subir): {len(pendientes_reales)}")
 
@@ -270,8 +290,13 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
 # ============================================================
 
 def create_telegram_client() -> TelegramClient:
+    if TELEGRAM_SESSION_STR:
+        session = StringSession(TELEGRAM_SESSION_STR)
+    else:
+        # Fallback local: reutiliza la sesión de todo.py
+        session = str(BASE_DIR / "manhuas_downloader")
     return TelegramClient(
-        StringSession(TELEGRAM_SESSION_STR),
+        session,
         API_ID,
         API_HASH,
         connection_retries=5,
@@ -281,12 +306,12 @@ def create_telegram_client() -> TelegramClient:
     )
 
 
-async def download_media_with_retry(client, message_id, local_path):
+async def download_media_with_retry(client, message_id, local_path, channel):
     for attempt in range(1, 4):
         try:
             print(f"    ↓ Intento {attempt}/3...")
 
-            message = await client.get_messages(MAIN_CHANNEL, ids=message_id)
+            message = await client.get_messages(channel, ids=message_id)
 
             if not message or not message.file:
                 print(f"    ⚠ Mensaje {message_id} sin archivo")
@@ -323,12 +348,9 @@ async def download_media_with_retry(client, message_id, local_path):
 
 async def main():
     print("=" * 60)
-    print("UPLOADER IDRIVE E2 — GitHub Actions (solo manhuas)")
+    print("UPLOADER IDRIVE E2 — GitHub Actions (manhuas + novelas)")
     print("=" * 60)
     print(f"Checkpoint cada {SAVE_EVERY_N} paquetes")
-
-    if not TELEGRAM_SESSION_STR:
-        raise RuntimeError("Falta TELEGRAM_SESSION_STR.")
 
     if not API_ID or not API_HASH:
         raise RuntimeError("Faltan TELEGRAM_API_ID o TELEGRAM_API_HASH.")
@@ -374,7 +396,12 @@ async def main():
             print("  ⚠ No se pudo subir el commit de reconciliación")
 
     total_pendientes = len(pendientes_reales)
-    print(f"\nPaquetes reales por subir (solo manhuas): {total_pendientes}")
+    pendientes_manhuas = sum(1 for (_, _, lk) in pendientes_reales if lk == "series")
+    pendientes_novelas = sum(1 for (_, _, lk) in pendientes_reales if lk == "novels")
+
+    print(f"\nPaquetes reales por subir: {total_pendientes}")
+    print(f"  • Manhuas: {pendientes_manhuas}")
+    print(f"  • Novelas: {pendientes_novelas}")
 
     # --------------------------------------------------------
     # FASE 2 — SUBIDA REAL
@@ -394,16 +421,18 @@ async def main():
     fail_count = 0
 
     try:
-        for idx, (series, pack) in enumerate(to_process, start=1):
+        for idx, (series, pack, list_key) in enumerate(to_process, start=1):
             series_name = series.get("name", "Desconocida")
             series_id = series.get("id", "")
             pack_name = pack.get("name", "Paquete")
             message_id = pack.get("message_id")
             filename = pack.get("filename", f"{message_id}.pdf")
             is_visible = series.get("visible", True)
+            is_novel = (list_key == "novels")
             tag = "" if is_visible else " [OCULTA]"
+            tipo_tag = " [NOVELA]" if is_novel else ""
 
-            print(f"\n[{idx}/{len(to_process)}] {series_name}{tag} → {pack_name}")
+            print(f"\n[{idx}/{len(to_process)}] {series_name}{tipo_tag}{tag} → {pack_name}")
 
             local_file = TEMP_DOWNLOAD_DIR / sanitize_filename(filename)
 
@@ -412,8 +441,11 @@ async def main():
                 fail_count += 1
                 continue
 
+            # Elegir canal según tipo
+            channel = NOVELS_CHANNEL if is_novel else MAIN_CHANNEL
+
             # Descargar de Telegram
-            ok = await download_media_with_retry(client, message_id, local_file)
+            ok = await download_media_with_retry(client, message_id, local_file, channel)
 
             if not ok:
                 print("    ✗ Descarga fallida tras reintentos")
@@ -426,12 +458,13 @@ async def main():
                 continue
 
             # Subir a IDrive e2
-            key = compute_key(series_id, int(message_id), filename)
+            key = compute_key(series_id, int(message_id), filename, is_novel=is_novel)
 
             if subir_a_idrive(s3, local_file, key):
                 url = generar_url_prefirmada(s3, key)
                 if url:
                     pack["download_url"] = url
+                    pack["download_ready"] = True
                     success_count += 1
                     print("    ✓ URL prefirmada generada (válida 7 días)")
                 else:
@@ -490,18 +523,21 @@ async def main():
     print(f"✓ Reconciliados: {reconciliados}")
     print(f"✓ Subidos nuevos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
-    print(f"📦 Pendientes manhuas antes: {total_pendientes}")
-    print(f"📦 Pendientes manhuas después: {total_pendientes - success_count}")
+    print(f"📦 Pendientes antes (manhuas): {pendientes_manhuas}")
+    print(f"📦 Pendientes antes (novelas): {pendientes_novelas}")
+    print(f"📦 Pendientes restantes totales: {total_pendientes - success_count}")
     print("=" * 60)
 
     try:
         report = (
-            f"📊 *Uploader IDrive e2 (manhuas)*\n"
+            f"📊 *Uploader IDrive e2*\n"
             f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
             f"↻ Reconciliados: {reconciliados}\n"
             f"✅ Subidos nuevos: {success_count}\n"
             f"❌ Fallidos: {fail_count}\n"
-            f"📊 Pendientes restantes (manhuas): {total_pendientes - success_count}\n"
+            f"📦 Pendientes restantes: {total_pendientes - success_count}\n"
+            f"  • Manhuas: {pendientes_manhuas}\n"
+            f"  • Novelas: {pendientes_novelas}\n"
         )
         await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
         print("✓ Reporte enviado por Telegram.")
