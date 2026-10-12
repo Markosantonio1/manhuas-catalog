@@ -2072,7 +2072,8 @@
           "message_id": 174,
           "name": "Volumen 17",
           "size": 8982147,
-          "telegram_link": "https://t.me/c/-1004334091126/174"
+          "telegram_link": "https://t.me/c/-1004334091126/174",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/174_%5BVolumen%2017%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab957438d727d099ae4be15d73fe92562b23e48a8e14e39dc59df30fd49917bb"
         }
       ],
       "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chico de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
@@ -2103,8 +2104,8 @@
             1
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/196_%5BVol.%201%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144859Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fcc035de61166ce42d36eb99a94b1ad900334afec89409896608be015dd895f3",
           "filename": "[Vol. 1] Seirei Gensouki 令.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -2120,8 +2121,8 @@
             2
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/197_%5BVol.%202%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=06769adf69dcfbf52c027ab267006ab731543aff22f262db79960136ee0ab92f",
           "filename": "[Vol. 2] Seirei Gensouki 令.pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -2137,8 +2138,8 @@
             3
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/198_%5BVol.%203%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144919Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89b4732802dd3f116e724d442e0e745c793d8dc901aab62fc28e891f88d15cab",
           "filename": "[Vol. 3] Seirei Gensouki 令.pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -2154,8 +2155,8 @@
             4
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/199_%5BVol.%204%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144925Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29882a0c1864b75e6e562ce8faf2e639f5e190cfa163e531f0e313238e80b8b6",
           "filename": "[Vol. 4] Seirei Gensouki 令.pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -2171,8 +2172,8 @@
             5
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/200_%5BVol.%205%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144932Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=75a89ec929b56f2728b5e5d64dceba9022cabec35fc8be7b8add22da4d3cd8a0",
           "filename": "[Vol. 5] Seirei Gensouki 令.pdf",
           "first": 5,
           "is_novel_volume": true,
@@ -2188,8 +2189,8 @@
             6
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/201_%5BVol.%206%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144939Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a5c230f88ba1cc07791df1cc97c275a306f3b5740919f4023e23896daed8a597",
           "filename": "[Vol. 6] Seirei Gensouki 令.pdf",
           "first": 6,
           "is_novel_volume": true,
@@ -2205,8 +2206,8 @@
             7
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/202_%5BVol.%207%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144945Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b004dfecf19ecec9e9033e455037d8839787c183b472285a186e9d8fc8e5ce0a",
           "filename": "[Vol. 7] Seirei Gensouki 令.pdf",
           "first": 7,
           "is_novel_volume": true,
@@ -2222,8 +2223,8 @@
             8
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/203_%5BVol.%208%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144951Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=24a44e21e980df8a9e009080e025ddd25b091fdd84e6f7cc519f4b5e0de377da",
           "filename": "[Vol. 8] Seirei Gensouki 令.pdf",
           "first": 8,
           "is_novel_volume": true,
@@ -2239,8 +2240,8 @@
             9
           ],
           "date": "2026-10-12T14:12:05+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/204_%5BVol.%209%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=be7a5c36e61e5c84dbbf21db74758573af2333eab3040d81b9a6ab0076ab6bfc",
           "filename": "[Vol. 9] Seirei Gensouki 令.pdf",
           "first": 9,
           "is_novel_volume": true,
