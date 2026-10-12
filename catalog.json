@@ -929,8 +929,8 @@
             3
           ],
           "date": "2026-10-12T20:12:49+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/310_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2003.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231328Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce7084997c6cb82de68244e22188ad09495b997b169c90d351f921d2767fd82e",
           "filename": "Death March to the Parallel World Rhapsody - Volumen 03.pdf",
           "first": 3,
           "is_novel_volume": true,
