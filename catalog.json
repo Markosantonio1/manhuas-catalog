@@ -858,6 +858,681 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-12T20:12:49+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/death_march_to_the_parallel_world.jpg",
+      "cover_message_id": 306,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/306",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Isekai",
+        "Harem",
+        "Romance"
+      ],
+      "hashtag": "#Death_March_to_the_Parallel_World",
+      "id": "death_march_to_the_parallel_world",
+      "latest_chapter": 23,
+      "name": "Death March to the Parallel World",
+      "package_count": 23,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 01.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 308,
+          "name": "Volumen 1",
+          "size": 5057553,
+          "telegram_link": "https://t.me/c/-1004334091126/308"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 02.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 309,
+          "name": "Volumen 2",
+          "size": 5012142,
+          "telegram_link": "https://t.me/c/-1004334091126/309"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 03.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 310,
+          "name": "Volumen 3",
+          "size": 6646467,
+          "telegram_link": "https://t.me/c/-1004334091126/310"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 04.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 311,
+          "name": "Volumen 4",
+          "size": 6663990,
+          "telegram_link": "https://t.me/c/-1004334091126/311"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/312_40%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe95edc5a68eda82f98c2e4a9982eb8d0575197cbf0e69d01f82c2d338d68338",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 05.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 312,
+          "name": "Volumen 5",
+          "size": 4805194,
+          "telegram_link": "https://t.me/c/-1004334091126/312"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/313_41%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b31a16b0d8ba2cc50c09f7c9fbf565200bfad7c2f8a237ad490da723d85e181",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 06.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 313,
+          "name": "Volumen 6",
+          "size": 5856022,
+          "telegram_link": "https://t.me/c/-1004334091126/313"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 07.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 314,
+          "name": "Volumen 7",
+          "size": 13320778,
+          "telegram_link": "https://t.me/c/-1004334091126/314"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 08.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 315,
+          "name": "Volumen 8",
+          "size": 24450385,
+          "telegram_link": "https://t.me/c/-1004334091126/315"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 09.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 316,
+          "name": "Volumen 9",
+          "size": 6051787,
+          "telegram_link": "https://t.me/c/-1004334091126/316"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 10.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 317,
+          "name": "Volumen 10",
+          "size": 5309591,
+          "telegram_link": "https://t.me/c/-1004334091126/317"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 11.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 318,
+          "name": "Volumen 11",
+          "size": 5171231,
+          "telegram_link": "https://t.me/c/-1004334091126/318"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 12.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 319,
+          "name": "Volumen 12",
+          "size": 6319858,
+          "telegram_link": "https://t.me/c/-1004334091126/319"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 13.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 320,
+          "name": "Volumen 13",
+          "size": 5963761,
+          "telegram_link": "https://t.me/c/-1004334091126/320"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 14.pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 321,
+          "name": "Volumen 14",
+          "size": 5941433,
+          "telegram_link": "https://t.me/c/-1004334091126/321"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 15.pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 322,
+          "name": "Volumen 15",
+          "size": 5609837,
+          "telegram_link": "https://t.me/c/-1004334091126/322"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 16.pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 323,
+          "name": "Volumen 16",
+          "size": 5104761,
+          "telegram_link": "https://t.me/c/-1004334091126/323"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 17.pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 324,
+          "name": "Volumen 17",
+          "size": 6563671,
+          "telegram_link": "https://t.me/c/-1004334091126/324"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            18
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/325_1-40%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T035349Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=512dfc8a1ece3bd81ced2778d282fbd8ecd0bdbd59d721644e44d44ff3b832d9",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 18.pdf",
+          "first": 18,
+          "is_novel_volume": true,
+          "last": 18,
+          "message_id": 325,
+          "name": "Volumen 18",
+          "size": 5963876,
+          "telegram_link": "https://t.me/c/-1004334091126/325"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            19
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/326_41-80%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T042103Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3a33f7c1c0018f691187e5c15686f13eb654a7f1eb99ac9d69c9e8fb2e03afdd",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 19.pdf",
+          "first": 19,
+          "is_novel_volume": true,
+          "last": 19,
+          "message_id": 326,
+          "name": "Volumen 19",
+          "size": 5095027,
+          "telegram_link": "https://t.me/c/-1004334091126/326"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            20
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/327_81-120%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T042731Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=444144e7269fdef495b55de34f225e83c7b0e1504846cfc8badabc887dc9b9da",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 20.pdf",
+          "first": 20,
+          "is_novel_volume": true,
+          "last": 20,
+          "message_id": 327,
+          "name": "Volumen 20",
+          "size": 6230557,
+          "telegram_link": "https://t.me/c/-1004334091126/327"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/328_121-146%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T043043Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=99e8625103e73b2ce5fe4705829f0def61595877dda5a187d9896a88039e3c19",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 21.pdf",
+          "first": 21,
+          "is_novel_volume": true,
+          "last": 21,
+          "message_id": 328,
+          "name": "Volumen 21",
+          "size": 6573842,
+          "telegram_link": "https://t.me/c/-1004334091126/328"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/329_147-160%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T043342Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c7d3d791d52263f4ec4a11dfd3e38482379e56ff8a1837bc4feef0811dc2c34",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 22.pdf",
+          "first": 22,
+          "is_novel_volume": true,
+          "last": 22,
+          "message_id": 329,
+          "name": "Volumen 22",
+          "size": 5793808,
+          "telegram_link": "https://t.me/c/-1004334091126/329"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-12T20:12:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/330_161-180%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T043427Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e00f694d08bca7f3044778de0e51d7e8dfbfbaf476b2bdbb49355144cf1126a",
+          "filename": "Death March to the Parallel World Rhapsody - Volumen 23.pdf",
+          "first": 23,
+          "is_novel_volume": true,
+          "last": 23,
+          "message_id": 330,
+          "name": "Volumen 23",
+          "size": 6744216,
+          "telegram_link": "https://t.me/c/-1004334091126/330"
+        }
+      ],
+      "synopsis": "lchiro Suzuki es un programador de videojuegos que después de que su compañero desapareciera antes del lanzamiento del juego tuvo que arreglar los fallos el solo, por lo que decide tomar una siesta\nDe alguna manera despierta en el mundo que al parecer estaba editando antes de dormir, donde ve su nuevo nombre: Satou Pendragon. Al activar una habilidad que venia predeterminadamente, visualiza un grupo de hombres lagarto no muy lejos de su posición. Para sobrevivir, Satou utiliza la habilidad de regalo Lluvia de estrellas o Ducha de Meteoros, donde al aniquilar a todos los enemigos sube hasta el nivel 310 y se vuelve muy rico...",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-12T20:15:29+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/failure_frame_i_became_the_strongest.jpg",
+      "cover_message_id": 332,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/332",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Isekai",
+        "Fantasía"
+      ],
+      "hashtag": "#Failure_frame_i_became_the_strongest",
+      "id": "failure_frame_i_became_the_strongest",
+      "latest_chapter": 14,
+      "name": "Failure frame i became the strongest",
+      "package_count": 14,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/333_218-237%20Fin%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T043646Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f1ee874f8e320a38f21f6423b3854db8b6a4d7ee25d6881eeca8c4906b1df7a9",
+          "filename": "Failure Frame I Became The Strongest - Volumen 01.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 333,
+          "name": "Volumen 1",
+          "size": 5411531,
+          "telegram_link": "https://t.me/c/-1004334091126/333"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/334_42%20%E2%80%A2%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=640b4b887eea5a874b78a5fe920ccaecf4066d653d85975069a3abda4dc2e668",
+          "filename": "Failure Frame I Became The Strongest - Volumen 02.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 334,
+          "name": "Volumen 2",
+          "size": 7023085,
+          "telegram_link": "https://t.me/c/-1004334091126/334"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 03.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 335,
+          "name": "Volumen 3",
+          "size": 4906443,
+          "telegram_link": "https://t.me/c/-1004334091126/335"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 04.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 336,
+          "name": "Volumen 4",
+          "size": 5312311,
+          "telegram_link": "https://t.me/c/-1004334091126/336"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/337_43%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b5a4be192441d4db5683fe58d76ee7a84c31d28a958bf78dbb51624eaeae91f",
+          "filename": "Failure Frame I Became The Strongest - Volumen 05.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 337,
+          "name": "Volumen 5",
+          "size": 6007382,
+          "telegram_link": "https://t.me/c/-1004334091126/337"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/338_44_45%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5e9e832546bd580b9601da43cd223294c7c14555487aa932a3c37a047319b04",
+          "filename": "Failure Frame I Became The Strongest - Volumen 06.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 338,
+          "name": "Volumen 6",
+          "size": 5634299,
+          "telegram_link": "https://t.me/c/-1004334091126/338"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 07.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 339,
+          "name": "Volumen 7",
+          "size": 5309006,
+          "telegram_link": "https://t.me/c/-1004334091126/339"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 08.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 340,
+          "name": "Volumen 8",
+          "size": 6336121,
+          "telegram_link": "https://t.me/c/-1004334091126/340"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 09.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 341,
+          "name": "Volumen 9",
+          "size": 5948712,
+          "telegram_link": "https://t.me/c/-1004334091126/341"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 10.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 342,
+          "name": "Volumen 10",
+          "size": 7171147,
+          "telegram_link": "https://t.me/c/-1004334091126/342"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 343,
+          "name": "Volumen 11",
+          "size": 7210399,
+          "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 12.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 345,
+          "name": "Volumen 12",
+          "size": 8069456,
+          "telegram_link": "https://t.me/c/-1004334091126/345"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 13.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 346,
+          "name": "Volumen 13",
+          "size": 7507760,
+          "telegram_link": "https://t.me/c/-1004334091126/346"
+        }
+      ],
+      "synopsis": "Touka Mimori y sus compañeros de clase son catapultados abruptamente a un mundo de fantasía, convocados por la diosa residente para servir como héroes. ¿Las buenas noticias? ¡La mayoría de los estudiantes demuestran habilidades asombrosas al llegar! ¿El malo? Mimori es el peor de todos, tocando fondo en un rango E miserable. Indignada, la diosa lo arroja a un calabozo para que muera, pero resulta que las habilidades de Mimori no son tan inútiles como anormales. ¡Anormalmente poderoso, quizás!",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-12T14:25:11+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/hell_mode.jpg",
       "cover_message_id": 280,
@@ -1084,6 +1759,267 @@
       ],
       "synopsis": "¿»Subir de nivel incluso sin conexión»? Eso no es un juego en ‘modo fácil’, ¡Es sólo un juego AFK!»\nEl juego en línea al que Yamada Kenichi había estado jugando religiosamente cierra sus servidores, dejándole un vacío en su corazón. Buscaba un nuevo juego para llenarlo, pero todo lo que encuentraba era demasiado fácil. El tipo de juego que le gusta, el que castiga lo suficiente como para que los jugadores quieran pasar miles de horas en él, ya no existe.\n«¿Qué es esto? ‘Estás invitado a un juego que nunca terminará’».\nKenichi tropieza con un juego sin título, que promete un reto incomparable con un potencial sin precedentes. Sin dudarlo, selecciona la dificultad «Modo Infiernal». Y he aquí que se encuentra reencarnado en otro mundo como siervo.\nAhora se llama Allen y se dispone a desvelar los secretos de su misteriosa clase de Invocador; sin la comodidad de las guías del juego ni de los foros en línea, deberá abrirse camino a tientas hasta la cima de su nuevo mundo.",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-12T20:18:56+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/isekai_tensei_soudouki.jpg",
+      "cover_message_id": 347,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/347",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Isekai",
+        "Harem"
+      ],
+      "hashtag": "#Isekai_Tensei_Soudouki",
+      "id": "isekai_tensei_soudouki",
+      "latest_chapter": 14,
+      "name": "Isekai Tensei Soudouki",
+      "package_count": 14,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 01.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 349,
+          "name": "Volumen 1",
+          "size": 4897529,
+          "telegram_link": "https://t.me/c/-1004334091126/349"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 02.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 350,
+          "name": "Volumen 2",
+          "size": 4813058,
+          "telegram_link": "https://t.me/c/-1004334091126/350"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 03.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 351,
+          "name": "Volumen 3",
+          "size": 4421696,
+          "telegram_link": "https://t.me/c/-1004334091126/351"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 04.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 352,
+          "name": "Volumen 4",
+          "size": 4679098,
+          "telegram_link": "https://t.me/c/-1004334091126/352"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 05.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 353,
+          "name": "Volumen 5",
+          "size": 5043005,
+          "telegram_link": "https://t.me/c/-1004334091126/353"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 06.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 354,
+          "name": "Volumen 6",
+          "size": 5032012,
+          "telegram_link": "https://t.me/c/-1004334091126/354"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 07.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 355,
+          "name": "Volumen 7",
+          "size": 4634624,
+          "telegram_link": "https://t.me/c/-1004334091126/355"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 08.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 356,
+          "name": "Volumen 8",
+          "size": 6381505,
+          "telegram_link": "https://t.me/c/-1004334091126/356"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 09.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 357,
+          "name": "Volumen 9",
+          "size": 3998159,
+          "telegram_link": "https://t.me/c/-1004334091126/357"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 10.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 358,
+          "name": "Volumen 10",
+          "size": 3852664,
+          "telegram_link": "https://t.me/c/-1004334091126/358"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 11.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 359,
+          "name": "Volumen 11",
+          "size": 4095894,
+          "telegram_link": "https://t.me/c/-1004334091126/359"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 12.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 360,
+          "name": "Volumen 12",
+          "size": 4071829,
+          "telegram_link": "https://t.me/c/-1004334091126/360"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 13.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 361,
+          "name": "Volumen 13",
+          "size": 3835581,
+          "telegram_link": "https://t.me/c/-1004334091126/361"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T20:18:56+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Isekai Tensei Soudouki - Volumen 14.pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 362,
+          "name": "Volumen 14",
+          "size": 5781575,
+          "telegram_link": "https://t.me/c/-1004334091126/362"
+        }
+      ],
+      "synopsis": "Baldr Cornelius es el hijo de un noble del reino de Mauricia y dentro de el también moran las almas del avaro de los reinos combatientes el comandante Oka Sadatoshi y el otaku de los oídos de animales Oka Masaharu. con estas 3 almas e un solo cuerpo, puede exhibir habilidades extraordinarias cuando se trata de combatir o dirigiendo el ducado.",
+      "visible": false
     },
     {
       "added_at": "2026-10-03T19:21:18+00:00",
@@ -3102,6 +4038,99 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-12T20:21:26+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_disciple_of_lich.jpg",
+      "cover_message_id": 363,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/363",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Comedia",
+        "Sobrenatural",
+        "Isekai",
+        "Romance"
+      ],
+      "hashtag": "#The_Disciple_of_Lich",
+      "id": "the_disciple_of_lich",
+      "latest_chapter": 4,
+      "name": "The Disciple of Lich",
+      "package_count": 4,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T20:21:26+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Discípulo del Lich - Volumen 01 [MNM & LNF].pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 364,
+          "name": "Volumen 1",
+          "size": 10402678,
+          "telegram_link": "https://t.me/c/-1004334091126/364"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T20:21:26+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Discípulo del Lich - Volumen 02 [MNM & LNF].pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 365,
+          "name": "Volumen 2",
+          "size": 9088487,
+          "telegram_link": "https://t.me/c/-1004334091126/365"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T20:21:26+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Discípulo del Lich - Volumen 03[MNM & LNF].pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 366,
+          "name": "Volumen 3",
+          "size": 13350993,
+          "telegram_link": "https://t.me/c/-1004334091126/366"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T20:21:26+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Discípulo del Lich - Volumen 04[MNM & LNF].pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 367,
+          "name": "Volumen 4",
+          "size": 19909475,
+          "telegram_link": "https://t.me/c/-1004334091126/367"
+        }
+      ],
+      "synopsis": "Cuando Kanbara Kanata es sacado de su vida cotidiana para Ilevarlo a un mundo de aventuras, sin darse cuenta ofende al ser todopoderoso que lo trajo allí. Como castigo, jes enviado al fondo de la mazmorra más peligrosa sin un solo poder o habilidad especial! Está seguro de que está perdido hasta que conoce a una chica lich Ilamada Lunaère, una poderosa no muerta que odia a los humanos, pero que a regañadientes decide ayudarlo de todos modos. ¡Con Ia ayuda de Lunaère,Kanata podría convertirse en alguien realmente increíble!",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-04T13:07:24+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_great_cleric.jpg",
       "cover_message_id": 69,
@@ -5088,6 +6117,140 @@
       ],
       "synopsis": "Para costear el tratamiento médico de su hermana mayor, Lin Yu no tuvo más remedio que aceptar un trabajo en uno de los crematorios más peligrosos de la zona, desempeñándose como operario de hornos. Sin embargo, lo que parecía una condena se convirtió en su mayor golpe de suerte: sin buscarlo, activó el Sistema Devorador de Almas, un poder oculto capaz de absorber las almas de guerreros y criaturas incineradas para apropiarse de sus recuerdos y habilidades. Gracias a las primeras almas que consumió —la de un poderoso guerrero y la de dos bestias mutantes— Lin Yu adquirió técnicas de fortalecimiento corporal y habilidades de combate muy superiores a las de cualquier ser humano común.",
       "visible": true
+    },
+    {
+      "added_at": "2026-01-23T05:37:41+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/como_se_jubila_un_nigromante_catastrofico.jpg",
+      "cover_message_id": 162,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/162",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Isekai",
+        "Fantasía",
+        "Sistema"
+      ],
+      "hashtag": "#Cómo_se_Jubila_un_Nigromante_Catastrófico",
+      "id": "como_se_jubila_un_nigromante_catastrofico",
+      "latest_chapter": 50,
+      "name": "Cómo se Jubila un Nigromante Catastrófico",
+      "package_count": 7,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/242_%5BVolumen%2017%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144352Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b4df0b9baeb28b19060272b0ad4f2250ee589bcbe0d424d54ead08afc567434d",
+          "filename": "40 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 242,
+          "name": "40",
+          "size": 5665580,
+          "telegram_link": "https://t.me/manhuasgratis/242"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/243_%5BVolumen%2018%5D%20%E2%80%A2%20Danmachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144405Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29678d8dbcc1f4339616f5025edfccc7e7a840fb724069abc3a3de19d0290e32",
+          "filename": "41 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 243,
+          "name": "41",
+          "size": 9472529,
+          "telegram_link": "https://t.me/manhuasgratis/243"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            42
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/244_%5BVolumen%2019%5D%20%E2%80%A2%20Danmachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144413Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bd33f28c3b494c4f4079ba2433f4d2f0ba9b764e3ca8951d388c1a538c346c37",
+          "filename": "42 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 42,
+          "last": 42,
+          "message_id": 244,
+          "name": "42",
+          "size": 5478305,
+          "telegram_link": "https://t.me/manhuasgratis/244"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "filename": "43 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 245,
+          "name": "43",
+          "size": 12274373,
+          "telegram_link": "https://t.me/manhuasgratis/245"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            44,
+            45,
+            46
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "filename": "44_46 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 44,
+          "last": 46,
+          "message_id": 246,
+          "name": "44-46",
+          "size": 13974726,
+          "telegram_link": "https://t.me/manhuasgratis/246"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            47
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "filename": "47 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 47,
+          "last": 47,
+          "message_id": 247,
+          "name": "47",
+          "size": 6311361,
+          "telegram_link": "https://t.me/manhuasgratis/247"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            48,
+            49,
+            50
+          ],
+          "date": "2026-01-23T05:37:41+00:00",
+          "download_ready": true,
+          "filename": "48_50 Cómo se Jubila un Nigromante Catastrófico.pdf",
+          "first": 48,
+          "last": 50,
+          "message_id": 248,
+          "name": "48-50",
+          "size": 14652469,
+          "telegram_link": "https://t.me/manhuasgratis/248"
+        }
+      ],
+      "synopsis": "Han Ji-hyuk, el legendario nigromante que salvó a la humanidad en el continente de Seron, regresó por fin a la Tierra, anhelando una jubilación tranquila y feliz. Pero desde el primer día, sus planes de llevar una vida tranquila se descarrilaron por completo. A los veinte años, Ji-hyuk había sido convocado a Seron por un mago llamado Theros, donde fue obligado a vivir como nigromante. Tras incontables años de lucha y penurias, finalmente derrotó al Rey Demonio y regresó a la Tierra. Pero la Tierra a la que regresó no era la que recordaba.",
+      "visible": false
     },
     {
       "added_at": "2026-03-26T15:13:52+00:00",
@@ -9401,6 +10564,263 @@
       "visible": true
     },
     {
+      "added_at": "2025-10-04T16:16:21+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_herrero_genio_del_juego.jpg",
+      "cover_message_id": 150,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/150",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Sistema"
+      ],
+      "hashtag": "#El_Herrero_Genio_Del_Juego",
+      "id": "el_herrero_genio_del_juego",
+      "latest_chapter": 32,
+      "name": "El Herrero Genio Del Juego",
+      "package_count": 14,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2025-10-04T16:16:21+00:00",
+          "download_ready": true,
+          "filename": "01-10 ༊ El Herrero Genio Del Juego.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4,
+          "name": "1-10",
+          "size": 97612451,
+          "telegram_link": "https://t.me/manhuasgratis/4"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2025-10-04T16:16:21+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/oredakehairerukakushidungeon/5_Ore%20dake%20Haireru%20Kakushi%20Dungeon%20~%20Vol%2001.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T130640Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ea0e6fb1f1adf0f55b0eedb13ede7889b5f190e10e6209c775cf7ad9346cc67",
+          "filename": "11-20 ༊ El Herrero Genio Del Juego.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5,
+          "name": "11-20",
+          "size": 93016133,
+          "telegram_link": "https://t.me/manhuasgratis/5"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21
+          ],
+          "date": "2025-10-04T16:16:21+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/oredakehairerukakushidungeon/6_Ore%20dake%20Haireru%20Kakushi%20Dungeon%20~%20Vol%2002.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T130649Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70a2970e2e349442295949c2ddad1a847244bd71f85b9be35b174cd52ee074f0",
+          "filename": "21 ༊ El Herrero Genio Del Juego.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 6,
+          "name": "21",
+          "size": 12324852,
+          "telegram_link": "https://t.me/manhuasgratis/6"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            22
+          ],
+          "date": "2025-10-05T13:27:33+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/oredakehairerukakushidungeon/7_Ore%20dake%20Haireru%20Kakushi%20Dungeon%20~%20Vol%2003.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T130658Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36bf82cb0b211bfa83d20cba1b03773464bc874f242b1f7ea3c029813c9fea50",
+          "filename": "[#22] • El Herrero Genio Del Juego.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 7,
+          "name": "22",
+          "size": 9188434,
+          "telegram_link": "https://t.me/manhuasgratis/7"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            23
+          ],
+          "date": "2025-10-11T01:29:59+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/68_The%20Beginning%20After%20The%20End%20-%20Libro%2010%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T130809Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f00fa9115e8cf7d1eb8180c1f3d7f664a655b27e7a29379ec6c65e90786c814",
+          "filename": "23 ༊ El Herrero Genio Del Juego.pdf",
+          "first": 23,
+          "last": 23,
+          "message_id": 68,
+          "name": "23",
+          "size": 8344262,
+          "telegram_link": "https://t.me/manhuasgratis/68"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            24
+          ],
+          "date": "2025-10-22T18:12:41+00:00",
+          "download_ready": true,
+          "filename": "[#24] • El Herrero Genio del Juego.pdf",
+          "first": 24,
+          "last": 24,
+          "message_id": 93,
+          "name": "24",
+          "size": 10362823,
+          "telegram_link": "https://t.me/manhuasgratis/93"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            25
+          ],
+          "date": "2025-10-29T20:18:24+00:00",
+          "download_ready": true,
+          "filename": "[#25] • El Herrero Genio Del Juego.pdf",
+          "first": 25,
+          "last": 25,
+          "message_id": 103,
+          "name": "25",
+          "size": 11031909,
+          "telegram_link": "https://t.me/manhuasgratis/103"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            26
+          ],
+          "date": "2025-11-06T02:07:26+00:00",
+          "download_ready": true,
+          "filename": "[#26] • El Herrero Genio del Juego.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 104,
+          "name": "26",
+          "size": 13296108,
+          "telegram_link": "https://t.me/manhuasgratis/104"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            27
+          ],
+          "date": "2025-11-10T15:41:37+00:00",
+          "download_ready": true,
+          "filename": "[#27] • El Herrero Genio Del Juego.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 108,
+          "name": "27",
+          "size": 9640235,
+          "telegram_link": "https://t.me/manhuasgratis/108"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            28
+          ],
+          "date": "2025-11-18T14:42:59+00:00",
+          "download_ready": true,
+          "filename": "[#28] • El Herrero Genio del Juego.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 110,
+          "name": "28",
+          "size": 14104544,
+          "telegram_link": "https://t.me/manhuasgratis/110"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29
+          ],
+          "date": "2025-12-07T01:03:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/162_%5BVolumen%2005%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144704Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9bb5caf140535c839b011604a19d5c20e601872fb7795f4b0afdb262bb60420c",
+          "filename": "[#29] • El Herrero Genio del Juego.pdf",
+          "first": 29,
+          "last": 29,
+          "message_id": 162,
+          "name": "29",
+          "size": 10578913,
+          "telegram_link": "https://t.me/manhuasgratis/162"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            30
+          ],
+          "date": "2025-12-17T05:03:46+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/163_%5BVolumen%2006%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144715Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0da6d5107d9925b7a1da37ec1ee2a61657b02b2ba026d5a201913ec8c47b6cdb",
+          "filename": "[#30] • El Herrero Genio del Juego.pdf",
+          "first": 30,
+          "last": 30,
+          "message_id": 163,
+          "name": "30",
+          "size": 11652066,
+          "telegram_link": "https://t.me/manhuasgratis/163"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31
+          ],
+          "date": "2025-12-17T05:03:46+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/164_%5BVolumen%2007%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144727Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4bf0d3984829a478df51cfc11ed094010a1109feac8cd67c9218d665d3f18301",
+          "filename": "[#31] • El Herrero Genio del Juego.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 164,
+          "name": "31",
+          "size": 12466339,
+          "telegram_link": "https://t.me/manhuasgratis/164"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            32
+          ],
+          "date": "2025-12-17T05:03:46+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/165_%5BVolumen%2008%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144738Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=854e68b2d3dbb451cecfe912cb2c94467f49e8a01be363c37a72d8207abd71e1",
+          "filename": "[#32] • El Herrero Genio del Juego.pdf",
+          "first": 32,
+          "last": 32,
+          "message_id": 165,
+          "name": "32",
+          "size": 13449333,
+          "telegram_link": "https://t.me/manhuasgratis/165"
+        }
+      ],
+      "synopsis": "El último herrero y maestro artesano que queda en el mundo. Después de un incendio en la forja, sus manos quedan inutilizadas y ya no puede seguir creando... En ese momento, un juego de realidad virtual llamado \"Ares\" se presenta ante Hyunsoo. Para él, ninguna limitación del sistema se aplica. Así comienza la turbulenta partida del herrero genio.",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-16T16:59:58+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_hijo_menor_del_maestro_de_la_espada.jpg",
       "cover_message_id": 82,
@@ -11928,6 +13348,254 @@
       "visible": true
     },
     {
+      "added_at": "2026-01-27T11:46:42+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_mejor_ingeniero_del_mundo.jpg",
+      "cover_message_id": 157,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/157",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Isekai",
+        "Reencarnación",
+        "Comedia",
+        "Romance",
+        "Sobrenatural"
+      ],
+      "hashtag": "#El_Mejor_Ingeniero_del_Mundo",
+      "id": "el_mejor_ingeniero_del_mundo",
+      "latest_chapter": 223,
+      "name": "El Mejor Ingeniero del Mundo",
+      "package_count": 14,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "211 El Mejor Ingeniero del Mundo.pdf",
+          "first": 211,
+          "last": 211,
+          "message_id": 284,
+          "name": "211",
+          "size": 6879171,
+          "telegram_link": "https://t.me/manhuasgratis/284"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/hell_mode/296_Hell%20Mode%20-%20Volumen%2003%20%5BBell%20T%20%26%20MK%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144431Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f16381b777370ef59937117289a62f579f6da2b5c4a07d40c928ab5a5f9e49d2",
+          "filename": "211_222 El Mejor Ingeniero del Mundo.pdf",
+          "first": 211,
+          "last": 222,
+          "message_id": 296,
+          "name": "211-222",
+          "size": 84237148,
+          "telegram_link": "https://t.me/manhuasgratis/296"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            212
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "212 El Mejor Ingeniero del Mundo.pdf",
+          "first": 212,
+          "last": 212,
+          "message_id": 285,
+          "name": "212",
+          "size": 6542820,
+          "telegram_link": "https://t.me/manhuasgratis/285"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            213
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "213 El Mejor Ingeniero del Mundo.pdf",
+          "first": 213,
+          "last": 213,
+          "message_id": 286,
+          "name": "213",
+          "size": 5846562,
+          "telegram_link": "https://t.me/manhuasgratis/286"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            214
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "214 El Mejor Ingeniero del Mundo.pdf",
+          "first": 214,
+          "last": 214,
+          "message_id": 287,
+          "name": "214",
+          "size": 6187323,
+          "telegram_link": "https://t.me/manhuasgratis/287"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            215
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "215 El Mejor Ingeniero del Mundo.pdf",
+          "first": 215,
+          "last": 215,
+          "message_id": 288,
+          "name": "215",
+          "size": 6020787,
+          "telegram_link": "https://t.me/manhuasgratis/288"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            216
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "216 El Mejor Ingeniero del Mundo.pdf",
+          "first": 216,
+          "last": 216,
+          "message_id": 289,
+          "name": "216",
+          "size": 6744922,
+          "telegram_link": "https://t.me/manhuasgratis/289"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            217
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "217 El Mejor Ingeniero del Mundo.pdf",
+          "first": 217,
+          "last": 217,
+          "message_id": 290,
+          "name": "217",
+          "size": 5637719,
+          "telegram_link": "https://t.me/manhuasgratis/290"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            218
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "218 El Mejor Ingeniero del Mundo.pdf",
+          "first": 218,
+          "last": 218,
+          "message_id": 291,
+          "name": "218",
+          "size": 8205737,
+          "telegram_link": "https://t.me/manhuasgratis/291"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            219
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "219 El Mejor Ingeniero del Mundo.pdf",
+          "first": 219,
+          "last": 219,
+          "message_id": 292,
+          "name": "219",
+          "size": 7298202,
+          "telegram_link": "https://t.me/manhuasgratis/292"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            220
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "filename": "220 El Mejor Ingeniero del Mundo.pdf",
+          "first": 220,
+          "last": 220,
+          "message_id": 293,
+          "name": "220",
+          "size": 10834347,
+          "telegram_link": "https://t.me/manhuasgratis/293"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/hell_mode/294_Hell%20Mode%20-%20Volumen%2001%20%5BMK%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144419Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fc30cea4cd499371bef6224d66403c535d4d0b527d556d9e30a475324e10a84b",
+          "filename": "221 El Mejor Ingeniero del Mundo.pdf",
+          "first": 221,
+          "last": 221,
+          "message_id": 294,
+          "name": "221",
+          "size": 9022691,
+          "telegram_link": "https://t.me/manhuasgratis/294"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            222
+          ],
+          "date": "2026-01-27T11:46:42+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/hell_mode/295_Hell%20Mode%20-%20Volumen%2002%20%5BMK%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144425Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36d3df96b8591a471bade5452187199a2ef4da3cbe55f620343953af28ee915b",
+          "filename": "222 El Mejor Ingeniero del Mundo.pdf",
+          "first": 222,
+          "last": 222,
+          "message_id": 295,
+          "name": "222",
+          "size": 10322280,
+          "telegram_link": "https://t.me/manhuasgratis/295"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            223
+          ],
+          "date": "2026-04-07T02:13:29+00:00",
+          "download_ready": true,
+          "filename": "223 El Mejor Ingeniero del Mundo.pdf",
+          "first": 223,
+          "last": 223,
+          "message_id": 570,
+          "name": "223",
+          "size": 14969037,
+          "telegram_link": "https://t.me/manhuasgratis/570"
+        }
+      ],
+      "synopsis": "Cuando e de ingeniería civil Suho Kim se queda dormido leyendo una novela de fantasía, ¡se despierta como un personaje del libro! Suho se encuentra ahora en el cuerpo de Lloyd Frontera, un noble perezoso al que le encanta beber y cuya familia está sumida en una montaña de deudas. Utilizando sus conocimientos de ingeniería, Suho diseña inventos para evitar el terrible futuro que le aguarda. Con la ayuda de un hámster gigante, un caballero y la magia del mundo, ¿podrá Suho sacar a su nueva familia de las deudas y construir un futuro mejor?",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-16T16:57:07+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_mercenario_que_reencarno_entre_aristocratas.jpg",
       "cover_message_id": 108,
@@ -13828,6 +15496,861 @@
       ],
       "synopsis": "No he renacido con talento o habilidad, sino con mi conocimiento de la tierra que me permitió estar un paso adelante en este otro mundo. La magia existe aquí, y la ciencia avanza rápidamente mientras la magia se estanca en nombre de la tradición. Usando mi conocimiento terrícola y sin estar atado al pensamiento tradicional, pude hacer cosas que otros magos no podían ni siquiera imaginar. Sin embargo, ¡Convertirme inadvertidamente en un profesor encubierto de una misteriosa sociedad secreta en la renombrada academia Sören nunca estuvo en mi lista de cosas por hacer!",
       "visible": true
+    },
+    {
+      "added_at": "2026-01-23T04:07:55+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_principe_heredero_que_vende_medicina.jpg",
+      "cover_message_id": 154,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/154",
+      "genres": [
+        "Aventura",
+        "Isekai",
+        "Fantasía"
+      ],
+      "hashtag": "#El_Príncipe_Heredero_Que_Vende_Medicina",
+      "id": "el_principe_heredero_que_vende_medicina",
+      "latest_chapter": 126,
+      "name": "El Príncipe Heredero Que Vende Medicina",
+      "package_count": 49,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-01-23T04:07:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/217_Seirei%20Gensouki%20Volumen%2022.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145129Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=81cd5a1e36bda5a87554d4a47fa9169ec5c62dec00d25352722274172533d640",
+          "filename": "01-10 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 217,
+          "name": "1-10",
+          "size": 104291308,
+          "telegram_link": "https://t.me/manhuasgratis/217"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-01-23T04:07:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/218_Seirei%20Gensouki%20Volumen%2023.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=602342395aaaa818e263f4fff11e2639f3ddf0ada20e0f8c23241bb8f7b832c2",
+          "filename": "11-20 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 218,
+          "name": "11-20",
+          "size": 92405096,
+          "telegram_link": "https://t.me/manhuasgratis/218"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-01-23T04:07:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/219_Seirei%20Gensouki%20Volumen%2024.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145145Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=913cb9bbb19f52514ebfc86992f2cb4c81cd2380bd66dbc434d650ab6e36666d",
+          "filename": "21-30 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 219,
+          "name": "21-30",
+          "size": 90940983,
+          "telegram_link": "https://t.me/manhuasgratis/219"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-01-23T04:07:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/220_Seirei%20Gensouki%20Volumen%2025.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1860a54cb2cd11169ea3acda6ef2be91ad5a7c9ee89afa5ea4a332c1461e16c7",
+          "filename": "31-40 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 220,
+          "name": "31-40",
+          "size": 91319800,
+          "telegram_link": "https://t.me/manhuasgratis/220"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-01-23T04:07:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/221_Seirei%20Gensouki%20Volumen%2026.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145206Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96f4d7930c0fae3506bae1602220f31ceb3704296fd6f77dcb1777ee2652c7c8",
+          "filename": "41-50 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 221,
+          "name": "41-50",
+          "size": 125421667,
+          "telegram_link": "https://t.me/manhuasgratis/221"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/222_Seirei%20Gensouki%20-%20Volumen%2027%20%5BKasniaP%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145212Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a172b22d9a7aaeba9d0e86e813bc3439ca4359a027fad9d82d0ca2adb10561a",
+          "filename": "51-60 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 222,
+          "name": "51-60",
+          "size": 111293245,
+          "telegram_link": "https://t.me/manhuasgratis/222"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/223_Seirei%20Gensouki%20-%20Volumen%2028%20%5BKasniaP%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145218Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2885feaab166de6ca79c44a121c568d329df90bd43209c4cb8f853568b809d58",
+          "filename": "61-70 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 223,
+          "name": "61-70",
+          "size": 109511285,
+          "telegram_link": "https://t.me/manhuasgratis/223"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "filename": "71-77 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 71,
+          "last": 77,
+          "message_id": 224,
+          "name": "71-77",
+          "size": 81683805,
+          "telegram_link": "https://t.me/manhuasgratis/224"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            78,
+            79
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "filename": "78-79 • El príncipe heredero que vende medicina.pdf",
+          "first": 78,
+          "last": 79,
+          "message_id": 225,
+          "name": "78-79",
+          "size": 22512679,
+          "telegram_link": "https://t.me/manhuasgratis/225"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            80
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/226_%5BVolumen%2001%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144207Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2c9e842dcf3e0caabff4e71e1310c251415c8121bb876bc28a4f7791c90ccf51",
+          "filename": "80 • El príncipe heredero que vende medicina.pdf",
+          "first": 80,
+          "last": 80,
+          "message_id": 226,
+          "name": "80",
+          "size": 13426100,
+          "telegram_link": "https://t.me/manhuasgratis/226"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/227_%5BVolumen%2002%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144221Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb317bbc6043deffeae59d70bb2eaf266b43e89530c4e7aadfbf33bea279b29a",
+          "filename": "81 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 81,
+          "last": 81,
+          "message_id": 227,
+          "name": "81",
+          "size": 11775978,
+          "telegram_link": "https://t.me/manhuasgratis/227"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            82
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/228_%5BVolumen%2003%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144227Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=943ac279c52a01e5addaebd1d600030f149d48297a43e4068ef7fd4d15c8402a",
+          "filename": "82 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 82,
+          "last": 82,
+          "message_id": 228,
+          "name": "82",
+          "size": 11034726,
+          "telegram_link": "https://t.me/manhuasgratis/228"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            83
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/229_%5BVolumen%2004%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144232Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4a5d4068cdba38dab8218edc75abc1615281ceb80256cf7c1c6e4104f632b3c4",
+          "filename": "83 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 83,
+          "last": 83,
+          "message_id": 229,
+          "name": "83",
+          "size": 11725070,
+          "telegram_link": "https://t.me/manhuasgratis/229"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            84
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/230_%5BVolumen%2005%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144238Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8af4d8522c5f894c36b7c0b9f4d8b7f02fac9c825bc308e4faa8a57d65124f3",
+          "filename": "84 • El Príncipe Heredero Que Vende Medicina.pdf",
+          "first": 84,
+          "last": 84,
+          "message_id": 230,
+          "name": "84",
+          "size": 12724993,
+          "telegram_link": "https://t.me/manhuasgratis/230"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            85
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/231_%5BVolumen%2006%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144246Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=003c3a2102728a51cda10545daef37fa222b7b518678f3eefbcb462865c51dc1",
+          "filename": "85 • El príncipe heredero que vende medicina.pdf",
+          "first": 85,
+          "last": 85,
+          "message_id": 231,
+          "name": "85",
+          "size": 8803118,
+          "telegram_link": "https://t.me/manhuasgratis/231"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            86
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/232_%5BVolumen%2007%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144254Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1db9735ec4e9cc5a79d230f9adf54dfcbda10f1c488fd57a5fffb518d915be29",
+          "filename": "86 • El príncipe heredero que vende medicina.pdf",
+          "first": 86,
+          "last": 86,
+          "message_id": 232,
+          "name": "86",
+          "size": 10908334,
+          "telegram_link": "https://t.me/manhuasgratis/232"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            87
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/233_%5BVolumen%2008%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144301Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d65beccaabc1d1314006243031df02b2e21018c468661faa7d5244c4af8ea4d",
+          "filename": "87 • El príncipe heredero que vende medicina.pdf",
+          "first": 87,
+          "last": 87,
+          "message_id": 233,
+          "name": "87",
+          "size": 8840770,
+          "telegram_link": "https://t.me/manhuasgratis/233"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            88,
+            89
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/234_%5BVolumen%2009%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144306Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b631d7377adaf3c7e27e40cc403c185dfbee99607cec59d2b9723eeac635065f",
+          "filename": "88-89 • El príncipe heredero que vende medicina.pdf",
+          "first": 88,
+          "last": 89,
+          "message_id": 234,
+          "name": "88-89",
+          "size": 20582392,
+          "telegram_link": "https://t.me/manhuasgratis/234"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            90
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/235_%5BVolumen%2010%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144311Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fac0d1564dbcd557bda8081e845146b2f0e6e398aec310c7724e6287a28f03cd",
+          "filename": "90 • El príncipe heredero que vende medicina.pdf",
+          "first": 90,
+          "last": 90,
+          "message_id": 235,
+          "name": "90",
+          "size": 8017383,
+          "telegram_link": "https://t.me/manhuasgratis/235"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91
+          ],
+          "date": "2026-01-23T04:07:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/danmachi/236_%5BVolumen%2011%5D%20%E2%80%A2%20DanMachi.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=64c4dac2b2e2d647fa4104784f9391044962ce68e2fd0077bbbfdf7c31e15ed4",
+          "filename": "91 • El príncipe heredero que vende medicina.pdf",
+          "first": 91,
+          "last": 91,
+          "message_id": 236,
+          "name": "91",
+          "size": 8920082,
+          "telegram_link": "https://t.me/manhuasgratis/236"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            92
+          ],
+          "date": "2026-01-23T18:01:37+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/260_%5BVolumen%2001%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cbaf7759feb4c4e029df1f7a1d576040bd9ecbdb0ad34326b7e99ad5bb72281f",
+          "filename": "92 El príncipe heredero que vende medicina.pdf",
+          "first": 92,
+          "last": 92,
+          "message_id": 260,
+          "name": "92",
+          "size": 13084335,
+          "telegram_link": "https://t.me/manhuasgratis/260"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            93
+          ],
+          "date": "2026-02-08T17:31:01+00:00",
+          "download_ready": true,
+          "filename": "[93] El Príncipe Heredero Que Vende Medicinaﾟ𝒱𝒶𝓈.pdf",
+          "first": 93,
+          "last": 93,
+          "message_id": 310,
+          "name": "93",
+          "size": 6185232,
+          "telegram_link": "https://t.me/manhuasgratis/310"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            94
+          ],
+          "date": "2026-02-18T12:53:36+00:00",
+          "download_ready": true,
+          "filename": "94 El príncipe heredero que vende medicina.pdf",
+          "first": 94,
+          "last": 94,
+          "message_id": 335,
+          "name": "94",
+          "size": 12706461,
+          "telegram_link": "https://t.me/manhuasgratis/335"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            95
+          ],
+          "date": "2026-02-18T12:53:36+00:00",
+          "download_ready": true,
+          "filename": "95 El príncipe heredero que vende medicina.pdf",
+          "first": 95,
+          "last": 95,
+          "message_id": 336,
+          "name": "95",
+          "size": 11639281,
+          "telegram_link": "https://t.me/manhuasgratis/336"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            96,
+            97
+          ],
+          "date": "2026-03-26T14:58:36+00:00",
+          "download_ready": true,
+          "filename": "96_97 El príncipe heredero que vende medicina.pdf",
+          "first": 96,
+          "last": 97,
+          "message_id": 474,
+          "name": "96-97",
+          "size": 21827703,
+          "telegram_link": "https://t.me/manhuasgratis/474"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            98
+          ],
+          "date": "2026-04-07T02:14:24+00:00",
+          "download_ready": true,
+          "filename": "[98] El príncipe heredero que vende medicina.pdf",
+          "first": 98,
+          "last": 98,
+          "message_id": 571,
+          "name": "98",
+          "size": 11622117,
+          "telegram_link": "https://t.me/manhuasgratis/571"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            99,
+            100
+          ],
+          "date": "2026-04-07T02:14:24+00:00",
+          "download_ready": true,
+          "filename": "[99-100] El príncipe heredero que vende medicina.pdf",
+          "first": 99,
+          "last": 100,
+          "message_id": 572,
+          "name": "99-100",
+          "size": 19128670,
+          "telegram_link": "https://t.me/manhuasgratis/572"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102
+          ],
+          "date": "2026-04-10T11:55:24+00:00",
+          "download_ready": true,
+          "filename": "[#101-102]   El Príncipe Heredero que Vende Medicina.pdf",
+          "first": 101,
+          "last": 102,
+          "message_id": 576,
+          "name": "101-102",
+          "size": 23618788,
+          "telegram_link": "https://t.me/manhuasgratis/576"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            103
+          ],
+          "date": "2026-04-14T04:24:15+00:00",
+          "download_ready": true,
+          "filename": "103 El príncipe heredero que vende medicina.pdf",
+          "first": 103,
+          "last": 103,
+          "message_id": 613,
+          "name": "103",
+          "size": 11717630,
+          "telegram_link": "https://t.me/manhuasgratis/613"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            104
+          ],
+          "date": "2026-08-13T19:36:31+00:00",
+          "download_ready": true,
+          "filename": "104 El príncipe heredero que vende medicina.pdf",
+          "first": 104,
+          "last": 104,
+          "message_id": 781,
+          "name": "104",
+          "size": 12696312,
+          "telegram_link": "https://t.me/manhuasgratis/781"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            105
+          ],
+          "date": "2026-08-13T19:36:38+00:00",
+          "download_ready": true,
+          "filename": "105 El príncipe heredero que vende medicina.pdf",
+          "first": 105,
+          "last": 105,
+          "message_id": 782,
+          "name": "105",
+          "size": 12138111,
+          "telegram_link": "https://t.me/manhuasgratis/782"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            106,
+            107
+          ],
+          "date": "2026-08-13T19:36:45+00:00",
+          "download_ready": true,
+          "filename": "[106-107] El príncipe heredero que vende medicina.pdf",
+          "first": 106,
+          "last": 107,
+          "message_id": 783,
+          "name": "106-107",
+          "size": 22635374,
+          "telegram_link": "https://t.me/manhuasgratis/783"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            106,
+            107
+          ],
+          "date": "2026-08-13T19:36:51+00:00",
+          "download_ready": true,
+          "filename": "[106-107] El príncipe heredero que vende medicina.pdf",
+          "first": 106,
+          "last": 107,
+          "message_id": 784,
+          "name": "106-107",
+          "size": 22635374,
+          "telegram_link": "https://t.me/manhuasgratis/784"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            108
+          ],
+          "date": "2026-08-13T19:36:57+00:00",
+          "download_ready": true,
+          "filename": "108 El príncipe heredero que vende medicina.pdf",
+          "first": 108,
+          "last": 108,
+          "message_id": 785,
+          "name": "108",
+          "size": 13066050,
+          "telegram_link": "https://t.me/manhuasgratis/785"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            109,
+            110
+          ],
+          "date": "2026-08-13T19:37:02+00:00",
+          "download_ready": true,
+          "filename": "[109-110] El príncipe heredero que vende medicina.pdf",
+          "first": 109,
+          "last": 110,
+          "message_id": 786,
+          "name": "109-110",
+          "size": 20044427,
+          "telegram_link": "https://t.me/manhuasgratis/786"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            109,
+            110
+          ],
+          "date": "2026-08-13T19:37:09+00:00",
+          "download_ready": true,
+          "filename": "[109-110] El príncipe heredero que vende medicina.pdf",
+          "first": 109,
+          "last": 110,
+          "message_id": 787,
+          "name": "109-110",
+          "size": 20044427,
+          "telegram_link": "https://t.me/manhuasgratis/787"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111
+          ],
+          "date": "2026-08-13T19:37:16+00:00",
+          "download_ready": true,
+          "filename": "111 El príncipe heredero que vende medicina.pdf",
+          "first": 111,
+          "last": 111,
+          "message_id": 788,
+          "name": "111",
+          "size": 9639018,
+          "telegram_link": "https://t.me/manhuasgratis/788"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            112
+          ],
+          "date": "2026-08-13T19:37:23+00:00",
+          "download_ready": true,
+          "filename": "112 El príncipe heredero que vende medicina.pdf",
+          "first": 112,
+          "last": 112,
+          "message_id": 789,
+          "name": "112",
+          "size": 12367222,
+          "telegram_link": "https://t.me/manhuasgratis/789"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            113
+          ],
+          "date": "2026-08-13T19:37:28+00:00",
+          "download_ready": true,
+          "filename": "113 El príncipe heredero que vende medicina.pdf",
+          "first": 113,
+          "last": 113,
+          "message_id": 790,
+          "name": "113",
+          "size": 9419910,
+          "telegram_link": "https://t.me/manhuasgratis/790"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            114
+          ],
+          "date": "2026-08-13T19:37:36+00:00",
+          "download_ready": true,
+          "filename": "114 El príncipe heredero que vende medicina.pdf",
+          "first": 114,
+          "last": 114,
+          "message_id": 791,
+          "name": "114",
+          "size": 11110295,
+          "telegram_link": "https://t.me/manhuasgratis/791"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            115
+          ],
+          "date": "2026-08-13T19:37:42+00:00",
+          "download_ready": true,
+          "filename": "115 El príncipe heredero que vende medicina.pdf",
+          "first": 115,
+          "last": 115,
+          "message_id": 792,
+          "name": "115",
+          "size": 10999600,
+          "telegram_link": "https://t.me/manhuasgratis/792"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            116
+          ],
+          "date": "2026-08-13T19:37:49+00:00",
+          "download_ready": true,
+          "filename": "116 El príncipe heredero que vende medicina.pdf",
+          "first": 116,
+          "last": 116,
+          "message_id": 793,
+          "name": "116",
+          "size": 11647951,
+          "telegram_link": "https://t.me/manhuasgratis/793"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            117
+          ],
+          "date": "2026-08-17T19:16:17+00:00",
+          "download_ready": true,
+          "filename": "[#117]   El Príncipe Heredero que Vende Medicina.pdf",
+          "first": 117,
+          "last": 117,
+          "message_id": 1576,
+          "name": "117",
+          "size": 12001365,
+          "telegram_link": "https://t.me/manhuasgratis/1576"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            118
+          ],
+          "date": "2026-08-27T20:45:59+00:00",
+          "download_ready": true,
+          "filename": "[118] El príncipe heredero que vende medicina.pdf",
+          "first": 118,
+          "last": 118,
+          "message_id": 3680,
+          "name": "118",
+          "size": 11012059,
+          "telegram_link": "https://t.me/manhuasgratis/3680"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            119
+          ],
+          "date": "2026-09-06T17:07:43+00:00",
+          "download_ready": true,
+          "filename": "[#119]   El Príncipe Heredero que Vende Medicina.pdf",
+          "first": 119,
+          "last": 119,
+          "message_id": 4334,
+          "name": "119",
+          "size": 10474849,
+          "telegram_link": "https://t.me/manhuasgratis/4334"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            120
+          ],
+          "date": "2026-09-06T17:07:46+00:00",
+          "download_ready": true,
+          "filename": "[#120]   El Príncipe Heredero que Vende Medicina.pdf",
+          "first": 120,
+          "last": 120,
+          "message_id": 4335,
+          "name": "120",
+          "size": 11268144,
+          "telegram_link": "https://t.me/manhuasgratis/4335"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123
+          ],
+          "date": "2026-09-18T11:47:19+00:00",
+          "download_ready": true,
+          "filename": "[121-123] El príncipe heredero que vende medicina.pdf",
+          "first": 121,
+          "last": 123,
+          "message_id": 4555,
+          "name": "121-123",
+          "size": 26107911,
+          "telegram_link": "https://t.me/manhuasgratis/4555"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            124,
+            125
+          ],
+          "date": "2026-10-02T04:10:49+00:00",
+          "download_ready": true,
+          "filename": "124-125 • El Príncipe Heredero que Vende Medicina.pdf",
+          "first": 124,
+          "last": 125,
+          "message_id": 4807,
+          "name": "124-125",
+          "size": 13679457,
+          "telegram_link": "https://t.me/manhuasgratis/4807"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            126
+          ],
+          "date": "2026-10-12T04:11:18+00:00",
+          "download_ready": true,
+          "filename": "126 • El Príncipe Heredero que Vende Medicina.pdf",
+          "first": 126,
+          "last": 126,
+          "message_id": 5233,
+          "name": "126",
+          "size": 7147771,
+          "telegram_link": "https://t.me/manhuasgratis/5233"
+        }
+      ],
+      "synopsis": "¿Soy el príncipe heredero? ¿El frágil y enfermizo príncipe heredero de la novela? Pero soy un doctor de medicina tradicional coreana. Supongo que no se puede evitar. Reformar la constitución interna, recuperar la energía, vigorizar la energía vital y aumentar la vitalidad. Cuidaré de mi cuerpo a partir de ahora.",
+      "visible": false
     },
     {
       "added_at": "2026-08-19T14:33:00+00:00",
@@ -17662,7 +20185,6 @@
         "Reencarnación",
         "Isekai",
         "Recuerdos de la vida",
-        "Harem",
         "Comedia",
         "Trágico"
       ],
@@ -34695,6 +37217,704 @@
       "visible": true
     },
     {
+      "added_at": "2026-01-22T13:30:43+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/mago_infinito.jpg",
+      "cover_message_id": 152,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/152",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Escolar",
+        "Misterio",
+        "Recuerdos de la vida",
+        "Sobrenatural"
+      ],
+      "hashtag": "#Mago_Infinito",
+      "id": "mago_infinito",
+      "latest_chapter": 180,
+      "name": "Mago Infinito",
+      "package_count": 37,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/185_%5BVolumen%2010%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145333Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b4e640c414be940d76588fcf94c832fa30c932b63c59d6cced6142bb9204329",
+          "filename": "┆001-010┆Mago Infinito.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 185,
+          "name": "1-10",
+          "size": 125027017,
+          "telegram_link": "https://t.me/manhuasgratis/185"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/186_%5BVolumen%2011%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145341Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=575746e52b536d9d508ffd58e9ad5e929e96ed1725846de370afb5dd04d29621",
+          "filename": "┆011-020┆Mago Infinito.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 186,
+          "name": "11-20",
+          "size": 115954144,
+          "telegram_link": "https://t.me/manhuasgratis/186"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/187_%5BVolumen%2012%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145350Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=801fe3bf7957ccf1d86aee8c23837794b786778a66255272400c9f93284bdccb",
+          "filename": "┆021-030┆Mago Infinito.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 187,
+          "name": "21-30",
+          "size": 112115870,
+          "telegram_link": "https://t.me/manhuasgratis/187"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/188_%5BVolumen%2013%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145357Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec4836fa8152f3be22d0275ea1544d5233b7ec40adf1cd8bbf04c093a389046e",
+          "filename": "┆031-040┆Mago Infinito.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 188,
+          "name": "31-40",
+          "size": 102231028,
+          "telegram_link": "https://t.me/manhuasgratis/188"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/189_%5BVolumen%2014%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145404Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=242580e80f29fb9ceb25a46ce8fc7410008968f345f5befd7d7d82b1790d240a",
+          "filename": "┆041-050┆Mago Infinito.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 189,
+          "name": "41-50",
+          "size": 103741874,
+          "telegram_link": "https://t.me/manhuasgratis/189"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/190_%5BVolumen%2015%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145418Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e516096f6f994b3af9395bb1acbfa45273959aeaef64e7830537d041f89b52f7",
+          "filename": "┆051-060┆Mago Infinito.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 190,
+          "name": "51-60",
+          "size": 103519807,
+          "telegram_link": "https://t.me/manhuasgratis/190"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/191_%5BVolumen%2016%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145426Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aa506681074b0aec70113b4490c96b1b6d8a72c9b7b8109d8cdd7b4cf703c0b0",
+          "filename": "┆061-070┆Mago Infinito.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 191,
+          "name": "61-70",
+          "size": 103657692,
+          "telegram_link": "https://t.me/manhuasgratis/191"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/192_%5BVolumen%2017%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145432Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b09f4afc7e5ab86387d85ea4410be713cac837517a1b43055e6e8f90fb0c83f8",
+          "filename": "┆071-080┆Mago Infinito.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 192,
+          "name": "71-80",
+          "size": 118980929,
+          "telegram_link": "https://t.me/manhuasgratis/192"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "filename": "┆081-090┆Mago Infinito.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 193,
+          "name": "81-90",
+          "size": 116025339,
+          "telegram_link": "https://t.me/manhuasgratis/193"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "filename": "┆091-100┆Mago Infinito.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 194,
+          "name": "91-100",
+          "size": 108818399,
+          "telegram_link": "https://t.me/manhuasgratis/194"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            126,
+            127,
+            128
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/198_%5BVol.%203%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144919Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89b4732802dd3f116e724d442e0e745c793d8dc901aab62fc28e891f88d15cab",
+          "filename": "┆126-128┆Mago Infinito.pdf",
+          "first": 126,
+          "last": 128,
+          "message_id": 198,
+          "name": "126-128",
+          "size": 36400206,
+          "telegram_link": "https://t.me/manhuasgratis/198"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            129
+          ],
+          "date": "2026-01-22T13:30:43+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/199_%5BVol.%204%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144925Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29882a0c1864b75e6e562ce8faf2e639f5e190cfa163e531f0e313238e80b8b6",
+          "filename": "┆129┆Mago Infinito.pdf",
+          "first": 129,
+          "last": 129,
+          "message_id": 199,
+          "name": "129",
+          "size": 9984636,
+          "telegram_link": "https://t.me/manhuasgratis/199"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            130
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/200_%5BVol.%205%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144932Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=75a89ec929b56f2728b5e5d64dceba9022cabec35fc8be7b8add22da4d3cd8a0",
+          "filename": "┆130┆Mago Infinito.pdf",
+          "first": 130,
+          "last": 130,
+          "message_id": 200,
+          "name": "130",
+          "size": 9946901,
+          "telegram_link": "https://t.me/manhuasgratis/200"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            132
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/202_%5BVol.%207%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144945Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b004dfecf19ecec9e9033e455037d8839787c183b472285a186e9d8fc8e5ce0a",
+          "filename": "┆132┆Shirone El Infinito (Mago Infinito).pdf",
+          "first": 132,
+          "last": 132,
+          "message_id": 202,
+          "name": "132",
+          "size": 11114303,
+          "telegram_link": "https://t.me/manhuasgratis/202"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            134
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/204_%5BVol.%209%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=be7a5c36e61e5c84dbbf21db74758573af2333eab3040d81b9a6ab0076ab6bfc",
+          "filename": "┆134┆Mago Infinito.pdf",
+          "first": 134,
+          "last": 134,
+          "message_id": 204,
+          "name": "134",
+          "size": 8821690,
+          "telegram_link": "https://t.me/manhuasgratis/204"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            135
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/205_%5BVol.%2010%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=efc46524ad00ab6dc3ab82216806ddbcdd60903753e40aad9b77a4a36c2ae371",
+          "filename": "┆135┆Mago Infinito.pdf",
+          "first": 135,
+          "last": 135,
+          "message_id": 205,
+          "name": "135",
+          "size": 8791656,
+          "telegram_link": "https://t.me/manhuasgratis/205"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            136
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/206_%5BVol.%2011%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dcda2862e5f84c7c532b5654d5e130986dcc6e803ba266660704f0648172ee8b",
+          "filename": "┆136┆Mago Infinito.pdf",
+          "first": 136,
+          "last": 136,
+          "message_id": 206,
+          "name": "136",
+          "size": 10680625,
+          "telegram_link": "https://t.me/manhuasgratis/206"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/212_%5BVol.%2017%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145054Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8de2f849a091aac23f03a195fddca6cbc5ccd5bac4ff0b113f2f340f4bd0cf2f",
+          "filename": "┆141-150┆Mago Infinito.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 212,
+          "name": "141-150",
+          "size": 100866416,
+          "telegram_link": "https://t.me/manhuasgratis/212"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152
+          ],
+          "date": "2026-01-22T13:30:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/213_%5BVol.%2018%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145100Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=147e47534903bed3419e8bfea383f96b5dc6f3972cb6a4daaa07739136ff72fd",
+          "filename": "┆151-152┆Mago Infinito.pdf",
+          "first": 151,
+          "last": 152,
+          "message_id": 213,
+          "name": "151-152",
+          "size": 21511276,
+          "telegram_link": "https://t.me/manhuasgratis/213"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            153
+          ],
+          "date": "2026-02-08T17:31:34+00:00",
+          "download_ready": true,
+          "filename": "┆153┆Shirone El Infinito.pdf",
+          "first": 153,
+          "last": 153,
+          "message_id": 311,
+          "name": "153",
+          "size": 7680456,
+          "telegram_link": "https://t.me/manhuasgratis/311"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            154
+          ],
+          "date": "2026-03-09T02:15:57+00:00",
+          "download_ready": true,
+          "filename": "154 Mago Infinito.pdf",
+          "first": 154,
+          "last": 154,
+          "message_id": 339,
+          "name": "154",
+          "size": 8934545,
+          "telegram_link": "https://t.me/manhuasgratis/339"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            155
+          ],
+          "date": "2026-03-09T02:15:58+00:00",
+          "download_ready": true,
+          "filename": "155 Mago Infinito.pdf",
+          "first": 155,
+          "last": 155,
+          "message_id": 340,
+          "name": "155",
+          "size": 9381472,
+          "telegram_link": "https://t.me/manhuasgratis/340"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            156
+          ],
+          "date": "2026-03-09T02:15:58+00:00",
+          "download_ready": true,
+          "filename": "156 Mago infinito.pdf",
+          "first": 156,
+          "last": 156,
+          "message_id": 341,
+          "name": "156",
+          "size": 11011544,
+          "telegram_link": "https://t.me/manhuasgratis/341"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            157
+          ],
+          "date": "2026-03-09T02:15:58+00:00",
+          "download_ready": true,
+          "filename": "157 Mago infinito.pdf",
+          "first": 157,
+          "last": 157,
+          "message_id": 342,
+          "name": "157",
+          "size": 10682849,
+          "telegram_link": "https://t.me/manhuasgratis/342"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            158
+          ],
+          "date": "2026-03-09T02:15:58+00:00",
+          "download_ready": true,
+          "filename": "158 Mago infinito.pdf",
+          "first": 158,
+          "last": 158,
+          "message_id": 343,
+          "name": "158",
+          "size": 9144157,
+          "telegram_link": "https://t.me/manhuasgratis/343"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            159
+          ],
+          "date": "2026-03-26T14:59:31+00:00",
+          "download_ready": true,
+          "filename": "159 Mago infinito.pdf",
+          "first": 159,
+          "last": 159,
+          "message_id": 475,
+          "name": "159",
+          "size": 11214977,
+          "telegram_link": "https://t.me/manhuasgratis/475"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            160
+          ],
+          "date": "2026-03-26T14:59:31+00:00",
+          "download_ready": true,
+          "filename": "160 Mago infinito.pdf",
+          "first": 160,
+          "last": 160,
+          "message_id": 476,
+          "name": "160",
+          "size": 9948952,
+          "telegram_link": "https://t.me/manhuasgratis/476"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161
+          ],
+          "date": "2026-03-26T14:59:31+00:00",
+          "download_ready": true,
+          "filename": "161 Mago infinito.pdf",
+          "first": 161,
+          "last": 161,
+          "message_id": 477,
+          "name": "161",
+          "size": 10246208,
+          "telegram_link": "https://t.me/manhuasgratis/477"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            162
+          ],
+          "date": "2026-04-25T17:50:33+00:00",
+          "download_ready": true,
+          "filename": "162 Mago infinito.pdf",
+          "first": 162,
+          "last": 162,
+          "message_id": 653,
+          "name": "162",
+          "size": 10350553,
+          "telegram_link": "https://t.me/manhuasgratis/653"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            163
+          ],
+          "date": "2026-04-25T17:50:33+00:00",
+          "download_ready": true,
+          "filename": "163 Mago infinito.pdf",
+          "first": 163,
+          "last": 163,
+          "message_id": 654,
+          "name": "163",
+          "size": 10608967,
+          "telegram_link": "https://t.me/manhuasgratis/654"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            164
+          ],
+          "date": "2026-04-25T17:50:33+00:00",
+          "download_ready": true,
+          "filename": "164 Mago infinito.pdf",
+          "first": 164,
+          "last": 164,
+          "message_id": 655,
+          "name": "164",
+          "size": 10328179,
+          "telegram_link": "https://t.me/manhuasgratis/655"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            165
+          ],
+          "date": "2026-04-25T17:51:24+00:00",
+          "download_ready": true,
+          "filename": "Mago Infinito Chapter 165.pdf",
+          "first": 165,
+          "last": 165,
+          "message_id": 656,
+          "name": "165",
+          "size": 8979307,
+          "telegram_link": "https://t.me/manhuasgratis/656"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            166
+          ],
+          "date": "2026-05-05T12:29:45+00:00",
+          "download_ready": true,
+          "filename": "166 - Mago Infinito.pdf",
+          "first": 166,
+          "last": 166,
+          "message_id": 658,
+          "name": "166",
+          "size": 10167809,
+          "telegram_link": "https://t.me/manhuasgratis/658"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            177
+          ],
+          "date": "2026-08-13T19:33:52+00:00",
+          "download_ready": true,
+          "filename": "▎177 ▎El Mago Infinito.pdf",
+          "first": 177,
+          "last": 177,
+          "message_id": 752,
+          "name": "177",
+          "size": 12458396,
+          "telegram_link": "https://t.me/manhuasgratis/752"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            178
+          ],
+          "date": "2026-08-13T19:33:57+00:00",
+          "download_ready": true,
+          "filename": "▎178 ▎El Mago Infinito.pdf",
+          "first": 178,
+          "last": 178,
+          "message_id": 753,
+          "name": "178",
+          "size": 10479384,
+          "telegram_link": "https://t.me/manhuasgratis/753"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            179
+          ],
+          "date": "2026-08-13T19:34:05+00:00",
+          "download_ready": true,
+          "filename": "179 Mago infinito.pdf",
+          "first": 179,
+          "last": 179,
+          "message_id": 754,
+          "name": "179",
+          "size": 11650744,
+          "telegram_link": "https://t.me/manhuasgratis/754"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            180
+          ],
+          "date": "2026-08-27T20:45:52+00:00",
+          "download_ready": true,
+          "filename": "│180│Mago Infinito.pdf",
+          "first": 180,
+          "last": 180,
+          "message_id": 3678,
+          "name": "180",
+          "size": 11508312,
+          "telegram_link": "https://t.me/manhuasgratis/3678"
+        }
+      ],
+      "synopsis": "¡El sueño del infinito de un humano es como una explosión de supernova que se propaga a la velocidad de la luz! Esta es la historia de un niño llamado Shirone que fue abandonado en un establo, envuelto en pañales. Mientras crecía, mostró un interés desenfrenado por todo lo relacionado con los libros y se esforzó por aprender incluso por su cuenta. Aunque Shirone era hijo adoptivo de un cazador, una de las personas de clase más baja, ¡era un genio en todo! Un día, como recompensa por dominar una habilidad legendaria para derribar árboles con un par de golpes de hacha, su padre adoptivo le lleva de viaje a la ciudad. Y en esa ciudad, ¡Shirone se encuentra con la magia!",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-23T15:14:19+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/mago_prismatico_genio.jpg",
       "cover_message_id": 20,
@@ -38895,6 +42115,747 @@
       ],
       "synopsis": "No soy esa clase de persona.\nYo, Dion Hart, soy una persona enfermiza que vomita sangre cada vez que estoy estresado.\nSin embargo, al mismo tiempo, soy el Conde Hart, que de alguna manera ha sido malinterpretado y considerado como una persona fuerte, y por lo tanto temido por todos.",
       "visible": true
+    },
+    {
+      "added_at": "2026-03-31T13:51:20+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/novato_de_nivel_maximo.jpg",
+      "cover_message_id": 160,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/160",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Reencarnación",
+        "Sistema",
+        "Fantasía"
+      ],
+      "hashtag": "#Novato_De_Nivel_Máximo",
+      "id": "novato_de_nivel_maximo",
+      "latest_chapter": 278,
+      "name": "Novato De Nivel Máximo",
+      "package_count": 45,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "[#191-200] • Novato De Nivel Máximo.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 549,
+          "name": "191-200",
+          "size": 88834178,
+          "telegram_link": "https://t.me/manhuasgratis/549"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "[#201-210] • Novato De Nivel Máximo.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 550,
+          "name": "201-210",
+          "size": 84401347,
+          "telegram_link": "https://t.me/manhuasgratis/550"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "211-220 Solo Max-Level Newbie.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 551,
+          "name": "211-220",
+          "size": 71243710,
+          "telegram_link": "https://t.me/manhuasgratis/551"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "221-226 Solo Max-Level Newbie.pdf",
+          "first": 221,
+          "last": 226,
+          "message_id": 552,
+          "name": "221-226",
+          "size": 45224955,
+          "telegram_link": "https://t.me/manhuasgratis/552"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            226,
+            227
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "[226–227] Solo Max-Level Newbie.pdf",
+          "first": 226,
+          "last": 227,
+          "message_id": 553,
+          "name": "226-227",
+          "size": 22777080,
+          "telegram_link": "https://t.me/manhuasgratis/553"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            228,
+            229,
+            230
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "[228–230] Solo Max-Level Newbie.pdf",
+          "first": 228,
+          "last": 230,
+          "message_id": 554,
+          "name": "228-230",
+          "size": 33625820,
+          "telegram_link": "https://t.me/manhuasgratis/554"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-03-31T13:51:20+00:00",
+          "download_ready": true,
+          "filename": "[231–240] Solo Max-Level Newbie.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 555,
+          "name": "231-240",
+          "size": 105738187,
+          "telegram_link": "https://t.me/manhuasgratis/555"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "241 Novato De Nivel Máximo.pdf",
+          "first": 241,
+          "last": 241,
+          "message_id": 556,
+          "name": "241",
+          "size": 9590643,
+          "telegram_link": "https://t.me/manhuasgratis/556"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            242
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "242 - Solo Max-Level Newbie.pdf",
+          "first": 242,
+          "last": 242,
+          "message_id": 557,
+          "name": "242",
+          "size": 7043380,
+          "telegram_link": "https://t.me/manhuasgratis/557"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            243
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "[243] Solo Max-Level Newbie.pdf",
+          "first": 243,
+          "last": 243,
+          "message_id": 558,
+          "name": "243",
+          "size": 10806533,
+          "telegram_link": "https://t.me/manhuasgratis/558"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            244
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "[#244]   Novato Solo A Nivel Máximo.pdf",
+          "first": 244,
+          "last": 244,
+          "message_id": 559,
+          "name": "244",
+          "size": 14117110,
+          "telegram_link": "https://t.me/manhuasgratis/559"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            245
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "▎245 ▎Novato De Nivel Máximo.pdf",
+          "first": 245,
+          "last": 245,
+          "message_id": 560,
+          "name": "245",
+          "size": 10703953,
+          "telegram_link": "https://t.me/manhuasgratis/560"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            246
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "246 Novato De Nivel Máximo.pdf",
+          "first": 246,
+          "last": 246,
+          "message_id": 561,
+          "name": "246",
+          "size": 11213275,
+          "telegram_link": "https://t.me/manhuasgratis/561"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            247
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "247 Novato De Nivel Máximo.pdf",
+          "first": 247,
+          "last": 247,
+          "message_id": 562,
+          "name": "247",
+          "size": 9841538,
+          "telegram_link": "https://t.me/manhuasgratis/562"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            248
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "[#248]   Novato Solo A Nivel Máximo.pdf",
+          "first": 248,
+          "last": 248,
+          "message_id": 563,
+          "name": "248",
+          "size": 12074978,
+          "telegram_link": "https://t.me/manhuasgratis/563"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            249
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "[249] Solo Max-Level Newbie.pdf",
+          "first": 249,
+          "last": 249,
+          "message_id": 564,
+          "name": "249",
+          "size": 9682260,
+          "telegram_link": "https://t.me/manhuasgratis/564"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            250
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "[#250]   Novato Solo A Nivel Máximo.pdf",
+          "first": 250,
+          "last": 250,
+          "message_id": 565,
+          "name": "250",
+          "size": 10706082,
+          "telegram_link": "https://t.me/manhuasgratis/565"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251
+          ],
+          "date": "2026-03-31T13:51:21+00:00",
+          "download_ready": true,
+          "filename": "[#251]   Novato Solo A Nivel Maximo.pdf",
+          "first": 251,
+          "last": 251,
+          "message_id": 566,
+          "name": "251",
+          "size": 11541937,
+          "telegram_link": "https://t.me/manhuasgratis/566"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            252
+          ],
+          "date": "2026-04-10T11:56:58+00:00",
+          "download_ready": true,
+          "filename": "[252] Solo Max-Level Newbie.pdf",
+          "first": 252,
+          "last": 252,
+          "message_id": 579,
+          "name": "252",
+          "size": 10626255,
+          "telegram_link": "https://t.me/manhuasgratis/579"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            253
+          ],
+          "date": "2026-04-18T12:19:27+00:00",
+          "download_ready": true,
+          "filename": "253 Novato De Nivel Máximo.pdf",
+          "first": 253,
+          "last": 253,
+          "message_id": 632,
+          "name": "253",
+          "size": 9470460,
+          "telegram_link": "https://t.me/manhuasgratis/632"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            254
+          ],
+          "date": "2026-04-18T12:19:57+00:00",
+          "download_ready": true,
+          "filename": "254 • Novato De Nivel Máximo.pdf",
+          "first": 254,
+          "last": 254,
+          "message_id": 633,
+          "name": "254",
+          "size": 8778888,
+          "telegram_link": "https://t.me/manhuasgratis/633"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            255
+          ],
+          "date": "2026-05-05T12:32:25+00:00",
+          "download_ready": true,
+          "filename": "255 Novato De Nivel Máximo.pdf",
+          "first": 255,
+          "last": 255,
+          "message_id": 661,
+          "name": "255",
+          "size": 10092707,
+          "telegram_link": "https://t.me/manhuasgratis/661"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            256
+          ],
+          "date": "2026-05-05T12:32:25+00:00",
+          "download_ready": true,
+          "filename": "256 Novato De Nivel Máximo.pdf",
+          "first": 256,
+          "last": 256,
+          "message_id": 662,
+          "name": "256",
+          "size": 13975176,
+          "telegram_link": "https://t.me/manhuasgratis/662"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            257
+          ],
+          "date": "2026-05-27T18:54:51+00:00",
+          "download_ready": true,
+          "filename": "[257] Solo Max-Level Newbie.pdf",
+          "first": 257,
+          "last": 257,
+          "message_id": 678,
+          "name": "257",
+          "size": 16021572,
+          "telegram_link": "https://t.me/manhuasgratis/678"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            258
+          ],
+          "date": "2026-05-27T18:54:51+00:00",
+          "download_ready": true,
+          "filename": "[258] Solo Max-Level Newbie.pdf",
+          "first": 258,
+          "last": 258,
+          "message_id": 679,
+          "name": "258",
+          "size": 13024255,
+          "telegram_link": "https://t.me/manhuasgratis/679"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            259
+          ],
+          "date": "2026-05-27T18:55:05+00:00",
+          "download_ready": true,
+          "filename": "▎259 ▎Novato De Nivel Máximo.pdf",
+          "first": 259,
+          "last": 259,
+          "message_id": 680,
+          "name": "259",
+          "size": 12132823,
+          "telegram_link": "https://t.me/manhuasgratis/680"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            260
+          ],
+          "date": "2026-06-15T21:31:22+00:00",
+          "download_ready": true,
+          "filename": "[260] Solo Max-Level Newbie.pdf",
+          "first": 260,
+          "last": 260,
+          "message_id": 684,
+          "name": "260",
+          "size": 15104687,
+          "telegram_link": "https://t.me/manhuasgratis/684"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261
+          ],
+          "date": "2026-06-15T21:31:22+00:00",
+          "download_ready": true,
+          "filename": "[261] Solo Max-Level Newbie.pdf",
+          "first": 261,
+          "last": 261,
+          "message_id": 685,
+          "name": "261",
+          "size": 14152362,
+          "telegram_link": "https://t.me/manhuasgratis/685"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            262
+          ],
+          "date": "2026-06-15T21:31:22+00:00",
+          "download_ready": true,
+          "filename": "[262] Solo Max-Level Newbie.pdf",
+          "first": 262,
+          "last": 262,
+          "message_id": 686,
+          "name": "262",
+          "size": 11968283,
+          "telegram_link": "https://t.me/manhuasgratis/686"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            263
+          ],
+          "date": "2026-07-21T18:17:36+00:00",
+          "download_ready": true,
+          "filename": "[#263]   Novato Solo A Nivel Máximo.pdf",
+          "first": 263,
+          "last": 263,
+          "message_id": 701,
+          "name": "263",
+          "size": 15574193,
+          "telegram_link": "https://t.me/manhuasgratis/701"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            264
+          ],
+          "date": "2026-07-21T18:17:36+00:00",
+          "download_ready": true,
+          "filename": "[#264]   Novato Solo A Nivel Máximo.pdf",
+          "first": 264,
+          "last": 264,
+          "message_id": 702,
+          "name": "264",
+          "size": 14997551,
+          "telegram_link": "https://t.me/manhuasgratis/702"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            265
+          ],
+          "date": "2026-07-21T18:17:36+00:00",
+          "download_ready": true,
+          "filename": "[265] Solo Max-Level Newbie.pdf",
+          "first": 265,
+          "last": 265,
+          "message_id": 703,
+          "name": "265",
+          "size": 13848520,
+          "telegram_link": "https://t.me/manhuasgratis/703"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            266
+          ],
+          "date": "2026-08-13T19:39:34+00:00",
+          "download_ready": true,
+          "filename": "266 Novato De Nivel Máximo.pdf",
+          "first": 266,
+          "last": 266,
+          "message_id": 810,
+          "name": "266",
+          "size": 12502070,
+          "telegram_link": "https://t.me/manhuasgratis/810"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            267
+          ],
+          "date": "2026-08-13T19:39:40+00:00",
+          "download_ready": true,
+          "filename": "267 Novato De Nivel Máximo.pdf",
+          "first": 267,
+          "last": 267,
+          "message_id": 811,
+          "name": "267",
+          "size": 15076700,
+          "telegram_link": "https://t.me/manhuasgratis/811"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            268
+          ],
+          "date": "2026-08-13T19:39:47+00:00",
+          "download_ready": true,
+          "filename": "268 Novato De Nivel Máximo.pdf",
+          "first": 268,
+          "last": 268,
+          "message_id": 812,
+          "name": "268",
+          "size": 16537006,
+          "telegram_link": "https://t.me/manhuasgratis/812"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            269
+          ],
+          "date": "2026-08-13T19:39:53+00:00",
+          "download_ready": true,
+          "filename": "269 Novato De Nivel Máximo.pdf",
+          "first": 269,
+          "last": 269,
+          "message_id": 813,
+          "name": "269",
+          "size": 13208105,
+          "telegram_link": "https://t.me/manhuasgratis/813"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            270
+          ],
+          "date": "2026-08-13T19:40:00+00:00",
+          "download_ready": true,
+          "filename": "270 Novato De Nivel Máximo.pdf",
+          "first": 270,
+          "last": 270,
+          "message_id": 815,
+          "name": "270",
+          "size": 11423118,
+          "telegram_link": "https://t.me/manhuasgratis/815"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            271
+          ],
+          "date": "2026-08-13T19:40:06+00:00",
+          "download_ready": true,
+          "filename": "271 Novato De Nivel Máximo.pdf",
+          "first": 271,
+          "last": 271,
+          "message_id": 816,
+          "name": "271",
+          "size": 12022742,
+          "telegram_link": "https://t.me/manhuasgratis/816"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            272
+          ],
+          "date": "2026-08-14T22:15:03+00:00",
+          "download_ready": true,
+          "filename": "272 Novato De Nivel Máximo.pdf",
+          "first": 272,
+          "last": 272,
+          "message_id": 1197,
+          "name": "272",
+          "size": 12780713,
+          "telegram_link": "https://t.me/manhuasgratis/1197"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            273
+          ],
+          "date": "2026-08-24T13:13:36+00:00",
+          "download_ready": true,
+          "filename": "273 Novato De Nivel Máximo.pdf",
+          "first": 273,
+          "last": 273,
+          "message_id": 2885,
+          "name": "273",
+          "size": 13340802,
+          "telegram_link": "https://t.me/manhuasgratis/2885"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            274
+          ],
+          "date": "2026-08-28T16:47:24+00:00",
+          "download_ready": true,
+          "filename": "274 Novato De Nivel Máximo.pdf",
+          "first": 274,
+          "last": 274,
+          "message_id": 3700,
+          "name": "274",
+          "size": 13326393,
+          "telegram_link": "https://t.me/manhuasgratis/3700"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            275
+          ],
+          "date": "2026-09-04T11:37:54+00:00",
+          "download_ready": true,
+          "filename": "[275] Solo Max-Level Newbie.pdf",
+          "first": 275,
+          "last": 275,
+          "message_id": 4307,
+          "name": "275",
+          "size": 15185859,
+          "telegram_link": "https://t.me/manhuasgratis/4307"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            276
+          ],
+          "date": "2026-09-25T14:03:52+00:00",
+          "download_ready": true,
+          "filename": "[276] Solo Max-Level Newbie.pdf",
+          "first": 276,
+          "last": 276,
+          "message_id": 4632,
+          "name": "276",
+          "size": 13182179,
+          "telegram_link": "https://t.me/manhuasgratis/4632"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            277
+          ],
+          "date": "2026-09-29T14:58:15+00:00",
+          "download_ready": true,
+          "filename": "▎277 ▎Novato De Nivel Máximo.pdf",
+          "first": 277,
+          "last": 277,
+          "message_id": 4668,
+          "name": "277",
+          "size": 9795853,
+          "telegram_link": "https://t.me/manhuasgratis/4668"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            278
+          ],
+          "date": "2026-09-29T14:58:17+00:00",
+          "download_ready": true,
+          "filename": "▎278 ▎Novato De Nivel Máximo.pdf",
+          "first": 278,
+          "last": 278,
+          "message_id": 4669,
+          "name": "278",
+          "size": 10778404,
+          "telegram_link": "https://t.me/manhuasgratis/4669"
+        }
+      ],
+      "synopsis": "Jinhyuk, un Nutuber de juegos, fue la única persona que vio el final del juego [Torre de pruebas]. Sin embargo, cuando la popularidad del juego disminuyó, le resultó difícil seguir ganándose la vida como Nutuber de juegos. Como ya había visto el final del juego, estaba a punto de dejar de jugar. Pero ese día, [Torre de pruebas] se hizo realidad, y Jinhyuk, que conocía cada cosa del juego, ¡se apoderó de todo más rápido que nadie! “Te mostraré como es un verdadero profesional”.",
+      "visible": false
     },
     {
       "added_at": "2026-08-22T02:50:15+00:00",
@@ -49201,6 +53162,672 @@
       "visible": true
     },
     {
+      "added_at": "2026-03-26T14:50:09+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/the_indomitable_martial_king.jpg",
+      "cover_message_id": 158,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/158",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Reencarnación",
+        "Venganza"
+      ],
+      "hashtag": "#The_Indomitable_Martial_King",
+      "id": "the_indomitable_martial_king",
+      "latest_chapter": 154,
+      "name": "The Indomitable Martial King",
+      "package_count": 35,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│01-10│El Indomable Rey Marcial.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 454,
+          "name": "1-10",
+          "size": 104028688,
+          "telegram_link": "https://t.me/manhuasgratis/454"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│11-20│El Indomable Rey Marcial.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 455,
+          "name": "11-20",
+          "size": 110467470,
+          "telegram_link": "https://t.me/manhuasgratis/455"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│21-30│El Indomable Rey Marcial.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 456,
+          "name": "21-30",
+          "size": 101669696,
+          "telegram_link": "https://t.me/manhuasgratis/456"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│31-40│El Indomable Rey Marcial.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 457,
+          "name": "31-40",
+          "size": 90728813,
+          "telegram_link": "https://t.me/manhuasgratis/457"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│41-50│El Indomable Rey Marcial.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 458,
+          "name": "41-50",
+          "size": 100377777,
+          "telegram_link": "https://t.me/manhuasgratis/458"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│51-60│El Indomable Rey Marcial.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 459,
+          "name": "51-60",
+          "size": 100715654,
+          "telegram_link": "https://t.me/manhuasgratis/459"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│61-70│El Indomable Rey Marcial.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 460,
+          "name": "61-70",
+          "size": 102972602,
+          "telegram_link": "https://t.me/manhuasgratis/460"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│71-80│El Indomable Rey Marcial.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 461,
+          "name": "71-80",
+          "size": 99449981,
+          "telegram_link": "https://t.me/manhuasgratis/461"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-03-26T14:50:09+00:00",
+          "download_ready": true,
+          "filename": "│81-90│El Indomable Rey Marcial.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 462,
+          "name": "81-90",
+          "size": 101566135,
+          "telegram_link": "https://t.me/manhuasgratis/462"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│91-100│El Indomable Rey Marcial.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 463,
+          "name": "91-100",
+          "size": 101560356,
+          "telegram_link": "https://t.me/manhuasgratis/463"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│101-110│El Indomable Rey Marcial.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 464,
+          "name": "101-110",
+          "size": 96656539,
+          "telegram_link": "https://t.me/manhuasgratis/464"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│111-117│El Indomable Rey Marcial.pdf",
+          "first": 111,
+          "last": 117,
+          "message_id": 465,
+          "name": "111-117",
+          "size": 68697032,
+          "telegram_link": "https://t.me/manhuasgratis/465"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            118
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│118│El Indomable Rey Marcial.pdf",
+          "first": 118,
+          "last": 118,
+          "message_id": 466,
+          "name": "118",
+          "size": 9522175,
+          "telegram_link": "https://t.me/manhuasgratis/466"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            119
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│119│El Indomable Rey Marcial.pdf",
+          "first": 119,
+          "last": 119,
+          "message_id": 467,
+          "name": "119",
+          "size": 12688604,
+          "telegram_link": "https://t.me/manhuasgratis/467"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            120
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│120│El Indomable Rey Marcial.pdf",
+          "first": 120,
+          "last": 120,
+          "message_id": 468,
+          "name": "120",
+          "size": 10506098,
+          "telegram_link": "https://t.me/manhuasgratis/468"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│121│El Indomable Rey Marcial.pdf",
+          "first": 121,
+          "last": 121,
+          "message_id": 469,
+          "name": "121",
+          "size": 8475243,
+          "telegram_link": "https://t.me/manhuasgratis/469"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            122
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│122│El Indomable Rey Marcial.pdf",
+          "first": 122,
+          "last": 122,
+          "message_id": 470,
+          "name": "122",
+          "size": 11086285,
+          "telegram_link": "https://t.me/manhuasgratis/470"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            123
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│123│El Indomable Rey Marcial.pdf",
+          "first": 123,
+          "last": 123,
+          "message_id": 471,
+          "name": "123",
+          "size": 10848943,
+          "telegram_link": "https://t.me/manhuasgratis/471"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            124
+          ],
+          "date": "2026-03-26T14:50:10+00:00",
+          "download_ready": true,
+          "filename": "│124│El Indomable Rey Marcial.pdf",
+          "first": 124,
+          "last": 124,
+          "message_id": 472,
+          "name": "124",
+          "size": 10903832,
+          "telegram_link": "https://t.me/manhuasgratis/472"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            125,
+            126
+          ],
+          "date": "2026-04-07T02:12:04+00:00",
+          "download_ready": true,
+          "filename": "│125-126│El Indomable Rey Marcial.pdf",
+          "first": 125,
+          "last": 126,
+          "message_id": 569,
+          "name": "125-126",
+          "size": 20638647,
+          "telegram_link": "https://t.me/manhuasgratis/569"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            127,
+            128
+          ],
+          "date": "2026-04-10T11:55:52+00:00",
+          "download_ready": true,
+          "filename": "│127-128│El Indomable Rey Marcial.pdf",
+          "first": 127,
+          "last": 128,
+          "message_id": 577,
+          "name": "127-128",
+          "size": 16261055,
+          "telegram_link": "https://t.me/manhuasgratis/577"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            129
+          ],
+          "date": "2026-04-22T03:30:39+00:00",
+          "download_ready": true,
+          "filename": "│129│El Indomable Rey Marcial.pdf",
+          "first": 129,
+          "last": 129,
+          "message_id": 635,
+          "name": "129",
+          "size": 11421261,
+          "telegram_link": "https://t.me/manhuasgratis/635"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            130
+          ],
+          "date": "2026-06-15T21:34:40+00:00",
+          "download_ready": true,
+          "filename": "│130│El Indomable Rey Marcial.pdf",
+          "first": 130,
+          "last": 130,
+          "message_id": 693,
+          "name": "130",
+          "size": 13672771,
+          "telegram_link": "https://t.me/manhuasgratis/693"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133
+          ],
+          "date": "2026-06-15T21:34:40+00:00",
+          "download_ready": true,
+          "filename": "│131-133│El Indomable Rey Marcial.pdf",
+          "first": 131,
+          "last": 133,
+          "message_id": 694,
+          "name": "131-133",
+          "size": 35706997,
+          "telegram_link": "https://t.me/manhuasgratis/694"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            134,
+            135
+          ],
+          "date": "2026-07-05T13:33:14+00:00",
+          "download_ready": true,
+          "filename": "│134-135│El Indomable Rey Marcial.pdf",
+          "first": 134,
+          "last": 135,
+          "message_id": 695,
+          "name": "134-135",
+          "size": 17246009,
+          "telegram_link": "https://t.me/manhuasgratis/695"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            136,
+            137,
+            138,
+            139
+          ],
+          "date": "2026-07-05T13:33:26+00:00",
+          "download_ready": true,
+          "filename": "│136-139│El Indomable Rey Marcial.pdf",
+          "first": 136,
+          "last": 139,
+          "message_id": 696,
+          "name": "136-139",
+          "size": 31752835,
+          "telegram_link": "https://t.me/manhuasgratis/696"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            140,
+            141,
+            142
+          ],
+          "date": "2026-08-21T20:03:41+00:00",
+          "download_ready": true,
+          "filename": "│140-142│El Indomable Rey Marcial.pdf",
+          "first": 140,
+          "last": 142,
+          "message_id": 2030,
+          "name": "140-142",
+          "size": 23776338,
+          "telegram_link": "https://t.me/manhuasgratis/2030"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            143,
+            144,
+            145
+          ],
+          "date": "2026-08-31T17:37:18+00:00",
+          "download_ready": true,
+          "filename": "│143-145│El Indomable Rey Marcial.pdf",
+          "first": 143,
+          "last": 145,
+          "message_id": 4187,
+          "name": "143-145",
+          "size": 26572596,
+          "telegram_link": "https://t.me/manhuasgratis/4187"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            146
+          ],
+          "date": "2026-09-01T12:37:19+00:00",
+          "download_ready": true,
+          "filename": "│146│El Indomable Rey Marcial.pdf",
+          "first": 146,
+          "last": 146,
+          "message_id": 4203,
+          "name": "146",
+          "size": 9609923,
+          "telegram_link": "https://t.me/manhuasgratis/4203"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            147,
+            148,
+            149
+          ],
+          "date": "2026-09-04T02:37:49+00:00",
+          "download_ready": true,
+          "filename": "│147-149│El Indomable Rey Marcial.pdf",
+          "first": 147,
+          "last": 149,
+          "message_id": 4306,
+          "name": "147-149",
+          "size": 27417327,
+          "telegram_link": "https://t.me/manhuasgratis/4306"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            150
+          ],
+          "date": "2026-09-13T22:15:36+00:00",
+          "download_ready": true,
+          "filename": "│150│El Indomable Rey Marcial.pdf",
+          "first": 150,
+          "last": 150,
+          "message_id": 4530,
+          "name": "150",
+          "size": 8954906,
+          "telegram_link": "https://t.me/manhuasgratis/4530"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151
+          ],
+          "date": "2026-09-16T13:14:05+00:00",
+          "download_ready": true,
+          "filename": "│151│El Indomable Rey Marcial.pdf",
+          "first": 151,
+          "last": 151,
+          "message_id": 4542,
+          "name": "151",
+          "size": 8739695,
+          "telegram_link": "https://t.me/manhuasgratis/4542"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            152
+          ],
+          "date": "2026-09-28T14:20:24+00:00",
+          "download_ready": true,
+          "filename": "│152│El Indomable Rey Marcial.pdf",
+          "first": 152,
+          "last": 152,
+          "message_id": 4658,
+          "name": "152",
+          "size": 8927417,
+          "telegram_link": "https://t.me/manhuasgratis/4658"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            153
+          ],
+          "date": "2026-10-07T04:11:49+00:00",
+          "download_ready": true,
+          "filename": "│153│El Indomable Rey Marcial.pdf",
+          "first": 153,
+          "last": 153,
+          "message_id": 4898,
+          "name": "153",
+          "size": 8398452,
+          "telegram_link": "https://t.me/manhuasgratis/4898"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            154
+          ],
+          "date": "2026-10-12T04:11:29+00:00",
+          "download_ready": true,
+          "filename": "│154│El Indomable Rey Marcial.pdf",
+          "first": 154,
+          "last": 154,
+          "message_id": 5239,
+          "name": "154",
+          "size": 9667344,
+          "telegram_link": "https://t.me/manhuasgratis/5239"
+        }
+      ],
+      "synopsis": "Estamos en un lugar donde los humanos venden y compran especies de otros mundos como esclavos. El gran mago Rifenhardt es tratado como el Rey Demonio por ayudar a las especies de otros mundos. ¡Un grupo de héroes llega para derribar al Rey Demonio! Rifenhardt logra herir gravemente a los héroes, pero casi muere ante las manos de el rey marcial Tesslon...  El prota invoca un hechizo de regresión tiempo-espacio pero despierta en otro cuerpo... el cuerpo del ¿rey marcial Tesslon? \"¡uno de los héroes que intentaron matarme y el más fuerte en el continente?!\" ¡Ahora comienzan las aventuras de Rifenhardt como un gran mago y el hombre físicamente más fuerte para cambiar el mundo y salvar a sus amigos",
+      "visible": false
+    },
+    {
       "added_at": "2026-09-01T15:08:43+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/the_novels_extra.jpg",
       "cover_message_id": 38,
@@ -53558,6 +58185,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-12T15:01:33.258573+00:00",
+  "updated_at": "2026-10-12T20:37:16.450605+00:00",
   "version": 3
 }
