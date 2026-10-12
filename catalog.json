@@ -4144,8 +4144,8 @@
             3
           ],
           "date": "2026-10-12T20:21:26+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_disciple_of_lich/366_Disc%C3%ADpulo%20del%20Lich%20-%20Volumen%2003%5BMNM%20%26%20LNF%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232433Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4c35f2e5772e2dfb312943888f1e9de202b104a24d44a3dfd9f840cca2e306f8",
           "filename": "Discípulo del Lich - Volumen 03[MNM & LNF].pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -4161,8 +4161,8 @@
             4
           ],
           "date": "2026-10-12T20:21:26+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_disciple_of_lich/367_Disc%C3%ADpulo%20del%20Lich%20-%20Volumen%2004%5BMNM%20%26%20LNF%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232453Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=04d6f83c2b72ab2a36b0d01808c139b7aeb2d14dbe7f061612faa365115f7fd4",
           "filename": "Discípulo del Lich - Volumen 04[MNM & LNF].pdf",
           "first": 4,
           "is_novel_volume": true,
