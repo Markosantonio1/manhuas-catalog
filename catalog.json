@@ -1320,7 +1320,8 @@
           "message_id": 333,
           "name": "Volumen 1",
           "size": 5411531,
-          "telegram_link": "https://t.me/c/-1004334091126/333"
+          "telegram_link": "https://t.me/c/-1004334091126/333",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/333_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2001.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T231951Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f51d0c36c10797fa21ced4bce0c53acb6e82bd82fa656fbf3fb4e31004901ad8"
         },
         {
           "channel_id": -1004334091126,
@@ -1336,7 +1337,8 @@
           "message_id": 334,
           "name": "Volumen 2",
           "size": 7023085,
-          "telegram_link": "https://t.me/c/-1004334091126/334"
+          "telegram_link": "https://t.me/c/-1004334091126/334",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/334_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2002.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3f1382955be83823b1ff02aabaf4157835aa9dae21ad71023e25cf93255fb252"
         },
         {
           "channel_id": -1004334091126,
@@ -1344,8 +1346,8 @@
             3
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/335_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2003.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37d5da4908403853a1505a9d41eb0d8b43227c7efcc7412d25ed807c01a395ce",
           "filename": "Failure Frame I Became The Strongest - Volumen 03.pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -1361,8 +1363,8 @@
             4
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/336_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2004.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232018Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2fd33984ad7f897d86a1deffed7ca519688f4dd91d58311b4fc53bdab5a86e29",
           "filename": "Failure Frame I Became The Strongest - Volumen 04.pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -1386,7 +1388,8 @@
           "message_id": 337,
           "name": "Volumen 5",
           "size": 6007382,
-          "telegram_link": "https://t.me/c/-1004334091126/337"
+          "telegram_link": "https://t.me/c/-1004334091126/337",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/337_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2005.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232027Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=39843cb8d8402fb14c27c59422a28e7fd3c4ca8a1026796abc18f7bdef718abc"
         },
         {
           "channel_id": -1004334091126,
@@ -1402,7 +1405,8 @@
           "message_id": 338,
           "name": "Volumen 6",
           "size": 5634299,
-          "telegram_link": "https://t.me/c/-1004334091126/338"
+          "telegram_link": "https://t.me/c/-1004334091126/338",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/338_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2006.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232036Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=51372b3927b62d4f4eeee0b91f63c8b961dff7c2cbd42c7c1c6ec4464d46bc84"
         },
         {
           "channel_id": -1004334091126,
@@ -1410,8 +1414,8 @@
             7
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/339_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2007.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232044Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=61124ac97baec7b16fe3fdaafd7f014138d23e21c6943a34c6f227a44c387d1f",
           "filename": "Failure Frame I Became The Strongest - Volumen 07.pdf",
           "first": 7,
           "is_novel_volume": true,
@@ -1427,8 +1431,8 @@
             8
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/340_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2008.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232053Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b2e2fcc5e0f0893b3783cd34029d5b6c8997ad46171e8b49cc9f73ccc1b524bd",
           "filename": "Failure Frame I Became The Strongest - Volumen 08.pdf",
           "first": 8,
           "is_novel_volume": true,
@@ -1444,8 +1448,8 @@
             9
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/341_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2009.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232102Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eb5bf4795046af3b3fdccd944ad08f1c22c62aab383ecb29cb93b7f78558861f",
           "filename": "Failure Frame I Became The Strongest - Volumen 09.pdf",
           "first": 9,
           "is_novel_volume": true,
@@ -1461,8 +1465,8 @@
             10
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/342_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2010.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T232112Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6552cee832dba8c32a37ff5f3fea1e092a83dc6d5671ff4c4c980428ee798f63",
           "filename": "Failure Frame I Became The Strongest - Volumen 10.pdf",
           "first": 10,
           "is_novel_volume": true,
