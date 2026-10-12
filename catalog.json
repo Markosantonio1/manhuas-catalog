@@ -1,6 +1,359 @@
 {
   "novels": [
     {
+      "added_at": "2026-10-12T14:18:23+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/arifureta.jpg",
+      "cover_message_id": 245,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/245",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Harem",
+        "Reencarnación",
+        "Isekai",
+        "Sistema",
+        "Sobrenatural"
+      ],
+      "hashtag": "#Arifureta",
+      "id": "arifureta",
+      "latest_chapter": 13,
+      "name": "Arifureta",
+      "package_count": 13,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 01] • Arifureta.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 260,
+          "name": "Volumen 1",
+          "size": 3633434,
+          "telegram_link": "https://t.me/c/-1004334091126/260"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 02] • Arifureta.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 261,
+          "name": "Volumen 2",
+          "size": 3327298,
+          "telegram_link": "https://t.me/c/-1004334091126/261"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 03] • Arifureta.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 262,
+          "name": "Volumen 3",
+          "size": 3164479,
+          "telegram_link": "https://t.me/c/-1004334091126/262"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 04] • Arifureta.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 263,
+          "name": "Volumen 4",
+          "size": 2971049,
+          "telegram_link": "https://t.me/c/-1004334091126/263"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 05] • Arifureta.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 264,
+          "name": "Volumen 5",
+          "size": 3563192,
+          "telegram_link": "https://t.me/c/-1004334091126/264"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 06] • Arifureta.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 265,
+          "name": "Volumen 6",
+          "size": 19313127,
+          "telegram_link": "https://t.me/c/-1004334091126/265"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T14:18:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 07] • Arifureta.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 266,
+          "name": "Volumen 7",
+          "size": 5244009,
+          "telegram_link": "https://t.me/c/-1004334091126/266"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:18:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 08] • Arifureta.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 267,
+          "name": "Volumen 8",
+          "size": 1117254,
+          "telegram_link": "https://t.me/c/-1004334091126/267"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:18:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 09] • Arifureta.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 268,
+          "name": "Volumen 9",
+          "size": 2324835,
+          "telegram_link": "https://t.me/c/-1004334091126/268"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:18:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 10] • Arifureta.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 269,
+          "name": "Volumen 10",
+          "size": 2043736,
+          "telegram_link": "https://t.me/c/-1004334091126/269"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:18:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 11] • Arifureta.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 270,
+          "name": "Volumen 11",
+          "size": 2279459,
+          "telegram_link": "https://t.me/c/-1004334091126/270"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:18:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 12] • Arifureta.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 271,
+          "name": "Volumen 12",
+          "size": 3474532,
+          "telegram_link": "https://t.me/c/-1004334091126/271"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:18:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 13] • Arifureta.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 272,
+          "name": "Volumen 13",
+          "size": 7090055,
+          "telegram_link": "https://t.me/c/-1004334091126/272"
+        }
+      ],
+      "synopsis": "Hajime Nagumo, estudiante de secundaria, es víctima del acoso de sus compañeros por su relación con la idol de la clase, Kaori.\nCierto día, toda su clase fue transportada a un nuevo y desconocido mundo de fantasía, cuando tomaron conciencia, todos sus compañeros habían obtenido poderosas habilidades mágicas, mientras que Hajime lo único que obtiene es la magia de alquimia básica, la cual sirve para transmutar materiales sólidos, una habilidad común y corriente que mayormente la suelen usar los artesanos y herreros.\nDurante una incursión en una mazmorra, Hajime es traicionado por uno de sus compañeros en medio de una feroz batalla y por desgracia cae al fondo de la mazmorra.",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-12T14:22:48+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/arifureta_zero.jpg",
+      "cover_message_id": 273,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/273",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Reencarnación",
+        "Harem"
+      ],
+      "hashtag": "#Arifureta_Zero",
+      "id": "arifureta_zero",
+      "latest_chapter": 5,
+      "name": "Arifureta Zero",
+      "package_count": 5,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:22:48+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 01] • Arifureta Zero.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 275,
+          "name": "Volumen 1",
+          "size": 5081265,
+          "telegram_link": "https://t.me/c/-1004334091126/275"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:22:48+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 02] • Arifureta Zero.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 276,
+          "name": "Volumen 2",
+          "size": 6781635,
+          "telegram_link": "https://t.me/c/-1004334091126/276"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:22:48+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 03] • Arifureta Zero.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 277,
+          "name": "Volumen 3",
+          "size": 6998214,
+          "telegram_link": "https://t.me/c/-1004334091126/277"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:22:48+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 04] • Arifureta Zero.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 278,
+          "name": "Volumen 4",
+          "size": 6893690,
+          "telegram_link": "https://t.me/c/-1004334091126/278"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:22:48+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 05] • Arifureta Zero.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 279,
+          "name": "Volumen 5",
+          "size": 6755223,
+          "telegram_link": "https://t.me/c/-1004334091126/279"
+        }
+      ],
+      "synopsis": "Esta es la historia de lo que ocurrió mucho antes de que Hajime fuera convocado a Tortus. Oscar Orcus es considerado un sinergista de tercera categoría por la mayoría de la gente. Pasa sus días tranquilamente, trabajando para poder enviar dinero a un orfanato. Todo eso cambia cuando el torbellino que es Miledi Reisen irrumpe en su vida. Miledi ve el potencial oculto en Óscar, y le invita a su viaje para derrotar a los dioses. Óscar no quiere participar en ningún viaje y se niega. Pero Miledi es persistente, y la situación cambia drásticamente cuando el orfanato que quiere proteger es atacado. Al final, ¿qué decidirá nuestro improbable héroe?",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-03T19:47:35+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/berserk_of_gluttony.jpg",
       "cover_message_id": 18,
@@ -156,6 +509,581 @@
       ],
       "synopsis": "Sinopsis...\nLa trama se centra en los grandes caballeros santos y las distintas responsabilidades de estos. nuestro héroe es un chico solitario cual es maltratado y se odia a si mismo por su habilidad (gula/hambre) y su explicación es \"te hace tener hambre\".\nEl único motivo de el vivir es su amiga Roxi.\nLa historia se desarrolla más adelante cuando fate está cuidando la puerta de la ciudad de los caballeros cuando descubre el secreto detrás de su habilidad",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-12T14:15:23+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/danmachi.jpg",
+      "cover_message_id": 224,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/224",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Isekai",
+        "Reencarnación",
+        "Comedia",
+        "Harem"
+      ],
+      "hashtag": "#Danmachi",
+      "id": "danmachi",
+      "latest_chapter": 19,
+      "name": "Danmachi",
+      "package_count": 19,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 01] • DanMachi.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 226,
+          "name": "Volumen 1",
+          "size": 7495544,
+          "telegram_link": "https://t.me/c/-1004334091126/226"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 02] • DanMachi.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 227,
+          "name": "Volumen 2",
+          "size": 20992789,
+          "telegram_link": "https://t.me/c/-1004334091126/227"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 03] • DanMachi.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 228,
+          "name": "Volumen 3",
+          "size": 4565730,
+          "telegram_link": "https://t.me/c/-1004334091126/228"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 04] • DanMachi.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 229,
+          "name": "Volumen 4",
+          "size": 3539254,
+          "telegram_link": "https://t.me/c/-1004334091126/229"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 05] • DanMachi.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 230,
+          "name": "Volumen 5",
+          "size": 5434428,
+          "telegram_link": "https://t.me/c/-1004334091126/230"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 06] • DanMachi.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 231,
+          "name": "Volumen 6",
+          "size": 8959524,
+          "telegram_link": "https://t.me/c/-1004334091126/231"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 07] • DanMachi.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 232,
+          "name": "Volumen 7",
+          "size": 7947153,
+          "telegram_link": "https://t.me/c/-1004334091126/232"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 08] • DanMachi.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 233,
+          "name": "Volumen 8",
+          "size": 3642078,
+          "telegram_link": "https://t.me/c/-1004334091126/233"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 09] • DanMachi.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 234,
+          "name": "Volumen 9",
+          "size": 3031853,
+          "telegram_link": "https://t.me/c/-1004334091126/234"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 10] • DanMachi.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 235,
+          "name": "Volumen 10",
+          "size": 3747558,
+          "telegram_link": "https://t.me/c/-1004334091126/235"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 11] • DanMachi.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 236,
+          "name": "Volumen 11",
+          "size": 3631448,
+          "telegram_link": "https://t.me/c/-1004334091126/236"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 12] • DanMachi.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 237,
+          "name": "Volumen 12",
+          "size": 2891413,
+          "telegram_link": "https://t.me/c/-1004334091126/237"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 13] • DanMachi.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 238,
+          "name": "Volumen 13",
+          "size": 3160899,
+          "telegram_link": "https://t.me/c/-1004334091126/238"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 14] • DanMachi.pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 239,
+          "name": "Volumen 14",
+          "size": 4236628,
+          "telegram_link": "https://t.me/c/-1004334091126/239"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 15] • DanMachi.pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 240,
+          "name": "Volumen 15",
+          "size": 4886174,
+          "telegram_link": "https://t.me/c/-1004334091126/240"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 16] • DanMachi.pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 241,
+          "name": "Volumen 16",
+          "size": 4905245,
+          "telegram_link": "https://t.me/c/-1004334091126/241"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 17] • DanMachi.pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 242,
+          "name": "Volumen 17",
+          "size": 6258514,
+          "telegram_link": "https://t.me/c/-1004334091126/242"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            18
+          ],
+          "date": "2026-10-12T14:15:23+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 18] • Danmachi.pdf",
+          "first": 18,
+          "is_novel_volume": true,
+          "last": 18,
+          "message_id": 243,
+          "name": "Volumen 18",
+          "size": 16465540,
+          "telegram_link": "https://t.me/c/-1004334091126/243"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            19
+          ],
+          "date": "2026-10-12T14:15:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 19] • Danmachi.pdf",
+          "first": 19,
+          "is_novel_volume": true,
+          "last": 19,
+          "message_id": 244,
+          "name": "Volumen 19",
+          "size": 8472169,
+          "telegram_link": "https://t.me/c/-1004334091126/244"
+        }
+      ],
+      "synopsis": "La enorme Ciudad laberinto Orario, es la puerta de entrada al enorme laberinto subterráneo conocido comúnmente como «Calabozo». Su extraño nombre provoca emoción, un lugar para ganar honor, y tal vez incluso un romance con una chica hermosa. Un lugar donde las personas contienen la respiración, con la esperanza de obtener todo lo que desean, un lugar donde un joven solitario se encuentra con una pequeña «Diosa».\n«¡Muy bien, Bell-kun, sígueme! ¡Es hora de que comience el rito de iniciación de la «Familia»!»\n«¡Sí! ¡Sere más fuerte!»\nEl encuentro predestinado de un chico que quiere convertirse en Aventurero, y la Diosa fracasada que ni siquiera tiene un solo seguidor.",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-12T14:25:11+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/hell_mode.jpg",
+      "cover_message_id": 280,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/280",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Reencarnación",
+        "Escolar",
+        "Fantasía",
+        "Isekai",
+        "Harem"
+      ],
+      "hashtag": "#Hell_Mode",
+      "id": "hell_mode",
+      "latest_chapter": 12,
+      "name": "Hell Mode",
+      "package_count": 12,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 01 [MK].pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 294,
+          "name": "Volumen 1",
+          "size": 3729620,
+          "telegram_link": "https://t.me/c/-1004334091126/294"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 02 [MK].pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 295,
+          "name": "Volumen 2",
+          "size": 6280767,
+          "telegram_link": "https://t.me/c/-1004334091126/295"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 03 [Bell T & MK].pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 296,
+          "name": "Volumen 3",
+          "size": 4713361,
+          "telegram_link": "https://t.me/c/-1004334091126/296"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 04 [Ralevon].pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 297,
+          "name": "Volumen 4",
+          "size": 8652290,
+          "telegram_link": "https://t.me/c/-1004334091126/297"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 05 [Ralevon].pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 298,
+          "name": "Volumen 5",
+          "size": 9507906,
+          "telegram_link": "https://t.me/c/-1004334091126/298"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 06 [Bell T].pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 299,
+          "name": "Volumen 6",
+          "size": 18171548,
+          "telegram_link": "https://t.me/c/-1004334091126/299"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 07 [Bell T].pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 300,
+          "name": "Volumen 7",
+          "size": 11843085,
+          "telegram_link": "https://t.me/c/-1004334091126/300"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 08 [Bell T].pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 301,
+          "name": "Volumen 8",
+          "size": 25956229,
+          "telegram_link": "https://t.me/c/-1004334091126/301"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 09 [Bell T].pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 302,
+          "name": "Volumen 9",
+          "size": 25843150,
+          "telegram_link": "https://t.me/c/-1004334091126/302"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 10 [Bell T].pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 303,
+          "name": "Volumen 10",
+          "size": 23776330,
+          "telegram_link": "https://t.me/c/-1004334091126/303"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 11 [Bell T].pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 304,
+          "name": "Volumen 11",
+          "size": 7253404,
+          "telegram_link": "https://t.me/c/-1004334091126/304"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:25:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Hell Mode - Volumen 12 [Bell T].pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 305,
+          "name": "Volumen 12",
+          "size": 19330373,
+          "telegram_link": "https://t.me/c/-1004334091126/305"
+        }
+      ],
+      "synopsis": "¿»Subir de nivel incluso sin conexión»? Eso no es un juego en ‘modo fácil’, ¡Es sólo un juego AFK!»\nEl juego en línea al que Yamada Kenichi había estado jugando religiosamente cierra sus servidores, dejándole un vacío en su corazón. Buscaba un nuevo juego para llenarlo, pero todo lo que encuentraba era demasiado fácil. El tipo de juego que le gusta, el que castiga lo suficiente como para que los jugadores quieran pasar miles de horas en él, ya no existe.\n«¿Qué es esto? ‘Estás invitado a un juego que nunca terminará’».\nKenichi tropieza con un juego sin título, que promete un reto incomparable con un potencial sin precedentes. Sin dudarlo, selecciona la dificultad «Modo Infiernal». Y he aquí que se encuentra reencarnado en otro mundo como siervo.\nAhora se llama Allen y se dispone a desvelar los secretos de su misteriosa clase de Invocador; sin la comodidad de las guías del juego ni de los foros en línea, deberá abrirse camino a tientas hasta la cima de su nuevo mundo.",
+      "visible": false
     },
     {
       "added_at": "2026-10-03T19:21:18+00:00",
@@ -839,6 +1767,877 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-12T14:08:08+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/rezero_kara_hajimeru_isekai_seikatsu.jpg",
+      "cover_message_id": 193,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/193",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Isekai",
+        "Reencarnación",
+        "Harem"
+      ],
+      "hashtag": "#Rezero_kara_hajimeru_isekai_seikatsu",
+      "id": "rezero_kara_hajimeru_isekai_seikatsu",
+      "latest_chapter": 2,
+      "name": "Rezero kara hajimeru isekai seikatsu",
+      "package_count": 2,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 07] • ReZero.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 164,
+          "name": "Volumen 7",
+          "size": 14090096,
+          "telegram_link": "https://t.me/c/-1004334091126/164"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 14] • ReZero.pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 171,
+          "name": "Volumen 14",
+          "size": 7536246,
+          "telegram_link": "https://t.me/c/-1004334091126/171"
+        }
+      ],
+      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chico de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-12T14:12:05+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/seirei_gensouki.jpg",
+      "cover_message_id": 194,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/194",
+      "featured": false,
+      "genres": [
+        "Reencarnación",
+        "Isekai",
+        "Romance",
+        "Aventura",
+        "Harem"
+      ],
+      "hashtag": "#Seirei_Gensouki",
+      "id": "seirei_gensouki",
+      "latest_chapter": 28,
+      "name": "Seirei Gensouki",
+      "package_count": 28,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 1] Seirei Gensouki 令.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 196,
+          "name": "Volumen 1",
+          "size": 5854952,
+          "telegram_link": "https://t.me/c/-1004334091126/196"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 2] Seirei Gensouki 令.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 197,
+          "name": "Volumen 2",
+          "size": 6311826,
+          "telegram_link": "https://t.me/c/-1004334091126/197"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 3] Seirei Gensouki 令.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 198,
+          "name": "Volumen 3",
+          "size": 6106058,
+          "telegram_link": "https://t.me/c/-1004334091126/198"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 4] Seirei Gensouki 令.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 199,
+          "name": "Volumen 4",
+          "size": 5724054,
+          "telegram_link": "https://t.me/c/-1004334091126/199"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 5] Seirei Gensouki 令.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 200,
+          "name": "Volumen 5",
+          "size": 5982824,
+          "telegram_link": "https://t.me/c/-1004334091126/200"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 6] Seirei Gensouki 令.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 201,
+          "name": "Volumen 6",
+          "size": 6344991,
+          "telegram_link": "https://t.me/c/-1004334091126/201"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 7] Seirei Gensouki 令.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 202,
+          "name": "Volumen 7",
+          "size": 5933585,
+          "telegram_link": "https://t.me/c/-1004334091126/202"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 8] Seirei Gensouki 令.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 203,
+          "name": "Volumen 8",
+          "size": 5400823,
+          "telegram_link": "https://t.me/c/-1004334091126/203"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 9] Seirei Gensouki 令.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 204,
+          "name": "Volumen 9",
+          "size": 6772160,
+          "telegram_link": "https://t.me/c/-1004334091126/204"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:12:05+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 10] Seirei Gensouki 令.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 205,
+          "name": "Volumen 10",
+          "size": 6092954,
+          "telegram_link": "https://t.me/c/-1004334091126/205"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 11] Seirei Gensouki 令.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 206,
+          "name": "Volumen 11",
+          "size": 5908946,
+          "telegram_link": "https://t.me/c/-1004334091126/206"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 12] Seirei Gensouki 令.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 207,
+          "name": "Volumen 12",
+          "size": 5938409,
+          "telegram_link": "https://t.me/c/-1004334091126/207"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 13] Seirei Gensouki 令.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 208,
+          "name": "Volumen 13",
+          "size": 6584419,
+          "telegram_link": "https://t.me/c/-1004334091126/208"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 14] Seirei Gensouki 令.pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 209,
+          "name": "Volumen 14",
+          "size": 6039731,
+          "telegram_link": "https://t.me/c/-1004334091126/209"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 15] Seirei Gensouki 令.pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 210,
+          "name": "Volumen 15",
+          "size": 6130197,
+          "telegram_link": "https://t.me/c/-1004334091126/210"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 16] Seirei Gensouki 令.pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 211,
+          "name": "Volumen 16",
+          "size": 7610883,
+          "telegram_link": "https://t.me/c/-1004334091126/211"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 17] Seirei Gensouki 令.pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 212,
+          "name": "Volumen 17",
+          "size": 6299906,
+          "telegram_link": "https://t.me/c/-1004334091126/212"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            18
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 18] Seirei Gensouki 令.pdf",
+          "first": 18,
+          "is_novel_volume": true,
+          "last": 18,
+          "message_id": 213,
+          "name": "Volumen 18",
+          "size": 6131053,
+          "telegram_link": "https://t.me/c/-1004334091126/213"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            19
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 19] Seirei Gensouki 令.pdf",
+          "first": 19,
+          "is_novel_volume": true,
+          "last": 19,
+          "message_id": 214,
+          "name": "Volumen 19",
+          "size": 6657526,
+          "telegram_link": "https://t.me/c/-1004334091126/214"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            20
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 20] Seirei Gensouki 令.pdf",
+          "first": 20,
+          "is_novel_volume": true,
+          "last": 20,
+          "message_id": 215,
+          "name": "Volumen 20",
+          "size": 6595372,
+          "telegram_link": "https://t.me/c/-1004334091126/215"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Vol. 21] Seirei Gensouki 令.pdf",
+          "first": 21,
+          "is_novel_volume": true,
+          "last": 21,
+          "message_id": 216,
+          "name": "Volumen 21",
+          "size": 6174957,
+          "telegram_link": "https://t.me/c/-1004334091126/216"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki Volumen 22.pdf",
+          "first": 22,
+          "is_novel_volume": true,
+          "last": 22,
+          "message_id": 217,
+          "name": "Volumen 22",
+          "size": 5917812,
+          "telegram_link": "https://t.me/c/-1004334091126/217"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki Volumen 23.pdf",
+          "first": 23,
+          "is_novel_volume": true,
+          "last": 23,
+          "message_id": 218,
+          "name": "Volumen 23",
+          "size": 10382844,
+          "telegram_link": "https://t.me/c/-1004334091126/218"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            24
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki Volumen 24.pdf",
+          "first": 24,
+          "is_novel_volume": true,
+          "last": 24,
+          "message_id": 219,
+          "name": "Volumen 24",
+          "size": 6745539,
+          "telegram_link": "https://t.me/c/-1004334091126/219"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            25
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki Volumen 25.pdf",
+          "first": 25,
+          "is_novel_volume": true,
+          "last": 25,
+          "message_id": 220,
+          "name": "Volumen 25",
+          "size": 7303754,
+          "telegram_link": "https://t.me/c/-1004334091126/220"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            26
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki Volumen 26.pdf",
+          "first": 26,
+          "is_novel_volume": true,
+          "last": 26,
+          "message_id": 221,
+          "name": "Volumen 26",
+          "size": 8083195,
+          "telegram_link": "https://t.me/c/-1004334091126/221"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            27
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki - Volumen 27 [KasniaP].pdf",
+          "first": 27,
+          "is_novel_volume": true,
+          "last": 27,
+          "message_id": 222,
+          "name": "Volumen 27",
+          "size": 5796800,
+          "telegram_link": "https://t.me/c/-1004334091126/222"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            28
+          ],
+          "date": "2026-10-12T14:12:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Seirei Gensouki - Volumen 28 [KasniaP].pdf",
+          "first": 28,
+          "is_novel_volume": true,
+          "last": 28,
+          "message_id": 223,
+          "name": "Volumen 28",
+          "size": 4444838,
+          "telegram_link": "https://t.me/c/-1004334091126/223"
+        }
+      ],
+      "synopsis": "Amakawa Haruto es un joven que murió antes de reunirse con su amiga de la infancia que desapareció hace cinco años. Río es un chico que vive en los barrios marginales que quiere vengarse de su madre que fue asesinada frente a él cuando tenía cinco años. La tierra y otro mundo. Dos personas con historias y valores completamente diferentes...",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-12T14:08:08+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/tensei_shitara_slime_datta_ken.jpg",
+      "cover_message_id": 175,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/175",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Isekai",
+        "Reencarnación",
+        "Recuerdos de la vida",
+        "Harem"
+      ],
+      "hashtag": "#Tensei_shitara_slime_datta_ken",
+      "id": "tensei_shitara_slime_datta_ken",
+      "latest_chapter": 17,
+      "name": "Tensei shitara slime datta ken",
+      "package_count": 17,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/176_38%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=07dd6cdbdd0d47dc545f718adea07755fcc3f2fcfbe685de37a9e77f5ffb2f27",
+          "filename": "[Volumen 01] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 176,
+          "name": "Volumen 1",
+          "size": 7197808,
+          "telegram_link": "https://t.me/c/-1004334091126/176"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/177_39%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3ec73a17a9b4684021448b431b200fac9cef08777800c5ed0b4aba9f4f6c6990",
+          "filename": "[Volumen 02] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 177,
+          "name": "Volumen 2",
+          "size": 7789201,
+          "telegram_link": "https://t.me/c/-1004334091126/177"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 03] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 178,
+          "name": "Volumen 3",
+          "size": 7126539,
+          "telegram_link": "https://t.me/c/-1004334091126/178"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 04] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 179,
+          "name": "Volumen 4",
+          "size": 7300439,
+          "telegram_link": "https://t.me/c/-1004334091126/179"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 05] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 180,
+          "name": "Volumen 5",
+          "size": 8227743,
+          "telegram_link": "https://t.me/c/-1004334091126/180"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 06] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 181,
+          "name": "Volumen 6",
+          "size": 9665528,
+          "telegram_link": "https://t.me/c/-1004334091126/181"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 07] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 182,
+          "name": "Volumen 7",
+          "size": 8515173,
+          "telegram_link": "https://t.me/c/-1004334091126/182"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 08] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 183,
+          "name": "Volumen 8",
+          "size": 7182524,
+          "telegram_link": "https://t.me/c/-1004334091126/183"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 09] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 184,
+          "name": "Volumen 9",
+          "size": 7949061,
+          "telegram_link": "https://t.me/c/-1004334091126/184"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 10] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 185,
+          "name": "Volumen 10",
+          "size": 7672362,
+          "telegram_link": "https://t.me/c/-1004334091126/185"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 11] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 186,
+          "name": "Volumen 11",
+          "size": 7092247,
+          "telegram_link": "https://t.me/c/-1004334091126/186"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 12] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 187,
+          "name": "Volumen 12",
+          "size": 8059702,
+          "telegram_link": "https://t.me/c/-1004334091126/187"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 13] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 188,
+          "name": "Volumen 13",
+          "size": 7583822,
+          "telegram_link": "https://t.me/c/-1004334091126/188"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 14] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 14,
+          "is_novel_volume": true,
+          "last": 14,
+          "message_id": 189,
+          "name": "Volumen 14",
+          "size": 6483709,
+          "telegram_link": "https://t.me/c/-1004334091126/189"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 15] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 190,
+          "name": "Volumen 15",
+          "size": 6108962,
+          "telegram_link": "https://t.me/c/-1004334091126/190"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 16] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 191,
+          "name": "Volumen 16",
+          "size": 9434779,
+          "telegram_link": "https://t.me/c/-1004334091126/191"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T14:08:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 17] • Tensei Shitara Slime Datta Ken.pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 192,
+          "name": "Volumen 17",
+          "size": 5607940,
+          "telegram_link": "https://t.me/c/-1004334091126/192"
+        }
+      ],
+      "synopsis": "",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-03T23:48:23+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/the_beginning_after_the_end.jpg",
       "cover_message_id": 56,
@@ -1061,9 +2860,9 @@
       ],
       "hashtag": "#The_Great_Cleric",
       "id": "the_great_cleric",
-      "latest_chapter": 13,
+      "latest_chapter": 28,
       "name": "The Great Cleric",
-      "package_count": 13,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1085,6 +2884,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 01] • ReZero.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 158,
+          "name": "Volumen 1",
+          "size": 5503130,
+          "telegram_link": "https://t.me/c/-1004334091126/158"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             2
           ],
           "date": "2026-10-04T13:07:24+00:00",
@@ -1098,6 +2914,23 @@
           "name": "Volumen 2",
           "size": 6786021,
           "telegram_link": "https://t.me/c/-1004334091126/72"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 02] • ReZero.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 159,
+          "name": "Volumen 2",
+          "size": 13995728,
+          "telegram_link": "https://t.me/c/-1004334091126/159"
         },
         {
           "channel_id": -1004334091126,
@@ -1119,6 +2952,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 03] • ReZero.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 160,
+          "name": "Volumen 3",
+          "size": 14867243,
+          "telegram_link": "https://t.me/c/-1004334091126/160"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             4
           ],
           "date": "2026-10-04T13:07:24+00:00",
@@ -1132,6 +2982,23 @@
           "name": "Volumen 4",
           "size": 4857427,
           "telegram_link": "https://t.me/c/-1004334091126/74"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 04] • ReZero.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 161,
+          "name": "Volumen 4",
+          "size": 9133204,
+          "telegram_link": "https://t.me/c/-1004334091126/161"
         },
         {
           "channel_id": -1004334091126,
@@ -1153,6 +3020,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 05] • ReZero.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 162,
+          "name": "Volumen 5",
+          "size": 7560793,
+          "telegram_link": "https://t.me/c/-1004334091126/162"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             6
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -1166,6 +3050,23 @@
           "name": "Volumen 6",
           "size": 7104958,
           "telegram_link": "https://t.me/c/-1004334091126/76"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 06] • ReZero.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 163,
+          "name": "Volumen 6",
+          "size": 14523580,
+          "telegram_link": "https://t.me/c/-1004334091126/163"
         },
         {
           "channel_id": -1004334091126,
@@ -1204,6 +3105,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 08] • ReZero.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 165,
+          "name": "Volumen 8",
+          "size": 16357566,
+          "telegram_link": "https://t.me/c/-1004334091126/165"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             9
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -1217,6 +3135,23 @@
           "name": "Volumen 9",
           "size": 12755209,
           "telegram_link": "https://t.me/c/-1004334091126/79"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/166_%5B%2333%5D%20%E2%80%A2%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7dd6a7bb5640a3df319e78751ad9f64cc1b91f0eab5b13c14ba571e9b0106dba",
+          "filename": "[Volumen 09] • ReZero.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 166,
+          "name": "Volumen 9",
+          "size": 7816735,
+          "telegram_link": "https://t.me/c/-1004334091126/166"
         },
         {
           "channel_id": -1004334091126,
@@ -1238,6 +3173,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/167_%5B%2334%5D%20%E2%80%A2%20El%20Perro%20Loco%20De%20La%20Mansi%C3%B3n%20Del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2b8179d6ecca84cca5f61f39aa641068194e24ee6d707dc446a052d1c447e27a",
+          "filename": "[Volumen 10] • ReZero.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 167,
+          "name": "Volumen 10",
+          "size": 6590542,
+          "telegram_link": "https://t.me/c/-1004334091126/167"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             11
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -1251,6 +3203,23 @@
           "name": "Volumen 11",
           "size": 9696885,
           "telegram_link": "https://t.me/c/-1004334091126/81"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 11] • ReZero.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 168,
+          "name": "Volumen 11",
+          "size": 6373681,
+          "telegram_link": "https://t.me/c/-1004334091126/168"
         },
         {
           "channel_id": -1004334091126,
@@ -1272,6 +3241,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 12] • ReZero.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 169,
+          "name": "Volumen 12",
+          "size": 7303098,
+          "telegram_link": "https://t.me/c/-1004334091126/169"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             13
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -1285,6 +3271,74 @@
           "name": "Volumen 13",
           "size": 11989914,
           "telegram_link": "https://t.me/c/-1004334091126/83"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 13] • ReZero.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 170,
+          "name": "Volumen 13",
+          "size": 6424934,
+          "telegram_link": "https://t.me/c/-1004334091126/170"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 15] • ReZero.pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 172,
+          "name": "Volumen 15",
+          "size": 8919690,
+          "telegram_link": "https://t.me/c/-1004334091126/172"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 16] • ReZero.pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 173,
+          "name": "Volumen 16",
+          "size": 9138472,
+          "telegram_link": "https://t.me/c/-1004334091126/173"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/174_35%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a990706cb13517d88e993fb68af62b3f3a31abeb2c8413f72070256af6eefa6",
+          "filename": "[Volumen 17] • ReZero.pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 174,
+          "name": "Volumen 17",
+          "size": 8982147,
+          "telegram_link": "https://t.me/c/-1004334091126/174"
         }
       ],
       "synopsis": "✔️ Género: Acción, Artes marciales, Aventura, Comedia, Fantasía, Misterio, Recuentos de la vida, Shounen.\n⚜️📛 Sinopsis...\nCierto día, el Dios del Destino de la Tierra y el Dios Supremo de Galdardia hicieron una apuesta.\nEl Dios del Destino perdió, y eligió diez almas mediocres a las cuales entregó como premio.\nA esas diez almas, el Dios Principal de Galdardia les entregó nuevos contenedores.\nY entre esas almas mediocres había un asalariado que luchó contra su propio destino mortal.\n¿Cuál será el futuro de este hombre?.",
@@ -48884,6 +50938,322 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-12T14:02:38+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/un_nigromante_en_la_familia_de_espadachines.jpg",
+      "cover_message_id": 148,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/148",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Reencarnación",
+        "Isekai",
+        "Sobrenatural"
+      ],
+      "hashtag": "#Un_Nigromante_en_la_familia_de_espadachines",
+      "id": "un_nigromante_en_la_familia_de_espadachines",
+      "latest_chapter": 27,
+      "name": "Un Nigromante en la familia de espadachines",
+      "package_count": 19,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "00-08 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 0,
+          "last": 8,
+          "message_id": 5243,
+          "name": "0-8",
+          "size": 107596100,
+          "telegram_link": "https://t.me/manhuasgratis/5243"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "9 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 9,
+          "last": 9,
+          "message_id": 5244,
+          "name": "9",
+          "size": 12635000,
+          "telegram_link": "https://t.me/manhuasgratis/5244"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            10,
+            11
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "10-11 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 10,
+          "last": 11,
+          "message_id": 5245,
+          "name": "10-11",
+          "size": 21555181,
+          "telegram_link": "https://t.me/manhuasgratis/5245"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "12 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 12,
+          "last": 12,
+          "message_id": 5246,
+          "name": "12",
+          "size": 9740151,
+          "telegram_link": "https://t.me/manhuasgratis/5246"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "13 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 13,
+          "last": 13,
+          "message_id": 5247,
+          "name": "13",
+          "size": 11602213,
+          "telegram_link": "https://t.me/manhuasgratis/5247"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "14 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 14,
+          "last": 14,
+          "message_id": 5248,
+          "name": "14",
+          "size": 11671299,
+          "telegram_link": "https://t.me/manhuasgratis/5248"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "15 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 15,
+          "last": 15,
+          "message_id": 5249,
+          "name": "15",
+          "size": 16218034,
+          "telegram_link": "https://t.me/manhuasgratis/5249"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "16 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 5250,
+          "name": "16",
+          "size": 17642163,
+          "telegram_link": "https://t.me/manhuasgratis/5250"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T14:02:38+00:00",
+          "download_ready": true,
+          "filename": "17 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 17,
+          "last": 17,
+          "message_id": 5251,
+          "name": "17",
+          "size": 11389854,
+          "telegram_link": "https://t.me/manhuasgratis/5251"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            18
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "18 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 18,
+          "last": 18,
+          "message_id": 5252,
+          "name": "18",
+          "size": 13193304,
+          "telegram_link": "https://t.me/manhuasgratis/5252"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            19
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "19 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 19,
+          "last": 19,
+          "message_id": 5253,
+          "name": "19",
+          "size": 12846978,
+          "telegram_link": "https://t.me/manhuasgratis/5253"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            20
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "20 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 20,
+          "last": 20,
+          "message_id": 5254,
+          "name": "20",
+          "size": 12627760,
+          "telegram_link": "https://t.me/manhuasgratis/5254"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "21 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 5255,
+          "name": "21",
+          "size": 11452206,
+          "telegram_link": "https://t.me/manhuasgratis/5255"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "22 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 5256,
+          "name": "22",
+          "size": 10780875,
+          "telegram_link": "https://t.me/manhuasgratis/5256"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "23 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 23,
+          "last": 23,
+          "message_id": 5257,
+          "name": "23",
+          "size": 12098372,
+          "telegram_link": "https://t.me/manhuasgratis/5257"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            24
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "24 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 24,
+          "last": 24,
+          "message_id": 5258,
+          "name": "24",
+          "size": 9733955,
+          "telegram_link": "https://t.me/manhuasgratis/5258"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            25
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "25 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 25,
+          "last": 25,
+          "message_id": 5259,
+          "name": "25",
+          "size": 10233292,
+          "telegram_link": "https://t.me/manhuasgratis/5259"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            26
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "26 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 5260,
+          "name": "26",
+          "size": 11636500,
+          "telegram_link": "https://t.me/manhuasgratis/5260"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            27
+          ],
+          "date": "2026-10-12T14:02:39+00:00",
+          "download_ready": true,
+          "filename": "27 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 5261,
+          "name": "27",
+          "size": 12123110,
+          "telegram_link": "https://t.me/manhuasgratis/5261"
+        }
+      ],
+      "synopsis": "Archimond, el nigromante más poderoso que en su día sumió al continente en el terror, había perdido la vida a manos de la espada del héroe Berkel Reinland. Y 200 años después, renació como un bebé de un determinado clan de espadachines y pronunció sus primeras palabras: «¡Guardianes de la oscuridad, mis siervos, mis soldados, obedeced mi orden!»",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-07T12:07:58+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/versatile_mage.jpg",
       "cover_message_id": 48,
@@ -51169,6 +53539,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-12T13:32:19.015439+00:00",
+  "updated_at": "2026-10-12T14:26:53.667027+00:00",
   "version": 3
 }
