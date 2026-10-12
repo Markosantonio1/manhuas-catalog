@@ -27,8 +27,8 @@
             1
           ],
           "date": "2026-10-12T14:18:23+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/260_%5BVolumen%2001%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143450Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c133e3e621a7b645a2c713eb549299dec473c669b95cad2e5603a54a849101d",
+          "download_ready": false,
+          "download_url": null,
           "filename": "[Volumen 01] • Arifureta.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -1782,10 +1782,112 @@
       ],
       "hashtag": "#Rezero_kara_hajimeru_isekai_seikatsu",
       "id": "rezero_kara_hajimeru_isekai_seikatsu",
-      "latest_chapter": 2,
+      "latest_chapter": 17,
       "name": "Rezero kara hajimeru isekai seikatsu",
-      "package_count": 2,
+      "package_count": 17,
       "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 01] • ReZero.pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 158,
+          "name": "Volumen 1",
+          "size": 5503130,
+          "telegram_link": "https://t.me/c/-1004334091126/158"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 02] • ReZero.pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 159,
+          "name": "Volumen 2",
+          "size": 13995728,
+          "telegram_link": "https://t.me/c/-1004334091126/159"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 03] • ReZero.pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 160,
+          "name": "Volumen 3",
+          "size": 14867243,
+          "telegram_link": "https://t.me/c/-1004334091126/160"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 04] • ReZero.pdf",
+          "first": 4,
+          "is_novel_volume": true,
+          "last": 4,
+          "message_id": 161,
+          "name": "Volumen 4",
+          "size": 9133204,
+          "telegram_link": "https://t.me/c/-1004334091126/161"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 05] • ReZero.pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 162,
+          "name": "Volumen 5",
+          "size": 7560793,
+          "telegram_link": "https://t.me/c/-1004334091126/162"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 06] • ReZero.pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 163,
+          "name": "Volumen 6",
+          "size": 14523580,
+          "telegram_link": "https://t.me/c/-1004334091126/163"
+        },
         {
           "channel_id": -1004334091126,
           "chapters": [
@@ -1806,6 +1908,106 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            8
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 08] • ReZero.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 165,
+          "name": "Volumen 8",
+          "size": 16357566,
+          "telegram_link": "https://t.me/c/-1004334091126/165"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "filename": "[Volumen 09] • ReZero.pdf",
+          "first": 9,
+          "is_novel_volume": true,
+          "last": 9,
+          "message_id": 166,
+          "name": "Volumen 9",
+          "size": 7816735,
+          "telegram_link": "https://t.me/c/-1004334091126/166"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "filename": "[Volumen 10] • ReZero.pdf",
+          "first": 10,
+          "is_novel_volume": true,
+          "last": 10,
+          "message_id": 167,
+          "name": "Volumen 10",
+          "size": 6590542,
+          "telegram_link": "https://t.me/c/-1004334091126/167"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 11] • ReZero.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 168,
+          "name": "Volumen 11",
+          "size": 6373681,
+          "telegram_link": "https://t.me/c/-1004334091126/168"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 12] • ReZero.pdf",
+          "first": 12,
+          "is_novel_volume": true,
+          "last": 12,
+          "message_id": 169,
+          "name": "Volumen 12",
+          "size": 7303098,
+          "telegram_link": "https://t.me/c/-1004334091126/169"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 13] • ReZero.pdf",
+          "first": 13,
+          "is_novel_volume": true,
+          "last": 13,
+          "message_id": 170,
+          "name": "Volumen 13",
+          "size": 6424934,
+          "telegram_link": "https://t.me/c/-1004334091126/170"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             14
           ],
           "date": "2026-10-12T14:08:08+00:00",
@@ -1819,6 +2021,56 @@
           "name": "Volumen 14",
           "size": 7536246,
           "telegram_link": "https://t.me/c/-1004334091126/171"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 15] • ReZero.pdf",
+          "first": 15,
+          "is_novel_volume": true,
+          "last": 15,
+          "message_id": 172,
+          "name": "Volumen 15",
+          "size": 8919690,
+          "telegram_link": "https://t.me/c/-1004334091126/172"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "[Volumen 16] • ReZero.pdf",
+          "first": 16,
+          "is_novel_volume": true,
+          "last": 16,
+          "message_id": 173,
+          "name": "Volumen 16",
+          "size": 9138472,
+          "telegram_link": "https://t.me/c/-1004334091126/173"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-12T14:08:08+00:00",
+          "download_ready": true,
+          "filename": "[Volumen 17] • ReZero.pdf",
+          "first": 17,
+          "is_novel_volume": true,
+          "last": 17,
+          "message_id": 174,
+          "name": "Volumen 17",
+          "size": 8982147,
+          "telegram_link": "https://t.me/c/-1004334091126/174"
         }
       ],
       "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chico de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
@@ -2351,7 +2603,6 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/176_38%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=07dd6cdbdd0d47dc545f718adea07755fcc3f2fcfbe685de37a9e77f5ffb2f27",
           "filename": "[Volumen 01] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -2368,7 +2619,6 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/177_39%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3ec73a17a9b4684021448b431b200fac9cef08777800c5ed0b4aba9f4f6c6990",
           "filename": "[Volumen 02] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -2860,9 +3110,9 @@
       ],
       "hashtag": "#The_Great_Cleric",
       "id": "the_great_cleric",
-      "latest_chapter": 28,
+      "latest_chapter": 13,
       "name": "The Great Cleric",
-      "package_count": 28,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -2884,23 +3134,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            1
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 01] • ReZero.pdf",
-          "first": 1,
-          "is_novel_volume": true,
-          "last": 1,
-          "message_id": 158,
-          "name": "Volumen 1",
-          "size": 5503130,
-          "telegram_link": "https://t.me/c/-1004334091126/158"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             2
           ],
           "date": "2026-10-04T13:07:24+00:00",
@@ -2914,23 +3147,6 @@
           "name": "Volumen 2",
           "size": 6786021,
           "telegram_link": "https://t.me/c/-1004334091126/72"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            2
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 02] • ReZero.pdf",
-          "first": 2,
-          "is_novel_volume": true,
-          "last": 2,
-          "message_id": 159,
-          "name": "Volumen 2",
-          "size": 13995728,
-          "telegram_link": "https://t.me/c/-1004334091126/159"
         },
         {
           "channel_id": -1004334091126,
@@ -2952,23 +3168,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            3
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 03] • ReZero.pdf",
-          "first": 3,
-          "is_novel_volume": true,
-          "last": 3,
-          "message_id": 160,
-          "name": "Volumen 3",
-          "size": 14867243,
-          "telegram_link": "https://t.me/c/-1004334091126/160"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             4
           ],
           "date": "2026-10-04T13:07:24+00:00",
@@ -2982,23 +3181,6 @@
           "name": "Volumen 4",
           "size": 4857427,
           "telegram_link": "https://t.me/c/-1004334091126/74"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            4
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 04] • ReZero.pdf",
-          "first": 4,
-          "is_novel_volume": true,
-          "last": 4,
-          "message_id": 161,
-          "name": "Volumen 4",
-          "size": 9133204,
-          "telegram_link": "https://t.me/c/-1004334091126/161"
         },
         {
           "channel_id": -1004334091126,
@@ -3020,23 +3202,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            5
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 05] • ReZero.pdf",
-          "first": 5,
-          "is_novel_volume": true,
-          "last": 5,
-          "message_id": 162,
-          "name": "Volumen 5",
-          "size": 7560793,
-          "telegram_link": "https://t.me/c/-1004334091126/162"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             6
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -3050,23 +3215,6 @@
           "name": "Volumen 6",
           "size": 7104958,
           "telegram_link": "https://t.me/c/-1004334091126/76"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            6
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 06] • ReZero.pdf",
-          "first": 6,
-          "is_novel_volume": true,
-          "last": 6,
-          "message_id": 163,
-          "name": "Volumen 6",
-          "size": 14523580,
-          "telegram_link": "https://t.me/c/-1004334091126/163"
         },
         {
           "channel_id": -1004334091126,
@@ -3105,23 +3253,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            8
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 08] • ReZero.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 165,
-          "name": "Volumen 8",
-          "size": 16357566,
-          "telegram_link": "https://t.me/c/-1004334091126/165"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             9
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -3135,23 +3266,6 @@
           "name": "Volumen 9",
           "size": 12755209,
           "telegram_link": "https://t.me/c/-1004334091126/79"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            9
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/166_%5B%2333%5D%20%E2%80%A2%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7dd6a7bb5640a3df319e78751ad9f64cc1b91f0eab5b13c14ba571e9b0106dba",
-          "filename": "[Volumen 09] • ReZero.pdf",
-          "first": 9,
-          "is_novel_volume": true,
-          "last": 9,
-          "message_id": 166,
-          "name": "Volumen 9",
-          "size": 7816735,
-          "telegram_link": "https://t.me/c/-1004334091126/166"
         },
         {
           "channel_id": -1004334091126,
@@ -3173,23 +3287,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            10
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/167_%5B%2334%5D%20%E2%80%A2%20El%20Perro%20Loco%20De%20La%20Mansi%C3%B3n%20Del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2b8179d6ecca84cca5f61f39aa641068194e24ee6d707dc446a052d1c447e27a",
-          "filename": "[Volumen 10] • ReZero.pdf",
-          "first": 10,
-          "is_novel_volume": true,
-          "last": 10,
-          "message_id": 167,
-          "name": "Volumen 10",
-          "size": 6590542,
-          "telegram_link": "https://t.me/c/-1004334091126/167"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             11
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -3203,23 +3300,6 @@
           "name": "Volumen 11",
           "size": 9696885,
           "telegram_link": "https://t.me/c/-1004334091126/81"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            11
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 11] • ReZero.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 168,
-          "name": "Volumen 11",
-          "size": 6373681,
-          "telegram_link": "https://t.me/c/-1004334091126/168"
         },
         {
           "channel_id": -1004334091126,
@@ -3241,23 +3321,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            12
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 12] • ReZero.pdf",
-          "first": 12,
-          "is_novel_volume": true,
-          "last": 12,
-          "message_id": 169,
-          "name": "Volumen 12",
-          "size": 7303098,
-          "telegram_link": "https://t.me/c/-1004334091126/169"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             13
           ],
           "date": "2026-10-04T13:07:25+00:00",
@@ -3271,74 +3334,6 @@
           "name": "Volumen 13",
           "size": 11989914,
           "telegram_link": "https://t.me/c/-1004334091126/83"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            13
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 13] • ReZero.pdf",
-          "first": 13,
-          "is_novel_volume": true,
-          "last": 13,
-          "message_id": 170,
-          "name": "Volumen 13",
-          "size": 6424934,
-          "telegram_link": "https://t.me/c/-1004334091126/170"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            15
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 15] • ReZero.pdf",
-          "first": 15,
-          "is_novel_volume": true,
-          "last": 15,
-          "message_id": 172,
-          "name": "Volumen 15",
-          "size": 8919690,
-          "telegram_link": "https://t.me/c/-1004334091126/172"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            16
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "[Volumen 16] • ReZero.pdf",
-          "first": 16,
-          "is_novel_volume": true,
-          "last": 16,
-          "message_id": 173,
-          "name": "Volumen 16",
-          "size": 9138472,
-          "telegram_link": "https://t.me/c/-1004334091126/173"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            17
-          ],
-          "date": "2026-10-12T14:08:08+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/174_35%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a990706cb13517d88e993fb68af62b3f3a31abeb2c8413f72070256af6eefa6",
-          "filename": "[Volumen 17] • ReZero.pdf",
-          "first": 17,
-          "is_novel_volume": true,
-          "last": 17,
-          "message_id": 174,
-          "name": "Volumen 17",
-          "size": 8982147,
-          "telegram_link": "https://t.me/c/-1004334091126/174"
         }
       ],
       "synopsis": "✔️ Género: Acción, Artes marciales, Aventura, Comedia, Fantasía, Misterio, Recuentos de la vida, Shounen.\n⚜️📛 Sinopsis...\nCierto día, el Dios del Destino de la Tierra y el Dios Supremo de Galdardia hicieron una apuesta.\nEl Dios del Destino perdió, y eligió diez almas mediocres a las cuales entregó como premio.\nA esas diez almas, el Dios Principal de Galdardia les entregó nuevos contenedores.\nY entre esas almas mediocres había un asalariado que luchó contra su propio destino mortal.\n¿Cuál será el futuro de este hombre?.",
@@ -50976,8 +50971,7 @@
           "message_id": 5243,
           "name": "0-8",
           "size": 107596100,
-          "telegram_link": "https://t.me/manhuasgratis/5243",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5243_00-08%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T142914Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7162d5f4160e7a9d68f7aba7579c0d88e5a65a36108c311b98351ee7658bc3b9"
+          "telegram_link": "https://t.me/manhuasgratis/5243"
         },
         {
           "channel_id": -1003003829878,
@@ -50992,8 +50986,7 @@
           "message_id": 5244,
           "name": "9",
           "size": 12635000,
-          "telegram_link": "https://t.me/manhuasgratis/5244",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5244_9%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T142927Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d11c2268c782a5f1eb63a079eac072d8d7c0f7e1752cc1ba73920c25ef5d951b"
+          "telegram_link": "https://t.me/manhuasgratis/5244"
         },
         {
           "channel_id": -1003003829878,
@@ -51009,8 +51002,7 @@
           "message_id": 5245,
           "name": "10-11",
           "size": 21555181,
-          "telegram_link": "https://t.me/manhuasgratis/5245",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5245_10-11%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T142954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ad0d767c0718e5c2c7504735af8080e4e78b80568e7b12997a1e96b8bfd5e6d"
+          "telegram_link": "https://t.me/manhuasgratis/5245"
         },
         {
           "channel_id": -1003003829878,
@@ -51025,8 +51017,7 @@
           "message_id": 5246,
           "name": "12",
           "size": 9740151,
-          "telegram_link": "https://t.me/manhuasgratis/5246",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5246_12%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143008Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=82899be4d5f1d92d3abd4ab0b6a786f1fac529df4f82893852a8a815b1292c17"
+          "telegram_link": "https://t.me/manhuasgratis/5246"
         },
         {
           "channel_id": -1003003829878,
@@ -51041,8 +51032,7 @@
           "message_id": 5247,
           "name": "13",
           "size": 11602213,
-          "telegram_link": "https://t.me/manhuasgratis/5247",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5247_13%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7bfa1cf1413bb29a99353fcba5e15a8315a078995f191becb0f4d7bb973a8ee7"
+          "telegram_link": "https://t.me/manhuasgratis/5247"
         },
         {
           "channel_id": -1003003829878,
@@ -51057,8 +51047,7 @@
           "message_id": 5248,
           "name": "14",
           "size": 11671299,
-          "telegram_link": "https://t.me/manhuasgratis/5248",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5248_14%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143041Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2717481d784addd1912a8fc66b4207467bc8a5dc9938a3c52416db75ee303d9c"
+          "telegram_link": "https://t.me/manhuasgratis/5248"
         },
         {
           "channel_id": -1003003829878,
@@ -51073,8 +51062,7 @@
           "message_id": 5249,
           "name": "15",
           "size": 16218034,
-          "telegram_link": "https://t.me/manhuasgratis/5249",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5249_15%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143102Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=360efb302f801158bad4c460fa2fa060278cbe8caef104ae35b535eef9ed34bf"
+          "telegram_link": "https://t.me/manhuasgratis/5249"
         },
         {
           "channel_id": -1003003829878,
@@ -51089,8 +51077,7 @@
           "message_id": 5250,
           "name": "16",
           "size": 17642163,
-          "telegram_link": "https://t.me/manhuasgratis/5250",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5250_16%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143128Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70f07782afeb72f4d4080bce2914b091f99f5ff357b6584c39dd3af542687bf7"
+          "telegram_link": "https://t.me/manhuasgratis/5250"
         },
         {
           "channel_id": -1003003829878,
@@ -51105,8 +51092,7 @@
           "message_id": 5251,
           "name": "17",
           "size": 11389854,
-          "telegram_link": "https://t.me/manhuasgratis/5251",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5251_17%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143143Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=67d806db65d6f758a6fe2f047565bfc010c5d2535567d000f752afdd11c39308"
+          "telegram_link": "https://t.me/manhuasgratis/5251"
         },
         {
           "channel_id": -1003003829878,
@@ -51121,8 +51107,7 @@
           "message_id": 5252,
           "name": "18",
           "size": 13193304,
-          "telegram_link": "https://t.me/manhuasgratis/5252",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5252_18%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143202Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6b8006fd4e65871717bfde7156f494cc23600944a00d0efdd7bae53d93da1db"
+          "telegram_link": "https://t.me/manhuasgratis/5252"
         },
         {
           "channel_id": -1003003829878,
@@ -51137,8 +51122,7 @@
           "message_id": 5253,
           "name": "19",
           "size": 12846978,
-          "telegram_link": "https://t.me/manhuasgratis/5253",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5253_19%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143222Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b8605c8aabbf5bb9d05dc2d79d08879ab2635ac6c422021d5136960a8f7684e3"
+          "telegram_link": "https://t.me/manhuasgratis/5253"
         },
         {
           "channel_id": -1003003829878,
@@ -51153,8 +51137,7 @@
           "message_id": 5254,
           "name": "20",
           "size": 12627760,
-          "telegram_link": "https://t.me/manhuasgratis/5254",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5254_20%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143239Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee2c826e7e17609bc7da987b314fc19f591c3772f78982ab7a8067a89fe9a319"
+          "telegram_link": "https://t.me/manhuasgratis/5254"
         },
         {
           "channel_id": -1003003829878,
@@ -51169,8 +51152,7 @@
           "message_id": 5255,
           "name": "21",
           "size": 11452206,
-          "telegram_link": "https://t.me/manhuasgratis/5255",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5255_21%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4d31dd93542dd5a55ad7ee7b2709511aa4a0eeabc7c04ec87484926369c455d0"
+          "telegram_link": "https://t.me/manhuasgratis/5255"
         },
         {
           "channel_id": -1003003829878,
@@ -51185,8 +51167,7 @@
           "message_id": 5256,
           "name": "22",
           "size": 10780875,
-          "telegram_link": "https://t.me/manhuasgratis/5256",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5256_22%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143310Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=10a7082f7a5f736e28e865e259b4e095b0acea1c2c74adbbd51b3ca3eb895d32"
+          "telegram_link": "https://t.me/manhuasgratis/5256"
         },
         {
           "channel_id": -1003003829878,
@@ -51201,8 +51182,7 @@
           "message_id": 5257,
           "name": "23",
           "size": 12098372,
-          "telegram_link": "https://t.me/manhuasgratis/5257",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5257_23%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143329Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=74c5cbc1b4a93844d788be255a78a4aea109e8fd1ea80b973858f47e23850f41"
+          "telegram_link": "https://t.me/manhuasgratis/5257"
         },
         {
           "channel_id": -1003003829878,
@@ -51217,8 +51197,7 @@
           "message_id": 5258,
           "name": "24",
           "size": 9733955,
-          "telegram_link": "https://t.me/manhuasgratis/5258",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5258_24%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143345Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cb9fa03125fe53269aa1a84131bc032e3880955994967b5cbc00bd74daf5e016"
+          "telegram_link": "https://t.me/manhuasgratis/5258"
         },
         {
           "channel_id": -1003003829878,
@@ -51233,8 +51212,7 @@
           "message_id": 5259,
           "name": "25",
           "size": 10233292,
-          "telegram_link": "https://t.me/manhuasgratis/5259",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5259_25%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143405Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0534438097e9781f2a69a8c5da80790da47d6dae660a1767a6833ef6d42aba20"
+          "telegram_link": "https://t.me/manhuasgratis/5259"
         },
         {
           "channel_id": -1003003829878,
@@ -51249,8 +51227,7 @@
           "message_id": 5260,
           "name": "26",
           "size": 11636500,
-          "telegram_link": "https://t.me/manhuasgratis/5260",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5260_26%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143425Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=664ddccb7a11f6788b5c5d17395e536dea6e45fda470b528aafb05d0ea5bcd6e"
+          "telegram_link": "https://t.me/manhuasgratis/5260"
         },
         {
           "channel_id": -1003003829878,
@@ -51265,8 +51242,7 @@
           "message_id": 5261,
           "name": "27",
           "size": 12123110,
-          "telegram_link": "https://t.me/manhuasgratis/5261",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5261_27%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T143442Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3e2ba6b85cc37d2d0c49be013240f0511263169f4544320c00b1bd7380aeab03"
+          "telegram_link": "https://t.me/manhuasgratis/5261"
         }
       ],
       "synopsis": "Archimond, el nigromante más poderoso que en su día sumió al continente en el terror, había perdido la vida a manos de la espada del héroe Berkel Reinland. Y 200 años después, renació como un bebé de un determinado clan de espadachines y pronunció sus primeras palabras: «¡Guardianes de la oscuridad, mis siervos, mis soldados, obedeced mi orden!»",
@@ -53558,6 +53534,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-12T14:26:53.667027+00:00",
+  "updated_at": "2026-10-12T14:38:29.467777+00:00",
   "version": 3
 }
