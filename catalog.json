@@ -28,7 +28,7 @@
           ],
           "date": "2026-10-12T14:18:23+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/260_%5BVolumen%2001%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cbaf7759feb4c4e029df1f7a1d576040bd9ecbdb0ad34326b7e99ad5bb72281f",
           "filename": "[Volumen 01] • Arifureta.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -45,7 +45,7 @@
           ],
           "date": "2026-10-12T14:18:23+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/261_%5BVolumen%2002%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d476491e5c2b618fef9b37c196f6fcd82c896e1032f065286152d28739b0c8a",
           "filename": "[Volumen 02] • Arifureta.pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -62,7 +62,7 @@
           ],
           "date": "2026-10-12T14:18:23+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/262_%5BVolumen%2003%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=082528a6e64bcad2f7e7b6a10e5aea0d780bb4e176b6d9078b41acda63b36d3b",
           "filename": "[Volumen 03] • Arifureta.pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -79,7 +79,7 @@
           ],
           "date": "2026-10-12T14:18:23+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/263_%5BVolumen%2004%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9822211f1c90dfa930593405f55fbf4ba484b96dfc2084718a6d73acc1d9dff5",
           "filename": "[Volumen 04] • Arifureta.pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -96,7 +96,7 @@
           ],
           "date": "2026-10-12T14:18:23+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/264_%5BVolumen%2005%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=efa49f34dec8e7a7dac5271082ae175cecca901443a9be930fe756779ccea02f",
           "filename": "[Volumen 05] • Arifureta.pdf",
           "first": 5,
           "is_novel_volume": true,
@@ -50971,7 +50971,8 @@
           "message_id": 5243,
           "name": "0-8",
           "size": 107596100,
-          "telegram_link": "https://t.me/manhuasgratis/5243"
+          "telegram_link": "https://t.me/manhuasgratis/5243",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5243_00-08%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4676ca48d0adb7b6f645f2e795185c8a9221cc33c808b558bb18bc19f950f97"
         },
         {
           "channel_id": -1003003829878,
@@ -50986,7 +50987,8 @@
           "message_id": 5244,
           "name": "9",
           "size": 12635000,
-          "telegram_link": "https://t.me/manhuasgratis/5244"
+          "telegram_link": "https://t.me/manhuasgratis/5244",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5244_9%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0328a26d27aded89b80c03eff40571d40a6c0692810d5d8b35a352388074c4a0"
         },
         {
           "channel_id": -1003003829878,
@@ -51002,7 +51004,8 @@
           "message_id": 5245,
           "name": "10-11",
           "size": 21555181,
-          "telegram_link": "https://t.me/manhuasgratis/5245"
+          "telegram_link": "https://t.me/manhuasgratis/5245",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5245_10-11%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d999191d3fedb3e04768fe417230eccc3a0bfc9cd2fe07007c20bf2c3387a7f"
         },
         {
           "channel_id": -1003003829878,
@@ -51017,7 +51020,8 @@
           "message_id": 5246,
           "name": "12",
           "size": 9740151,
-          "telegram_link": "https://t.me/manhuasgratis/5246"
+          "telegram_link": "https://t.me/manhuasgratis/5246",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5246_12%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=79fbd617f4d4808d7bff3e749bfe726b842b2a1582cf340c0c50bd8a12ca8d21"
         },
         {
           "channel_id": -1003003829878,
@@ -51032,7 +51036,8 @@
           "message_id": 5247,
           "name": "13",
           "size": 11602213,
-          "telegram_link": "https://t.me/manhuasgratis/5247"
+          "telegram_link": "https://t.me/manhuasgratis/5247",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5247_13%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9f2ed66dd5a3f18b1339e716f5241f9879da2723e693d3b31a120fdf1981039"
         },
         {
           "channel_id": -1003003829878,
@@ -51047,7 +51052,8 @@
           "message_id": 5248,
           "name": "14",
           "size": 11671299,
-          "telegram_link": "https://t.me/manhuasgratis/5248"
+          "telegram_link": "https://t.me/manhuasgratis/5248",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5248_14%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2512e16b9b47f61577b97867816d58d9364ff414f97274c6851b6b338e695a62"
         },
         {
           "channel_id": -1003003829878,
@@ -51062,7 +51068,8 @@
           "message_id": 5249,
           "name": "15",
           "size": 16218034,
-          "telegram_link": "https://t.me/manhuasgratis/5249"
+          "telegram_link": "https://t.me/manhuasgratis/5249",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5249_15%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1e4bca0661dbd9828823f5a758a86e4ce45fe2df979abefae9d17e110435806"
         },
         {
           "channel_id": -1003003829878,
@@ -51077,7 +51084,8 @@
           "message_id": 5250,
           "name": "16",
           "size": 17642163,
-          "telegram_link": "https://t.me/manhuasgratis/5250"
+          "telegram_link": "https://t.me/manhuasgratis/5250",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5250_16%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0aa0f2af4d9c80d64404395e4bb616582bc5d5457c72bb7eeb98e970ff5f6c80"
         },
         {
           "channel_id": -1003003829878,
@@ -51092,7 +51100,8 @@
           "message_id": 5251,
           "name": "17",
           "size": 11389854,
-          "telegram_link": "https://t.me/manhuasgratis/5251"
+          "telegram_link": "https://t.me/manhuasgratis/5251",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5251_17%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4e3e383ee4d7d7ed8f1daf196000ac38189f5a50b47684fe4cf97b61e58ff64"
         },
         {
           "channel_id": -1003003829878,
@@ -51107,7 +51116,8 @@
           "message_id": 5252,
           "name": "18",
           "size": 13193304,
-          "telegram_link": "https://t.me/manhuasgratis/5252"
+          "telegram_link": "https://t.me/manhuasgratis/5252",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5252_18%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6d7ace73e9957b1986d5ca515cbe72914868cae51305deb905de95aa01f544d5"
         },
         {
           "channel_id": -1003003829878,
@@ -51122,7 +51132,8 @@
           "message_id": 5253,
           "name": "19",
           "size": 12846978,
-          "telegram_link": "https://t.me/manhuasgratis/5253"
+          "telegram_link": "https://t.me/manhuasgratis/5253",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5253_19%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc86d4dc8de0439b9a030136a04c6784518e30afcf6ffec3d0d8a1b43cc46acc"
         },
         {
           "channel_id": -1003003829878,
@@ -51137,7 +51148,8 @@
           "message_id": 5254,
           "name": "20",
           "size": 12627760,
-          "telegram_link": "https://t.me/manhuasgratis/5254"
+          "telegram_link": "https://t.me/manhuasgratis/5254",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5254_20%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf6020b6ff8db9b5c13727fbbf04f3d13d304c891a927e6500c7bbc2fe8a2f70"
         },
         {
           "channel_id": -1003003829878,
@@ -51152,7 +51164,8 @@
           "message_id": 5255,
           "name": "21",
           "size": 11452206,
-          "telegram_link": "https://t.me/manhuasgratis/5255"
+          "telegram_link": "https://t.me/manhuasgratis/5255",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5255_21%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=edb09c455e297eef3189f439c1884d607a082132b33cf941795e9f87fec31513"
         },
         {
           "channel_id": -1003003829878,
@@ -51167,7 +51180,8 @@
           "message_id": 5256,
           "name": "22",
           "size": 10780875,
-          "telegram_link": "https://t.me/manhuasgratis/5256"
+          "telegram_link": "https://t.me/manhuasgratis/5256",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5256_22%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b7dff13116c1fe9066e7ef5b7073706d45db64815e628004e49016e49927063d"
         },
         {
           "channel_id": -1003003829878,
@@ -51182,7 +51196,8 @@
           "message_id": 5257,
           "name": "23",
           "size": 12098372,
-          "telegram_link": "https://t.me/manhuasgratis/5257"
+          "telegram_link": "https://t.me/manhuasgratis/5257",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5257_23%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6bceda0ad518d397bce80fb4f2d4541a6ca2e2e2a10c429fa7178a84a9678c4"
         },
         {
           "channel_id": -1003003829878,
@@ -51197,7 +51212,8 @@
           "message_id": 5258,
           "name": "24",
           "size": 9733955,
-          "telegram_link": "https://t.me/manhuasgratis/5258"
+          "telegram_link": "https://t.me/manhuasgratis/5258",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5258_24%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b89ab7259cc714498cd83b38fb2b4b1d95acc70b1fba21e3ea602d09ac716a4f"
         },
         {
           "channel_id": -1003003829878,
@@ -51212,7 +51228,8 @@
           "message_id": 5259,
           "name": "25",
           "size": 10233292,
-          "telegram_link": "https://t.me/manhuasgratis/5259"
+          "telegram_link": "https://t.me/manhuasgratis/5259",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5259_25%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2380d2f0f79fc2ef15c7575a064fe614ae5164fe1cd3305767e51431fd85125f"
         },
         {
           "channel_id": -1003003829878,
@@ -51227,7 +51244,8 @@
           "message_id": 5260,
           "name": "26",
           "size": 11636500,
-          "telegram_link": "https://t.me/manhuasgratis/5260"
+          "telegram_link": "https://t.me/manhuasgratis/5260",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5260_26%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65fd6fc7de263b6572058791b932f808e48710f98e9cb010c89dd94ec74dba2f"
         },
         {
           "channel_id": -1003003829878,
@@ -51242,7 +51260,8 @@
           "message_id": 5261,
           "name": "27",
           "size": 12123110,
-          "telegram_link": "https://t.me/manhuasgratis/5261"
+          "telegram_link": "https://t.me/manhuasgratis/5261",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5261_27%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6529c4fef1a83611853034d902187a059142b7788b0820fcaca813bdc08486b9"
         }
       ],
       "synopsis": "Archimond, el nigromante más poderoso que en su día sumió al continente en el terror, había perdido la vida a manos de la espada del héroe Berkel Reinland. Y 200 años después, renació como un bebé de un determinado clan de espadachines y pronunció sus primeras palabras: «¡Guardianes de la oscuridad, mis siervos, mis soldados, obedeced mi orden!»",
