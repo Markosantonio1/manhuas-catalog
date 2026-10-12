@@ -2630,7 +2630,8 @@
           "message_id": 177,
           "name": "Volumen 2",
           "size": 7789201,
-          "telegram_link": "https://t.me/c/-1004334091126/177"
+          "telegram_link": "https://t.me/c/-1004334091126/177",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/177_%5BVolumen%2002%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145234Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=480e76a523cdb5b70d23296822ec4e3c6c4ddc856d0734998f91b7c5869d125b"
         },
         {
           "channel_id": -1004334091126,
@@ -2638,8 +2639,8 @@
             3
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/178_%5BVolumen%2003%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0eb610b4c3336a6179076f9eca43c7b3b6c6d278144c5e7684102d36c3fab952",
           "filename": "[Volumen 03] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -2655,8 +2656,8 @@
             4
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/179_%5BVolumen%2004%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145248Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3299b076d9b508da9b6254a289dbc2b1f7081b7287fdd0eb1cf4ad3069a5130f",
           "filename": "[Volumen 04] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -2672,8 +2673,8 @@
             5
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/180_%5BVolumen%2005%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a693bb4b503ff4cbec1e740bb22b5e6037ccf33fa0951c6e49426298291b5af2",
           "filename": "[Volumen 05] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 5,
           "is_novel_volume": true,
@@ -2689,8 +2690,8 @@
             6
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/181_%5BVolumen%2006%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145304Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1be9a94d93aa7b27ad52814e4d551d44723481206c6de320e76134482af65bb7",
           "filename": "[Volumen 06] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 6,
           "is_novel_volume": true,
@@ -2706,8 +2707,8 @@
             7
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/182_%5BVolumen%2007%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd12dd4e7e42684fac844ed3f4676b0235c9921aa4ddf7f22baadaf17268eb4e",
           "filename": "[Volumen 07] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 7,
           "is_novel_volume": true,
@@ -2723,8 +2724,8 @@
             8
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/183_%5BVolumen%2008%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145319Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43e32770db33a5106ba0e805467593e23978f73f4bce53b6d9ec56f6b8d69728",
           "filename": "[Volumen 08] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 8,
           "is_novel_volume": true,
@@ -2740,8 +2741,8 @@
             9
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/184_%5BVolumen%2009%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145326Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eb0ff6c04c72cfc6a2e7d8d9cbc408fbeca643b2669d6bab1ddf03bde4aa0521",
           "filename": "[Volumen 09] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 9,
           "is_novel_volume": true,
@@ -2757,8 +2758,8 @@
             10
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/185_%5BVolumen%2010%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145333Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b4e640c414be940d76588fcf94c832fa30c932b63c59d6cced6142bb9204329",
           "filename": "[Volumen 10] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 10,
           "is_novel_volume": true,
@@ -2774,8 +2775,8 @@
             11
           ],
           "date": "2026-10-12T14:08:09+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/186_%5BVolumen%2011%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145341Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=575746e52b536d9d508ffd58e9ad5e929e96ed1725846de370afb5dd04d29621",
           "filename": "[Volumen 11] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 11,
           "is_novel_volume": true,
