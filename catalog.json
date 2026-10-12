@@ -2427,8 +2427,8 @@
             20
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/215_%5BVol.%2020%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145115Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6430a33522396cf3ac38e3115fce2d4e0972a00b65fb62a369353d97a2da5102",
           "filename": "[Vol. 20] Seirei Gensouki 令.pdf",
           "first": 20,
           "is_novel_volume": true,
@@ -2444,8 +2444,8 @@
             21
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/216_%5BVol.%2021%5D%20Seirei%20Gensouki%20%E4%BB%A4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145122Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=97111484eb2cd44ad103fa72f4113d1d76acac8071f74400e4bbf042c278b038",
           "filename": "[Vol. 21] Seirei Gensouki 令.pdf",
           "first": 21,
           "is_novel_volume": true,
@@ -2461,8 +2461,8 @@
             22
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/217_Seirei%20Gensouki%20Volumen%2022.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145129Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=81cd5a1e36bda5a87554d4a47fa9169ec5c62dec00d25352722274172533d640",
           "filename": "Seirei Gensouki Volumen 22.pdf",
           "first": 22,
           "is_novel_volume": true,
@@ -2478,8 +2478,8 @@
             23
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/218_Seirei%20Gensouki%20Volumen%2023.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=602342395aaaa818e263f4fff11e2639f3ddf0ada20e0f8c23241bb8f7b832c2",
           "filename": "Seirei Gensouki Volumen 23.pdf",
           "first": 23,
           "is_novel_volume": true,
@@ -2495,8 +2495,8 @@
             24
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/219_Seirei%20Gensouki%20Volumen%2024.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145145Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=913cb9bbb19f52514ebfc86992f2cb4c81cd2380bd66dbc434d650ab6e36666d",
           "filename": "Seirei Gensouki Volumen 24.pdf",
           "first": 24,
           "is_novel_volume": true,
@@ -2512,8 +2512,8 @@
             25
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/220_Seirei%20Gensouki%20Volumen%2025.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1860a54cb2cd11169ea3acda6ef2be91ad5a7c9ee89afa5ea4a332c1461e16c7",
           "filename": "Seirei Gensouki Volumen 25.pdf",
           "first": 25,
           "is_novel_volume": true,
@@ -2529,8 +2529,8 @@
             26
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/221_Seirei%20Gensouki%20Volumen%2026.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145206Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96f4d7930c0fae3506bae1602220f31ceb3704296fd6f77dcb1777ee2652c7c8",
           "filename": "Seirei Gensouki Volumen 26.pdf",
           "first": 26,
           "is_novel_volume": true,
@@ -2546,8 +2546,8 @@
             27
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/222_Seirei%20Gensouki%20-%20Volumen%2027%20%5BKasniaP%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145212Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a172b22d9a7aaeba9d0e86e813bc3439ca4359a027fad9d82d0ca2adb10561a",
           "filename": "Seirei Gensouki - Volumen 27 [KasniaP].pdf",
           "first": 27,
           "is_novel_volume": true,
@@ -2563,8 +2563,8 @@
             28
           ],
           "date": "2026-10-12T14:12:06+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/seirei_gensouki/223_Seirei%20Gensouki%20-%20Volumen%2028%20%5BKasniaP%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145218Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2885feaab166de6ca79c44a121c568d329df90bd43209c4cb8f853568b809d58",
           "filename": "Seirei Gensouki - Volumen 28 [KasniaP].pdf",
           "first": 28,
           "is_novel_volume": true,
@@ -2613,7 +2613,8 @@
           "message_id": 176,
           "name": "Volumen 1",
           "size": 7197808,
-          "telegram_link": "https://t.me/c/-1004334091126/176"
+          "telegram_link": "https://t.me/c/-1004334091126/176",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/176_%5BVolumen%2001%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145225Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9bdf1bfa810b579685071b9cf6c7d4586899bdc59fb9f61c3d1fc10586130680"
         },
         {
           "channel_id": -1004334091126,
