@@ -27,7 +27,7 @@
             1
           ],
           "date": "2026-10-12T14:18:23+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/260_%5BVolumen%2001%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cbaf7759feb4c4e029df1f7a1d576040bd9ecbdb0ad34326b7e99ad5bb72281f",
           "filename": "[Volumen 01] • Arifureta.pdf",
           "first": 1,
@@ -44,7 +44,7 @@
             2
           ],
           "date": "2026-10-12T14:18:23+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/261_%5BVolumen%2002%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d476491e5c2b618fef9b37c196f6fcd82c896e1032f065286152d28739b0c8a",
           "filename": "[Volumen 02] • Arifureta.pdf",
           "first": 2,
@@ -61,7 +61,7 @@
             3
           ],
           "date": "2026-10-12T14:18:23+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/262_%5BVolumen%2003%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=082528a6e64bcad2f7e7b6a10e5aea0d780bb4e176b6d9078b41acda63b36d3b",
           "filename": "[Volumen 03] • Arifureta.pdf",
           "first": 3,
@@ -78,7 +78,7 @@
             4
           ],
           "date": "2026-10-12T14:18:23+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/263_%5BVolumen%2004%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9822211f1c90dfa930593405f55fbf4ba484b96dfc2084718a6d73acc1d9dff5",
           "filename": "[Volumen 04] • Arifureta.pdf",
           "first": 4,
@@ -95,7 +95,7 @@
             5
           ],
           "date": "2026-10-12T14:18:23+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/arifureta/264_%5BVolumen%2005%5D%20%E2%80%A2%20Arifureta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=efa49f34dec8e7a7dac5271082ae175cecca901443a9be930fe756779ccea02f",
           "filename": "[Volumen 05] • Arifureta.pdf",
           "first": 5,
@@ -244,7 +244,7 @@
         }
       ],
       "synopsis": "Hajime Nagumo, estudiante de secundaria, es víctima del acoso de sus compañeros por su relación con la idol de la clase, Kaori.\nCierto día, toda su clase fue transportada a un nuevo y desconocido mundo de fantasía, cuando tomaron conciencia, todos sus compañeros habían obtenido poderosas habilidades mágicas, mientras que Hajime lo único que obtiene es la magia de alquimia básica, la cual sirve para transmutar materiales sólidos, una habilidad común y corriente que mayormente la suelen usar los artesanos y herreros.\nDurante una incursión en una mazmorra, Hajime es traicionado por uno de sus compañeros en medio de una feroz batalla y por desgracia cae al fondo de la mazmorra.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:22:48+00:00",
@@ -351,7 +351,7 @@
         }
       ],
       "synopsis": "Esta es la historia de lo que ocurrió mucho antes de que Hajime fuera convocado a Tortus. Oscar Orcus es considerado un sinergista de tercera categoría por la mayoría de la gente. Pasa sus días tranquilamente, trabajando para poder enviar dinero a un orfanato. Todo eso cambia cuando el torbellino que es Miledi Reisen irrumpe en su vida. Miledi ve el potencial oculto en Óscar, y le invita a su viaje para derrotar a los dioses. Óscar no quiere participar en ningún viaje y se niega. Pero Miledi es persistente, y la situación cambia drásticamente cuando el orfanato que quiere proteger es atacado. Al final, ¿qué decidirá nuestro improbable héroe?",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-03T19:47:35+00:00",
@@ -855,7 +855,7 @@
         }
       ],
       "synopsis": "La enorme Ciudad laberinto Orario, es la puerta de entrada al enorme laberinto subterráneo conocido comúnmente como «Calabozo». Su extraño nombre provoca emoción, un lugar para ganar honor, y tal vez incluso un romance con una chica hermosa. Un lugar donde las personas contienen la respiración, con la esperanza de obtener todo lo que desean, un lugar donde un joven solitario se encuentra con una pequeña «Diosa».\n«¡Muy bien, Bell-kun, sígueme! ¡Es hora de que comience el rito de iniciación de la «Familia»!»\n«¡Sí! ¡Sere más fuerte!»\nEl encuentro predestinado de un chico que quiere convertirse en Aventurero, y la Diosa fracasada que ni siquiera tiene un solo seguidor.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:25:11+00:00",
@@ -1083,7 +1083,7 @@
         }
       ],
       "synopsis": "¿»Subir de nivel incluso sin conexión»? Eso no es un juego en ‘modo fácil’, ¡Es sólo un juego AFK!»\nEl juego en línea al que Yamada Kenichi había estado jugando religiosamente cierra sus servidores, dejándole un vacío en su corazón. Buscaba un nuevo juego para llenarlo, pero todo lo que encuentraba era demasiado fácil. El tipo de juego que le gusta, el que castiga lo suficiente como para que los jugadores quieran pasar miles de horas en él, ya no existe.\n«¿Qué es esto? ‘Estás invitado a un juego que nunca terminará’».\nKenichi tropieza con un juego sin título, que promete un reto incomparable con un potencial sin precedentes. Sin dudarlo, selecciona la dificultad «Modo Infiernal». Y he aquí que se encuentra reencarnado en otro mundo como siervo.\nAhora se llama Allen y se dispone a desvelar los secretos de su misteriosa clase de Invocador; sin la comodidad de las guías del juego ni de los foros en línea, deberá abrirse camino a tientas hasta la cima de su nuevo mundo.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-03T19:21:18+00:00",
@@ -1929,6 +1929,7 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/166_%5BVolumen%2009%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1a4990321fd15cec162bdcef8446bbd4774e5ab691562b6b088d6e5c21ec591",
           "filename": "[Volumen 09] • ReZero.pdf",
           "first": 9,
           "is_novel_volume": true,
@@ -1936,8 +1937,7 @@
           "message_id": 166,
           "name": "Volumen 9",
           "size": 7816735,
-          "telegram_link": "https://t.me/c/-1004334091126/166",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/166_%5BVolumen%2009%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1a4990321fd15cec162bdcef8446bbd4774e5ab691562b6b088d6e5c21ec591"
+          "telegram_link": "https://t.me/c/-1004334091126/166"
         },
         {
           "channel_id": -1004334091126,
@@ -1946,6 +1946,7 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/167_%5BVolumen%2010%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144800Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7205849669437a1406c64b051bcdb5df1262e1c9b5ae684e67872b53852f9455",
           "filename": "[Volumen 10] • ReZero.pdf",
           "first": 10,
           "is_novel_volume": true,
@@ -1953,8 +1954,7 @@
           "message_id": 167,
           "name": "Volumen 10",
           "size": 6590542,
-          "telegram_link": "https://t.me/c/-1004334091126/167",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/167_%5BVolumen%2010%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144800Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7205849669437a1406c64b051bcdb5df1262e1c9b5ae684e67872b53852f9455"
+          "telegram_link": "https://t.me/c/-1004334091126/167"
         },
         {
           "channel_id": -1004334091126,
@@ -2065,6 +2065,7 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/174_%5BVolumen%2017%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab957438d727d099ae4be15d73fe92562b23e48a8e14e39dc59df30fd49917bb",
           "filename": "[Volumen 17] • ReZero.pdf",
           "first": 17,
           "is_novel_volume": true,
@@ -2072,12 +2073,11 @@
           "message_id": 174,
           "name": "Volumen 17",
           "size": 8982147,
-          "telegram_link": "https://t.me/c/-1004334091126/174",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/174_%5BVolumen%2017%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab957438d727d099ae4be15d73fe92562b23e48a8e14e39dc59df30fd49917bb"
+          "telegram_link": "https://t.me/c/-1004334091126/174"
         }
       ],
       "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chico de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:12:05+00:00",
@@ -2576,7 +2576,7 @@
         }
       ],
       "synopsis": "Amakawa Haruto es un joven que murió antes de reunirse con su amiga de la infancia que desapareció hace cinco años. Río es un chico que vive en los barrios marginales que quiere vengarse de su madre que fue asesinada frente a él cuando tenía cinco años. La tierra y otro mundo. Dos personas con historias y valores completamente diferentes...",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:08:08+00:00",
@@ -2606,6 +2606,7 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/176_%5BVolumen%2001%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145225Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9bdf1bfa810b579685071b9cf6c7d4586899bdc59fb9f61c3d1fc10586130680",
           "filename": "[Volumen 01] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -2613,8 +2614,7 @@
           "message_id": 176,
           "name": "Volumen 1",
           "size": 7197808,
-          "telegram_link": "https://t.me/c/-1004334091126/176",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/176_%5BVolumen%2001%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145225Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9bdf1bfa810b579685071b9cf6c7d4586899bdc59fb9f61c3d1fc10586130680"
+          "telegram_link": "https://t.me/c/-1004334091126/176"
         },
         {
           "channel_id": -1004334091126,
@@ -2623,6 +2623,7 @@
           ],
           "date": "2026-10-12T14:08:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/177_%5BVolumen%2002%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145234Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=480e76a523cdb5b70d23296822ec4e3c6c4ddc856d0734998f91b7c5869d125b",
           "filename": "[Volumen 02] • Tensei Shitara Slime Datta Ken.pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -2630,8 +2631,7 @@
           "message_id": 177,
           "name": "Volumen 2",
           "size": 7789201,
-          "telegram_link": "https://t.me/c/-1004334091126/177",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/177_%5BVolumen%2002%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145234Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=480e76a523cdb5b70d23296822ec4e3c6c4ddc856d0734998f91b7c5869d125b"
+          "telegram_link": "https://t.me/c/-1004334091126/177"
         },
         {
           "channel_id": -1004334091126,
@@ -2890,7 +2890,7 @@
         }
       ],
       "synopsis": "",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-03T23:48:23+00:00",
@@ -12492,7 +12492,7 @@
           ],
           "date": "2025-12-17T05:04:27+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/166_%5B%2333%5D%20%E2%80%A2%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7dd6a7bb5640a3df319e78751ad9f64cc1b91f0eab5b13c14ba571e9b0106dba",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/166_%5BVolumen%2009%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1a4990321fd15cec162bdcef8446bbd4774e5ab691562b6b088d6e5c21ec591",
           "filename": "[#33] • El Perro Loco de la Mansión del Duque.pdf",
           "first": 33,
           "last": 33,
@@ -12508,7 +12508,7 @@
           ],
           "date": "2025-12-17T05:04:27+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/167_%5B%2334%5D%20%E2%80%A2%20El%20Perro%20Loco%20De%20La%20Mansi%C3%B3n%20Del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2b8179d6ecca84cca5f61f39aa641068194e24ee6d707dc446a052d1c447e27a",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/167_%5BVolumen%2010%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144800Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7205849669437a1406c64b051bcdb5df1262e1c9b5ae684e67872b53852f9455",
           "filename": "[#34] • El Perro Loco De La Mansión Del Duque.pdf",
           "first": 34,
           "last": 34,
@@ -12524,7 +12524,7 @@
           ],
           "date": "2026-01-22T04:00:22+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/174_35%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a990706cb13517d88e993fb68af62b3f3a31abeb2c8413f72070256af6eefa6",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/rezero_kara_hajimeru_isekai_seikatsu/174_%5BVolumen%2017%5D%20%E2%80%A2%20ReZero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab957438d727d099ae4be15d73fe92562b23e48a8e14e39dc59df30fd49917bb",
           "filename": "35 El Perro Loco de la Mansión del Duque.pdf",
           "first": 35,
           "last": 35,
@@ -12557,7 +12557,7 @@
           ],
           "date": "2026-01-22T04:00:22+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/176_38%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=07dd6cdbdd0d47dc545f718adea07755fcc3f2fcfbe685de37a9e77f5ffb2f27",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/176_%5BVolumen%2001%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145225Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9bdf1bfa810b579685071b9cf6c7d4586899bdc59fb9f61c3d1fc10586130680",
           "filename": "38 El Perro Loco de la Mansión del Duque.pdf",
           "first": 38,
           "last": 38,
@@ -12573,7 +12573,7 @@
           ],
           "date": "2026-01-22T04:00:22+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/177_39%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261009%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261009T235135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3ec73a17a9b4684021448b431b200fac9cef08777800c5ed0b4aba9f4f6c6990",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/tensei_shitara_slime_datta_ken/177_%5BVolumen%2002%5D%20%E2%80%A2%20Tensei%20Shitara%20Slime%20Datta%20Ken.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T145234Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=480e76a523cdb5b70d23296822ec4e3c6c4ddc856d0734998f91b7c5869d125b",
           "filename": "39 El Perro Loco de la Mansión del Duque.pdf",
           "first": 39,
           "last": 39,
@@ -50970,14 +50970,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5243_00-08%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4676ca48d0adb7b6f645f2e795185c8a9221cc33c808b558bb18bc19f950f97",
           "filename": "00-08 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 0,
           "last": 8,
           "message_id": 5243,
           "name": "0-8",
           "size": 107596100,
-          "telegram_link": "https://t.me/manhuasgratis/5243",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5243_00-08%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4676ca48d0adb7b6f645f2e795185c8a9221cc33c808b558bb18bc19f950f97"
+          "telegram_link": "https://t.me/manhuasgratis/5243"
         },
         {
           "channel_id": -1003003829878,
@@ -50986,14 +50986,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5244_9%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0328a26d27aded89b80c03eff40571d40a6c0692810d5d8b35a352388074c4a0",
           "filename": "9 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 9,
           "last": 9,
           "message_id": 5244,
           "name": "9",
           "size": 12635000,
-          "telegram_link": "https://t.me/manhuasgratis/5244",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5244_9%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0328a26d27aded89b80c03eff40571d40a6c0692810d5d8b35a352388074c4a0"
+          "telegram_link": "https://t.me/manhuasgratis/5244"
         },
         {
           "channel_id": -1003003829878,
@@ -51003,14 +51003,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5245_10-11%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d999191d3fedb3e04768fe417230eccc3a0bfc9cd2fe07007c20bf2c3387a7f",
           "filename": "10-11 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 10,
           "last": 11,
           "message_id": 5245,
           "name": "10-11",
           "size": 21555181,
-          "telegram_link": "https://t.me/manhuasgratis/5245",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5245_10-11%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d999191d3fedb3e04768fe417230eccc3a0bfc9cd2fe07007c20bf2c3387a7f"
+          "telegram_link": "https://t.me/manhuasgratis/5245"
         },
         {
           "channel_id": -1003003829878,
@@ -51019,14 +51019,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5246_12%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=79fbd617f4d4808d7bff3e749bfe726b842b2a1582cf340c0c50bd8a12ca8d21",
           "filename": "12 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 12,
           "last": 12,
           "message_id": 5246,
           "name": "12",
           "size": 9740151,
-          "telegram_link": "https://t.me/manhuasgratis/5246",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5246_12%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=79fbd617f4d4808d7bff3e749bfe726b842b2a1582cf340c0c50bd8a12ca8d21"
+          "telegram_link": "https://t.me/manhuasgratis/5246"
         },
         {
           "channel_id": -1003003829878,
@@ -51035,14 +51035,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5247_13%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9f2ed66dd5a3f18b1339e716f5241f9879da2723e693d3b31a120fdf1981039",
           "filename": "13 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 13,
           "last": 13,
           "message_id": 5247,
           "name": "13",
           "size": 11602213,
-          "telegram_link": "https://t.me/manhuasgratis/5247",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5247_13%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9f2ed66dd5a3f18b1339e716f5241f9879da2723e693d3b31a120fdf1981039"
+          "telegram_link": "https://t.me/manhuasgratis/5247"
         },
         {
           "channel_id": -1003003829878,
@@ -51051,14 +51051,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5248_14%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2512e16b9b47f61577b97867816d58d9364ff414f97274c6851b6b338e695a62",
           "filename": "14 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 14,
           "last": 14,
           "message_id": 5248,
           "name": "14",
           "size": 11671299,
-          "telegram_link": "https://t.me/manhuasgratis/5248",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5248_14%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2512e16b9b47f61577b97867816d58d9364ff414f97274c6851b6b338e695a62"
+          "telegram_link": "https://t.me/manhuasgratis/5248"
         },
         {
           "channel_id": -1003003829878,
@@ -51067,14 +51067,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5249_15%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1e4bca0661dbd9828823f5a758a86e4ce45fe2df979abefae9d17e110435806",
           "filename": "15 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 15,
           "last": 15,
           "message_id": 5249,
           "name": "15",
           "size": 16218034,
-          "telegram_link": "https://t.me/manhuasgratis/5249",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5249_15%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1e4bca0661dbd9828823f5a758a86e4ce45fe2df979abefae9d17e110435806"
+          "telegram_link": "https://t.me/manhuasgratis/5249"
         },
         {
           "channel_id": -1003003829878,
@@ -51083,14 +51083,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5250_16%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0aa0f2af4d9c80d64404395e4bb616582bc5d5457c72bb7eeb98e970ff5f6c80",
           "filename": "16 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 16,
           "last": 16,
           "message_id": 5250,
           "name": "16",
           "size": 17642163,
-          "telegram_link": "https://t.me/manhuasgratis/5250",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5250_16%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0aa0f2af4d9c80d64404395e4bb616582bc5d5457c72bb7eeb98e970ff5f6c80"
+          "telegram_link": "https://t.me/manhuasgratis/5250"
         },
         {
           "channel_id": -1003003829878,
@@ -51099,14 +51099,14 @@
           ],
           "date": "2026-10-12T14:02:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5251_17%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4e3e383ee4d7d7ed8f1daf196000ac38189f5a50b47684fe4cf97b61e58ff64",
           "filename": "17 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 17,
           "last": 17,
           "message_id": 5251,
           "name": "17",
           "size": 11389854,
-          "telegram_link": "https://t.me/manhuasgratis/5251",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5251_17%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4e3e383ee4d7d7ed8f1daf196000ac38189f5a50b47684fe4cf97b61e58ff64"
+          "telegram_link": "https://t.me/manhuasgratis/5251"
         },
         {
           "channel_id": -1003003829878,
@@ -51115,14 +51115,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5252_18%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6d7ace73e9957b1986d5ca515cbe72914868cae51305deb905de95aa01f544d5",
           "filename": "18 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 18,
           "last": 18,
           "message_id": 5252,
           "name": "18",
           "size": 13193304,
-          "telegram_link": "https://t.me/manhuasgratis/5252",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5252_18%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6d7ace73e9957b1986d5ca515cbe72914868cae51305deb905de95aa01f544d5"
+          "telegram_link": "https://t.me/manhuasgratis/5252"
         },
         {
           "channel_id": -1003003829878,
@@ -51131,14 +51131,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5253_19%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc86d4dc8de0439b9a030136a04c6784518e30afcf6ffec3d0d8a1b43cc46acc",
           "filename": "19 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 19,
           "last": 19,
           "message_id": 5253,
           "name": "19",
           "size": 12846978,
-          "telegram_link": "https://t.me/manhuasgratis/5253",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5253_19%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc86d4dc8de0439b9a030136a04c6784518e30afcf6ffec3d0d8a1b43cc46acc"
+          "telegram_link": "https://t.me/manhuasgratis/5253"
         },
         {
           "channel_id": -1003003829878,
@@ -51147,14 +51147,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5254_20%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf6020b6ff8db9b5c13727fbbf04f3d13d304c891a927e6500c7bbc2fe8a2f70",
           "filename": "20 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 20,
           "last": 20,
           "message_id": 5254,
           "name": "20",
           "size": 12627760,
-          "telegram_link": "https://t.me/manhuasgratis/5254",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5254_20%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf6020b6ff8db9b5c13727fbbf04f3d13d304c891a927e6500c7bbc2fe8a2f70"
+          "telegram_link": "https://t.me/manhuasgratis/5254"
         },
         {
           "channel_id": -1003003829878,
@@ -51163,14 +51163,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5255_21%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=edb09c455e297eef3189f439c1884d607a082132b33cf941795e9f87fec31513",
           "filename": "21 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 21,
           "last": 21,
           "message_id": 5255,
           "name": "21",
           "size": 11452206,
-          "telegram_link": "https://t.me/manhuasgratis/5255",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5255_21%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=edb09c455e297eef3189f439c1884d607a082132b33cf941795e9f87fec31513"
+          "telegram_link": "https://t.me/manhuasgratis/5255"
         },
         {
           "channel_id": -1003003829878,
@@ -51179,14 +51179,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5256_22%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b7dff13116c1fe9066e7ef5b7073706d45db64815e628004e49016e49927063d",
           "filename": "22 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 22,
           "last": 22,
           "message_id": 5256,
           "name": "22",
           "size": 10780875,
-          "telegram_link": "https://t.me/manhuasgratis/5256",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5256_22%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b7dff13116c1fe9066e7ef5b7073706d45db64815e628004e49016e49927063d"
+          "telegram_link": "https://t.me/manhuasgratis/5256"
         },
         {
           "channel_id": -1003003829878,
@@ -51195,14 +51195,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5257_23%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6bceda0ad518d397bce80fb4f2d4541a6ca2e2e2a10c429fa7178a84a9678c4",
           "filename": "23 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 23,
           "last": 23,
           "message_id": 5257,
           "name": "23",
           "size": 12098372,
-          "telegram_link": "https://t.me/manhuasgratis/5257",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5257_23%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6bceda0ad518d397bce80fb4f2d4541a6ca2e2e2a10c429fa7178a84a9678c4"
+          "telegram_link": "https://t.me/manhuasgratis/5257"
         },
         {
           "channel_id": -1003003829878,
@@ -51211,14 +51211,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5258_24%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b89ab7259cc714498cd83b38fb2b4b1d95acc70b1fba21e3ea602d09ac716a4f",
           "filename": "24 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 24,
           "last": 24,
           "message_id": 5258,
           "name": "24",
           "size": 9733955,
-          "telegram_link": "https://t.me/manhuasgratis/5258",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5258_24%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b89ab7259cc714498cd83b38fb2b4b1d95acc70b1fba21e3ea602d09ac716a4f"
+          "telegram_link": "https://t.me/manhuasgratis/5258"
         },
         {
           "channel_id": -1003003829878,
@@ -51227,14 +51227,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5259_25%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2380d2f0f79fc2ef15c7575a064fe614ae5164fe1cd3305767e51431fd85125f",
           "filename": "25 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 25,
           "last": 25,
           "message_id": 5259,
           "name": "25",
           "size": 10233292,
-          "telegram_link": "https://t.me/manhuasgratis/5259",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5259_25%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2380d2f0f79fc2ef15c7575a064fe614ae5164fe1cd3305767e51431fd85125f"
+          "telegram_link": "https://t.me/manhuasgratis/5259"
         },
         {
           "channel_id": -1003003829878,
@@ -51243,14 +51243,14 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5260_26%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65fd6fc7de263b6572058791b932f808e48710f98e9cb010c89dd94ec74dba2f",
           "filename": "26 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 26,
           "last": 26,
           "message_id": 5260,
           "name": "26",
           "size": 11636500,
-          "telegram_link": "https://t.me/manhuasgratis/5260",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5260_26%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65fd6fc7de263b6572058791b932f808e48710f98e9cb010c89dd94ec74dba2f"
+          "telegram_link": "https://t.me/manhuasgratis/5260"
         },
         {
           "channel_id": -1003003829878,
@@ -51259,18 +51259,18 @@
           ],
           "date": "2026-10-12T14:02:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5261_27%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6529c4fef1a83611853034d902187a059142b7788b0820fcaca813bdc08486b9",
           "filename": "27 Un Nigromante en la familia de espadachines -.-.pdf",
           "first": 27,
           "last": 27,
           "message_id": 5261,
           "name": "27",
           "size": 12123110,
-          "telegram_link": "https://t.me/manhuasgratis/5261",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_nigromante_en_la_familia_de_espadachines/5261_27%20Un%20Nigromante%20en%20la%20familia%20de%20espadachines%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261012%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261012T144034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6529c4fef1a83611853034d902187a059142b7788b0820fcaca813bdc08486b9"
+          "telegram_link": "https://t.me/manhuasgratis/5261"
         }
       ],
       "synopsis": "Archimond, el nigromante más poderoso que en su día sumió al continente en el terror, había perdido la vida a manos de la espada del héroe Berkel Reinland. Y 200 años después, renació como un bebé de un determinado clan de espadachines y pronunció sus primeras palabras: «¡Guardianes de la oscuridad, mis siervos, mis soldados, obedeced mi orden!»",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-07T12:07:58+00:00",
@@ -53558,6 +53558,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-12T14:38:29.467777+00:00",
+  "updated_at": "2026-10-12T15:01:33.258573+00:00",
   "version": 3
 }
