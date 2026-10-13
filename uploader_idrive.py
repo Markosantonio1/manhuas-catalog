@@ -41,8 +41,11 @@ IDRIVE_BUCKET = os.getenv("IDRIVE_BUCKET")
 IDRIVE_REGION = os.getenv("IDRIVE_REGION", "us-southeast-1")
 
 NOTIFY_USERNAME = "@Markosantonio"
-MAIN_CHANNEL = "manhuasgratis"
-NOVELS_CHANNEL = -1004334091126
+
+# Canales de Telegram
+MAIN_CHANNEL = "manhuasgratis"           # manhuas normales
+NOVELS_CHANNEL = -1004334091126          # novelas
+ADULT_CHANNEL = -1004467622375           # +18  ← CAMBIA si es distinto
 
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
@@ -94,6 +97,11 @@ def compute_key(
     """Calcula la key que tendría este paquete en IDrive."""
     prefix = "novels/" if is_novel else ""
     return f"{prefix}{series_id}/{message_id}_{sanitize_filename(filename)}"
+
+
+def is_adult_series(series_id: str) -> bool:
+    """Las series +18 terminan su id en '_adult'."""
+    return bool(series_id) and series_id.endswith("_adult")
 
 
 # ============================================================
@@ -216,7 +224,7 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
         en IDrive y que hay que subir de verdad
     """
     print("\n" + "=" * 60)
-    print("RECONCILIACIÓN CON IDRIVE (manhuas + novelas)")
+    print("RECONCILIACIÓN CON IDRIVE (manhuas + novelas + +18)")
     print("=" * 60)
 
     try:
@@ -262,7 +270,9 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
                             pack["download_url"] = url
                             reconciliados += 1
                             if reconciliados <= 20:
-                                tipo = "novela" if is_novel else "manhua"
+                                tipo = "novela" if is_novel else (
+                                    "+18" if is_adult_series(series_id) else "manhua"
+                                )
                                 print(
                                     f"  ↻ [{tipo} {series_id}] "
                                     f"msg {message_id}: URL regenerada"
@@ -348,7 +358,7 @@ async def download_media_with_retry(client, message_id, local_path, channel):
 
 async def main():
     print("=" * 60)
-    print("UPLOADER IDRIVE E2 — GitHub Actions (manhuas + novelas)")
+    print("UPLOADER IDRIVE E2 — GitHub Actions (manhuas + novelas + +18)")
     print("=" * 60)
     print(f"Checkpoint cada {SAVE_EVERY_N} paquetes")
 
@@ -396,11 +406,19 @@ async def main():
             print("  ⚠ No se pudo subir el commit de reconciliación")
 
     total_pendientes = len(pendientes_reales)
-    pendientes_manhuas = sum(1 for (_, _, lk) in pendientes_reales if lk == "series")
+    pendientes_manhuas = sum(
+        1 for (s, _, lk) in pendientes_reales
+        if lk == "series" and not is_adult_series(s.get("id", ""))
+    )
+    pendientes_adult = sum(
+        1 for (s, _, lk) in pendientes_reales
+        if lk == "series" and is_adult_series(s.get("id", ""))
+    )
     pendientes_novelas = sum(1 for (_, _, lk) in pendientes_reales if lk == "novels")
 
     print(f"\nPaquetes reales por subir: {total_pendientes}")
     print(f"  • Manhuas: {pendientes_manhuas}")
+    print(f"  • +18: {pendientes_adult}")
     print(f"  • Novelas: {pendientes_novelas}")
 
     # --------------------------------------------------------
@@ -429,8 +447,15 @@ async def main():
             filename = pack.get("filename", f"{message_id}.pdf")
             is_visible = series.get("visible", True)
             is_novel = (list_key == "novels")
+            is_adult = is_adult_series(series_id)
+
             tag = "" if is_visible else " [OCULTA]"
-            tipo_tag = " [NOVELA]" if is_novel else ""
+            if is_novel:
+                tipo_tag = " [NOVELA]"
+            elif is_adult:
+                tipo_tag = " [+18]"
+            else:
+                tipo_tag = ""
 
             print(f"\n[{idx}/{len(to_process)}] {series_name}{tipo_tag}{tag} → {pack_name}")
 
@@ -441,8 +466,19 @@ async def main():
                 fail_count += 1
                 continue
 
-            # Elegir canal según tipo
-            channel = NOVELS_CHANNEL if is_novel else MAIN_CHANNEL
+            # 🔞 Elegir canal según tipo. ESTE ES EL FIX IMPORTANTE:
+            # las series +18 viven en su propio canal, y NO en MAIN_CHANNEL.
+            if is_adult:
+                channel = ADULT_CHANNEL
+                canal_tipo = "+18"
+            elif is_novel:
+                channel = NOVELS_CHANNEL
+                canal_tipo = "novelas"
+            else:
+                channel = MAIN_CHANNEL
+                canal_tipo = "principal"
+
+            print(f"    📡 Canal: {canal_tipo} ({channel})")
 
             # Descargar de Telegram
             ok = await download_media_with_retry(client, message_id, local_file, channel)
@@ -524,6 +560,7 @@ async def main():
     print(f"✓ Subidos nuevos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
     print(f"📦 Pendientes antes (manhuas): {pendientes_manhuas}")
+    print(f"📦 Pendientes antes (+18): {pendientes_adult}")
     print(f"📦 Pendientes antes (novelas): {pendientes_novelas}")
     print(f"📦 Pendientes restantes totales: {total_pendientes - success_count}")
     print("=" * 60)
@@ -537,6 +574,7 @@ async def main():
             f"❌ Fallidos: {fail_count}\n"
             f"📦 Pendientes restantes: {total_pendientes - success_count}\n"
             f"  • Manhuas: {pendientes_manhuas}\n"
+            f"  • +18: {pendientes_adult}\n"
             f"  • Novelas: {pendientes_novelas}\n"
         )
         await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
