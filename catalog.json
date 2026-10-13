@@ -27011,10 +27011,10 @@
       ],
       "hashtag": "#Evolución_Marcial_Empezó_Cuando_Desperté",
       "id": "evolucion_marcial_empezo_cuando_desperte",
-      "latest_chapter": 165,
+      "latest_chapter": 166,
       "library_count": 0,
       "name": "Evolución Marcial Empezó Cuando Desperté",
-      "package_count": 86,
+      "package_count": 87,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -28469,6 +28469,21 @@
           "name": "165",
           "size": 8924384,
           "telegram_link": "https://t.me/manhuasgratis/5218"
+        },
+        {
+          "name": "166",
+          "first": 166,
+          "last": 166,
+          "channel_id": -1003003829878,
+          "message_id": 5294,
+          "filename": "[#166]   Evolución Marcial Empezó Cuándo Desperté.pdf",
+          "size": 8947485,
+          "date": "2026-10-13T04:11:39+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5294",
+          "download_ready": true,
+          "chapters": [
+            166
+          ]
         }
       ],
       "rating": 0,
@@ -29422,10 +29437,10 @@
       ],
       "hashtag": "#Guía_de_supervivencia_del_extra_de_la_academia",
       "id": "guia_de_supervivencia_del_extra_de_la_academia",
-      "latest_chapter": 126,
+      "latest_chapter": 127,
       "library_count": 1,
       "name": "Guía de supervivencia del extra de la academia",
-      "package_count": 24,
+      "package_count": 25,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -29913,6 +29928,21 @@
           "name": "126",
           "size": 8513758,
           "telegram_link": "https://t.me/manhuasgratis/4891"
+        },
+        {
+          "name": "127",
+          "first": 127,
+          "last": 127,
+          "channel_id": -1003003829878,
+          "message_id": 5295,
+          "filename": "127 • The Extra’s Academy Survival Guide.pdf",
+          "size": 8845797,
+          "date": "2026-10-13T04:11:41+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5295",
+          "download_ready": true,
+          "chapters": [
+            127
+          ]
         }
       ],
       "rating": 0,
@@ -54660,10 +54690,10 @@
       ],
       "hashtag": "#The_Novels_Extra",
       "id": "the_novels_extra",
-      "latest_chapter": 174,
+      "latest_chapter": 175,
       "library_count": 0,
       "name": "The Novels Extra",
-      "package_count": 52,
+      "package_count": 53,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -55618,6 +55648,21 @@
           "name": "174",
           "size": 10206117,
           "telegram_link": "https://t.me/manhuasgratis/4666"
+        },
+        {
+          "name": "175",
+          "first": 175,
+          "last": 175,
+          "channel_id": -1003003829878,
+          "message_id": 5296,
+          "filename": "│175│El Extra de la Novela [Remake].pdf",
+          "size": 9311265,
+          "date": "2026-10-13T04:11:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5296",
+          "download_ready": true,
+          "chapters": [
+            175
+          ]
         }
       ],
       "rating": 0,
@@ -59069,6 +59114,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-13T02:20:28.683645+00:00",
+  "updated_at": "2026-10-13T04:20:29.095979+00:00",
   "version": 3
 }
