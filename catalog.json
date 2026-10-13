@@ -11087,7 +11087,8 @@
           "download_ready": true,
           "chapters": [
             43
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_herrero_genio_del_juego/5289_43%20%E0%BC%8A%20El%20Herrero%20Genio%20Del%20Juego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T022337Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8652c037681bf720f01f027fe0fee3062505f8e5a82784874a97b7518baf8c0"
         },
         {
           "name": "44",
@@ -11102,7 +11103,8 @@
           "download_ready": true,
           "chapters": [
             44
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_herrero_genio_del_juego/5290_44%20%E0%BC%8A%20El%20Herrero%20Genio%20Del%20Juego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T022352Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dbe8a0af5cbf6ba982a5a978a4db05a408ce4a8d54c96f9965088d9fddb5b5fc"
         }
       ],
       "rating": 0,
