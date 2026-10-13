@@ -25548,8 +25548,8 @@
     {
       "added_at": "2026-08-22T13:32:40+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/estandar_de_la_reencarnacion.jpg",
-      "cover_message_id": 94,
-      "cover_telegram_link": "https://t.me/c/-1004187372773/94",
+      "cover_message_id": 166,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/166",
       "genres": [
         "Acción",
         "Aventura",
@@ -56120,6 +56120,51 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-13T01:39:54+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/tras_romper_nuestros_lazos_todas_mis_invocaciones_se_convirtieron_en_criaturas_oscuras.jpg",
+      "cover_message_id": 167,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/167",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Apocalipsis",
+        "Drama",
+        "Fantasía",
+        "Venganza"
+      ],
+      "hashtag": "#Tras_romper_nuestros_lazos_todas_mis_invocaciones_se_convirtieron_en_criaturas_oscuras",
+      "id": "tras_romper_nuestros_lazos_todas_mis_invocaciones_se_convirtieron_en_criaturas_oscuras",
+      "latest_chapter": 5,
+      "library_count": 0,
+      "name": "Tras romper nuestros lazos todas mis invocaciones se convirtieron en criaturas oscuras",
+      "package_count": 1,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "date": "2026-10-13T01:39:54+00:00",
+          "download_ready": true,
+          "filename": "1_5_Tras_romper_nuestros_lazos,_todas_mis_invocaciones_se_convirtieron.pdf",
+          "first": 1,
+          "last": 5,
+          "message_id": 5278,
+          "name": "1-5",
+          "size": 66295440,
+          "telegram_link": "https://t.me/manhuasgratis/5278"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Tras ser traicionado por su propio hermano, el guerrero supremo Gu Chen regresa a su yo de 18 años justo antes de su despertar de clase. En su vida pasada, a pesar de haber sido abandonado en una aldea agrícola por su padre y oprimido por su madrastra y su hermano, Gu Chen los seguía considerando familia, y su constante sumisión lo llevó a la traición definitiva. Armado con una segunda oportunidad y ahora fusionado con la Sangre del Rey Demonio, decide tomar un camino diferente. Rompe lazos con su tóxica familia y elige convertirse en un Invocador Oscuro, aprovechando su inmenso talento y el conocimiento de su vida pasada para embarcarse en un camino imparable de ascenso de nivel.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-11T23:44:02+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/un_marine_espacial_con_una_ventana_de_estado.jpg",
       "cover_message_id": 118,
@@ -58831,6 +58876,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-13T01:18:41.006997+00:00",
+  "updated_at": "2026-10-13T01:41:21.801789+00:00",
   "version": 3
 }
