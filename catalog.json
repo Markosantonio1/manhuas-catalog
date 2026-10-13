@@ -13661,7 +13661,8 @@
           "download_ready": true,
           "chapters": [
             40
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_mago_pastor/5298_40%20El%20Mago%20Pastor%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T122118Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1bb164d81891a3191c3d989eb45d3c5fc32e966b1615f1fe48e03eeb4ce2ee6"
         }
       ],
       "rating": 0,
