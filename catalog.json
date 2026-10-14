@@ -6590,6 +6590,28 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-14T19:16:57.723122+00:00",
+      "cover": null,
+      "cover_message_id": null,
+      "cover_telegram_link": null,
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance"
+      ],
+      "hashtag": "#Conseguí_un_Huevo_de_Dragón",
+      "id": "consegui_un_huevo_de_dragon",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "Conseguí un Huevo de Dragón",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "",
+      "visible": false
+    },
+    {
       "added_at": "2026-01-23T05:37:41+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/como_se_jubila_un_nigromante_catastrofico.jpg",
       "cover_message_id": 162,
@@ -13442,20 +13464,20 @@
           "telegram_link": "https://t.me/manhuasgratis/4797"
         },
         {
-          "name": "141",
-          "first": 141,
-          "last": 141,
           "channel_id": -1003003829878,
-          "message_id": 5547,
-          "filename": "141 - El Maestro de la Espada Acogedor de Estrellas.pdf",
-          "size": 11287821,
-          "date": "2026-10-14T04:11:45+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5547",
-          "download_ready": true,
           "chapters": [
             141
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_maestro_de_la_espada_acogedor_de_estrellas/5547_141%20-%20El%20Maestro%20de%20la%20Espada%20Acogedor%20de%20Estrellas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042130Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dae1d58b3ffa900bb58dd42765ced1365d58fe7a95b03816d08e84f0d74a3de1"
+          "date": "2026-10-14T04:11:45+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_maestro_de_la_espada_acogedor_de_estrellas/5547_141%20-%20El%20Maestro%20de%20la%20Espada%20Acogedor%20de%20Estrellas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042130Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dae1d58b3ffa900bb58dd42765ced1365d58fe7a95b03816d08e84f0d74a3de1",
+          "filename": "141 - El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "first": 141,
+          "last": 141,
+          "message_id": 5547,
+          "name": "141",
+          "size": 11287821,
+          "telegram_link": "https://t.me/manhuasgratis/5547"
         }
       ],
       "rating": 5,
@@ -29966,6 +29988,480 @@
       "visible": true
     },
     {
+      "added_at": "2026-08-14T00:32:12+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre.jpg",
+      "cover_message_id": 186,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/186",
+      "genres": [
+        "Sistema",
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "hashtag": "#Guía_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
+      "id": "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
+      "latest_chapter": 44,
+      "library_count": 0,
+      "name": "Guía de estrategia de un cobarde para conquistar la torre",
+      "package_count": 29,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "01_06 Guía de estrategia de un cobarde.pdf",
+          "first": 1,
+          "last": 6,
+          "message_id": 1041,
+          "name": "1-6",
+          "size": 76117439,
+          "telegram_link": "https://t.me/manhuasgratis/1041"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            7
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "07 Guía de estrategia de un cobarde.pdf",
+          "first": 7,
+          "last": 7,
+          "message_id": 1042,
+          "name": "7",
+          "size": 15870945,
+          "telegram_link": "https://t.me/manhuasgratis/1042"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            8
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "08 Guía de estrategia de un cobarde.pdf",
+          "first": 8,
+          "last": 8,
+          "message_id": 1043,
+          "name": "8",
+          "size": 17138692,
+          "telegram_link": "https://t.me/manhuasgratis/1043"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            9
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "09 Guía de estrategia de un cobarde.pdf",
+          "first": 9,
+          "last": 9,
+          "message_id": 1044,
+          "name": "9",
+          "size": 14891361,
+          "telegram_link": "https://t.me/manhuasgratis/1044"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            10,
+            11
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "10_11 Guía de estrategia de un cobarde.pdf",
+          "first": 10,
+          "last": 11,
+          "message_id": 1045,
+          "name": "10-11",
+          "size": 23569797,
+          "telegram_link": "https://t.me/manhuasgratis/1045"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            12,
+            13,
+            14
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "12_14 Guía de estrategia de un cobarde.pdf",
+          "first": 12,
+          "last": 14,
+          "message_id": 1046,
+          "name": "12-14",
+          "size": 39368736,
+          "telegram_link": "https://t.me/manhuasgratis/1046"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            15,
+            16
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "15_16 Guía de estrategia de un cobarde.pdf",
+          "first": 15,
+          "last": 16,
+          "message_id": 1047,
+          "name": "15-16",
+          "size": 26484988,
+          "telegram_link": "https://t.me/manhuasgratis/1047"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            17
+          ],
+          "date": "2026-08-14T00:32:12+00:00",
+          "download_ready": true,
+          "filename": "17 Guía de estrategia de un cobarde.pdf",
+          "first": 17,
+          "last": 17,
+          "message_id": 1048,
+          "name": "17",
+          "size": 12814454,
+          "telegram_link": "https://t.me/manhuasgratis/1048"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            18
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "18 Guía de estrategia de un cobarde.pdf",
+          "first": 18,
+          "last": 18,
+          "message_id": 1049,
+          "name": "18",
+          "size": 14907119,
+          "telegram_link": "https://t.me/manhuasgratis/1049"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            19,
+            20
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "19_20 Guía de estrategia de un cobarde.pdf",
+          "first": 19,
+          "last": 20,
+          "message_id": 1050,
+          "name": "19-20",
+          "size": 29023751,
+          "telegram_link": "https://t.me/manhuasgratis/1050"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "21 Guía de estrategia de un cobarde.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 1051,
+          "name": "21",
+          "size": 13039124,
+          "telegram_link": "https://t.me/manhuasgratis/1051"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            22
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "22 Guía de estrategia de un cobarde.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 1052,
+          "name": "22",
+          "size": 13659955,
+          "telegram_link": "https://t.me/manhuasgratis/1052"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            23,
+            24
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "23_24 Guía de estrategia de un cobarde.pdf",
+          "first": 23,
+          "last": 24,
+          "message_id": 1053,
+          "name": "23-24",
+          "size": 27715411,
+          "telegram_link": "https://t.me/manhuasgratis/1053"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            25
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "25 Guía de estrategia de un cobarde.pdf",
+          "first": 25,
+          "last": 25,
+          "message_id": 1054,
+          "name": "25",
+          "size": 14966974,
+          "telegram_link": "https://t.me/manhuasgratis/1054"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            26
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "26 Guía de estrategia de un cobarde.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 1055,
+          "name": "26",
+          "size": 12950920,
+          "telegram_link": "https://t.me/manhuasgratis/1055"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            27
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "27 Guía de estrategia de un cobarde.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 1056,
+          "name": "27",
+          "size": 15826792,
+          "telegram_link": "https://t.me/manhuasgratis/1056"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            28
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "28 Guía de estrategia de un cobarde.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 1057,
+          "name": "28",
+          "size": 13802601,
+          "telegram_link": "https://t.me/manhuasgratis/1057"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29,
+            30
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "29_30 Guía de estrategia de un cobarde.pdf",
+          "first": 29,
+          "last": 30,
+          "message_id": 1058,
+          "name": "29-30",
+          "size": 30444383,
+          "telegram_link": "https://t.me/manhuasgratis/1058"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "31_32 Guía de estrategia de un cobarde.pdf",
+          "first": 31,
+          "last": 32,
+          "message_id": 1059,
+          "name": "31-32",
+          "size": 30971290,
+          "telegram_link": "https://t.me/manhuasgratis/1059"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            33
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "33 Guía de estrategia de un cobarde.pdf",
+          "first": 33,
+          "last": 33,
+          "message_id": 1060,
+          "name": "33",
+          "size": 13702488,
+          "telegram_link": "https://t.me/manhuasgratis/1060"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            34
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "34 Guía de estrategia de un cobarde.pdf",
+          "first": 34,
+          "last": 34,
+          "message_id": 1061,
+          "name": "34",
+          "size": 15504724,
+          "telegram_link": "https://t.me/manhuasgratis/1061"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            35
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "35 Guía de estrategia de un cobarde.pdf",
+          "first": 35,
+          "last": 35,
+          "message_id": 1062,
+          "name": "35",
+          "size": 16642377,
+          "telegram_link": "https://t.me/manhuasgratis/1062"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            36
+          ],
+          "date": "2026-08-14T00:32:13+00:00",
+          "download_ready": true,
+          "filename": "36 Guía de estrategia de un cobarde.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 1063,
+          "name": "36",
+          "size": 15135754,
+          "telegram_link": "https://t.me/manhuasgratis/1063"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            37
+          ],
+          "date": "2026-08-17T19:18:24+00:00",
+          "download_ready": true,
+          "filename": "[37] Guía de Estrategia de un Cobarde para Conquistar.pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 1664,
+          "name": "37",
+          "size": 15744572,
+          "telegram_link": "https://t.me/manhuasgratis/1664"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-08-27T03:20:45+00:00",
+          "download_ready": true,
+          "filename": "[38] Guía de Estrategia de un Cobarde para Conquistar .pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 3655,
+          "name": "38",
+          "size": 16395054,
+          "telegram_link": "https://t.me/manhuasgratis/3655"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            39
+          ],
+          "date": "2026-09-06T17:07:48+00:00",
+          "download_ready": true,
+          "filename": "[39] Guía de Estrategia de un Cobarde para Conquistar.pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 4336,
+          "name": "39",
+          "size": 14908037,
+          "telegram_link": "https://t.me/manhuasgratis/4336"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40,
+            41,
+            42
+          ],
+          "date": "2026-09-19T21:57:12+00:00",
+          "download_ready": true,
+          "filename": "[40-42] Guía de Estrategia de un Cobarde para Conquistar.pdf",
+          "first": 40,
+          "last": 42,
+          "message_id": 4589,
+          "name": "40-42",
+          "size": 33883856,
+          "telegram_link": "https://t.me/manhuasgratis/4589"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43
+          ],
+          "date": "2026-10-03T04:10:52+00:00",
+          "download_ready": true,
+          "filename": "[43] Guía de Estrategia de un Cobarde para Conquistar.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 4816,
+          "name": "43",
+          "size": 13971358,
+          "telegram_link": "https://t.me/manhuasgratis/4816"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            44
+          ],
+          "date": "2026-10-14T04:11:47+00:00",
+          "download_ready": true,
+          "filename": "[44] Guía de Estrategia de un Cobarde para Conquistar.pdf",
+          "first": 44,
+          "last": 44,
+          "message_id": 5548,
+          "name": "44",
+          "size": 15275666,
+          "telegram_link": "https://t.me/manhuasgratis/5548"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "[Por el estudio que te trajo<Sobreviviendo al juego como un bárbaro><El pasado oculto del Jugador>\n<El Rey Demonio abrumado por los héroes> ¡y muchos más!> ]Un día, misteriosas torres negras surgieron de repente por todo el mundo, y unos pocos elegidos comenzaron a despertar.Pero para Bong Joohyuk —un don nadie débil y sin suerte— era algo que no debería haber tenido nada que ver con él.Después de otro día agotador en su trabajo de medio tiempo, justo cuando estaba a punto de darle un bocado a su ramen, entonces—[Bong Joohyuk, has despertado.]“…Eh, joder, ¿qué demonios?!\"¿Será esta por fin su oportunidad para cambiar su vida?",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-06T03:00:42.605124+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/guia_de_supervivencia_del_extra_de_la_academia.jpg",
       "cover_message_id": 2,
@@ -43068,8 +43564,8 @@
     {
       "added_at": "2026-08-24T20:46:12+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/no_soy_esa_clase_de_talento.jpg",
-      "cover_message_id": 138,
-      "cover_telegram_link": "https://t.me/c/-1004187372773/138",
+      "cover_message_id": 183,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/183",
       "genres": [
         "Acción",
         "Reencarnación",
@@ -43082,7 +43578,7 @@
       "latest_chapter": 127,
       "library_count": 1,
       "name": "No Soy Esa Clase De Talento",
-      "package_count": 51,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -43098,41 +43594,16 @@
             9,
             10
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2993_01_10%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=32693b9058b96fc8b9b2ab3ffab45ce7cfac6d754a88d384c9ba65616a4c51bd",
-          "filename": "01_10 No soy esa clase de talento.pdf",
-          "first": 1,
-          "last": 10,
-          "message_id": 2993,
-          "name": "1-10",
-          "size": 78038042,
-          "telegram_link": "https://t.me/manhuasgratis/2993"
-        },
-        {
-          "name": "1-10",
-          "first": 1,
-          "last": 10,
-          "channel_id": -1003003829878,
-          "message_id": 5528,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5528_%5B%2301-10%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5c61751da9c71bc7eb89b465598fb0d9391f24317a5e8c1027ced54f73451e2",
           "filename": "[#01-10] • No Soy Esa Clase De Talento.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 5528,
+          "name": "1-10",
           "size": 84358552,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5528",
-          "download_ready": true,
-          "chapters": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5528_%5B%2301-10%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5c61751da9c71bc7eb89b465598fb0d9391f24317a5e8c1027ced54f73451e2"
+          "telegram_link": "https://t.me/manhuasgratis/5528"
         },
         {
           "channel_id": -1003003829878,
@@ -43148,41 +43619,16 @@
             19,
             20
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2994_11_20%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e21d72f609313a4166f4ccb74b3e9eef379d3d356779747bee5ec3e67418caaf",
-          "filename": "11_20 No soy esa clase de talento.pdf",
-          "first": 11,
-          "last": 20,
-          "message_id": 2994,
-          "name": "11-20",
-          "size": 88899995,
-          "telegram_link": "https://t.me/manhuasgratis/2994"
-        },
-        {
-          "name": "11-20",
-          "first": 11,
-          "last": 20,
-          "channel_id": -1003003829878,
-          "message_id": 5529,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5529_%5B%2311-20%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042510Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=824cc67d75410c484ddac086015e71e881762389e5d9b926ce9164fc49143bc3",
           "filename": "[#11-20] • No Soy Esa Clase De Talento.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5529,
+          "name": "11-20",
           "size": 96045014,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5529",
-          "download_ready": true,
-          "chapters": [
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5529_%5B%2311-20%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042510Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=824cc67d75410c484ddac086015e71e881762389e5d9b926ce9164fc49143bc3"
+          "telegram_link": "https://t.me/manhuasgratis/5529"
         },
         {
           "channel_id": -1003003829878,
@@ -43198,41 +43644,16 @@
             29,
             30
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2995_21_30%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee5fda2436f368254baab8b7adfa033080143a3316b5367fe3a50313a96ceec4",
-          "filename": "21_30 No soy esa clase de talento.pdf",
-          "first": 21,
-          "last": 30,
-          "message_id": 2995,
-          "name": "21-30",
-          "size": 83758297,
-          "telegram_link": "https://t.me/manhuasgratis/2995"
-        },
-        {
-          "name": "21-30",
-          "first": 21,
-          "last": 30,
-          "channel_id": -1003003829878,
-          "message_id": 5530,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5530_%5B%2321-30%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042701Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de79b1904f49e1aa5ca866bc4da325c45833b69521fb1c891fcd1e002b76d82e",
           "filename": "[#21-30] • No Soy Esa Clase De Talento.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 5530,
+          "name": "21-30",
           "size": 90632078,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5530",
-          "download_ready": true,
-          "chapters": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5530_%5B%2321-30%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042701Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de79b1904f49e1aa5ca866bc4da325c45833b69521fb1c891fcd1e002b76d82e"
+          "telegram_link": "https://t.me/manhuasgratis/5530"
         },
         {
           "channel_id": -1003003829878,
@@ -43248,41 +43669,16 @@
             39,
             40
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2996_31_40%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7d0f057d701d8de4d0d515a0d052a3b2a78084a7d8a55d381847587cfe1fb38f",
-          "filename": "31_40 No soy esa clase de talento.pdf",
-          "first": 31,
-          "last": 40,
-          "message_id": 2996,
-          "name": "31-40",
-          "size": 94186540,
-          "telegram_link": "https://t.me/manhuasgratis/2996"
-        },
-        {
-          "name": "31-40",
-          "first": 31,
-          "last": 40,
-          "channel_id": -1003003829878,
-          "message_id": 5531,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5531_%5B%2331-40%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042906Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d4bb50e1f96358e080f5f3143d819a2934ac04608ce86269ee95eb436a85a2b",
           "filename": "[#31-40] • No Soy Esa Clase De Talento.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 5531,
+          "name": "31-40",
           "size": 102388107,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5531",
-          "download_ready": true,
-          "chapters": [
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5531_%5B%2331-40%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T042906Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d4bb50e1f96358e080f5f3143d819a2934ac04608ce86269ee95eb436a85a2b"
+          "telegram_link": "https://t.me/manhuasgratis/5531"
         },
         {
           "channel_id": -1003003829878,
@@ -43298,41 +43694,16 @@
             49,
             50
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2997_41_50%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=941017b23c0874d238c4910cec52775d9759d99c65d2f8cc9b2ea18adaef1263",
-          "filename": "41_50 No soy esa clase de talento.pdf",
-          "first": 41,
-          "last": 50,
-          "message_id": 2997,
-          "name": "41-50",
-          "size": 104338846,
-          "telegram_link": "https://t.me/manhuasgratis/2997"
-        },
-        {
-          "name": "41-50",
-          "first": 41,
-          "last": 50,
-          "channel_id": -1003003829878,
-          "message_id": 5532,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5532_%5B%2341-50%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043037Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01d426a13b8b7c90cc67c363f7f96a522626438a10b58a9ea8afef120447b232",
           "filename": "[#41-50] • No Soy Esa Clase De Talento.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 5532,
+          "name": "41-50",
           "size": 114414817,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5532",
-          "download_ready": true,
-          "chapters": [
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5532_%5B%2341-50%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043037Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01d426a13b8b7c90cc67c363f7f96a522626438a10b58a9ea8afef120447b232"
+          "telegram_link": "https://t.me/manhuasgratis/5532"
         },
         {
           "channel_id": -1003003829878,
@@ -43348,41 +43719,16 @@
             59,
             60
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2998_51_60%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e89c53f7ee62b06766d14f0994409a037f033c429b764499c3fb3be06db40f6",
-          "filename": "51_60 No soy esa clase de talento.pdf",
-          "first": 51,
-          "last": 60,
-          "message_id": 2998,
-          "name": "51-60",
-          "size": 111367639,
-          "telegram_link": "https://t.me/manhuasgratis/2998"
-        },
-        {
-          "name": "51-60",
-          "first": 51,
-          "last": 60,
-          "channel_id": -1003003829878,
-          "message_id": 5533,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5533_%5B%2351-60%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043202Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=321055d79077ac844200068adf7fd07543bb3bfe6b4f3f6c33c73c89254bc416",
           "filename": "[#51-60] • No Soy Esa Clase De Talento.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 5533,
+          "name": "51-60",
           "size": 112346119,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5533",
-          "download_ready": true,
-          "chapters": [
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5533_%5B%2351-60%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043202Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=321055d79077ac844200068adf7fd07543bb3bfe6b4f3f6c33c73c89254bc416"
+          "telegram_link": "https://t.me/manhuasgratis/5533"
         },
         {
           "channel_id": -1003003829878,
@@ -43398,41 +43744,16 @@
             69,
             70
           ],
-          "date": "2026-08-24T20:46:12+00:00",
+          "date": "2026-10-14T03:47:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/2999_61_70%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=189004a1fd0887c55a21296fd48c016fa89e3d09d519da8645cb7307595a91ac",
-          "filename": "61_70 No soy esa clase de talento.pdf",
-          "first": 61,
-          "last": 70,
-          "message_id": 2999,
-          "name": "61-70",
-          "size": 99907222,
-          "telegram_link": "https://t.me/manhuasgratis/2999"
-        },
-        {
-          "name": "61-70",
-          "first": 61,
-          "last": 70,
-          "channel_id": -1003003829878,
-          "message_id": 5534,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5534_%5B%2361-70%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043324Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3b76f61466c0dd98db94bfd772a2f37b50091bf2f27923b21dbd24a79c196f0d",
           "filename": "[#61-70] • No Soy Esa Clase De Talento.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 5534,
+          "name": "61-70",
           "size": 109799186,
-          "date": "2026-10-14T03:47:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5534",
-          "download_ready": true,
-          "chapters": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5534_%5B%2361-70%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043324Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3b76f61466c0dd98db94bfd772a2f37b50091bf2f27923b21dbd24a79c196f0d"
+          "telegram_link": "https://t.me/manhuasgratis/5534"
         },
         {
           "channel_id": -1003003829878,
@@ -43448,69 +43769,19 @@
             79,
             80
           ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3000_71_80%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9fbc849b8401e3e2f19963c4cc0c13462bc43fa3420cab40be1df6f742112418",
-          "filename": "71_80 No soy esa clase de talento.pdf",
-          "first": 71,
-          "last": 80,
-          "message_id": 3000,
-          "name": "71-80",
-          "size": 105759299,
-          "telegram_link": "https://t.me/manhuasgratis/3000"
-        },
-        {
-          "name": "71-80",
-          "first": 71,
-          "last": 80,
-          "channel_id": -1003003829878,
-          "message_id": 5535,
-          "filename": "[#71-80] • No Soy Esa Clase De Talento.pdf",
-          "size": 112248178,
           "date": "2026-10-14T03:47:27+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5535",
           "download_ready": true,
-          "chapters": [
-            71,
-            72,
-            73,
-            74,
-            75,
-            76,
-            77,
-            78,
-            79,
-            80
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5535_%5B%2371-80%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043449Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7746e0d0e5d5a83978cefe5c02fbd70fc6c0aae31e8ebe8be8c014b5e1875b80"
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5535_%5B%2371-80%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043449Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7746e0d0e5d5a83978cefe5c02fbd70fc6c0aae31e8ebe8be8c014b5e1875b80",
+          "filename": "[#71-80] • No Soy Esa Clase De Talento.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 5535,
+          "name": "71-80",
+          "size": 112248178,
+          "telegram_link": "https://t.me/manhuasgratis/5535"
         },
         {
           "channel_id": -1003003829878,
-          "chapters": [
-            81
-          ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3001_81%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f12aa785904da8b2a384eb6653ffca96c8d41d9045b422b62a1dbb77988df1f",
-          "filename": "81 No soy esa clase de talento.pdf",
-          "first": 81,
-          "last": 81,
-          "message_id": 3001,
-          "name": "81",
-          "size": 10052402,
-          "telegram_link": "https://t.me/manhuasgratis/3001"
-        },
-        {
-          "name": "81-90",
-          "first": 81,
-          "last": 90,
-          "channel_id": -1003003829878,
-          "message_id": 5541,
-          "filename": "[#81-90] • No Soy Esa Clase De Talento.pdf",
-          "size": 118016747,
-          "date": "2026-10-14T03:48:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5541",
-          "download_ready": true,
           "chapters": [
             81,
             82,
@@ -43523,179 +43794,19 @@
             89,
             90
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5541_%5B%2381-90%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043616Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b9669b1d83c5aebcb923b2e5b8a69921344c54a6e06b5d9a0f7c4a12a617bc85"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            82
-          ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3002_82%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=77299d29b090119d9bc4f0cdc4a437657df49e1eb0b6f65da96258d129a00e5b",
-          "filename": "82 No soy esa clase de talento.pdf",
-          "first": 82,
-          "last": 82,
-          "message_id": 3002,
-          "name": "82",
-          "size": 9230448,
-          "telegram_link": "https://t.me/manhuasgratis/3002"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            83
-          ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3003_83%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=406de714b5dac143d1075d610b4d97b79e4f6eef402016f39e7be6181647551a",
-          "filename": "83 No soy esa clase de talento.pdf",
-          "first": 83,
-          "last": 83,
-          "message_id": 3003,
-          "name": "83",
-          "size": 8493601,
-          "telegram_link": "https://t.me/manhuasgratis/3003"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            84
-          ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3004_84%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=19030932d06648ae9f07e4e868aebb1a89c3f6972f9bc5620a6a523ee1aacde1",
-          "filename": "84 No soy esa clase de talento.pdf",
-          "first": 84,
-          "last": 84,
-          "message_id": 3004,
-          "name": "84",
-          "size": 8466546,
-          "telegram_link": "https://t.me/manhuasgratis/3004"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            85
-          ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3005_85%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d87295f6cebb815e85df4819abfbc5e046006c9f91a3cf30a09b9709d3d4b48",
-          "filename": "85 No soy esa clase de talento.pdf",
-          "first": 85,
-          "last": 85,
-          "message_id": 3005,
-          "name": "85",
-          "size": 8610830,
-          "telegram_link": "https://t.me/manhuasgratis/3005"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            86
-          ],
-          "date": "2026-08-24T20:46:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3006_86%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ce6de8ce4e72434038c6c81671f45a4079d80b128335f9d922a0ebedad78fde",
-          "filename": "86 No soy esa clase de talento.pdf",
-          "first": 86,
-          "last": 86,
-          "message_id": 3006,
-          "name": "86",
-          "size": 11548992,
-          "telegram_link": "https://t.me/manhuasgratis/3006"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            87
-          ],
-          "date": "2026-08-24T20:46:13+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3007_87%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=60439299e3139dd0cd871282892c5330b66cce9cbd394b64cef93430bf6c0ef9",
-          "filename": "87 No soy esa clase de talento.pdf",
-          "first": 87,
-          "last": 87,
-          "message_id": 3007,
-          "name": "87",
-          "size": 8895122,
-          "telegram_link": "https://t.me/manhuasgratis/3007"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            88
-          ],
-          "date": "2026-08-24T20:46:13+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3008_88%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ef825388577dcc431df13847689da944d977796404898b22fcb933f2e6e2e40",
-          "filename": "88 No soy esa clase de talento.pdf",
-          "first": 88,
-          "last": 88,
-          "message_id": 3008,
-          "name": "88",
-          "size": 9302272,
-          "telegram_link": "https://t.me/manhuasgratis/3008"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            89
-          ],
-          "date": "2026-08-24T20:48:25+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3010_89%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9fd849d17a518013529bfdbdbed9a3128468d34e2848909fd6fc20fe20d40393",
-          "filename": "89 No soy esa clase de talento.pdf",
-          "first": 89,
-          "last": 89,
-          "message_id": 3010,
-          "name": "89",
-          "size": 11446926,
-          "telegram_link": "https://t.me/manhuasgratis/3010"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            90
-          ],
-          "date": "2026-08-24T20:48:27+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3011_90%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1db327bd1355d39dbf4c41a0352a3a938cd33fe25ad01c2a421ce04df6f7de63",
-          "filename": "90 No soy esa clase de talento.pdf",
-          "first": 90,
-          "last": 90,
-          "message_id": 3011,
-          "name": "90",
-          "size": 9690411,
-          "telegram_link": "https://t.me/manhuasgratis/3011"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            91
-          ],
-          "date": "2026-08-24T20:48:30+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3012_91%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f9d72b52663b78f6b3cdd254c2566498612f390bcddcad550defabc37c6f2013",
-          "filename": "91 No soy esa clase de talento.pdf",
-          "first": 91,
-          "last": 91,
-          "message_id": 3012,
-          "name": "91",
-          "size": 9757891,
-          "telegram_link": "https://t.me/manhuasgratis/3012"
-        },
-        {
-          "name": "91-100",
-          "first": 91,
-          "last": 100,
-          "channel_id": -1003003829878,
-          "message_id": 5542,
-          "filename": "[✦ 91-100] No Soy Esa Clase De Talento🏮JMX.pdf",
-          "size": 86604232,
           "date": "2026-10-14T03:48:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5542",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5541_%5B%2381-90%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043616Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b9669b1d83c5aebcb923b2e5b8a69921344c54a6e06b5d9a0f7c4a12a617bc85",
+          "filename": "[#81-90] • No Soy Esa Clase De Talento.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 5541,
+          "name": "81-90",
+          "size": 118016747,
+          "telegram_link": "https://t.me/manhuasgratis/5541"
+        },
+        {
+          "channel_id": -1003003829878,
           "chapters": [
             91,
             92,
@@ -43708,134 +43819,19 @@
             99,
             100
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5542_%5B%E2%9C%A6%2091-100%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043754Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c66190d0e56557012dbea38ec4448b6382f318ab4e3199a3a5e6db73ef367a69"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            92,
-            93
-          ],
-          "date": "2026-08-24T20:48:32+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3013_%5B%2392-93%5D%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=db419e8a76a0cfa276ccfcd61d925f77b98154996a4b1a772439459247284c51",
-          "filename": "[#92-93] No Soy Esa Clase De Talento.pdf",
-          "first": 92,
-          "last": 93,
-          "message_id": 3013,
-          "name": "92-93",
-          "size": 18516621,
-          "telegram_link": "https://t.me/manhuasgratis/3013"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            94
-          ],
-          "date": "2026-08-24T20:48:33+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3014_%5B%2394%5D%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=93ee19bd4434c0ffb61ac44907f6b71aafbf87f9081309befe368ba2cef8b71b",
-          "filename": "[#94] No Soy Esa Clase De Talento.pdf",
-          "first": 94,
-          "last": 94,
-          "message_id": 3014,
-          "name": "94",
-          "size": 11240271,
-          "telegram_link": "https://t.me/manhuasgratis/3014"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            95
-          ],
-          "date": "2026-08-24T20:48:36+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3015_95%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=706a15c9f93e255050feb434178c4c8131b2cdf31e492cc984e889d194e89728",
-          "filename": "95 No soy esa clase de talento.pdf",
-          "first": 95,
-          "last": 95,
-          "message_id": 3015,
-          "name": "95",
-          "size": 10075745,
-          "telegram_link": "https://t.me/manhuasgratis/3015"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            96
-          ],
-          "date": "2026-08-24T20:48:39+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3016_96%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6d7e4838142cc1ba9ad98412ec62c549aea45b051fb669985335398f97cd6b08",
-          "filename": "96 No soy esa clase de talento.pdf",
-          "first": 96,
-          "last": 96,
-          "message_id": 3016,
-          "name": "96",
-          "size": 8548088,
-          "telegram_link": "https://t.me/manhuasgratis/3016"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            97,
-            98,
-            99
-          ],
-          "date": "2026-08-24T20:48:41+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3017_%E2%94%8A97-99%E2%94%8ANo%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c0907f965afe0a47cd0367d6f1631edc3c721176cd6f22c443190591acb5c227",
-          "filename": "┊97-99┊No Soy Esa Clase De Talento.pdf",
-          "first": 97,
-          "last": 99,
-          "message_id": 3017,
-          "name": "97-99",
-          "size": 21551249,
-          "telegram_link": "https://t.me/manhuasgratis/3017"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            100
-          ],
-          "date": "2026-08-24T20:48:43+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3018_100%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=adab7a1312cd5646e1e9e386ed9e437b5a50fcdd663ed74ceab67617d15b9918",
-          "filename": "100 No soy esa clase de talento.pdf",
-          "first": 100,
-          "last": 100,
-          "message_id": 3018,
-          "name": "100",
-          "size": 8156801,
-          "telegram_link": "https://t.me/manhuasgratis/3018"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            101
-          ],
-          "date": "2026-08-24T20:48:45+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3019_101%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30aeda86f909194cabe032116409f4b578fc264094884435df5708b5a8ce964c",
-          "filename": "101 No soy esa clase de talento.pdf",
-          "first": 101,
-          "last": 101,
-          "message_id": 3019,
-          "name": "101",
-          "size": 8207326,
-          "telegram_link": "https://t.me/manhuasgratis/3019"
-        },
-        {
-          "name": "101-110",
-          "first": 101,
-          "last": 110,
-          "channel_id": -1003003829878,
-          "message_id": 5543,
-          "filename": "[✦ 101-110] No Soy Esa Clase De Talento🏮JMX.pdf",
-          "size": 80024698,
           "date": "2026-10-14T03:48:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5543",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5542_%5B%E2%9C%A6%2091-100%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043754Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c66190d0e56557012dbea38ec4448b6382f318ab4e3199a3a5e6db73ef367a69",
+          "filename": "[✦ 91-100] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 5542,
+          "name": "91-100",
+          "size": 86604232,
+          "telegram_link": "https://t.me/manhuasgratis/5542"
+        },
+        {
+          "channel_id": -1003003829878,
           "chapters": [
             101,
             102,
@@ -43848,136 +43844,16 @@
             109,
             110
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5543_%5B%E2%9C%A6%20101-110%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b60f424567d0cf74cb96dc709c58d801474b66354e14d7c3e761bf87d6eb089"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            102
-          ],
-          "date": "2026-08-24T20:48:47+00:00",
+          "date": "2026-10-14T03:48:19+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3020_%5B%23102%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=05b51eed2d3abde73e6bff76436ab57ced2d1b86992048aedf7367b5273c453e",
-          "filename": "[#102] • No Soy Esa Clase De Talento.pdf",
-          "first": 102,
-          "last": 102,
-          "message_id": 3020,
-          "name": "102",
-          "size": 11400446,
-          "telegram_link": "https://t.me/manhuasgratis/3020"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            103
-          ],
-          "date": "2026-08-24T20:48:49+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3021_103%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8c601b42f1553618981cfadae85dde36a6bc2fb2019da2d4b77c3580dab519ef",
-          "filename": "103 No soy esa clase de talento.pdf",
-          "first": 103,
-          "last": 103,
-          "message_id": 3021,
-          "name": "103",
-          "size": 9177418,
-          "telegram_link": "https://t.me/manhuasgratis/3021"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            104
-          ],
-          "date": "2026-08-24T20:48:51+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3022_104%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d304022b24563b9a9729b18d7bd11a466d70a5fe2b08c75b75cffd7ca3692e69",
-          "filename": "104 No soy esa clase de talento.pdf",
-          "first": 104,
-          "last": 104,
-          "message_id": 3022,
-          "name": "104",
-          "size": 8058710,
-          "telegram_link": "https://t.me/manhuasgratis/3022"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            105
-          ],
-          "date": "2026-08-24T20:48:54+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3023_105%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc963abaf4b8abe8803c151494d3376137274be3795002ffcc73a3d463f2ff37",
-          "filename": "105 No soy esa clase de talento.pdf",
-          "first": 105,
-          "last": 105,
-          "message_id": 3023,
-          "name": "105",
-          "size": 8623519,
-          "telegram_link": "https://t.me/manhuasgratis/3023"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            106
-          ],
-          "date": "2026-08-24T20:48:57+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3024_106%20%E2%9D%A5%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f357c1d0b507230ad5b1a2cf6c37822cbaa2dcd8fdf02a4fb37633c67e528b0a",
-          "filename": "106 ❥ No Soy Esa Clase De Talento.pdf",
-          "first": 106,
-          "last": 106,
-          "message_id": 3024,
-          "name": "106",
-          "size": 10958310,
-          "telegram_link": "https://t.me/manhuasgratis/3024"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            107
-          ],
-          "date": "2026-08-24T20:48:58+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3025_107%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=923ea9756048c12c3c6b8f114bc219473fbdaaace485f0f11a679f4f97bb487a",
-          "filename": "107 No soy esa clase de talento.pdf",
-          "first": 107,
-          "last": 107,
-          "message_id": 3025,
-          "name": "107",
-          "size": 8347538,
-          "telegram_link": "https://t.me/manhuasgratis/3025"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            108
-          ],
-          "date": "2026-08-24T20:49:01+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3026_%5B%23108%5D%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2d9d2b62bc11eb191fa27fd1613aa33d465fcfeb32c8f0bb3f2baf60a315f67",
-          "filename": "[#108] • No Soy Esa Clase De Talento.pdf",
-          "first": 108,
-          "last": 108,
-          "message_id": 3026,
-          "name": "108",
-          "size": 11292284,
-          "telegram_link": "https://t.me/manhuasgratis/3026"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            109,
-            110
-          ],
-          "date": "2026-08-24T20:49:04+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3027_109_110%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b46b3f8dd903684e39a2da9f0291bb943a66f73e53c615b80959a6016a8a338",
-          "filename": "109_110 No soy esa clase de talento.pdf",
-          "first": 109,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5543_%5B%E2%9C%A6%20101-110%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T043923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b60f424567d0cf74cb96dc709c58d801474b66354e14d7c3e761bf87d6eb089",
+          "filename": "[✦ 101-110] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "first": 101,
           "last": 110,
-          "message_id": 3027,
-          "name": "109-110",
-          "size": 15039124,
-          "telegram_link": "https://t.me/manhuasgratis/3027"
+          "message_id": 5543,
+          "name": "101-110",
+          "size": 80024698,
+          "telegram_link": "https://t.me/manhuasgratis/5543"
         },
         {
           "channel_id": -1003003829878,
@@ -43991,71 +43867,19 @@
             117,
             118
           ],
-          "date": "2026-08-24T20:49:06+00:00",
+          "date": "2026-10-14T03:48:20+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3028_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0232857e8a68bb78b93115c9f554390f0c4acf770cbbf467ae3c138a17c7b792",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5544_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T044054Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bfb2451f36c5468ab1274c3d01253487c048b9a78c91999879a9f7c54e9f30bb",
           "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
           "first": 111,
           "last": 118,
-          "message_id": 3028,
-          "name": "111-118",
-          "size": 54643388,
-          "telegram_link": "https://t.me/manhuasgratis/3028"
-        },
-        {
-          "name": "111-118",
-          "first": 111,
-          "last": 118,
-          "channel_id": -1003003829878,
           "message_id": 5544,
-          "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "name": "111-118",
           "size": 54643388,
-          "date": "2026-10-14T03:48:20+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5544",
-          "download_ready": true,
-          "chapters": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5544_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T044054Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bfb2451f36c5468ab1274c3d01253487c048b9a78c91999879a9f7c54e9f30bb"
+          "telegram_link": "https://t.me/manhuasgratis/5544"
         },
         {
           "channel_id": -1003003829878,
-          "chapters": [
-            119,
-            120,
-            121,
-            122,
-            123
-          ],
-          "date": "2026-08-24T20:49:09+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3029_%5B%E2%9C%A6119-123%5DT%C2%B3%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c6d58e66041a92bc2167f91b10812a9206b7e8c6d82277a24b924c0c81cd5f11",
-          "filename": "[✦119-123]T³ • No Soy Esa Clase De Talento🏮JMX.pdf",
-          "first": 119,
-          "last": 123,
-          "message_id": 3029,
-          "name": "119-123",
-          "size": 33132221,
-          "telegram_link": "https://t.me/manhuasgratis/3029"
-        },
-        {
-          "name": "119-127",
-          "first": 119,
-          "last": 127,
-          "channel_id": -1003003829878,
-          "message_id": 5545,
-          "filename": "[✦119-127]T³ • No Soy Esa Clase De Talento🏮JMX.pdf",
-          "size": 61178771,
-          "date": "2026-10-14T03:48:20+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5545",
-          "download_ready": true,
           "chapters": [
             119,
             120,
@@ -44067,39 +43891,16 @@
             126,
             127
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5545_%5B%E2%9C%A6119-127%5DT%C2%B3%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T044203Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ffff65d4bb636ac2284898068de596975a1ab3813fe4b6d81880de7aa10d379"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            124
-          ],
-          "date": "2026-08-24T20:49:10+00:00",
+          "date": "2026-10-14T03:48:20+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/3030_124%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e9980123169f4fed830b6e391feef1359164f245d0c21aeaa137bf1d7bda14e3",
-          "filename": "124 No soy esa clase de talento.pdf",
-          "first": 124,
-          "last": 124,
-          "message_id": 3030,
-          "name": "124",
-          "size": 11393344,
-          "telegram_link": "https://t.me/manhuasgratis/3030"
-        },
-        {
-          "channel_id": -1003003829878,
-          "chapters": [
-            125
-          ],
-          "date": "2026-08-30T06:07:17+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/4065_125%20No%20soy%20esa%20clase%20de%20talento.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=85e3203050d8b6399e97021abaa239e9fd8f5322b1856627ba1699cd8385f804",
-          "filename": "125 No soy esa clase de talento.pdf",
-          "first": 125,
-          "last": 125,
-          "message_id": 4065,
-          "name": "125",
-          "size": 12469375,
-          "telegram_link": "https://t.me/manhuasgratis/4065"
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5545_%5B%E2%9C%A6119-127%5DT%C2%B3%20%E2%80%A2%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T044203Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ffff65d4bb636ac2284898068de596975a1ab3813fe4b6d81880de7aa10d379",
+          "filename": "[✦119-127]T³ • No Soy Esa Clase De Talento🏮JMX.pdf",
+          "first": 119,
+          "last": 127,
+          "message_id": 5545,
+          "name": "119-127",
+          "size": 61178771,
+          "telegram_link": "https://t.me/manhuasgratis/5545"
         }
       ],
       "rating": 0,
@@ -46851,6 +46652,383 @@
       "rating_count": 0,
       "synopsis": "Dane Sogres, un joven que murió antes de poder desarrollar todo su talento en el campo de batalla, se despierta para descubrir que ha renacido como el hijo menor de un prestigioso conde. Ahora con un vasto talento en diversas disciplinas como el manejo de la lanza, el asesinato, la magia, la invocación y la espada, Dane tiene una segunda oportunidad para cultivar sus habilidades. En su nueva vida, rodeado de una familia amorosa que siempre deseó, se enfrenta a desafíos y diferencias de opinión sobre qué camino seguir. Mientras su padre insiste en enseñarle el manejo de la lanza y su madre sueña con que aprenda magia, Dane debe equilibrar sus talentos y encontrar su verdadero destino en un entorno lleno de amor y expectativas.",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-14T03:23:41+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/regresion_del_bastardo_del_clan_de_la_espada.jpg",
+      "cover_message_id": 177,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/177",
+      "genres": [
+        "Finalizada",
+        "Reencarnación",
+        "Acción",
+        "Aventura"
+      ],
+      "hashtag": "#regresión_del_bastardo_del_clan_de_la_espada",
+      "id": "regresion_del_bastardo_del_clan_de_la_espada",
+      "latest_chapter": 114,
+      "library_count": 0,
+      "name": "regresión del bastardo del clan de la espada",
+      "package_count": 17,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│01-10│Regresando Como el Bastardo Reencarnado.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 5426,
+          "name": "1-10",
+          "size": 95072575,
+          "telegram_link": "https://t.me/manhuasgratis/5426"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│11-20│Regresando Como el Bastardo Reencarnado.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5427,
+          "name": "11-20",
+          "size": 93409577,
+          "telegram_link": "https://t.me/manhuasgratis/5427"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│21-30│Regresión del Bastardo del Clan de la Espada.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 5428,
+          "name": "21-30",
+          "size": 110244234,
+          "telegram_link": "https://t.me/manhuasgratis/5428"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│31-40│Regresión del Bastardo del Clan de la Espada.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 5429,
+          "name": "31-40",
+          "size": 103599766,
+          "telegram_link": "https://t.me/manhuasgratis/5429"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│41-50│Regresión del Bastardo del Clan de la Espada.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 5430,
+          "name": "41-50",
+          "size": 123403042,
+          "telegram_link": "https://t.me/manhuasgratis/5430"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│51-60│Regresión del Bastardo del Clan de la Espada.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 5431,
+          "name": "51-60",
+          "size": 118876104,
+          "telegram_link": "https://t.me/manhuasgratis/5431"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "│61-70│Regresión del Bastardo del Clan de la Espada.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 5432,
+          "name": "61-70",
+          "size": 114844415,
+          "telegram_link": "https://t.me/manhuasgratis/5432"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "71-80 Regresión del bastardo del clan de la espada.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 5433,
+          "name": "71-80",
+          "size": 132729127,
+          "telegram_link": "https://t.me/manhuasgratis/5433"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "81-90 Regresión del bastardo del clan de la espada.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 5434,
+          "name": "81-90",
+          "size": 126605990,
+          "telegram_link": "https://t.me/manhuasgratis/5434"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "91-100 Regresión del bastardo del clan de la espada.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 5435,
+          "name": "91-100",
+          "size": 130723291,
+          "telegram_link": "https://t.me/manhuasgratis/5435"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            100
+          ],
+          "date": "2026-10-14T03:23:41+00:00",
+          "download_ready": true,
+          "filename": "100.5 Regresión del bastardo del clan de la espada.pdf",
+          "first": 100,
+          "last": 100,
+          "message_id": 5436,
+          "name": "100",
+          "size": 71319,
+          "telegram_link": "https://t.me/manhuasgratis/5436"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+          ],
+          "date": "2026-10-14T03:23:42+00:00",
+          "download_ready": true,
+          "filename": "101-109 Regresión del bastardo del clan de la espada.pdf",
+          "first": 101,
+          "last": 109,
+          "message_id": 5437,
+          "name": "101-109",
+          "size": 121355923,
+          "telegram_link": "https://t.me/manhuasgratis/5437"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            110
+          ],
+          "date": "2026-10-14T03:23:42+00:00",
+          "download_ready": true,
+          "filename": "110 Regresión del bastardo del clan de la espada.pdf",
+          "first": 110,
+          "last": 110,
+          "message_id": 5438,
+          "name": "110",
+          "size": 12767568,
+          "telegram_link": "https://t.me/manhuasgratis/5438"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111
+          ],
+          "date": "2026-10-14T03:23:42+00:00",
+          "download_ready": true,
+          "filename": "111 Regresión del bastardo del clan de la espada.pdf",
+          "first": 111,
+          "last": 111,
+          "message_id": 5439,
+          "name": "111",
+          "size": 16793171,
+          "telegram_link": "https://t.me/manhuasgratis/5439"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            112
+          ],
+          "date": "2026-10-14T03:23:42+00:00",
+          "download_ready": true,
+          "filename": "112 Regresión del bastardo del clan de la espada.pdf",
+          "first": 112,
+          "last": 112,
+          "message_id": 5440,
+          "name": "112",
+          "size": 17614380,
+          "telegram_link": "https://t.me/manhuasgratis/5440"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            113
+          ],
+          "date": "2026-10-14T03:23:42+00:00",
+          "download_ready": true,
+          "filename": "113 Regresión del bastardo del clan de la espada.pdf",
+          "first": 113,
+          "last": 113,
+          "message_id": 5441,
+          "name": "113",
+          "size": 16661031,
+          "telegram_link": "https://t.me/manhuasgratis/5441"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            114
+          ],
+          "date": "2026-10-14T03:23:42+00:00",
+          "download_ready": true,
+          "filename": "114 Regresión del bastardo del clan de la espada.pdf",
+          "first": 114,
+          "last": 114,
+          "message_id": 5442,
+          "name": "114",
+          "size": 14152062,
+          "telegram_link": "https://t.me/manhuasgratis/5442"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "🌼🍃Sinopsis: Theo es el hijo ilegítimo de la Casa Ragnar, un linaje donde solo los más fuertes sobreviven. Aunque luchó hasta el límite, su falta de talento no le permitió romper las cadenas de su sangre, y finalmente fue marginado de la lucha por el trono. A pesar de ser un bastardo sin poderes, sus propios hermanos buscaron acabar con él. Traicionado incluso por el maestro que lo había instruido, Theo pierde todo y muere solo. En su último aliento, consumido por el arrepentimiento de toda su vida, ocurre lo impensable: regresa al pasado. El bastardo que regresó empuña la espada y se lanza de nuevo a la guerra por el trono.",
+      "visible": false
     },
     {
       "added_at": "2026-08-24T20:59:56+00:00",
@@ -53216,6 +53394,27 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-14T19:16:57.724112+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/super_sistema_devorador.jpg",
+      "cover_message_id": 214,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/214",
+      "genres": [
+        "Respaldo",
+        "Finalizada"
+      ],
+      "hashtag": "#Super_Sistema_Devorador",
+      "id": "super_sistema_devorador",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "Super Sistema Devorador",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Sinopsis no disponible.",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-27T02:29:07+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/surviving_the_game_as_a_barbarian.jpg",
       "cover_message_id": 120,
@@ -56629,6 +56828,1257 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-14T03:39:49+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/the_gamer.jpg",
+      "cover_message_id": 179,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/179",
+      "genres": [
+        "Sistema",
+        "Finalizada",
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Escolar",
+        "Sobrenatural"
+      ],
+      "hashtag": "#The_Gamer",
+      "id": "the_gamer",
+      "latest_chapter": 510,
+      "library_count": 0,
+      "name": "The Gamer",
+      "package_count": 51,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "1 - 10 The Gamer.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 5474,
+          "name": "1-10",
+          "size": 24045517,
+          "telegram_link": "https://t.me/manhuasgratis/5474"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "11 - 20 The Gamer.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5475,
+          "name": "11-20",
+          "size": 23991213,
+          "telegram_link": "https://t.me/manhuasgratis/5475"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "21 - 30 The Gamer.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 5476,
+          "name": "21-30",
+          "size": 20283247,
+          "telegram_link": "https://t.me/manhuasgratis/5476"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "31 - 40 The Gamer.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 5477,
+          "name": "31-40",
+          "size": 19322794,
+          "telegram_link": "https://t.me/manhuasgratis/5477"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "41 - 50 The Gamer.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 5478,
+          "name": "41-50",
+          "size": 18357765,
+          "telegram_link": "https://t.me/manhuasgratis/5478"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "51 - 60 The Gamer.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 5479,
+          "name": "51-60",
+          "size": 20085303,
+          "telegram_link": "https://t.me/manhuasgratis/5479"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "61 - 70 The Gamer.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 5480,
+          "name": "61-70",
+          "size": 60546095,
+          "telegram_link": "https://t.me/manhuasgratis/5480"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "71 - 80 The Gamer.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 5481,
+          "name": "71-80",
+          "size": 74064650,
+          "telegram_link": "https://t.me/manhuasgratis/5481"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "81 - 90 The Gamer.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 5482,
+          "name": "81-90",
+          "size": 117634769,
+          "telegram_link": "https://t.me/manhuasgratis/5482"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "91 - 100 The Gamer.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 5483,
+          "name": "91-100",
+          "size": 57950431,
+          "telegram_link": "https://t.me/manhuasgratis/5483"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "101 -110 The Gamer.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 5484,
+          "name": "101-110",
+          "size": 59706495,
+          "telegram_link": "https://t.me/manhuasgratis/5484"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "111 - 120 The Gamer.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 5485,
+          "name": "111-120",
+          "size": 48326083,
+          "telegram_link": "https://t.me/manhuasgratis/5485"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "121 - 130 The Gamer.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 5486,
+          "name": "121-130",
+          "size": 33232834,
+          "telegram_link": "https://t.me/manhuasgratis/5486"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "131 - 140 The Gamer.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 5487,
+          "name": "131-140",
+          "size": 25241602,
+          "telegram_link": "https://t.me/manhuasgratis/5487"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "141 - 150 The Gamer.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 5488,
+          "name": "141-150",
+          "size": 24496065,
+          "telegram_link": "https://t.me/manhuasgratis/5488"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "151 - 160 The Gamer.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 5489,
+          "name": "151-160",
+          "size": 23026537,
+          "telegram_link": "https://t.me/manhuasgratis/5489"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "161 - 170 The Gamer.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 5490,
+          "name": "161-170",
+          "size": 21258226,
+          "telegram_link": "https://t.me/manhuasgratis/5490"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "171 - 180 The Gamer.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 5491,
+          "name": "171-180",
+          "size": 21398353,
+          "telegram_link": "https://t.me/manhuasgratis/5491"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "181 - 190 The Gamer.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 5492,
+          "name": "181-190",
+          "size": 20793126,
+          "telegram_link": "https://t.me/manhuasgratis/5492"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "191 - 200 The Gamer.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 5493,
+          "name": "191-200",
+          "size": 21214591,
+          "telegram_link": "https://t.me/manhuasgratis/5493"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "201 - 210 The Gamer.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 5494,
+          "name": "201-210",
+          "size": 23903967,
+          "telegram_link": "https://t.me/manhuasgratis/5494"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "211 - 220 The Gamer.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 5495,
+          "name": "211-220",
+          "size": 32537563,
+          "telegram_link": "https://t.me/manhuasgratis/5495"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "221 - 230  The Gamer.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 5496,
+          "name": "221-230",
+          "size": 37482566,
+          "telegram_link": "https://t.me/manhuasgratis/5496"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "231 - 240  The Gamer.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 5497,
+          "name": "231-240",
+          "size": 41447055,
+          "telegram_link": "https://t.me/manhuasgratis/5497"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "241 - 250  The Gamer.pdf",
+          "first": 241,
+          "last": 250,
+          "message_id": 5498,
+          "name": "241-250",
+          "size": 39970550,
+          "telegram_link": "https://t.me/manhuasgratis/5498"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "date": "2026-10-14T03:39:50+00:00",
+          "download_ready": true,
+          "filename": "251 - 260  The Gamer.pdf",
+          "first": 251,
+          "last": 260,
+          "message_id": 5499,
+          "name": "251-260",
+          "size": 41865784,
+          "telegram_link": "https://t.me/manhuasgratis/5499"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "261 - 270  The Gamer.pdf",
+          "first": 261,
+          "last": 270,
+          "message_id": 5500,
+          "name": "261-270",
+          "size": 47718341,
+          "telegram_link": "https://t.me/manhuasgratis/5500"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "271 - 280  The Gamer.pdf",
+          "first": 271,
+          "last": 280,
+          "message_id": 5501,
+          "name": "271-280",
+          "size": 50367160,
+          "telegram_link": "https://t.me/manhuasgratis/5501"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "281 - 290  The Gamer.pdf",
+          "first": 281,
+          "last": 290,
+          "message_id": 5502,
+          "name": "281-290",
+          "size": 47562511,
+          "telegram_link": "https://t.me/manhuasgratis/5502"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "291 - 300  The Gamer.pdf",
+          "first": 291,
+          "last": 300,
+          "message_id": 5503,
+          "name": "291-300",
+          "size": 48495195,
+          "telegram_link": "https://t.me/manhuasgratis/5503"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "301 - 310  The Gamer.pdf",
+          "first": 301,
+          "last": 310,
+          "message_id": 5504,
+          "name": "301-310",
+          "size": 48295767,
+          "telegram_link": "https://t.me/manhuasgratis/5504"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "311 - 320  The Gamer.pdf",
+          "first": 311,
+          "last": 320,
+          "message_id": 5505,
+          "name": "311-320",
+          "size": 50221148,
+          "telegram_link": "https://t.me/manhuasgratis/5505"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "321 - 330  The Gamer.pdf",
+          "first": 321,
+          "last": 330,
+          "message_id": 5506,
+          "name": "321-330",
+          "size": 46139432,
+          "telegram_link": "https://t.me/manhuasgratis/5506"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "331 - 340  The Gamer.pdf",
+          "first": 331,
+          "last": 340,
+          "message_id": 5507,
+          "name": "331-340",
+          "size": 47361915,
+          "telegram_link": "https://t.me/manhuasgratis/5507"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "341 - 350  The Gamer.pdf",
+          "first": 341,
+          "last": 350,
+          "message_id": 5508,
+          "name": "341-350",
+          "size": 51292034,
+          "telegram_link": "https://t.me/manhuasgratis/5508"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "351 - 360  The Gamer.pdf",
+          "first": 351,
+          "last": 360,
+          "message_id": 5509,
+          "name": "351-360",
+          "size": 71017234,
+          "telegram_link": "https://t.me/manhuasgratis/5509"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "361 - 370  The Gamer.pdf",
+          "first": 361,
+          "last": 370,
+          "message_id": 5510,
+          "name": "361-370",
+          "size": 43774247,
+          "telegram_link": "https://t.me/manhuasgratis/5510"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "371 - 380 The Gamer.pdf",
+          "first": 371,
+          "last": 380,
+          "message_id": 5511,
+          "name": "371-380",
+          "size": 46154508,
+          "telegram_link": "https://t.me/manhuasgratis/5511"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "381 - 390 The Gamer.pdf",
+          "first": 381,
+          "last": 390,
+          "message_id": 5512,
+          "name": "381-390",
+          "size": 36404723,
+          "telegram_link": "https://t.me/manhuasgratis/5512"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400
+          ],
+          "date": "2026-10-14T03:39:51+00:00",
+          "download_ready": true,
+          "filename": "391 - 400 The Gamer.pdf",
+          "first": 391,
+          "last": 400,
+          "message_id": 5513,
+          "name": "391-400",
+          "size": 31791323,
+          "telegram_link": "https://t.me/manhuasgratis/5513"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "401 - 410 The Gamer.pdf",
+          "first": 401,
+          "last": 410,
+          "message_id": 5514,
+          "name": "401-410",
+          "size": 30252490,
+          "telegram_link": "https://t.me/manhuasgratis/5514"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            411,
+            412,
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419,
+            420
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "411 - 420 The Gamer.pdf",
+          "first": 411,
+          "last": 420,
+          "message_id": 5515,
+          "name": "411-420",
+          "size": 29698124,
+          "telegram_link": "https://t.me/manhuasgratis/5515"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429,
+            430
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "421 - 430 The Gamer.pdf",
+          "first": 421,
+          "last": 430,
+          "message_id": 5516,
+          "name": "421-430",
+          "size": 30769362,
+          "telegram_link": "https://t.me/manhuasgratis/5516"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "431 - 440 The Gamer.pdf",
+          "first": 431,
+          "last": 440,
+          "message_id": 5517,
+          "name": "431-440",
+          "size": 29910732,
+          "telegram_link": "https://t.me/manhuasgratis/5517"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "441 - 450 The Gamer.pdf",
+          "first": 441,
+          "last": 450,
+          "message_id": 5518,
+          "name": "441-450",
+          "size": 33207872,
+          "telegram_link": "https://t.me/manhuasgratis/5518"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "451 - 460 The Gamer.pdf",
+          "first": 451,
+          "last": 460,
+          "message_id": 5519,
+          "name": "451-460",
+          "size": 33888298,
+          "telegram_link": "https://t.me/manhuasgratis/5519"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470
+          ],
+          "date": "2026-10-14T03:39:56+00:00",
+          "download_ready": true,
+          "filename": "461 - 470 The Gamer.pdf",
+          "first": 461,
+          "last": 470,
+          "message_id": 5520,
+          "name": "461-470",
+          "size": 35182754,
+          "telegram_link": "https://t.me/manhuasgratis/5520"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            471,
+            472,
+            473,
+            474,
+            475,
+            476,
+            477,
+            478,
+            479,
+            480
+          ],
+          "date": "2026-10-14T03:39:57+00:00",
+          "download_ready": true,
+          "filename": "471 - 480 The Gamer.pdf",
+          "first": 471,
+          "last": 480,
+          "message_id": 5521,
+          "name": "471-480",
+          "size": 44289065,
+          "telegram_link": "https://t.me/manhuasgratis/5521"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            481,
+            482,
+            483,
+            484,
+            485,
+            486,
+            487,
+            488,
+            489,
+            490
+          ],
+          "date": "2026-10-14T03:39:57+00:00",
+          "download_ready": true,
+          "filename": "481 - 490 The Gamer.pdf",
+          "first": 481,
+          "last": 490,
+          "message_id": 5522,
+          "name": "481-490",
+          "size": 49500217,
+          "telegram_link": "https://t.me/manhuasgratis/5522"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            491,
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500
+          ],
+          "date": "2026-10-14T03:39:57+00:00",
+          "download_ready": true,
+          "filename": "491 - 500 The Gamer.pdf",
+          "first": 491,
+          "last": 500,
+          "message_id": 5523,
+          "name": "491-500",
+          "size": 46976967,
+          "telegram_link": "https://t.me/manhuasgratis/5523"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509,
+            510
+          ],
+          "date": "2026-10-14T03:39:57+00:00",
+          "download_ready": true,
+          "filename": "501 - 510 The Gamer  (FINAL).pdf",
+          "first": 501,
+          "last": 510,
+          "message_id": 5524,
+          "name": "501-510",
+          "size": 51640142,
+          "telegram_link": "https://t.me/manhuasgratis/5524"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "¿Qué pasa si tu vida es como jugar un juego? ¿Qué pasa si puedes mejorar tu estado y ganar más niveles? ¡Un mundo de fantasía se acerca a ti!\nHan Jee-Han, un estudiante normal de secundaria, de repente desarrolla un poder especial que hace que todo su mundo se convierta en un entorno similar a un juego. Puede ver los niveles de poder de las personas, mirar las estadísticas de un objeto aparentemente normal, obtener habilidades e incluso subir de nivel. Sigue a Han Jee-Han mientras descubre cómo usar este poder y tal vez incluso de dónde viene.",
+      "visible": false
+    },
+    {
       "added_at": "2026-03-26T14:50:09+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/the_indomitable_martial_king.jpg",
       "cover_message_id": 158,
@@ -58328,6 +59778,587 @@
       "rating_count": 2,
       "synopsis": "Al despertar, Kim Hajin se encuentra en un mundo familiar pero en un cuerpo desconocido.\nUn mundo que él mismo creó y una historia que escribió, pero que nunca terminó.\nSe había convertido en el extra de su novela, un personaje de relleno sin importancia para la historia.\nLa única pista para escapar es permanecer cerca de la historia principal.\nSin embargo, pronto descubre que el mundo no es exactamente idéntico a su creación.",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-14T03:39:48+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/todas_las_chicas_aqui_quieren_atacarme.jpg",
+      "cover_message_id": 181,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/181",
+      "genres": [
+        "Harem",
+        "Comedia",
+        "Escolar",
+        "Romance"
+      ],
+      "hashtag": "#Todas_Las_Chicas_Aquí_Quieren_Atacarme",
+      "id": "todas_las_chicas_aqui_quieren_atacarme",
+      "latest_chapter": 179,
+      "library_count": 0,
+      "name": "Todas Las Chicas Aquí Quieren Atacarme",
+      "package_count": 27,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎01-10 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 5445,
+          "name": "1-10",
+          "size": 79772917,
+          "telegram_link": "https://t.me/manhuasgratis/5445"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎11-20 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 5446,
+          "name": "11-20",
+          "size": 77364050,
+          "telegram_link": "https://t.me/manhuasgratis/5446"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎21-30 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 5447,
+          "name": "21-30",
+          "size": 78856338,
+          "telegram_link": "https://t.me/manhuasgratis/5447"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎31-40 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 5448,
+          "name": "31-40",
+          "size": 77641125,
+          "telegram_link": "https://t.me/manhuasgratis/5448"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎41-50 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 5449,
+          "name": "41-50",
+          "size": 75983385,
+          "telegram_link": "https://t.me/manhuasgratis/5449"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎51-60 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 5450,
+          "name": "51-60",
+          "size": 80218069,
+          "telegram_link": "https://t.me/manhuasgratis/5450"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎61-70 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 5451,
+          "name": "61-70",
+          "size": 81207403,
+          "telegram_link": "https://t.me/manhuasgratis/5451"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎71-80 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 5452,
+          "name": "71-80",
+          "size": 82406486,
+          "telegram_link": "https://t.me/manhuasgratis/5452"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎81-90 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 5453,
+          "name": "81-90",
+          "size": 80851831,
+          "telegram_link": "https://t.me/manhuasgratis/5453"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎91-95 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 91,
+          "last": 95,
+          "message_id": 5454,
+          "name": "91-95",
+          "size": 44611003,
+          "telegram_link": "https://t.me/manhuasgratis/5454"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "[96-105] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 96,
+          "last": 105,
+          "message_id": 5455,
+          "name": "96-105",
+          "size": 89337029,
+          "telegram_link": "https://t.me/manhuasgratis/5455"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "il [106-115] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 106,
+          "last": 115,
+          "message_id": 5456,
+          "name": "106-115",
+          "size": 88833157,
+          "telegram_link": "https://t.me/manhuasgratis/5456"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            116,
+            117
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎116-117 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 116,
+          "last": 117,
+          "message_id": 5457,
+          "name": "116-117",
+          "size": 16658018,
+          "telegram_link": "https://t.me/manhuasgratis/5457"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "[118-125] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 118,
+          "last": 125,
+          "message_id": 5458,
+          "name": "118-125",
+          "size": 74696559,
+          "telegram_link": "https://t.me/manhuasgratis/5458"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            126,
+            127
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎126-127 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 126,
+          "last": 127,
+          "message_id": 5459,
+          "name": "126-127",
+          "size": 16280611,
+          "telegram_link": "https://t.me/manhuasgratis/5459"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            128,
+            129,
+            130,
+            131,
+            132
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "[128-132] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 128,
+          "last": 132,
+          "message_id": 5460,
+          "name": "128-132",
+          "size": 44528816,
+          "telegram_link": "https://t.me/manhuasgratis/5460"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            133,
+            134
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎133-134 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 133,
+          "last": 134,
+          "message_id": 5461,
+          "name": "133-134",
+          "size": 18800807,
+          "telegram_link": "https://t.me/manhuasgratis/5461"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            135,
+            136
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "▎135-136 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 135,
+          "last": 136,
+          "message_id": 5462,
+          "name": "135-136",
+          "size": 16884424,
+          "telegram_link": "https://t.me/manhuasgratis/5462"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+          ],
+          "date": "2026-10-14T03:39:48+00:00",
+          "download_ready": true,
+          "filename": "[137-146] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 137,
+          "last": 146,
+          "message_id": 5463,
+          "name": "137-146",
+          "size": 84547012,
+          "telegram_link": "https://t.me/manhuasgratis/5463"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "[147-150] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 147,
+          "last": 150,
+          "message_id": 5464,
+          "name": "147-150",
+          "size": 40041051,
+          "telegram_link": "https://t.me/manhuasgratis/5464"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "[151-155] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 151,
+          "last": 155,
+          "message_id": 5465,
+          "name": "151-155",
+          "size": 46170788,
+          "telegram_link": "https://t.me/manhuasgratis/5465"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            156,
+            157
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "[156-157] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 156,
+          "last": 157,
+          "message_id": 5466,
+          "name": "156-157",
+          "size": 23812112,
+          "telegram_link": "https://t.me/manhuasgratis/5466"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            158,
+            159
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "▎158-159 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 158,
+          "last": 159,
+          "message_id": 5467,
+          "name": "158-159",
+          "size": 21920347,
+          "telegram_link": "https://t.me/manhuasgratis/5467"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            160,
+            161
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "[160-161]  Todas Las Chicas Quieren Atacarme.pdf",
+          "first": 160,
+          "last": 161,
+          "message_id": 5468,
+          "name": "160-161",
+          "size": 19601586,
+          "telegram_link": "https://t.me/manhuasgratis/5468"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            162,
+            163
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "▎162-163 ▎¿Todas Las Chicas Aquí Quieren Atacarme‽.pdf",
+          "first": 162,
+          "last": 163,
+          "message_id": 5469,
+          "name": "162-163",
+          "size": 17064462,
+          "telegram_link": "https://t.me/manhuasgratis/5469"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "[164-173] ✰Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 164,
+          "last": 173,
+          "message_id": 5470,
+          "name": "164-173",
+          "size": 96235517,
+          "telegram_link": "https://t.me/manhuasgratis/5470"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            174,
+            175,
+            176,
+            177,
+            178,
+            179
+          ],
+          "date": "2026-10-14T03:39:49+00:00",
+          "download_ready": true,
+          "filename": "[174-179] ✰Fin Todas Las Chicas Quieren Atacarme..pdf",
+          "first": 174,
+          "last": 179,
+          "message_id": 5471,
+          "name": "174-179",
+          "size": 64199843,
+          "telegram_link": "https://t.me/manhuasgratis/5471"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Hang Hao se desmayó después de ver la rara luna de sangre en un siglo. Después de despertar, descubrió que el mundo entero había cambiado. Los atributos y conceptos de los hombres y las mujeres están completamente invertidos. Se ha vuelto muy normal que la mujer trabaje para mantener a su familia. Y en algo normal que un hombre se dedique a cuidar la casa. Una mujer sin coche o casa será despreciada, y tampoco encontrará ningún hombre. Los hombres se han vuelto preciosos. Es normal que las mujeres los persigan, pero los hombres persiguen a las mujeres de vuelta…«¡Realmente no es que quiera comer arroz blando! ¡También quiero ser un hombre de verdad!",
+      "visible": false
     },
     {
       "added_at": "2026-08-22T00:03:31+00:00",
@@ -62107,6 +64138,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-14T04:20:33.892734+00:00",
+  "updated_at": "2026-10-14T19:20:03.340437+00:00",
   "version": 3
 }
