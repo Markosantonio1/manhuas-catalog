@@ -12711,10 +12711,10 @@
       ],
       "hashtag": "#El_Maestro_De_La_Espada_Acogedor_De_Estrellas",
       "id": "el_maestro_de_la_espada_acogedor_de_estrellas",
-      "latest_chapter": 140,
+      "latest_chapter": 141,
       "library_count": 2,
       "name": "El Maestro De La Espada Acogedor De Estrellas",
-      "package_count": 39,
+      "package_count": 40,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -13440,6 +13440,21 @@
           "name": "140",
           "size": 13805347,
           "telegram_link": "https://t.me/manhuasgratis/4797"
+        },
+        {
+          "name": "141",
+          "first": 141,
+          "last": 141,
+          "channel_id": -1003003829878,
+          "message_id": 5547,
+          "filename": "141 - El Maestro de la Espada Acogedor de Estrellas.pdf",
+          "size": 11287821,
+          "date": "2026-10-14T04:11:45+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5547",
+          "download_ready": true,
+          "chapters": [
+            141
+          ]
         }
       ],
       "rating": 5,
@@ -43063,10 +43078,10 @@
       ],
       "hashtag": "#No_Soy_Esa_Clase_De_Talento",
       "id": "no_soy_esa_clase_de_talento",
-      "latest_chapter": 125,
+      "latest_chapter": 127,
       "library_count": 1,
       "name": "No Soy Esa Clase De Talento",
-      "package_count": 38,
+      "package_count": 51,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -43094,6 +43109,30 @@
           "telegram_link": "https://t.me/manhuasgratis/2993"
         },
         {
+          "name": "1-10",
+          "first": 1,
+          "last": 10,
+          "channel_id": -1003003829878,
+          "message_id": 5528,
+          "filename": "[#01-10] • No Soy Esa Clase De Talento.pdf",
+          "size": 84358552,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5528",
+          "download_ready": true,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             11,
@@ -43117,6 +43156,30 @@
           "name": "11-20",
           "size": 88899995,
           "telegram_link": "https://t.me/manhuasgratis/2994"
+        },
+        {
+          "name": "11-20",
+          "first": 11,
+          "last": 20,
+          "channel_id": -1003003829878,
+          "message_id": 5529,
+          "filename": "[#11-20] • No Soy Esa Clase De Talento.pdf",
+          "size": 96045014,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5529",
+          "download_ready": true,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -43144,6 +43207,30 @@
           "telegram_link": "https://t.me/manhuasgratis/2995"
         },
         {
+          "name": "21-30",
+          "first": 21,
+          "last": 30,
+          "channel_id": -1003003829878,
+          "message_id": 5530,
+          "filename": "[#21-30] • No Soy Esa Clase De Talento.pdf",
+          "size": 90632078,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5530",
+          "download_ready": true,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             31,
@@ -43167,6 +43254,30 @@
           "name": "31-40",
           "size": 94186540,
           "telegram_link": "https://t.me/manhuasgratis/2996"
+        },
+        {
+          "name": "31-40",
+          "first": 31,
+          "last": 40,
+          "channel_id": -1003003829878,
+          "message_id": 5531,
+          "filename": "[#31-40] • No Soy Esa Clase De Talento.pdf",
+          "size": 102388107,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5531",
+          "download_ready": true,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -43194,6 +43305,30 @@
           "telegram_link": "https://t.me/manhuasgratis/2997"
         },
         {
+          "name": "41-50",
+          "first": 41,
+          "last": 50,
+          "channel_id": -1003003829878,
+          "message_id": 5532,
+          "filename": "[#41-50] • No Soy Esa Clase De Talento.pdf",
+          "size": 114414817,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5532",
+          "download_ready": true,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             51,
@@ -43217,6 +43352,30 @@
           "name": "51-60",
           "size": 111367639,
           "telegram_link": "https://t.me/manhuasgratis/2998"
+        },
+        {
+          "name": "51-60",
+          "first": 51,
+          "last": 60,
+          "channel_id": -1003003829878,
+          "message_id": 5533,
+          "filename": "[#51-60] • No Soy Esa Clase De Talento.pdf",
+          "size": 112346119,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5533",
+          "download_ready": true,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -43244,6 +43403,30 @@
           "telegram_link": "https://t.me/manhuasgratis/2999"
         },
         {
+          "name": "61-70",
+          "first": 61,
+          "last": 70,
+          "channel_id": -1003003829878,
+          "message_id": 5534,
+          "filename": "[#61-70] • No Soy Esa Clase De Talento.pdf",
+          "size": 109799186,
+          "date": "2026-10-14T03:47:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5534",
+          "download_ready": true,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             71,
@@ -43269,6 +43452,30 @@
           "telegram_link": "https://t.me/manhuasgratis/3000"
         },
         {
+          "name": "71-80",
+          "first": 71,
+          "last": 80,
+          "channel_id": -1003003829878,
+          "message_id": 5535,
+          "filename": "[#71-80] • No Soy Esa Clase De Talento.pdf",
+          "size": 112248178,
+          "date": "2026-10-14T03:47:27+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5535",
+          "download_ready": true,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             81
@@ -43283,6 +43490,30 @@
           "name": "81",
           "size": 10052402,
           "telegram_link": "https://t.me/manhuasgratis/3001"
+        },
+        {
+          "name": "81-90",
+          "first": 81,
+          "last": 90,
+          "channel_id": -1003003829878,
+          "message_id": 5541,
+          "filename": "[#81-90] • No Soy Esa Clase De Talento.pdf",
+          "size": 118016747,
+          "date": "2026-10-14T03:48:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5541",
+          "download_ready": true,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -43445,6 +43676,30 @@
           "telegram_link": "https://t.me/manhuasgratis/3012"
         },
         {
+          "name": "91-100",
+          "first": 91,
+          "last": 100,
+          "channel_id": -1003003829878,
+          "message_id": 5542,
+          "filename": "[✦ 91-100] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "size": 86604232,
+          "date": "2026-10-14T03:48:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5542",
+          "download_ready": true,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             92,
@@ -43558,6 +43813,30 @@
           "name": "101",
           "size": 8207326,
           "telegram_link": "https://t.me/manhuasgratis/3019"
+        },
+        {
+          "name": "101-110",
+          "first": 101,
+          "last": 110,
+          "channel_id": -1003003829878,
+          "message_id": 5543,
+          "filename": "[✦ 101-110] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "size": 80024698,
+          "date": "2026-10-14T03:48:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5543",
+          "download_ready": true,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -43712,6 +43991,28 @@
           "telegram_link": "https://t.me/manhuasgratis/3028"
         },
         {
+          "name": "111-118",
+          "first": 111,
+          "last": 118,
+          "channel_id": -1003003829878,
+          "message_id": 5544,
+          "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "size": 54643388,
+          "date": "2026-10-14T03:48:20+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5544",
+          "download_ready": true,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "chapters": [
             119,
@@ -43730,6 +44031,29 @@
           "name": "119-123",
           "size": 33132221,
           "telegram_link": "https://t.me/manhuasgratis/3029"
+        },
+        {
+          "name": "119-127",
+          "first": 119,
+          "last": 127,
+          "channel_id": -1003003829878,
+          "message_id": 5545,
+          "filename": "[✦119-127]T³ • No Soy Esa Clase De Talento🏮JMX.pdf",
+          "size": 61178771,
+          "date": "2026-10-14T03:48:20+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5545",
+          "download_ready": true,
+          "chapters": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -61769,6 +62093,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-13T23:52:45.245579+00:00",
+  "updated_at": "2026-10-14T04:20:33.892734+00:00",
   "version": 3
 }
