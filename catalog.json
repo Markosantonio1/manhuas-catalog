@@ -58575,10 +58575,10 @@
       ],
       "hashtag": "#The_Indomitable_Martial_King",
       "id": "the_indomitable_martial_king",
-      "latest_chapter": 154,
+      "latest_chapter": 155,
       "library_count": 0,
       "name": "The Indomitable Martial King",
-      "package_count": 35,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -59258,6 +59258,21 @@
           "name": "154",
           "size": 9667344,
           "telegram_link": "https://t.me/manhuasgratis/5239"
+        },
+        {
+          "name": "155",
+          "first": 155,
+          "last": 155,
+          "channel_id": -1003003829878,
+          "message_id": 5565,
+          "filename": "│155│El Indomable Rey Marcial.pdf",
+          "size": 9051726,
+          "date": "2026-10-15T20:12:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5565",
+          "download_ready": true,
+          "chapters": [
+            155
+          ]
         }
       ],
       "rating": 0,
@@ -63328,10 +63343,10 @@
       ],
       "hashtag": "#Viviendo_como_un_Lord_Vampiro",
       "id": "viviendo_como_un_lord_vampiro",
-      "latest_chapter": 64,
+      "latest_chapter": 65,
       "library_count": 1,
       "name": "Viviendo como un Lord Vampiro",
-      "package_count": 18,
+      "package_count": 19,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -63666,6 +63681,21 @@
           "name": "64",
           "size": 13853457,
           "telegram_link": "https://t.me/manhuasgratis/5194"
+        },
+        {
+          "name": "65",
+          "first": 65,
+          "last": 65,
+          "channel_id": -1003003829878,
+          "message_id": 5566,
+          "filename": "[#65]   Viviendo Como Un Lord Vampiro.pdf",
+          "size": 20326293,
+          "date": "2026-10-15T20:12:21+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5566",
+          "download_ready": true,
+          "chapters": [
+            65
+          ]
         }
       ],
       "rating": 4,
@@ -64648,6 +64678,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-15T12:44:36.421453+00:00",
+  "updated_at": "2026-10-15T20:20:37.026733+00:00",
   "version": 3
 }
