@@ -17600,7 +17600,8 @@
           "download_ready": true,
           "chapters": [
             47
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_psicopata_del_murim/5563_%5B%2347%5D%20%20%20El%20Psic%C3%B3pata%20del%20Murim.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261015%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T042129Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=74b740c12b6149f30ef6de3acb542ebd5047759a6239b6b6d99b01f1e998e13c"
         }
       ],
       "rating": 0,
@@ -19396,7 +19397,8 @@
           "download_ready": true,
           "chapters": [
             192
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_regreso_del_heroe_de_clase_desastre/5564_192%20%E2%80%A2%20El%20Regreso%20del%20H%C3%A9roe%20de%20Clase%20Desastre.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261015%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T042138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c79e16d1162020b77f053a60b28cdb5b3d05cdc332ed3ba8969df04717b830bf"
         }
       ],
       "rating": 0,
