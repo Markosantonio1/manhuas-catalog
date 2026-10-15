@@ -45,7 +45,8 @@ NOTIFY_USERNAME = "@Markosantonio"
 # Canales de Telegram
 MAIN_CHANNEL = "manhuasgratis"           # manhuas normales
 NOVELS_CHANNEL = -1004334091126          # novelas
-ADULT_CHANNEL = -1004467622375           # +18  ← CAMBIA si es distinto
+ADULT_CHANNEL = -1004467622375           # +18
+RESPALDO_CHANNEL = -1004367557958        # ← NUEVO: canal de respaldo (series importadas)
 
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
@@ -104,6 +105,19 @@ def is_adult_series(series_id: str) -> bool:
     return bool(series_id) and series_id.endswith("_adult")
 
 
+def is_respaldo_series(series: dict) -> bool:
+    """
+    Las series con género 'Respaldo' viven en el canal de respaldo.
+    Viene así desde catalog_series.txt: '#X|hidden|Respaldo,Finalizada'
+    y se guarda en catalog.json como "genres": ["Respaldo", "Finalizada", ...]
+    """
+    genres = series.get("genres", []) or []
+    for g in genres:
+        if str(g).strip().lower() == "respaldo":
+            return True
+    return False
+
+
 # ============================================================
 # GIT — CHECKPOINTS REMOTOS
 # ============================================================
@@ -129,8 +143,6 @@ def git_commit_and_push(mensaje: str) -> bool:
             check=False, capture_output=True, text=True,
         )
 
-        # Integrar cambios remotos (el auto_build_catalog puede haber
-        # pusheado mientras este workflow estaba corriendo)
         pr = subprocess.run(
             ["git", "pull", "--rebase", "origin", "main"],
             check=False, capture_output=True, text=True,
@@ -172,10 +184,6 @@ def get_s3_client():
 
 
 def list_all_keys_in_bucket(s3) -> set:
-    """
-    Lista TODAS las keys del bucket con paginación (S3 lista de 1000 en 1000).
-    Devuelve un set para lookups O(1).
-    """
     keys = set()
     paginator = s3.get_paginator("list_objects_v2")
     for page in paginator.paginate(Bucket=IDRIVE_BUCKET):
@@ -224,7 +232,7 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
         en IDrive y que hay que subir de verdad
     """
     print("\n" + "=" * 60)
-    print("RECONCILIACIÓN CON IDRIVE (manhuas + novelas + +18)")
+    print("RECONCILIACIÓN CON IDRIVE (manhuas + novelas + +18 + respaldo)")
     print("=" * 60)
 
     try:
@@ -261,7 +269,6 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
                 )
 
                 if expected_key in existing_keys:
-                    # El archivo YA está en IDrive
                     current_url = pack.get("download_url") or ""
                     es_url_idrive = "idrivee2" in str(current_url)
                     if not current_url or not es_url_idrive:
@@ -270,9 +277,7 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
                             pack["download_url"] = url
                             reconciliados += 1
                             if reconciliados <= 20:
-                                tipo = "novela" if is_novel else (
-                                    "+18" if is_adult_series(series_id) else "manhua"
-                                )
+                                tipo = tipo_de_serie(series, list_key)
                                 print(
                                     f"  ↻ [{tipo} {series_id}] "
                                     f"msg {message_id}: URL regenerada"
@@ -280,7 +285,6 @@ def reconcile_catalog_with_idrive(s3, catalog: dict) -> tuple:
                     else:
                         ya_con_url += 1
                 else:
-                    # No está en IDrive, hay que subirlo
                     pendientes_reales.append((series, pack, list_key))
 
     print()
@@ -303,7 +307,6 @@ def create_telegram_client() -> TelegramClient:
     if TELEGRAM_SESSION_STR:
         session = StringSession(TELEGRAM_SESSION_STR)
     else:
-        # Fallback local: reutiliza la sesión de todo.py
         session = str(BASE_DIR / "manhuas_downloader")
     return TelegramClient(
         session,
@@ -353,12 +356,47 @@ async def download_media_with_retry(client, message_id, local_path, channel):
 
 
 # ============================================================
+# UTILIDADES DE CLASIFICACIÓN
+# ============================================================
+
+def tipo_de_serie(series: dict, list_key: str) -> str:
+    """
+    Devuelve un string con el tipo de serie para los logs:
+    'manhua', '+18', 'respaldo' o 'novela'.
+    """
+    series_id = series.get("id", "")
+    if list_key == "novels":
+        return "novela"
+    if is_adult_series(series_id):
+        return "+18"
+    if is_respaldo_series(series):
+        return "respaldo"
+    return "manhua"
+
+
+def elegir_canal(series: dict, list_key: str) -> tuple:
+    """
+    Devuelve (channel_id_o_username, nombre_canal_para_logs) para descargar
+    los PDFs de esta serie desde el canal correcto.
+    """
+    series_id = series.get("id", "")
+
+    if is_adult_series(series_id):
+        return ADULT_CHANNEL, "+18"
+    if list_key == "novels":
+        return NOVELS_CHANNEL, "novelas"
+    if is_respaldo_series(series):
+        return RESPALDO_CHANNEL, "respaldo"
+    return MAIN_CHANNEL, "principal"
+
+
+# ============================================================
 # PROCESO PRINCIPAL
 # ============================================================
 
 async def main():
     print("=" * 60)
-    print("UPLOADER IDRIVE E2 — GitHub Actions (manhuas + novelas + +18)")
+    print("UPLOADER IDRIVE E2 — GitHub Actions (manhuas + novelas + +18 + respaldo)")
     print("=" * 60)
     print(f"Checkpoint cada {SAVE_EVERY_N} paquetes")
 
@@ -396,7 +434,6 @@ async def main():
             pass
         sys.exit(1)
 
-    # Si hubo reconciliación, commit inmediato
     if reconciliados > 0:
         if git_commit_and_push(
             f"IDrive: reconciliar {reconciliados} URLs existentes"
@@ -405,21 +442,29 @@ async def main():
         else:
             print("  ⚠ No se pudo subir el commit de reconciliación")
 
+    # Contadores por tipo
     total_pendientes = len(pendientes_reales)
-    pendientes_manhuas = sum(
-        1 for (s, _, lk) in pendientes_reales
-        if lk == "series" and not is_adult_series(s.get("id", ""))
-    )
-    pendientes_adult = sum(
-        1 for (s, _, lk) in pendientes_reales
-        if lk == "series" and is_adult_series(s.get("id", ""))
-    )
-    pendientes_novelas = sum(1 for (_, _, lk) in pendientes_reales if lk == "novels")
+    pendientes_manhuas = 0
+    pendientes_adult = 0
+    pendientes_respaldo = 0
+    pendientes_novelas = 0
+
+    for (s, _, lk) in pendientes_reales:
+        tipo = tipo_de_serie(s, lk)
+        if tipo == "manhua":
+            pendientes_manhuas += 1
+        elif tipo == "+18":
+            pendientes_adult += 1
+        elif tipo == "respaldo":
+            pendientes_respaldo += 1
+        elif tipo == "novela":
+            pendientes_novelas += 1
 
     print(f"\nPaquetes reales por subir: {total_pendientes}")
-    print(f"  • Manhuas: {pendientes_manhuas}")
-    print(f"  • +18: {pendientes_adult}")
-    print(f"  • Novelas: {pendientes_novelas}")
+    print(f"  • Manhuas:  {pendientes_manhuas}")
+    print(f"  • +18:      {pendientes_adult}")
+    print(f"  • Respaldo: {pendientes_respaldo}")
+    print(f"  • Novelas:  {pendientes_novelas}")
 
     # --------------------------------------------------------
     # FASE 2 — SUBIDA REAL
@@ -447,13 +492,16 @@ async def main():
             filename = pack.get("filename", f"{message_id}.pdf")
             is_visible = series.get("visible", True)
             is_novel = (list_key == "novels")
-            is_adult = is_adult_series(series_id)
+
+            tipo = tipo_de_serie(series, list_key)
 
             tag = "" if is_visible else " [OCULTA]"
-            if is_novel:
+            if tipo == "novela":
                 tipo_tag = " [NOVELA]"
-            elif is_adult:
+            elif tipo == "+18":
                 tipo_tag = " [+18]"
+            elif tipo == "respaldo":
+                tipo_tag = " [RESPALDO]"
             else:
                 tipo_tag = ""
 
@@ -466,18 +514,8 @@ async def main():
                 fail_count += 1
                 continue
 
-            # 🔞 Elegir canal según tipo. ESTE ES EL FIX IMPORTANTE:
-            # las series +18 viven en su propio canal, y NO en MAIN_CHANNEL.
-            if is_adult:
-                channel = ADULT_CHANNEL
-                canal_tipo = "+18"
-            elif is_novel:
-                channel = NOVELS_CHANNEL
-                canal_tipo = "novelas"
-            else:
-                channel = MAIN_CHANNEL
-                canal_tipo = "principal"
-
+            # 📡 Elegir canal correcto según el tipo de serie
+            channel, canal_tipo = elegir_canal(series, list_key)
             print(f"    📡 Canal: {canal_tipo} ({channel})")
 
             # Descargar de Telegram
@@ -559,9 +597,10 @@ async def main():
     print(f"✓ Reconciliados: {reconciliados}")
     print(f"✓ Subidos nuevos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
-    print(f"📦 Pendientes antes (manhuas): {pendientes_manhuas}")
-    print(f"📦 Pendientes antes (+18): {pendientes_adult}")
-    print(f"📦 Pendientes antes (novelas): {pendientes_novelas}")
+    print(f"📦 Pendientes antes (manhuas):  {pendientes_manhuas}")
+    print(f"📦 Pendientes antes (+18):      {pendientes_adult}")
+    print(f"📦 Pendientes antes (respaldo): {pendientes_respaldo}")
+    print(f"📦 Pendientes antes (novelas):  {pendientes_novelas}")
     print(f"📦 Pendientes restantes totales: {total_pendientes - success_count}")
     print("=" * 60)
 
@@ -573,9 +612,10 @@ async def main():
             f"✅ Subidos nuevos: {success_count}\n"
             f"❌ Fallidos: {fail_count}\n"
             f"📦 Pendientes restantes: {total_pendientes - success_count}\n"
-            f"  • Manhuas: {pendientes_manhuas}\n"
-            f"  • +18: {pendientes_adult}\n"
-            f"  • Novelas: {pendientes_novelas}\n"
+            f"  • Manhuas:  {pendientes_manhuas}\n"
+            f"  • +18:      {pendientes_adult}\n"
+            f"  • Respaldo: {pendientes_respaldo}\n"
+            f"  • Novelas:  {pendientes_novelas}\n"
         )
         await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
         print("✓ Reporte enviado por Telegram.")
