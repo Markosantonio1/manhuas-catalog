@@ -17296,10 +17296,10 @@
       ],
       "hashtag": "#El_Psicópata_del_Murim",
       "id": "el_psicopata_del_murim",
-      "latest_chapter": 46,
+      "latest_chapter": 47,
       "library_count": 0,
       "name": "El Psicópata del Murim",
-      "package_count": 16,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -17586,6 +17586,21 @@
           "name": "46",
           "size": 11346674,
           "telegram_link": "https://t.me/manhuasgratis/5191"
+        },
+        {
+          "name": "47",
+          "first": 47,
+          "last": 47,
+          "channel_id": -1003003829878,
+          "message_id": 5563,
+          "filename": "[#47]   El Psicópata del Murim.pdf",
+          "size": 10364769,
+          "date": "2026-10-15T04:12:20+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5563",
+          "download_ready": true,
+          "chapters": [
+            47
+          ]
         }
       ],
       "rating": 0,
@@ -18362,10 +18377,10 @@
       ],
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
-      "latest_chapter": 191,
+      "latest_chapter": 192,
       "library_count": 1,
       "name": "El Regreso del Héroe de Clase Desastre",
-      "package_count": 54,
+      "package_count": 55,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -19367,6 +19382,21 @@
           "name": "191",
           "size": 12092060,
           "telegram_link": "https://t.me/manhuasgratis/4621"
+        },
+        {
+          "name": "192",
+          "first": 192,
+          "last": 192,
+          "channel_id": -1003003829878,
+          "message_id": 5564,
+          "filename": "192 • El Regreso del Héroe de Clase Desastre.pdf",
+          "size": 8736550,
+          "date": "2026-10-15T04:12:23+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5564",
+          "download_ready": true,
+          "chapters": [
+            192
+          ]
         }
       ],
       "rating": 0,
@@ -64495,6 +64525,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-14T21:20:33.754757+00:00",
+  "updated_at": "2026-10-15T04:20:41.746155+00:00",
   "version": 3
 }
