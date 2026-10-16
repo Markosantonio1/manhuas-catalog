@@ -4428,6 +4428,635 @@
   "schema": "manhuas-catalog-v3",
   "series": [
     {
+      "added_at": "2026-10-16T18:36:49+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/00_10_la_duquesa_monstruosa_y_la_princesa.jpg",
+      "cover_message_id": 246,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/246",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Sobrenatural",
+        "Fantasía",
+        "Drama",
+        "Romance"
+      ],
+      "hashtag": "#00_10_La_Duquesa_Monstruosa_y_la_Princesa",
+      "id": "00_10_la_duquesa_monstruosa_y_la_princesa",
+      "latest_chapter": 150,
+      "library_count": 0,
+      "name": "00 10 La Duquesa Monstruosa y la Princesa",
+      "package_count": 15,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:36:49+00:00",
+          "download_ready": true,
+          "filename": "「00-10」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 0,
+          "last": 10,
+          "message_id": 208,
+          "name": "0-10",
+          "size": 83279190,
+          "telegram_link": "https://t.me/manhuasgratis/208"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:36:49+00:00",
+          "download_ready": true,
+          "filename": "「11-20」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 209,
+          "name": "11-20",
+          "size": 52792754,
+          "telegram_link": "https://t.me/manhuasgratis/209"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:36:50+00:00",
+          "download_ready": true,
+          "filename": "「21-30」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 210,
+          "name": "21-30",
+          "size": 53882093,
+          "telegram_link": "https://t.me/manhuasgratis/210"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:36:51+00:00",
+          "download_ready": true,
+          "filename": "「31-40」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 211,
+          "name": "31-40",
+          "size": 85087399,
+          "telegram_link": "https://t.me/manhuasgratis/211"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:36:52+00:00",
+          "download_ready": true,
+          "filename": "「41-50」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 212,
+          "name": "41-50",
+          "size": 64478862,
+          "telegram_link": "https://t.me/manhuasgratis/212"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:36:52+00:00",
+          "download_ready": true,
+          "filename": "「51-60」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 213,
+          "name": "51-60",
+          "size": 85170416,
+          "telegram_link": "https://t.me/manhuasgratis/213"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:36:53+00:00",
+          "download_ready": true,
+          "filename": "「61-70」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 214,
+          "name": "61-70",
+          "size": 50975359,
+          "telegram_link": "https://t.me/manhuasgratis/214"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-16T18:36:54+00:00",
+          "download_ready": true,
+          "filename": "「71-80」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 215,
+          "name": "71-80",
+          "size": 89636239,
+          "telegram_link": "https://t.me/manhuasgratis/215"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-16T18:36:55+00:00",
+          "download_ready": true,
+          "filename": "「81-90」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 216,
+          "name": "81-90",
+          "size": 88913201,
+          "telegram_link": "https://t.me/manhuasgratis/216"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-16T18:36:55+00:00",
+          "download_ready": true,
+          "filename": "「91-100」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 217,
+          "name": "91-100",
+          "size": 90740741,
+          "telegram_link": "https://t.me/manhuasgratis/217"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-10-16T18:36:56+00:00",
+          "download_ready": true,
+          "filename": "「101-110」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 218,
+          "name": "101-110",
+          "size": 87104564,
+          "telegram_link": "https://t.me/manhuasgratis/218"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-10-16T18:36:57+00:00",
+          "download_ready": true,
+          "filename": "「111-120」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 219,
+          "name": "111-120",
+          "size": 89840630,
+          "telegram_link": "https://t.me/manhuasgratis/219"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-10-16T18:36:57+00:00",
+          "download_ready": true,
+          "filename": "「121-130」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 220,
+          "name": "121-130",
+          "size": 59757601,
+          "telegram_link": "https://t.me/manhuasgratis/220"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-10-16T18:36:58+00:00",
+          "download_ready": true,
+          "filename": "「131-140」La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 221,
+          "name": "131-140",
+          "size": 57745357,
+          "telegram_link": "https://t.me/manhuasgratis/221"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-10-16T18:36:59+00:00",
+          "download_ready": true,
+          "filename": "「141-150」Final┊La Duquesa Monstruosa y la Princesa.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 222,
+          "name": "141-150",
+          "size": 57096022,
+          "telegram_link": "https://t.me/manhuasgratis/222"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "La vida de Leslie siempre fue utilizada para el mejoramiento de su hermana, Eli. Después de un intento fallido de extraer la magia negra dentro de Leslie para transferirla a Eli, ¡Leslie llama a la puerta de la Duquesa monstruosa y le suplica a la duquesa la adopte!",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:35:16+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/01_al_10_detente_esposa_muda.jpg",
+      "cover_message_id": 236,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/236",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Drama"
+      ],
+      "hashtag": "#01_al_10_Detente_Esposa_Muda_Ъყ_คหтσ",
+      "id": "01_al_10_detente_esposa_muda",
+      "latest_chapter": 98,
+      "library_count": 0,
+      "name": "01 al 10 Detente Esposa Muda Ъყ คหтσ",
+      "package_count": 11,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-16T18:35:16+00:00",
+          "download_ready": true,
+          "filename": "01 al 10 ¡Detente! Esposa Muda Ъყ คหтσ.pdf",
+          "first": 1,
+          "last": 1,
+          "message_id": 148,
+          "name": "1",
+          "size": 10692340,
+          "telegram_link": "https://t.me/manhuasgratis/148"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-16T18:35:17+00:00",
+          "download_ready": true,
+          "filename": "11 al 20 ¡Detente! Esposa Muda Ъყ คหтσ.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 149,
+          "name": "11",
+          "size": 9744873,
+          "telegram_link": "https://t.me/manhuasgratis/149"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-16T18:35:18+00:00",
+          "download_ready": true,
+          "filename": "21 al 30 ¡Detente! Esposa Muda Ъყ คหтσ.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 150,
+          "name": "21",
+          "size": 10361160,
+          "telegram_link": "https://t.me/manhuasgratis/150"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31
+          ],
+          "date": "2026-10-16T18:35:19+00:00",
+          "download_ready": true,
+          "filename": "31 al 38 ¡Detente! Esposa Muda Ъყ คหтσ.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 151,
+          "name": "31",
+          "size": 8917841,
+          "telegram_link": "https://t.me/manhuasgratis/151"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:35:20+00:00",
+          "download_ready": true,
+          "filename": "39-50 ¡Detente! Esposa Muda By D@¡K .pdf",
+          "first": 39,
+          "last": 50,
+          "message_id": 152,
+          "name": "39-50",
+          "size": 49033105,
+          "telegram_link": "https://t.me/manhuasgratis/152"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:35:20+00:00",
+          "download_ready": true,
+          "filename": "¡Detente! Esposa Muda By D@¡K 51-60.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 153,
+          "name": "51-60",
+          "size": 58434419,
+          "telegram_link": "https://t.me/manhuasgratis/153"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:35:21+00:00",
+          "download_ready": true,
+          "filename": "¡Detente! Esposa Muda By D@¡K 61-70.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 154,
+          "name": "61-70",
+          "size": 42641344,
+          "telegram_link": "https://t.me/manhuasgratis/154"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "date": "2026-10-16T18:35:22+00:00",
+          "download_ready": true,
+          "filename": "¡Detente! Esposa Muda By D@¡K 71-75.pdf",
+          "first": 71,
+          "last": 75,
+          "message_id": 155,
+          "name": "71-75",
+          "size": 23933421,
+          "telegram_link": "https://t.me/manhuasgratis/155"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "date": "2026-10-16T18:35:22+00:00",
+          "download_ready": true,
+          "filename": "76-85 detente! esposa muda .pdf",
+          "first": 76,
+          "last": 85,
+          "message_id": 156,
+          "name": "76-85",
+          "size": 27848544,
+          "telegram_link": "https://t.me/manhuasgratis/156"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "date": "2026-10-16T18:35:23+00:00",
+          "download_ready": true,
+          "filename": "86-95 detente! esposa muda .pdf",
+          "first": 86,
+          "last": 95,
+          "message_id": 157,
+          "name": "86-95",
+          "size": 36377616,
+          "telegram_link": "https://t.me/manhuasgratis/157"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            96,
+            97,
+            98
+          ],
+          "date": "2026-10-16T18:35:24+00:00",
+          "download_ready": true,
+          "filename": "96-98 Fin detente! esposa muda.pdf",
+          "first": 96,
+          "last": 98,
+          "message_id": 158,
+          "name": "96-98",
+          "size": 12525213,
+          "telegram_link": "https://t.me/manhuasgratis/158"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Xu Nian, que perdió a sus familiares en un incendio, perdió la capacidad de hablar debido a una barrera psicológica. Después de ser adoptada por la familia Ning, penso que podría vivir una vida feliz, pero no esperaba que los padres adoptivos y la hermana siempre la abusarían. Y el trágico destino está lejos de terminar ¡En beneficio de la empresa, el padre adoptivo quiere entregársela a un cliente como amante! Afortunadamente, conocío a Gu Mingyan, el presidente de SN. Aunque este hombre autoritario es indiferente en apariencia, en realidad la protege desde el corazón",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-16T13:09:25+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/99_maneras_de_estar_atrapado_en_el_amor.jpg",
       "cover_message_id": 222,
@@ -4520,7 +5149,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "GU NAN XIA no esperaba volver a encontrarse con él, pero ¿por qué esta tan extraño ahora? MO YU CHEN incluso le dijo que nunca la había visto antes. El error fue en ese momento, ¿podría ser que él guardara ciertos rencores y hubiera querido borrarla de su existencia? Debido a ese collar, se enredaron de nuevo, incluso si él no recuerda el pasado, todavía caerán en él.",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-08T00:50:53+00:00",
@@ -6820,7 +7449,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Ningning es el rey serpiente demonio que se enfrenta al dios dragón Chi Wen, tras su batalla ambos caen derrotados y el dragón se degenera en un huevo que ahora la chica cuidará con la intención de corromperlo y evitar que pueda ascender de vuelta a su posición divina… Sin embargo el amor termina surgiendo y eso complicará las cosas para los dos enemigos mortales.",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-01-23T05:37:41+00:00",
@@ -10181,7 +10810,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "“Escuché que tienes una posición tan alta”.\nYoon Yi Seo, una mujer que nunca se rinde a pesar de ser etiquetada como hija ilegítima de un miembro de la Asamblea Nacional.\nEl comienzo de sus sentimientos por ella fue una apuesta.\n“Alguno.”\n“…….”\n“Para romperte”.\nRyu Tae Jo, un hombre cuyo mundo es aburrido porque lo tiene todo.\n“El tercer día que nos encontremos, dormiremos”.",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-08T00:03:21+00:00",
@@ -22600,6 +23229,29 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-16T18:42:22.408476+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_talon_de_aquiles.jpg",
+      "cover_message_id": 256,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/256",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Drama",
+        "Romance"
+      ],
+      "hashtag": "#El_Talón_De_Aquiles",
+      "id": "el_talon_de_aquiles",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "El Talón De Aquiles",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Una era de caos tras la pérdida del dueño del trono, cinco grandes familias partidarias se enzarzaron en una gran guerra para hacerse con el trono. Dios se enfadó ante la sangre escarlata que salpicaba su lujuria y lo maldijo, lo que se convirtió en el origen de los rasgos llamados Alfa y Omega. Para aplacar la ira de los dioses, cinco generaciones de las familias que habían, prometieron ofrecer a los dioses la caza fresca que cazaban en competiciones de caza. Mientras tanto, esta competición de caza era la comidilla de la ciudad, y se rumoreaba que el nuevo jefe de la Familia 1 que era famoso por no tener Omegas como cabeza de la familia, era un Omega, y avergonzó a la Familia 2 que era famosa por tener la peor relación con la Familia 1",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-31T16:19:24+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_troll_mas_fuerte_del_mundo.jpg",
       "cover_message_id": 84,
@@ -26202,6 +26854,152 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-16T18:38:00+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/enamorandose_del_enemigo.jpg",
+      "cover_message_id": 258,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/258",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Reencarnación",
+        "Fantasía",
+        "Romance",
+        "Drama",
+        "Acción"
+      ],
+      "hashtag": "#Enamorándose_Del_Enemigo",
+      "id": "enamorandose_del_enemigo",
+      "latest_chapter": 48,
+      "library_count": 0,
+      "name": "Enamorándose Del Enemigo",
+      "package_count": 5,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:38:00+00:00",
+          "download_ready": true,
+          "filename": "00-10│➢ Enamorándose del Enemigo.pdf",
+          "first": 0,
+          "last": 10,
+          "message_id": 251,
+          "name": "0-10",
+          "size": 86257955,
+          "telegram_link": "https://t.me/manhuasgratis/251"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:38:01+00:00",
+          "download_ready": true,
+          "filename": "11-20│➢ Enamorándose del Enemigo.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 252,
+          "name": "11-20",
+          "size": 65590955,
+          "telegram_link": "https://t.me/manhuasgratis/252"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:38:02+00:00",
+          "download_ready": true,
+          "filename": "21-30│➢ Enamorándose del Enemigo.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 253,
+          "name": "21-30",
+          "size": 72950351,
+          "telegram_link": "https://t.me/manhuasgratis/253"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:38:03+00:00",
+          "download_ready": true,
+          "filename": "31-40│➢ Enamorándose del Enemigo.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 254,
+          "name": "31-40",
+          "size": 91109068,
+          "telegram_link": "https://t.me/manhuasgratis/254"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "date": "2026-10-16T18:38:04+00:00",
+          "download_ready": true,
+          "filename": "41-48 ғɪɴ│➢ Enamorándose del Enemigo.pdf",
+          "first": 41,
+          "last": 48,
+          "message_id": 255,
+          "name": "41-48",
+          "size": 83775997,
+          "telegram_link": "https://t.me/manhuasgratis/255"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "¿Cómo podría amar al enemigo? Después de la muerte de sus padres, Lia se especializó en el manejo de la espada para proteger a su familia. Pero como la única comandante femenina del imperio de un batallón de caballeros, ¡parece que no puede tomar un descanso debido al entrometido duque Edgar! Pero espera... ¡¿Por qué este \"enemigo\" se sonroja cada vez que mira en su dirección?!",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-21T20:15:50+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/esclavo_corporativo_en_una_historia_de_fantasmas.jpg",
       "cover_message_id": 36,
@@ -29502,6 +30300,29 @@
       "rating_count": 0,
       "synopsis": "El joven Yi He renace en un mundo de cultivo marcial avanzado y despierta el linaje más poderoso: ¡el Rey de los Monstruos!",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-16T18:42:22.410492+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/finalmente_floreciendo.jpg",
+      "cover_message_id": 254,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/254",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Comedia"
+      ],
+      "hashtag": "#Finalmente_Floreciendo",
+      "id": "finalmente_floreciendo",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "Finalmente Floreciendo",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "‘”Citas a través de las redes sociales, citas casuales, con tu ex amante como amigos”. ¿Es así como se hacen las citas hoy en día? Jaja, ¿en serio? Un día de primavera lleno de emoción... (descripción de un webtoon que recopila historias románticas de diferentes autores en Naver) ^^Son varios caps pero os traemos el 20 ya que es de los más virales y nos gustó mucho: Trata de unos amigos de la universidad y su romance",
+      "visible": false
     },
     {
       "added_at": "2026-08-22T03:02:54+00:00",
@@ -36483,6 +37304,2780 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-16T18:35:04+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_bestia_con_flores.jpg",
+      "cover_message_id": 234,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/234",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Drama",
+        "Romance",
+        "Comedia"
+      ],
+      "hashtag": "#La_Bestia_Con_Flores",
+      "id": "la_bestia_con_flores",
+      "latest_chapter": 88,
+      "library_count": 0,
+      "name": "La Bestia Con Flores",
+      "package_count": 11,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-16T18:35:10+00:00",
+          "download_ready": true,
+          "filename": "[ExtrasParte1]La bestia con flores.pdf",
+          "first": 1,
+          "last": 1,
+          "message_id": 145,
+          "name": "1",
+          "size": 23514920,
+          "telegram_link": "https://t.me/manhuasgratis/145"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:35:04+00:00",
+          "download_ready": true,
+          "filename": "[1-10]La bestia con flores.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 136,
+          "name": "1-10",
+          "size": 29072699,
+          "telegram_link": "https://t.me/manhuasgratis/136"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-16T18:35:11+00:00",
+          "download_ready": true,
+          "filename": "[ExtrasParte2FIN]La bestia con flores.pdf",
+          "first": 2,
+          "last": 2,
+          "message_id": 146,
+          "name": "2",
+          "size": 83768449,
+          "telegram_link": "https://t.me/manhuasgratis/146"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:35:04+00:00",
+          "download_ready": true,
+          "filename": "[11-20]La bestia con flores (1).pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 137,
+          "name": "11-20",
+          "size": 33174795,
+          "telegram_link": "https://t.me/manhuasgratis/137"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:35:05+00:00",
+          "download_ready": true,
+          "filename": "[21-30]La bestia con flores.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 138,
+          "name": "21-30",
+          "size": 34089968,
+          "telegram_link": "https://t.me/manhuasgratis/138"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:35:06+00:00",
+          "download_ready": true,
+          "filename": "[31-40]La bestia con flores.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 139,
+          "name": "31-40",
+          "size": 35493763,
+          "telegram_link": "https://t.me/manhuasgratis/139"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:35:06+00:00",
+          "download_ready": true,
+          "filename": "[41-50]La bestia con flores.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 140,
+          "name": "41-50",
+          "size": 49383845,
+          "telegram_link": "https://t.me/manhuasgratis/140"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:35:07+00:00",
+          "download_ready": true,
+          "filename": "[51-60]La bestia con flores.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 141,
+          "name": "51-60",
+          "size": 33850006,
+          "telegram_link": "https://t.me/manhuasgratis/141"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:35:08+00:00",
+          "download_ready": true,
+          "filename": "[61-70]La bestia con flores.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 142,
+          "name": "61-70",
+          "size": 43367560,
+          "telegram_link": "https://t.me/manhuasgratis/142"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-16T18:35:09+00:00",
+          "download_ready": true,
+          "filename": "[71-80]La bestia con flores.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 143,
+          "name": "71-80",
+          "size": 52719837,
+          "telegram_link": "https://t.me/manhuasgratis/143"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88
+          ],
+          "date": "2026-10-16T18:35:09+00:00",
+          "download_ready": true,
+          "filename": "[81-88FIN]La bestia con flores.pdf",
+          "first": 81,
+          "last": 88,
+          "message_id": 144,
+          "name": "81-88",
+          "size": 40053123,
+          "telegram_link": "https://t.me/manhuasgratis/144"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Una palpitante historia de fantasía de la realeza sobre el romance de Moon-Young. Una feroz bestia disfrazado de cachorrito para ganarse el amor. Y Hwa-Yeong, una chica que cría y entrena a un cachorrito grande. Ajena a su verdadera identidad",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:35:59+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_companera_del_emperador.jpg",
+      "cover_message_id": 238,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/238",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Reencarnación",
+        "Fantasía",
+        "Drama",
+        "Romance",
+        "Comedia"
+      ],
+      "hashtag": "#La_Compañera_del_Emperador",
+      "id": "la_companera_del_emperador",
+      "latest_chapter": 100,
+      "library_count": 0,
+      "name": "La Compañera del Emperador",
+      "package_count": 10,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:35:59+00:00",
+          "download_ready": true,
+          "filename": "01-10 La Compañera Del Emperador [禅].pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 160,
+          "name": "1-10",
+          "size": 31768920,
+          "telegram_link": "https://t.me/manhuasgratis/160"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:36:00+00:00",
+          "download_ready": true,
+          "filename": "11-20 La Compañera Del Emperador [禅].pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 161,
+          "name": "11-20",
+          "size": 32562396,
+          "telegram_link": "https://t.me/manhuasgratis/161"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:36:00+00:00",
+          "download_ready": true,
+          "filename": "21-30 La Compañera Del Emperador [禅].pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 162,
+          "name": "21-30",
+          "size": 32110635,
+          "telegram_link": "https://t.me/manhuasgratis/162"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:36:01+00:00",
+          "download_ready": true,
+          "filename": "31-40 La Compañera Del Emperador [禅].pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 163,
+          "name": "31-40",
+          "size": 27537149,
+          "telegram_link": "https://t.me/manhuasgratis/163"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:36:02+00:00",
+          "download_ready": true,
+          "filename": "41-50 La Compañera Del Emperador [禅].pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 164,
+          "name": "41-50",
+          "size": 30435727,
+          "telegram_link": "https://t.me/manhuasgratis/164"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:36:03+00:00",
+          "download_ready": true,
+          "filename": "51-60 La Compañera Del Emperador [禅].pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 165,
+          "name": "51-60",
+          "size": 30973259,
+          "telegram_link": "https://t.me/manhuasgratis/165"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:36:04+00:00",
+          "download_ready": true,
+          "filename": "61-70 La Compañera Del Emperador [禅].pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 166,
+          "name": "61-70",
+          "size": 34557990,
+          "telegram_link": "https://t.me/manhuasgratis/166"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-16T18:36:04+00:00",
+          "download_ready": true,
+          "filename": "71-80 La Compañera Del Emperador [禅].pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 167,
+          "name": "71-80",
+          "size": 34542268,
+          "telegram_link": "https://t.me/manhuasgratis/167"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-16T18:36:05+00:00",
+          "download_ready": true,
+          "filename": "81-90 La Compañera Del Emperador [禅].pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 168,
+          "name": "81-90",
+          "size": 37629429,
+          "telegram_link": "https://t.me/manhuasgratis/168"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-16T18:36:06+00:00",
+          "download_ready": true,
+          "filename": "91-100 FIN. La Compañera del Emperador [禅].pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 169,
+          "name": "91-100",
+          "size": 37693855,
+          "telegram_link": "https://t.me/manhuasgratis/169"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Ella muere en un accidente después de salvar a un niño que le recuerda a su hermano menor, poco después conoce la verdad sobre su medio hermano que se sacrificó por ella. ¡Pero ahora ella reencarnó como una santa llamada 'Charles Hildegarde‘. \"Tú, Hildegarde eres mi hombre, mi mujer, mi compañera\", Hubo un hombre que la besó antes de que se diera cuenta de la situación",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:36:11+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_criada_y_el_vampiro.jpg",
+      "cover_message_id": 240,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/240",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance"
+      ],
+      "hashtag": "#La_Criada_y_el_vampiro",
+      "id": "la_criada_y_el_vampiro",
+      "latest_chapter": 76,
+      "library_count": 0,
+      "name": "La Criada y el vampiro",
+      "package_count": 15,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-16T18:36:11+00:00",
+          "download_ready": true,
+          "filename": "[[01▪05]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 1,
+          "last": 1,
+          "message_id": 171,
+          "name": "1",
+          "size": 24184054,
+          "telegram_link": "https://t.me/manhuasgratis/171"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-16T18:36:12+00:00",
+          "download_ready": true,
+          "filename": "[[06▪10]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 6,
+          "last": 6,
+          "message_id": 172,
+          "name": "6",
+          "size": 21477155,
+          "telegram_link": "https://t.me/manhuasgratis/172"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-16T18:36:12+00:00",
+          "download_ready": true,
+          "filename": "[[11▪15]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 173,
+          "name": "11",
+          "size": 19164927,
+          "telegram_link": "https://t.me/manhuasgratis/173"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-16T18:36:13+00:00",
+          "download_ready": true,
+          "filename": "[[16▪20]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 174,
+          "name": "16",
+          "size": 16200098,
+          "telegram_link": "https://t.me/manhuasgratis/174"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-16T18:36:14+00:00",
+          "download_ready": true,
+          "filename": "[[21▪25]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 175,
+          "name": "21",
+          "size": 18189792,
+          "telegram_link": "https://t.me/manhuasgratis/175"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:36:15+00:00",
+          "download_ready": true,
+          "filename": "[26-30] La criada y el vampiro_♡.pdf",
+          "first": 26,
+          "last": 30,
+          "message_id": 176,
+          "name": "26-30",
+          "size": 31830145,
+          "telegram_link": "https://t.me/manhuasgratis/176"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31
+          ],
+          "date": "2026-10-16T18:36:15+00:00",
+          "download_ready": true,
+          "filename": "[[31▪35]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 177,
+          "name": "31",
+          "size": 15441840,
+          "telegram_link": "https://t.me/manhuasgratis/177"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            36
+          ],
+          "date": "2026-10-16T18:36:16+00:00",
+          "download_ready": true,
+          "filename": "[[36▪40]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 178,
+          "name": "36",
+          "size": 16635936,
+          "telegram_link": "https://t.me/manhuasgratis/178"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41
+          ],
+          "date": "2026-10-16T18:36:17+00:00",
+          "download_ready": true,
+          "filename": "[[41▪45]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 179,
+          "name": "41",
+          "size": 17201379,
+          "telegram_link": "https://t.me/manhuasgratis/179"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            46
+          ],
+          "date": "2026-10-16T18:36:17+00:00",
+          "download_ready": true,
+          "filename": "[[46▪50]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 46,
+          "last": 46,
+          "message_id": 180,
+          "name": "46",
+          "size": 16242539,
+          "telegram_link": "https://t.me/manhuasgratis/180"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51
+          ],
+          "date": "2026-10-16T18:36:18+00:00",
+          "download_ready": true,
+          "filename": "[[51▪55]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 181,
+          "name": "51",
+          "size": 19042662,
+          "telegram_link": "https://t.me/manhuasgratis/181"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            56
+          ],
+          "date": "2026-10-16T18:36:19+00:00",
+          "download_ready": true,
+          "filename": "[[56▪60]] La Criada y Él Vampiro~Xio🐼 (1).pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 182,
+          "name": "56",
+          "size": 16194785,
+          "telegram_link": "https://t.me/manhuasgratis/182"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61
+          ],
+          "date": "2026-10-16T18:36:19+00:00",
+          "download_ready": true,
+          "filename": "[[61▪65]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 183,
+          "name": "61",
+          "size": 14506623,
+          "telegram_link": "https://t.me/manhuasgratis/183"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            66
+          ],
+          "date": "2026-10-16T18:36:20+00:00",
+          "download_ready": true,
+          "filename": "[[66▪70]] La Criada y Él Vampiro~Xio🐼.pdf",
+          "first": 66,
+          "last": 66,
+          "message_id": 184,
+          "name": "66",
+          "size": 15819138,
+          "telegram_link": "https://t.me/manhuasgratis/184"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "date": "2026-10-16T18:36:21+00:00",
+          "download_ready": true,
+          "filename": "71-76 Final The maid and the vampire [Kookie♡].pdf",
+          "first": 71,
+          "last": 76,
+          "message_id": 185,
+          "name": "71-76",
+          "size": 17593097,
+          "telegram_link": "https://t.me/manhuasgratis/185"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Areum ha caído en un mundo extraño llamado 'Soltera' después de un accidente automovilístico. La confunden con un vampiro por el color de su cabello, y un traficante de esclavos la vende a la casa de un duque. ¡La identidad de Millard Travis, el maestro de la casa del duque que la compró, es el único vampiro del mundo! Desesperado por sobrevivir de cualquier manera, Areum se convierte en el sirviente directo de Millard, jurando servirle como su maestro. Areum trata de arremeter contra Millard día tras día y su actitud comienza a cambiar. Plataforma Oficial: https://www.netcomics.com/es/comic/la-doncella-y-el-vampiro",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:36:26+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_dulce_venganza_de_una_esposa.jpg",
+      "cover_message_id": 242,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/242",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Drama",
+        "Romance"
+      ],
+      "hashtag": "#La_dulce_venganza_de_una_esposa",
+      "id": "la_dulce_venganza_de_una_esposa",
+      "latest_chapter": 100,
+      "library_count": 0,
+      "name": "La dulce venganza de una esposa",
+      "package_count": 10,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:36:26+00:00",
+          "download_ready": true,
+          "filename": "01-10🐇 LA DULCE VENGANZA DE UNA ESPOSA💜.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 187,
+          "name": "1-10",
+          "size": 56059497,
+          "telegram_link": "https://t.me/manhuasgratis/187"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:36:26+00:00",
+          "download_ready": true,
+          "filename": "11-20 LA DULCE VENGANZA DE UNA ESPOSA 💜..pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 188,
+          "name": "11-20",
+          "size": 45596951,
+          "telegram_link": "https://t.me/manhuasgratis/188"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:36:27+00:00",
+          "download_ready": true,
+          "filename": "21-30🐇 LA DULCE VENGANZA DE UNA ESPOSA 💜.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 189,
+          "name": "21-30",
+          "size": 46680061,
+          "telegram_link": "https://t.me/manhuasgratis/189"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:36:28+00:00",
+          "download_ready": true,
+          "filename": "31-40 LA DULCE VENGANZA DE UNA ESPOSA 💜.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 190,
+          "name": "31-40",
+          "size": 51789563,
+          "telegram_link": "https://t.me/manhuasgratis/190"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:36:28+00:00",
+          "download_ready": true,
+          "filename": "41-50 LA DULCE VENGANZA DE UNA ESPOSA 💜.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 191,
+          "name": "41-50",
+          "size": 53904843,
+          "telegram_link": "https://t.me/manhuasgratis/191"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:36:29+00:00",
+          "download_ready": true,
+          "filename": "51-60 LA DULCE VENGANZA DE UNA ESPOSA 💜.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 192,
+          "name": "51-60",
+          "size": 46187571,
+          "telegram_link": "https://t.me/manhuasgratis/192"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:36:30+00:00",
+          "download_ready": true,
+          "filename": "61-70 LA DULCE VENGANZA DE UNA ESPOSA.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 193,
+          "name": "61-70",
+          "size": 35561559,
+          "telegram_link": "https://t.me/manhuasgratis/193"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-16T18:36:31+00:00",
+          "download_ready": true,
+          "filename": "71-80 LA DULCE VENGANZA DE UNA ESPOSA.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 194,
+          "name": "71-80",
+          "size": 37373598,
+          "telegram_link": "https://t.me/manhuasgratis/194"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-16T18:36:31+00:00",
+          "download_ready": true,
+          "filename": "81-90 LA DULCE VENGANZA DE UNA ESPOSA.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 195,
+          "name": "81-90",
+          "size": 34040141,
+          "telegram_link": "https://t.me/manhuasgratis/195"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-16T18:36:32+00:00",
+          "download_ready": true,
+          "filename": "91-100 (FINAL) LA DULCE VENGANZA DE UNA ESPOSA.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 196,
+          "name": "91-100",
+          "size": 35698499,
+          "telegram_link": "https://t.me/manhuasgratis/196"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Dayoung Kim felizmente donó su hígado a su suegra, pero todo lo que obtuvo fue traición a cambio. Toda la familia de su esposo la usó y abusó de ella de manera nefasta, echándola incluso antes de que se recuperara por completo de la cirugía. Continuaron con sus vidas, felizmente inconscientes de que Dayoung juró venganza",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:36:38+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_dulce_vida_de_adelaide.jpg",
+      "cover_message_id": 244,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/244",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Reencarnación",
+        "Fantasía",
+        "Romance",
+        "Aventura",
+        "Comedia"
+      ],
+      "hashtag": "#La_Dulce_Vida_De_Adelaide",
+      "id": "la_dulce_vida_de_adelaide",
+      "latest_chapter": 85,
+      "library_count": 0,
+      "name": "La Dulce Vida De Adelaide",
+      "package_count": 9,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:36:38+00:00",
+          "download_ready": true,
+          "filename": "[1-10] La Dulce Vida de Adelaide.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 198,
+          "name": "1-10",
+          "size": 70911603,
+          "telegram_link": "https://t.me/manhuasgratis/198"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:36:39+00:00",
+          "download_ready": true,
+          "filename": "[11-20] La Dulce Vida de Adelaide.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 199,
+          "name": "11-20",
+          "size": 52926191,
+          "telegram_link": "https://t.me/manhuasgratis/199"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:36:40+00:00",
+          "download_ready": true,
+          "filename": "[21-30] La Dulce Vida de Adelaide.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 200,
+          "name": "21-30",
+          "size": 59771063,
+          "telegram_link": "https://t.me/manhuasgratis/200"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:36:40+00:00",
+          "download_ready": true,
+          "filename": "[31-40] La Dulce Vida de Adelaide.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 201,
+          "name": "31-40",
+          "size": 79558057,
+          "telegram_link": "https://t.me/manhuasgratis/201"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:36:41+00:00",
+          "download_ready": true,
+          "filename": "[41-50] La Dulce Vida de Adelaide.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 202,
+          "name": "41-50",
+          "size": 63836439,
+          "telegram_link": "https://t.me/manhuasgratis/202"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:36:42+00:00",
+          "download_ready": true,
+          "filename": "[51-60] La Dulce Vida de Adelaide.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 203,
+          "name": "51-60",
+          "size": 72838992,
+          "telegram_link": "https://t.me/manhuasgratis/203"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:36:42+00:00",
+          "download_ready": true,
+          "filename": "[61-70] La Dulce Vida de Adelaide.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 204,
+          "name": "61-70",
+          "size": 77949248,
+          "telegram_link": "https://t.me/manhuasgratis/204"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-16T18:36:43+00:00",
+          "download_ready": true,
+          "filename": "[71-80] La Dulce Vida de Adelaide.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 205,
+          "name": "71-80",
+          "size": 93768609,
+          "telegram_link": "https://t.me/manhuasgratis/205"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "date": "2026-10-16T18:36:44+00:00",
+          "download_ready": true,
+          "filename": "[81-85] (final) La Dulce Vida de Adelaide.pdf",
+          "first": 81,
+          "last": 85,
+          "message_id": 206,
+          "name": "81-85",
+          "size": 68843425,
+          "telegram_link": "https://t.me/manhuasgratis/206"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "17 años después de su propia reencarnación, Adelaida se entera de que un viajero dimensional ha llegado de repente al palacio imperial. Justo la sacudida de emoción que necesitaba mi aburrida vida, pensó. Al asistir al baile de debutantes para conocer a esta nueva Susanne, Adelaide acaba haciendo un trato con el apuesto duque Félix: ¡convertirse en su \"falsa\" prometida para que pueda mantener a la buscadora de oro Susanne lejos de él! A medida que Félix se va encariñando con su compañera, ¿podrá Adelaida ganar esta batalla por su corazón?",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:37:46+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_emperatriz_abandonada.jpg",
+      "cover_message_id": 252,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/252",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Romance",
+        "Drama"
+      ],
+      "hashtag": "#La_Emperatriz_Abandonada",
+      "id": "la_emperatriz_abandonada",
+      "latest_chapter": 155,
+      "library_count": 0,
+      "name": "La Emperatriz Abandonada",
+      "package_count": 1,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155
+          ],
+          "date": "2026-10-16T18:37:46+00:00",
+          "download_ready": true,
+          "filename": "La Emperatriz Abandonada  [ 141 - 155 ].pdf",
+          "first": 141,
+          "last": 155,
+          "message_id": 245,
+          "name": "141-155",
+          "size": 65687471,
+          "telegram_link": "https://t.me/manhuasgratis/245"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Como orgullosa hija de la casa Monique, Aristia fue criada para convertirse en la próxima emperatriz del Imperio Castina. Pero con la aparición de una chica misteriosa, todo se ha desmoronado; el emperador le ha dado la espalda y la miserable vida de Aristia como una reina inferior, se ve interrumpida por la muerte. ¡Sin embargo, una segunda oportunidad para cambiar su destino la hace renacer a la edad de 10años",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:37:22+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_excitacion_de_su_majestad_el_emperador.jpg",
+      "cover_message_id": 248,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/248",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Romance",
+        "Aventura",
+        "Comedia"
+      ],
+      "hashtag": "#La_Excitacion_De_Su_Majestad_El_Emperador",
+      "id": "la_excitacion_de_su_majestad_el_emperador",
+      "latest_chapter": 30,
+      "library_count": 0,
+      "name": "La Excitacion De Su Majestad El Emperador",
+      "package_count": 3,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:37:22+00:00",
+          "download_ready": true,
+          "filename": "01-10 La excitación de su majestad el emperador [α∂мι].pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 224,
+          "name": "1-10",
+          "size": 59968950,
+          "telegram_link": "https://t.me/manhuasgratis/224"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:37:23+00:00",
+          "download_ready": true,
+          "filename": "11-20 La excitación de su majestad el emperador [α∂мι].pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 225,
+          "name": "11-20",
+          "size": 65468064,
+          "telegram_link": "https://t.me/manhuasgratis/225"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:37:23+00:00",
+          "download_ready": true,
+          "filename": "21-30 FINAL La excitación de su majestad [α∂мι].pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 226,
+          "name": "21-30",
+          "size": 66308609,
+          "telegram_link": "https://t.me/manhuasgratis/226"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Protagonista Masculino: Eric Dyke (Eruwin) - Emperador que llevó a la victoria la guerra de Unificación. Se le llama el emperador invicto porque lleva una máscara que le cubre la mitad de la cara Protagonista Femenino: Cindy - Pequeña Lavandera Real. Lava a menudo las mantas sucias por el trabajo nocturno del emperador (?) y lo reconoce como \"dueño de mantas olorosas\". Intenté acabar con mi vida a causa de heridas del pasado, pero no lo consigo por culpa de un pervertido que conocí por casualidad",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:37:29+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_flor_del_sultan.jpg",
+      "cover_message_id": 250,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/250",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Drama"
+      ],
+      "hashtag": "#La_Flor_Del_Sultán",
+      "id": "la_flor_del_sultan",
+      "latest_chapter": 8,
+      "library_count": 0,
+      "name": "La Flor Del Sultán",
+      "package_count": 1,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "date": "2026-10-16T18:37:29+00:00",
+          "download_ready": true,
+          "filename": "-01-08- La Flor del Sultán✜.pdf",
+          "first": 1,
+          "last": 8,
+          "message_id": 228,
+          "name": "1-8",
+          "size": 49175770,
+          "telegram_link": "https://t.me/manhuasgratis/228"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Saye fue recogida a una temprana edad en el harén del sultán, sobrevive a la rebelión del noveno príncipe, Kainer. Durante tal revuelta, Saye que se mantuvo viva durante 11 años, ve una oportunidad para escapar del harén pero Kainer, quien se ha convertido en el sultán, no tiene la intención de dejarla ir y la sorprende diciéndole que ella fue la única razón por la que se había convertido en el sultán",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:38:22+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_luna_en_el_acantilado_cap_1_00_s_p_e.jpg",
+      "cover_message_id": 262,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/262",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Romance",
+        "Drama"
+      ],
+      "hashtag": "#la_luna_en_el_acantilado_cap_1_00_S_P_E",
+      "id": "la_luna_en_el_acantilado_cap_1_00_s_p_e",
+      "latest_chapter": 61,
+      "library_count": 0,
+      "name": "la luna en el acantilado cap 1 00 S P E",
+      "package_count": 61,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-16T18:38:22+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 1.00 S P E.pdf",
+          "first": 1,
+          "last": 1,
+          "message_id": 266,
+          "name": "1",
+          "size": 8012169,
+          "telegram_link": "https://t.me/manhuasgratis/266"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-16T18:38:23+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 2.00 S P S E S.pdf",
+          "first": 2,
+          "last": 2,
+          "message_id": 267,
+          "name": "2",
+          "size": 8687286,
+          "telegram_link": "https://t.me/manhuasgratis/267"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-16T18:38:24+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 3.00 S P S E S.pdf",
+          "first": 3,
+          "last": 3,
+          "message_id": 268,
+          "name": "3",
+          "size": 8649791,
+          "telegram_link": "https://t.me/manhuasgratis/268"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            4
+          ],
+          "date": "2026-10-16T18:38:25+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 4.00 S P S E S.pdf",
+          "first": 4,
+          "last": 4,
+          "message_id": 269,
+          "name": "4",
+          "size": 8528764,
+          "telegram_link": "https://t.me/manhuasgratis/269"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-16T18:38:26+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 5.00 S P S E S.pdf",
+          "first": 5,
+          "last": 5,
+          "message_id": 270,
+          "name": "5",
+          "size": 9009274,
+          "telegram_link": "https://t.me/manhuasgratis/270"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-16T18:38:27+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 6.00 S P S E S.pdf",
+          "first": 6,
+          "last": 6,
+          "message_id": 271,
+          "name": "6",
+          "size": 10146434,
+          "telegram_link": "https://t.me/manhuasgratis/271"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-16T18:38:28+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 7.00 S P S E S.pdf",
+          "first": 7,
+          "last": 7,
+          "message_id": 272,
+          "name": "7",
+          "size": 8181609,
+          "telegram_link": "https://t.me/manhuasgratis/272"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-16T18:38:29+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 8.00 S P K O T S T K O T S.pdf",
+          "first": 8,
+          "last": 8,
+          "message_id": 273,
+          "name": "8",
+          "size": 7971515,
+          "telegram_link": "https://t.me/manhuasgratis/273"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            9
+          ],
+          "date": "2026-10-16T18:38:30+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 9.00 S P K O T S T K O T S.pdf",
+          "first": 9,
+          "last": 9,
+          "message_id": 274,
+          "name": "9",
+          "size": 7942325,
+          "telegram_link": "https://t.me/manhuasgratis/274"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            10
+          ],
+          "date": "2026-10-16T18:38:31+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 10.00 S P K O T S T K O T S.pdf",
+          "first": 10,
+          "last": 10,
+          "message_id": 275,
+          "name": "10",
+          "size": 8156597,
+          "telegram_link": "https://t.me/manhuasgratis/275"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-16T18:38:31+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 11.00 S P S E S.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 276,
+          "name": "11",
+          "size": 8757438,
+          "telegram_link": "https://t.me/manhuasgratis/276"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            12
+          ],
+          "date": "2026-10-16T18:38:32+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 12.00 S P S E S.pdf",
+          "first": 12,
+          "last": 12,
+          "message_id": 277,
+          "name": "12",
+          "size": 8353717,
+          "telegram_link": "https://t.me/manhuasgratis/277"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            13
+          ],
+          "date": "2026-10-16T18:38:33+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 13.00 S P S E S.pdf",
+          "first": 13,
+          "last": 13,
+          "message_id": 278,
+          "name": "13",
+          "size": 10383865,
+          "telegram_link": "https://t.me/manhuasgratis/278"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            14
+          ],
+          "date": "2026-10-16T18:38:34+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 14.00 S P S E S.pdf",
+          "first": 14,
+          "last": 14,
+          "message_id": 279,
+          "name": "14",
+          "size": 9227935,
+          "telegram_link": "https://t.me/manhuasgratis/279"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            15
+          ],
+          "date": "2026-10-16T18:38:35+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 15.00 S P S E S.pdf",
+          "first": 15,
+          "last": 15,
+          "message_id": 280,
+          "name": "15",
+          "size": 9161448,
+          "telegram_link": "https://t.me/manhuasgratis/280"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            16
+          ],
+          "date": "2026-10-16T18:38:36+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 16.00 S P S E S.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 281,
+          "name": "16",
+          "size": 8455964,
+          "telegram_link": "https://t.me/manhuasgratis/281"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            17
+          ],
+          "date": "2026-10-16T18:38:36+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 17.00 S P S E S.pdf",
+          "first": 17,
+          "last": 17,
+          "message_id": 282,
+          "name": "17",
+          "size": 8098380,
+          "telegram_link": "https://t.me/manhuasgratis/282"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            18
+          ],
+          "date": "2026-10-16T18:38:37+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 18.00 S P S E S.pdf",
+          "first": 18,
+          "last": 18,
+          "message_id": 283,
+          "name": "18",
+          "size": 8645970,
+          "telegram_link": "https://t.me/manhuasgratis/283"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            19
+          ],
+          "date": "2026-10-16T18:38:38+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 19.00 S P S E S.pdf",
+          "first": 19,
+          "last": 19,
+          "message_id": 284,
+          "name": "19",
+          "size": 8635028,
+          "telegram_link": "https://t.me/manhuasgratis/284"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            20
+          ],
+          "date": "2026-10-16T18:38:39+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 20.00 S P S K E S.pdf",
+          "first": 20,
+          "last": 20,
+          "message_id": 285,
+          "name": "20",
+          "size": 7045957,
+          "telegram_link": "https://t.me/manhuasgratis/285"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-16T18:38:40+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 21.00 S P K K K.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 286,
+          "name": "21",
+          "size": 6524376,
+          "telegram_link": "https://t.me/manhuasgratis/286"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-16T18:38:41+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 22.00 S P K K K.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 287,
+          "name": "22",
+          "size": 6266342,
+          "telegram_link": "https://t.me/manhuasgratis/287"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-16T18:38:42+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 23.00 S P K K K.pdf",
+          "first": 23,
+          "last": 23,
+          "message_id": 288,
+          "name": "23",
+          "size": 6255623,
+          "telegram_link": "https://t.me/manhuasgratis/288"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            24
+          ],
+          "date": "2026-10-16T18:38:43+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 24.00 S P K K K.pdf",
+          "first": 24,
+          "last": 24,
+          "message_id": 289,
+          "name": "24",
+          "size": 7931272,
+          "telegram_link": "https://t.me/manhuasgratis/289"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            25
+          ],
+          "date": "2026-10-16T18:38:44+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 25.00 S P K K K.pdf",
+          "first": 25,
+          "last": 25,
+          "message_id": 290,
+          "name": "25",
+          "size": 5881938,
+          "telegram_link": "https://t.me/manhuasgratis/290"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            26
+          ],
+          "date": "2026-10-16T18:38:45+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 26.00 S P K K K.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 291,
+          "name": "26",
+          "size": 6164404,
+          "telegram_link": "https://t.me/manhuasgratis/291"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            27
+          ],
+          "date": "2026-10-16T18:38:46+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 27.00 S P K K K.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 292,
+          "name": "27",
+          "size": 7903298,
+          "telegram_link": "https://t.me/manhuasgratis/292"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            28
+          ],
+          "date": "2026-10-16T18:38:47+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 28.00 S P K K K.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 293,
+          "name": "28",
+          "size": 6763693,
+          "telegram_link": "https://t.me/manhuasgratis/293"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            29
+          ],
+          "date": "2026-10-16T18:38:47+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 29.00 S P K K K.pdf",
+          "first": 29,
+          "last": 29,
+          "message_id": 294,
+          "name": "29",
+          "size": 6647426,
+          "telegram_link": "https://t.me/manhuasgratis/294"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            30
+          ],
+          "date": "2026-10-16T18:38:49+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 30.00 S P K K K.pdf",
+          "first": 30,
+          "last": 30,
+          "message_id": 295,
+          "name": "30",
+          "size": 6522847,
+          "telegram_link": "https://t.me/manhuasgratis/295"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31
+          ],
+          "date": "2026-10-16T18:38:49+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 31.00 S P K K K.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 296,
+          "name": "31",
+          "size": 5553767,
+          "telegram_link": "https://t.me/manhuasgratis/296"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            32
+          ],
+          "date": "2026-10-16T18:38:50+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 32.00 S P K K K.pdf",
+          "first": 32,
+          "last": 32,
+          "message_id": 297,
+          "name": "32",
+          "size": 5604322,
+          "telegram_link": "https://t.me/manhuasgratis/297"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            33
+          ],
+          "date": "2026-10-16T18:38:51+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 33.00 S P K K K.pdf",
+          "first": 33,
+          "last": 33,
+          "message_id": 298,
+          "name": "33",
+          "size": 7345955,
+          "telegram_link": "https://t.me/manhuasgratis/298"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            34
+          ],
+          "date": "2026-10-16T18:38:52+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 34.00 S P K K K.pdf",
+          "first": 34,
+          "last": 34,
+          "message_id": 299,
+          "name": "34",
+          "size": 10513366,
+          "telegram_link": "https://t.me/manhuasgratis/299"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            35
+          ],
+          "date": "2026-10-16T18:38:53+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 35.00 S P K K K.pdf",
+          "first": 35,
+          "last": 35,
+          "message_id": 300,
+          "name": "35",
+          "size": 6588492,
+          "telegram_link": "https://t.me/manhuasgratis/300"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            36
+          ],
+          "date": "2026-10-16T18:38:54+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 36.00 S P K K K.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 301,
+          "name": "36",
+          "size": 7646204,
+          "telegram_link": "https://t.me/manhuasgratis/301"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            37
+          ],
+          "date": "2026-10-16T18:38:55+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 37.00 S P K K K.pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 302,
+          "name": "37",
+          "size": 6103100,
+          "telegram_link": "https://t.me/manhuasgratis/302"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            38
+          ],
+          "date": "2026-10-16T18:38:55+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 38.00 S P K K K.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 303,
+          "name": "38",
+          "size": 10319914,
+          "telegram_link": "https://t.me/manhuasgratis/303"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            39
+          ],
+          "date": "2026-10-16T18:38:56+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 39.00 S P S K E S.pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 304,
+          "name": "39",
+          "size": 11360764,
+          "telegram_link": "https://t.me/manhuasgratis/304"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            40
+          ],
+          "date": "2026-10-16T18:38:57+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 40.00 S P K K K.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 305,
+          "name": "40",
+          "size": 7611796,
+          "telegram_link": "https://t.me/manhuasgratis/305"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41
+          ],
+          "date": "2026-10-16T18:38:58+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 41.00 S P K K K.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 306,
+          "name": "41",
+          "size": 8356671,
+          "telegram_link": "https://t.me/manhuasgratis/306"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            42
+          ],
+          "date": "2026-10-16T18:38:59+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 42.00 S P K K K.pdf",
+          "first": 42,
+          "last": 42,
+          "message_id": 307,
+          "name": "42",
+          "size": 7224973,
+          "telegram_link": "https://t.me/manhuasgratis/307"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            43
+          ],
+          "date": "2026-10-16T18:39:00+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 43.00 S P K K K.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 308,
+          "name": "43",
+          "size": 6940426,
+          "telegram_link": "https://t.me/manhuasgratis/308"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            44
+          ],
+          "date": "2026-10-16T18:39:01+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 44.00 S P K K K.pdf",
+          "first": 44,
+          "last": 44,
+          "message_id": 309,
+          "name": "44",
+          "size": 7778128,
+          "telegram_link": "https://t.me/manhuasgratis/309"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            45
+          ],
+          "date": "2026-10-16T18:39:02+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 45.00 S P K K K.pdf",
+          "first": 45,
+          "last": 45,
+          "message_id": 310,
+          "name": "45",
+          "size": 6158626,
+          "telegram_link": "https://t.me/manhuasgratis/310"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            46
+          ],
+          "date": "2026-10-16T18:39:03+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 46.00 S P K K K.pdf",
+          "first": 46,
+          "last": 46,
+          "message_id": 311,
+          "name": "46",
+          "size": 6256489,
+          "telegram_link": "https://t.me/manhuasgratis/311"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            47
+          ],
+          "date": "2026-10-16T18:39:03+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 47.00 S P K K K.pdf",
+          "first": 47,
+          "last": 47,
+          "message_id": 312,
+          "name": "47",
+          "size": 14227602,
+          "telegram_link": "https://t.me/manhuasgratis/312"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            48
+          ],
+          "date": "2026-10-16T18:39:04+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 48.00 S P K K K.pdf",
+          "first": 48,
+          "last": 48,
+          "message_id": 313,
+          "name": "48",
+          "size": 5647888,
+          "telegram_link": "https://t.me/manhuasgratis/313"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            49
+          ],
+          "date": "2026-10-16T18:39:05+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 49.00 S P K K K.pdf",
+          "first": 49,
+          "last": 49,
+          "message_id": 314,
+          "name": "49",
+          "size": 14665695,
+          "telegram_link": "https://t.me/manhuasgratis/314"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            50
+          ],
+          "date": "2026-10-16T18:39:06+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 50.00 S P K K K.pdf",
+          "first": 50,
+          "last": 50,
+          "message_id": 315,
+          "name": "50",
+          "size": 6516372,
+          "telegram_link": "https://t.me/manhuasgratis/315"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51
+          ],
+          "date": "2026-10-16T18:39:07+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 51.00 S P K K K.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 316,
+          "name": "51",
+          "size": 6185720,
+          "telegram_link": "https://t.me/manhuasgratis/316"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            52
+          ],
+          "date": "2026-10-16T18:39:08+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 52.00 S P K K K.pdf",
+          "first": 52,
+          "last": 52,
+          "message_id": 317,
+          "name": "52",
+          "size": 6034420,
+          "telegram_link": "https://t.me/manhuasgratis/317"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            53
+          ],
+          "date": "2026-10-16T18:39:08+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 53.00 S P K K K.pdf",
+          "first": 53,
+          "last": 53,
+          "message_id": 318,
+          "name": "53",
+          "size": 5906406,
+          "telegram_link": "https://t.me/manhuasgratis/318"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            54
+          ],
+          "date": "2026-10-16T18:39:09+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 54.00 S P K K K.pdf",
+          "first": 54,
+          "last": 54,
+          "message_id": 319,
+          "name": "54",
+          "size": 6112197,
+          "telegram_link": "https://t.me/manhuasgratis/319"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            55
+          ],
+          "date": "2026-10-16T18:39:10+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 55.00 S P K K K.pdf",
+          "first": 55,
+          "last": 55,
+          "message_id": 320,
+          "name": "55",
+          "size": 6395683,
+          "telegram_link": "https://t.me/manhuasgratis/320"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            56
+          ],
+          "date": "2026-10-16T18:39:11+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 56.00 S P K K K.pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 321,
+          "name": "56",
+          "size": 7566510,
+          "telegram_link": "https://t.me/manhuasgratis/321"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            57
+          ],
+          "date": "2026-10-16T18:39:12+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 57.00 S P K K K.pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 322,
+          "name": "57",
+          "size": 5721269,
+          "telegram_link": "https://t.me/manhuasgratis/322"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            58
+          ],
+          "date": "2026-10-16T18:39:12+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 58.00 S P K K K.pdf",
+          "first": 58,
+          "last": 58,
+          "message_id": 323,
+          "name": "58",
+          "size": 4894395,
+          "telegram_link": "https://t.me/manhuasgratis/323"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            59
+          ],
+          "date": "2026-10-16T18:39:13+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 59.00 S P K K K.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 324,
+          "name": "59",
+          "size": 6529363,
+          "telegram_link": "https://t.me/manhuasgratis/324"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            60
+          ],
+          "date": "2026-10-16T18:39:14+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 60.00 S P K K K.pdf",
+          "first": 60,
+          "last": 60,
+          "message_id": 325,
+          "name": "60",
+          "size": 11817570,
+          "telegram_link": "https://t.me/manhuasgratis/325"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61
+          ],
+          "date": "2026-10-16T18:39:15+00:00",
+          "download_ready": true,
+          "filename": "la luna en el acantilado. cap 61.00 S P K K K.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 326,
+          "name": "61",
+          "size": 7771827,
+          "telegram_link": "https://t.me/manhuasgratis/326"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Un hombre que fue destronado y pateado al borde de un acantilado en una isla miserable. Me atreví a enamorarme de él. Samwol, una mujer que ocupa el lugar de su padre enfermo en una isla pobre. Hwan, un hombre que fue destronado y expulsado al borde del acantilado de una isla en ruinas. Algunos dicen que cometió adulterio con su madre y abuso a cientos de vírgenes. —Oye, ¿Por qué no nos nombramos? Frente a mí, él era solo un hombre solitario y cariñoso. Entonces, ¿cómo atreverme a no amar a ese hombre?",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:39:28+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_reina_de_las_sombras.jpg",
+      "cover_message_id": 266,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/266",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Reencarnación",
+        "Romance",
+        "Drama"
+      ],
+      "hashtag": "#La_reina_de_las_sombras",
+      "id": "la_reina_de_las_sombras",
+      "latest_chapter": 60,
+      "library_count": 0,
+      "name": "La reina de las sombras",
+      "package_count": 6,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:39:28+00:00",
+          "download_ready": true,
+          "filename": "[01-10] La reina de las sombras.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 335,
+          "name": "1-10",
+          "size": 95310027,
+          "telegram_link": "https://t.me/manhuasgratis/335"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:39:29+00:00",
+          "download_ready": true,
+          "filename": "[11-20] La reina de las sombras.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 336,
+          "name": "11-20",
+          "size": 90512076,
+          "telegram_link": "https://t.me/manhuasgratis/336"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:39:30+00:00",
+          "download_ready": true,
+          "filename": "[21-30] La reina de las sombras.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 337,
+          "name": "21-30",
+          "size": 84437492,
+          "telegram_link": "https://t.me/manhuasgratis/337"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:39:30+00:00",
+          "download_ready": true,
+          "filename": "[31-40] La reina de las sombras.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 338,
+          "name": "31-40",
+          "size": 101048951,
+          "telegram_link": "https://t.me/manhuasgratis/338"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:39:31+00:00",
+          "download_ready": true,
+          "filename": "[41-50] La reina de las sombras.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 339,
+          "name": "41-50",
+          "size": 100157459,
+          "telegram_link": "https://t.me/manhuasgratis/339"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:39:32+00:00",
+          "download_ready": true,
+          "filename": "[51-60] La reina de las sombras.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 340,
+          "name": "51-60",
+          "size": 105081306,
+          "telegram_link": "https://t.me/manhuasgratis/340"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "¿Podrías convertirte en mi hija?\" Gracias a la propuesta del Gran Duque Friedrich, Elena se convirtió en su hija falsa. Sin embargo, después de casarse con el príncipe heredero, tener a su hijo y adquirir tierras para supervisarse a sí misma, la hija del \"difunto\" duque, Lady Veronica, apareció ante ella. Todo el tiempo, ella no había sido más que una mera marioneta para la realidad. El hijo de Elena le es arrebatado y ella fue asesinada. Sin embargo, en un giro de los acontecimientos, termina regresando al pasado. \"Voy a aplastar a todos y cada uno de ustedes\"",
+      "visible": false
+    },
+    {
+      "added_at": "2026-10-16T18:39:20+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_sangre_de_giselle.jpg",
+      "cover_message_id": 264,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/264",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Romance",
+        "Drama",
+        "Misterio"
+      ],
+      "hashtag": "#La_Sangre_de_Giselle",
+      "id": "la_sangre_de_giselle",
+      "latest_chapter": 61,
+      "library_count": 0,
+      "name": "La Sangre de Giselle",
+      "package_count": 6,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:39:20+00:00",
+          "download_ready": true,
+          "filename": "「01-10」La Sangre de Giselle.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 328,
+          "name": "1-10",
+          "size": 66272278,
+          "telegram_link": "https://t.me/manhuasgratis/328"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:39:21+00:00",
+          "download_ready": true,
+          "filename": "「11-20」La Sangre de Giselle.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 329,
+          "name": "11-20",
+          "size": 83366914,
+          "telegram_link": "https://t.me/manhuasgratis/329"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:39:22+00:00",
+          "download_ready": true,
+          "filename": "「21-30」La Sangre de Giselle.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 330,
+          "name": "21-30",
+          "size": 69653370,
+          "telegram_link": "https://t.me/manhuasgratis/330"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:39:22+00:00",
+          "download_ready": true,
+          "filename": "「31-40」La Sangre de Giselle.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 331,
+          "name": "31-40",
+          "size": 52390071,
+          "telegram_link": "https://t.me/manhuasgratis/331"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:39:23+00:00",
+          "download_ready": true,
+          "filename": "「41-50」La Sangre de Giselle.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 332,
+          "name": "41-50",
+          "size": 68926633,
+          "telegram_link": "https://t.me/manhuasgratis/332"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ],
+          "date": "2026-10-16T18:39:24+00:00",
+          "download_ready": true,
+          "filename": "「51-61」La Sangre de Giselle┊ғɪɴ.pdf",
+          "first": 51,
+          "last": 61,
+          "message_id": 333,
+          "name": "51-61",
+          "size": 61152193,
+          "telegram_link": "https://t.me/manhuasgratis/333"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Apto para mayores de 18 años. Giselle, quien se convirtió en la esposa títere de la familia Nathan, empieza a llevarle sangre a un niño hermoso que encuentra en el sótano de su nueva casa. Un vampiro llamado “ Una flor crece a través de la sangre”. En su infeliz vida, Giselle comienza a tener encuentros inapropiados y peligrosos para escapar de los ojos de su marido",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-13T13:14:58+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_torre_del_tutorial.jpg",
       "cover_message_id": 171,
@@ -39213,6 +42808,214 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-16T18:38:09+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_villana_conquisto_al_protagonista_masculino.jpg",
+      "cover_message_id": 260,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/260",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Romance"
+      ],
+      "hashtag": "#La_Villana_Conquistó_Al_Protagonista_Masculino",
+      "id": "la_villana_conquisto_al_protagonista_masculino",
+      "latest_chapter": 72,
+      "library_count": 0,
+      "name": "La Villana Conquistó Al Protagonista Masculino",
+      "package_count": 8,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T18:38:09+00:00",
+          "download_ready": true,
+          "filename": "1-10 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 257,
+          "name": "1-10",
+          "size": 80136802,
+          "telegram_link": "https://t.me/manhuasgratis/257"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T18:38:10+00:00",
+          "download_ready": true,
+          "filename": "11-20 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 258,
+          "name": "11-20",
+          "size": 76889636,
+          "telegram_link": "https://t.me/manhuasgratis/258"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T18:38:11+00:00",
+          "download_ready": true,
+          "filename": "21-30 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 259,
+          "name": "21-30",
+          "size": 75816133,
+          "telegram_link": "https://t.me/manhuasgratis/259"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T18:38:12+00:00",
+          "download_ready": true,
+          "filename": "31-40 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 260,
+          "name": "31-40",
+          "size": 75367332,
+          "telegram_link": "https://t.me/manhuasgratis/260"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T18:38:13+00:00",
+          "download_ready": true,
+          "filename": "41-50 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 261,
+          "name": "41-50",
+          "size": 80272975,
+          "telegram_link": "https://t.me/manhuasgratis/261"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-16T18:38:14+00:00",
+          "download_ready": true,
+          "filename": "51-60 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 262,
+          "name": "51-60",
+          "size": 83683612,
+          "telegram_link": "https://t.me/manhuasgratis/262"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-16T18:38:14+00:00",
+          "download_ready": true,
+          "filename": "61-70 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 263,
+          "name": "61-70",
+          "size": 111755080,
+          "telegram_link": "https://t.me/manhuasgratis/263"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72
+          ],
+          "date": "2026-10-16T18:38:15+00:00",
+          "download_ready": true,
+          "filename": "71-72 La Villana Conquisto al Protagonista Masculino.pdf",
+          "first": 71,
+          "last": 72,
+          "message_id": 264,
+          "name": "71-72",
+          "size": 22224009,
+          "telegram_link": "https://t.me/manhuasgratis/264"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "En la novela, Song Yeon-joo está poseído por la malvada mujer Edult, quien robó el corazón del protagonista masculino, Linus. Para evitar convertirse en el sospechoso número uno del asesinato de la familia imperial, lucha por recuperar su corazón, pero lo llevan a casa en nombre de la protección",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-16T13:11:47+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_viuda_virgen.jpg",
       "cover_message_id": 228,
@@ -39255,7 +43058,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "A sus 20 años, la desventurada Gyu-yeong queda viuda el mismo día de su boda. Negándose a seguir la voluntad de una suegra que le exige cometer suicidio, Gyu-yeong escapa de su hogar, no sin antes llevarse algunos bienes que pertenecían a la familia de su difunto esposo. Decide comprar una taberna con el dinero robado, pero para su mala suerte, el negocio es un completo fracaso. Una noche, agobiada por la preocupación, se le aparece un extraño ser que dice ser la \"deidad del hogar\" con una insólita propuesta y dispuesto a cumplir TODOS sus deseos.",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-08-29T03:24:58+00:00",
@@ -51271,7 +55074,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Un mundo donde las personas son atacadas por criaturas de otra dimensión llamadas “Impurezas” y sólo los onmyoujis son capaces de derrotarlas, es aquí donde inicia la historia de Rokuro y Benio, dos chicos que pelean contra estas criaturas y cuyos destinos se han entrecruzado",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-08-21T22:59:44+00:00",
@@ -65678,6 +69481,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-16T14:24:46.831858+00:00",
+  "updated_at": "2026-10-16T18:43:25.141175+00:00",
   "version": 3
 }
