@@ -4428,6 +4428,99 @@
   "schema": "manhuas-catalog-v3",
   "series": [
     {
+      "added_at": "2026-10-16T13:09:25+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/99_maneras_de_estar_atrapado_en_el_amor.jpg",
+      "cover_message_id": 222,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/222",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Drama",
+        "Romance"
+      ],
+      "hashtag": "#99_Maneras_De_Estar_Atrapado_En_El_Amor",
+      "id": "99_maneras_de_estar_atrapado_en_el_amor",
+      "latest_chapter": 41,
+      "library_count": 0,
+      "name": "99 Maneras De Estar Atrapado En El Amor",
+      "package_count": 2,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T13:09:25+00:00",
+          "download_ready": true,
+          "filename": "[01-20] 99 Maneras de estar Atrapado en el Amor.pdf",
+          "first": 1,
+          "last": 20,
+          "message_id": 98,
+          "name": "1-20",
+          "size": 37173698,
+          "telegram_link": "https://t.me/manhuasgratis/98"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ],
+          "date": "2026-10-16T13:09:26+00:00",
+          "download_ready": true,
+          "filename": "[21-41] 99 Maneras de estar Atrapado en el Amor.pdf",
+          "first": 21,
+          "last": 41,
+          "message_id": 99,
+          "name": "21-41",
+          "size": 43528473,
+          "telegram_link": "https://t.me/manhuasgratis/99"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "GU NAN XIA no esperaba volver a encontrarse con él, pero ¿por qué esta tan extraño ahora? MO YU CHEN incluso le dijo que nunca la había visto antes. El error fue en ese momento, ¿podría ser que él guardara ciertos rencores y hubiera querido borrarla de su existencia? Debido a ese collar, se enredaron de nuevo, incluso si él no recuerda el pasado, todavía caerán en él.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-08T00:50:53+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/apocalipsis_despiadado_acumular_billones_de_suministros_al_principio.jpg",
       "cover_message_id": 54,
@@ -6066,20 +6159,20 @@
           "telegram_link": "https://t.me/manhuasgratis/4840"
         },
         {
-          "name": "217",
-          "first": 217,
-          "last": 217,
           "channel_id": -1003003829878,
-          "message_id": 5567,
-          "filename": "[#217]   Archimago Trascendiendo A Través.pdf",
-          "size": 12440934,
-          "date": "2026-10-16T04:11:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5567",
-          "download_ready": true,
           "chapters": [
             217
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/archimago_tracendiendo_a_travez/5567_%5B%23217%5D%20%20%20Archimago%20Trascendiendo%20A%20Trav%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042114Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=21cbbd3dcb9794bb09e761a38474e259208a2d2bc3d4138e046c9ec66ea8baf5"
+          "date": "2026-10-16T04:11:39+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/archimago_tracendiendo_a_travez/5567_%5B%23217%5D%20%20%20Archimago%20Trascendiendo%20A%20Trav%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042114Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=21cbbd3dcb9794bb09e761a38474e259208a2d2bc3d4138e046c9ec66ea8baf5",
+          "filename": "[#217]   Archimago Trascendiendo A Través.pdf",
+          "first": 217,
+          "last": 217,
+          "message_id": 5567,
+          "name": "217",
+          "size": 12440934,
+          "telegram_link": "https://t.me/manhuasgratis/5567"
         }
       ],
       "rating": 3.67,
@@ -6604,6 +6697,124 @@
       "rating_count": 0,
       "synopsis": "¡Por el estudio que te trajo {{ Murim Login }}\nEl personaje con mayor dificultad y peor desempeño, Baek Yuseol, era considerado un personaje basura en el juego porque no podía usar magia en un entorno de fantasía donde todos los demás podían hacerlo.\nSin embargo…\n[Debido a que se alcanzó el final equivocado, el 90% del Mundo Éter ha sido destruido.] [Por favor, llegue al “Final Verdadero”.] De repente, esas palabras resonaron en mi mente antes de que fuera transmigrado al Mundo Éter.\n[Puedes usar la habilidad “Blink”.] “¿Por qué poseía este personaje?”\nParpadeo era la única habilidad mágica que tenía.",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-16T13:09:30+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/consegui_un_huevo_de_dragon.jpg",
+      "cover_message_id": 224,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/224",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance"
+      ],
+      "hashtag": "#Conseguí_un_Huevo_de_Dragón",
+      "id": "consegui_un_huevo_de_dragon",
+      "latest_chapter": 39,
+      "library_count": 0,
+      "name": "Conseguí un Huevo de Dragón",
+      "package_count": 4,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T13:09:30+00:00",
+          "download_ready": true,
+          "filename": "01-10│➢ Conseguí un Huevo de Dragón.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 101,
+          "name": "1-10",
+          "size": 80468106,
+          "telegram_link": "https://t.me/manhuasgratis/101"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T13:09:31+00:00",
+          "download_ready": true,
+          "filename": "11-20│➢ Conseguí un Huevo de Dragón.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 102,
+          "name": "11-20",
+          "size": 69687211,
+          "telegram_link": "https://t.me/manhuasgratis/102"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T13:09:32+00:00",
+          "download_ready": true,
+          "filename": "21-30│➢ Conseguí un Huevo de Dragón.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 103,
+          "name": "21-30",
+          "size": 93711937,
+          "telegram_link": "https://t.me/manhuasgratis/103"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "date": "2026-10-16T13:09:32+00:00",
+          "download_ready": true,
+          "filename": "31-39 𝐅𝐈𝐍│➢ Conseguí un Huevo de Dragón.pdf",
+          "first": 31,
+          "last": 39,
+          "message_id": 104,
+          "name": "31-39",
+          "size": 85980968,
+          "telegram_link": "https://t.me/manhuasgratis/104"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Ningning es el rey serpiente demonio que se enfrenta al dios dragón Chi Wen, tras su batalla ambos caen derrotados y el dragón se degenera en un huevo que ahora la chica cuidará con la intención de corromperlo y evitar que pueda ascender de vuelta a su posición divina… Sin embargo el amor termina surgiendo y eso complicará las cosas para los dos enemigos mortales.",
+      "visible": false
     },
     {
       "added_at": "2026-01-23T05:37:41+00:00",
@@ -9795,6 +10006,170 @@
       "rating_count": 0,
       "synopsis": "¡Un dios del Murim, un mensajero superrápido!\nUn dios que conquistó los cielos incluso antes de ser un dios. A medida que gana iluminación y gana fuerza. cae en una grieta creada repentinamente…\nLlega a la Corea del siglo XXI. Una tierra asolada por puertas y demonios. ¡Un dios Marcial, o más bien un repartidor, trae la paz!",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-16T13:11:52+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_fin_del_mundo.jpg",
+      "cover_message_id": 230,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/230",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "hashtag": "#El_Fin_Del_Mundo",
+      "id": "el_fin_del_mundo",
+      "latest_chapter": 55,
+      "library_count": 0,
+      "name": "El Fin Del Mundo",
+      "package_count": 6,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-16T13:11:52+00:00",
+          "download_ready": true,
+          "filename": "01-10 ┊➢ El Fin Del Mundo .pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 110,
+          "name": "1-10",
+          "size": 72616109,
+          "telegram_link": "https://t.me/manhuasgratis/110"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T13:11:53+00:00",
+          "download_ready": true,
+          "filename": "11-20 ┊➢ El Fin Del Mundo.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 111,
+          "name": "11-20",
+          "size": 57951501,
+          "telegram_link": "https://t.me/manhuasgratis/111"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-16T13:11:53+00:00",
+          "download_ready": true,
+          "filename": "21-30 ┊➢ El Fin Del Mundo.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 112,
+          "name": "21-30",
+          "size": 65802829,
+          "telegram_link": "https://t.me/manhuasgratis/112"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-16T13:11:54+00:00",
+          "download_ready": true,
+          "filename": "31-40 ┊➢ El Fin Del Mundo .pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 113,
+          "name": "31-40",
+          "size": 60858951,
+          "telegram_link": "https://t.me/manhuasgratis/113"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-16T13:11:55+00:00",
+          "download_ready": true,
+          "filename": "41-50 ┊➢ El Fin Del Mundo .pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 114,
+          "name": "41-50",
+          "size": 71876177,
+          "telegram_link": "https://t.me/manhuasgratis/114"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55
+          ],
+          "date": "2026-10-16T13:11:56+00:00",
+          "download_ready": true,
+          "filename": "51-55┊➢ El Fin Del Mundo .pdf",
+          "first": 51,
+          "last": 55,
+          "message_id": 115,
+          "name": "51-55",
+          "size": 32194915,
+          "telegram_link": "https://t.me/manhuasgratis/115"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "“Escuché que tienes una posición tan alta”.\nYoon Yi Seo, una mujer que nunca se rinde a pesar de ser etiquetada como hija ilegítima de un miembro de la Asamblea Nacional.\nEl comienzo de sus sentimientos por ella fue una apuesta.\n“Alguno.”\n“…….”\n“Para romperte”.\nRyu Tae Jo, un hombre cuyo mundo es aburrido porque lo tiene todo.\n“El tercer día que nos encontremos, dormiremos”.",
+      "visible": false
     },
     {
       "added_at": "2026-10-08T00:03:21+00:00",
@@ -21502,20 +21877,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5192"
         },
         {
-          "name": "52",
-          "first": 52,
-          "last": 52,
           "channel_id": -1003003829878,
-          "message_id": 5568,
-          "filename": "[52] El Rey Demonio Abrumado por Héroes.pdf",
-          "size": 14219500,
-          "date": "2026-10-16T04:11:40+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5568",
-          "download_ready": true,
           "chapters": [
             52
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_rey_demonio_abrumado_por_heroes/5568_%5B52%5D%20El%20Rey%20Demonio%20Abrumado%20por%20H%C3%A9roes.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37c1d0a19ac2b0b0ded44ba073f32535ceca83ed5f110d4d53c8bc58bc08478f"
+          "date": "2026-10-16T04:11:40+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_rey_demonio_abrumado_por_heroes/5568_%5B52%5D%20El%20Rey%20Demonio%20Abrumado%20por%20H%C3%A9roes.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37c1d0a19ac2b0b0ded44ba073f32535ceca83ed5f110d4d53c8bc58bc08478f",
+          "filename": "[52] El Rey Demonio Abrumado por Héroes.pdf",
+          "first": 52,
+          "last": 52,
+          "message_id": 5568,
+          "name": "52",
+          "size": 14219500,
+          "telegram_link": "https://t.me/manhuasgratis/5568"
         }
       ],
       "rating": 4,
@@ -26340,20 +26715,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5190"
         },
         {
-          "name": "13",
-          "first": 13,
-          "last": 13,
           "channel_id": -1003003829878,
-          "message_id": 5569,
-          "filename": "13 • Shadow Slave.pdf",
-          "size": 6656417,
-          "date": "2026-10-16T04:11:42+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5569",
-          "download_ready": true,
           "chapters": [
             13
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_de_las_sombras/5569_13%20%E2%80%A2%20Shadow%20Slave.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042132Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e4cc58c42c539e47b0cf736f2e57e46df3ae23f317b849535d3a900f5e4ee078"
+          "date": "2026-10-16T04:11:42+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_de_las_sombras/5569_13%20%E2%80%A2%20Shadow%20Slave.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042132Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e4cc58c42c539e47b0cf736f2e57e46df3ae23f317b849535d3a900f5e4ee078",
+          "filename": "13 • Shadow Slave.pdf",
+          "first": 13,
+          "last": 13,
+          "message_id": 5569,
+          "name": "13",
+          "size": 6656417,
+          "telegram_link": "https://t.me/manhuasgratis/5569"
         }
       ],
       "rating": 0,
@@ -36074,20 +36449,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5196"
         },
         {
-          "name": "192",
-          "first": 192,
-          "last": 192,
           "channel_id": -1003003829878,
-          "message_id": 5570,
-          "filename": "[#192]   La Basura De La Familia Del Conde.pdf",
-          "size": 16332030,
-          "date": "2026-10-16T04:11:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5570",
-          "download_ready": true,
           "chapters": [
             192
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_basura_de_la_familia_del_conde/5570_%5B%23192%5D%20%20%20La%20Basura%20De%20La%20Familia%20Del%20Conde.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042146Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf5b0e1d67f5e90aefd3b66bffef3018b6ee0bfd350ffa3ecea5f295022395e5"
+          "date": "2026-10-16T04:11:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_basura_de_la_familia_del_conde/5570_%5B%23192%5D%20%20%20La%20Basura%20De%20La%20Familia%20Del%20Conde.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042146Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf5b0e1d67f5e90aefd3b66bffef3018b6ee0bfd350ffa3ecea5f295022395e5",
+          "filename": "[#192]   La Basura De La Familia Del Conde.pdf",
+          "first": 192,
+          "last": 192,
+          "message_id": 5570,
+          "name": "192",
+          "size": 16332030,
+          "telegram_link": "https://t.me/manhuasgratis/5570"
         }
       ],
       "rating": 0,
@@ -38804,26 +39179,70 @@
           "telegram_link": "https://t.me/manhuasgratis/5193"
         },
         {
-          "name": "258",
-          "first": 258,
-          "last": 258,
           "channel_id": -1003003829878,
-          "message_id": 5571,
-          "filename": "258 • La Vida Después de la Muerte.pdf",
-          "size": 9901051,
-          "date": "2026-10-16T04:11:46+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5571",
-          "download_ready": true,
           "chapters": [
             258
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_vida_despues_de_la_muerte/5571_258%20%E2%80%A2%20La%20Vida%20Despu%C3%A9s%20de%20la%20Muerte.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042156Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=81ba5e7cdf060ab9c0e9efcab1e4f29db9fe180b455e89ef1e76f41545361204"
+          "date": "2026-10-16T04:11:46+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_vida_despues_de_la_muerte/5571_258%20%E2%80%A2%20La%20Vida%20Despu%C3%A9s%20de%20la%20Muerte.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042156Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=81ba5e7cdf060ab9c0e9efcab1e4f29db9fe180b455e89ef1e76f41545361204",
+          "filename": "258 • La Vida Después de la Muerte.pdf",
+          "first": 258,
+          "last": 258,
+          "message_id": 5571,
+          "name": "258",
+          "size": 9901051,
+          "telegram_link": "https://t.me/manhuasgratis/5571"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "El Rey Grey tiene una fuerza, riqueza y prestigio incomparables en un mundo gobernado por la habilidad marcial. Sin embargo, la soledad se mantiene muy por detrás de aquellos con gran poder. Debajo del glamoroso exterior de un poderoso rey acecha el caparazón del hombre, desprovisto de propósito y voluntad. Reencarnado en un nuevo mundo lleno de magia y monstruos, el rey tiene una segunda oportunidad de revivir su vida. Sin embargo, corregir su error pasado no será su único desafío. Debajo de la paz y la prosperidad del nuevo mundo hay una corriente subterránea que amenaza con destruir todo para lo que ha trabajado, cuestionando su papel y la razón para nacer de nuevo.",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-16T13:11:47+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_viuda_virgen.jpg",
+      "cover_message_id": 228,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/228",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Romance"
+      ],
+      "hashtag": "#La_Viuda_Virgen",
+      "id": "la_viuda_virgen",
+      "latest_chapter": 6,
+      "library_count": 0,
+      "name": "La Viuda Virgen",
+      "package_count": 1,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "date": "2026-10-16T13:11:47+00:00",
+          "download_ready": true,
+          "filename": "01-06 Fin│La Viuda Virgen .pdf",
+          "first": 1,
+          "last": 6,
+          "message_id": 108,
+          "name": "1-6",
+          "size": 33338274,
+          "telegram_link": "https://t.me/manhuasgratis/108"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "A sus 20 años, la desventurada Gyu-yeong queda viuda el mismo día de su boda. Negándose a seguir la voluntad de una suegra que le exige cometer suicidio, Gyu-yeong escapa de su hogar, no sin antes llevarse algunos bienes que pertenecían a la familia de su difunto esposo. Decide comprar una taberna con el dinero robado, pero para su mala suerte, el negocio es un completo fracaso. Una noche, agobiada por la preocupación, se le aparece un extraño ser que dice ser la \"deidad del hogar\" con una insólita propuesta y dispuesto a cumplir TODOS sus deseos.",
+      "visible": false
     },
     {
       "added_at": "2026-08-29T03:24:58+00:00",
@@ -42656,6 +43075,28 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-16T13:18:10.261028+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/my_cat_owner.jpg",
+      "cover_message_id": 226,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/226",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance"
+      ],
+      "hashtag": "#My_Cat_Owner",
+      "id": "my_cat_owner",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "My Cat Owner",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "~Mi chica de los gatos~ Didi y Zizi, dos talentosas chicas de los gatos que trabajan a las órdenes del maravilloso dueño del Castillo Peko. ¿Cuál es la relación entre dos personas que chocan de vez en cuando? \"¿Qué estamos haciendo?\"",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-29T03:35:17+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/nigromante_la_llegada_del_desastre.jpg",
       "cover_message_id": 18,
@@ -45741,20 +46182,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5188"
         },
         {
-          "name": "89",
-          "first": 89,
-          "last": 89,
           "channel_id": -1003003829878,
-          "message_id": 5572,
-          "filename": "[89] ¡Que abundante cosecha, señor demonio!.pdf",
-          "size": 11290037,
-          "date": "2026-10-16T04:11:48+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5572",
-          "download_ready": true,
           "chapters": [
             89
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/que_abundante_cosecha_senor_demonio/5572_%5B89%5D%20%C2%A1Que%20abundante%20cosecha%2C%20se%C3%B1or%20demonio%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042206Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c98f9f0535c66e22166b2377407799a89eddfba3cbdedf6ff8d3c855db2539dc"
+          "date": "2026-10-16T04:11:48+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/que_abundante_cosecha_senor_demonio/5572_%5B89%5D%20%C2%A1Que%20abundante%20cosecha%2C%20se%C3%B1or%20demonio%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042206Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c98f9f0535c66e22166b2377407799a89eddfba3cbdedf6ff8d3c855db2539dc",
+          "filename": "[89] ¡Que abundante cosecha, señor demonio!.pdf",
+          "first": 89,
+          "last": 89,
+          "message_id": 5572,
+          "name": "89",
+          "size": 11290037,
+          "telegram_link": "https://t.me/manhuasgratis/5572"
         }
       ],
       "rating": 0,
@@ -50388,6 +50829,420 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-16T13:12:00+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/sno_01_11.jpg",
+      "cover_message_id": 232,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/232",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Fantasía",
+        "Sobrenatural",
+        "Comedia",
+        "Harem",
+        "Acción",
+        "Romance"
+      ],
+      "hashtag": "#SNO_01_11",
+      "id": "sno_01_11",
+      "latest_chapter": 134,
+      "library_count": 0,
+      "name": "SNO 01 11",
+      "package_count": 18,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "date": "2026-10-16T13:12:00+00:00",
+          "download_ready": true,
+          "filename": "SNO 01-11.pdf",
+          "first": 1,
+          "last": 11,
+          "message_id": 117,
+          "name": "1-11",
+          "size": 134897506,
+          "telegram_link": "https://t.me/manhuasgratis/117"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-16T13:12:01+00:00",
+          "download_ready": true,
+          "filename": "SNO 12-20.pdf",
+          "first": 12,
+          "last": 20,
+          "message_id": 118,
+          "name": "12-20",
+          "size": 100163304,
+          "telegram_link": "https://t.me/manhuasgratis/118"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "date": "2026-10-16T13:12:01+00:00",
+          "download_ready": true,
+          "filename": "SNO 21-29.pdf",
+          "first": 21,
+          "last": 29,
+          "message_id": 119,
+          "name": "21-29",
+          "size": 131475345,
+          "telegram_link": "https://t.me/manhuasgratis/119"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "date": "2026-10-16T13:12:02+00:00",
+          "download_ready": true,
+          "filename": "SNO 30-39.pdf",
+          "first": 30,
+          "last": 39,
+          "message_id": 120,
+          "name": "30-39",
+          "size": 124356112,
+          "telegram_link": "https://t.me/manhuasgratis/120"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ],
+          "date": "2026-10-16T13:12:03+00:00",
+          "download_ready": true,
+          "filename": "SNO 40-49.pdf",
+          "first": 40,
+          "last": 49,
+          "message_id": 121,
+          "name": "40-49",
+          "size": 114191834,
+          "telegram_link": "https://t.me/manhuasgratis/121"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "date": "2026-10-16T13:12:04+00:00",
+          "download_ready": true,
+          "filename": "SNO 50-59.pdf",
+          "first": 50,
+          "last": 59,
+          "message_id": 122,
+          "name": "50-59",
+          "size": 138423504,
+          "telegram_link": "https://t.me/manhuasgratis/122"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69
+          ],
+          "date": "2026-10-16T13:12:04+00:00",
+          "download_ready": true,
+          "filename": "SNO 60-69.pdf",
+          "first": 60,
+          "last": 69,
+          "message_id": 123,
+          "name": "60-69",
+          "size": 122799548,
+          "telegram_link": "https://t.me/manhuasgratis/123"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78
+          ],
+          "date": "2026-10-16T13:12:05+00:00",
+          "download_ready": true,
+          "filename": "SNO 70-78.pdf",
+          "first": 70,
+          "last": 78,
+          "message_id": 124,
+          "name": "70-78",
+          "size": 135678827,
+          "telegram_link": "https://t.me/manhuasgratis/124"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ],
+          "date": "2026-10-16T13:12:06+00:00",
+          "download_ready": true,
+          "filename": "SNO 79-85.pdf",
+          "first": 79,
+          "last": 85,
+          "message_id": 125,
+          "name": "79-85",
+          "size": 103079237,
+          "telegram_link": "https://t.me/manhuasgratis/125"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "date": "2026-10-16T13:12:07+00:00",
+          "download_ready": true,
+          "filename": "SNO 86-94.pdf",
+          "first": 86,
+          "last": 94,
+          "message_id": 126,
+          "name": "86-94",
+          "size": 142751458,
+          "telegram_link": "https://t.me/manhuasgratis/126"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ],
+          "date": "2026-10-16T13:12:08+00:00",
+          "download_ready": true,
+          "filename": "SNO 95-104.pdf",
+          "first": 95,
+          "last": 104,
+          "message_id": 127,
+          "name": "95-104",
+          "size": 225730828,
+          "telegram_link": "https://t.me/manhuasgratis/127"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            105,
+            106,
+            107,
+            108,
+            109
+          ],
+          "date": "2026-10-16T13:12:08+00:00",
+          "download_ready": true,
+          "filename": "SNO 105-109.pdf",
+          "first": 105,
+          "last": 109,
+          "message_id": 128,
+          "name": "105-109",
+          "size": 114060166,
+          "telegram_link": "https://t.me/manhuasgratis/128"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "date": "2026-10-16T13:12:09+00:00",
+          "download_ready": true,
+          "filename": "SNO 110-114.pdf",
+          "first": 110,
+          "last": 114,
+          "message_id": 129,
+          "name": "110-114",
+          "size": 124118898,
+          "telegram_link": "https://t.me/manhuasgratis/129"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            115,
+            116,
+            117,
+            118,
+            119
+          ],
+          "date": "2026-10-16T13:12:10+00:00",
+          "download_ready": true,
+          "filename": "SNO 115-119.pdf",
+          "first": 115,
+          "last": 119,
+          "message_id": 130,
+          "name": "115-119",
+          "size": 149285862,
+          "telegram_link": "https://t.me/manhuasgratis/130"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            120,
+            121,
+            122,
+            123
+          ],
+          "date": "2026-10-16T13:12:11+00:00",
+          "download_ready": true,
+          "filename": "SNO 120-123.pdf",
+          "first": 120,
+          "last": 123,
+          "message_id": 131,
+          "name": "120-123",
+          "size": 123939411,
+          "telegram_link": "https://t.me/manhuasgratis/131"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            124,
+            125,
+            126,
+            127,
+            128
+          ],
+          "date": "2026-10-16T13:12:11+00:00",
+          "download_ready": true,
+          "filename": "SNO 124-128.pdf",
+          "first": 124,
+          "last": 128,
+          "message_id": 132,
+          "name": "124-128",
+          "size": 103202704,
+          "telegram_link": "https://t.me/manhuasgratis/132"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            129,
+            130,
+            131,
+            132
+          ],
+          "date": "2026-10-16T13:12:12+00:00",
+          "download_ready": true,
+          "filename": "SNO 129-132.pdf",
+          "first": 129,
+          "last": 132,
+          "message_id": 133,
+          "name": "129-132",
+          "size": 97042623,
+          "telegram_link": "https://t.me/manhuasgratis/133"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            133,
+            134
+          ],
+          "date": "2026-10-16T13:12:13+00:00",
+          "download_ready": true,
+          "filename": "SNO 133-134.pdf",
+          "first": 133,
+          "last": 134,
+          "message_id": 134,
+          "name": "133-134",
+          "size": 63004346,
+          "telegram_link": "https://t.me/manhuasgratis/134"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Un mundo donde las personas son atacadas por criaturas de otra dimensión llamadas “Impurezas” y sólo los onmyoujis son capaces de derrotarlas, es aquí donde inicia la historia de Rokuro y Benio, dos chicos que pelean contra estas criaturas y cuyos destinos se han entrecruzado",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-21T22:59:44+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/soldado_esqueleto.jpg",
       "cover_message_id": 70,
@@ -53001,20 +53856,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5197"
         },
         {
-          "name": "125",
-          "first": 125,
-          "last": 125,
           "channel_id": -1003003829878,
-          "message_id": 5573,
-          "filename": "[#125]   Soy el Dios de los Goblins.pdf",
-          "size": 11093698,
-          "date": "2026-10-16T04:11:50+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5573",
-          "download_ready": true,
           "chapters": [
             125
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_el_dios_de_los_goblins/5573_%5B%23125%5D%20%20%20Soy%20el%20Dios%20de%20los%20Goblins.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042215Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=68a0d17ea300898b70fcc97099bd6475111bb892d28e75127205177544853cf6"
+          "date": "2026-10-16T04:11:50+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_el_dios_de_los_goblins/5573_%5B%23125%5D%20%20%20Soy%20el%20Dios%20de%20los%20Goblins.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261016%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261016T042215Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=68a0d17ea300898b70fcc97099bd6475111bb892d28e75127205177544853cf6",
+          "filename": "[#125]   Soy el Dios de los Goblins.pdf",
+          "first": 125,
+          "last": 125,
+          "message_id": 5573,
+          "name": "125",
+          "size": 11093698,
+          "telegram_link": "https://t.me/manhuasgratis/5573"
         }
       ],
       "rating": 0,
@@ -59372,20 +60227,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5239"
         },
         {
-          "name": "155",
-          "first": 155,
-          "last": 155,
           "channel_id": -1003003829878,
-          "message_id": 5565,
-          "filename": "│155│El Indomable Rey Marcial.pdf",
-          "size": 9051726,
-          "date": "2026-10-15T20:12:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5565",
-          "download_ready": true,
           "chapters": [
             155
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_indomitable_martial_king/5565_%E2%94%82155%E2%94%82El%20Indomable%20Rey%20Marcial.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261015%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T202120Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5fb347ad517fa8602776c90c2a7a0f9d15a3ab4ec7f05d1e65c6b57b0744ae3"
+          "date": "2026-10-15T20:12:19+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_indomitable_martial_king/5565_%E2%94%82155%E2%94%82El%20Indomable%20Rey%20Marcial.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261015%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T202120Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5fb347ad517fa8602776c90c2a7a0f9d15a3ab4ec7f05d1e65c6b57b0744ae3",
+          "filename": "│155│El Indomable Rey Marcial.pdf",
+          "first": 155,
+          "last": 155,
+          "message_id": 5565,
+          "name": "155",
+          "size": 9051726,
+          "telegram_link": "https://t.me/manhuasgratis/5565"
         }
       ],
       "rating": 0,
@@ -63796,20 +64651,20 @@
           "telegram_link": "https://t.me/manhuasgratis/5194"
         },
         {
-          "name": "65",
-          "first": 65,
-          "last": 65,
           "channel_id": -1003003829878,
-          "message_id": 5566,
-          "filename": "[#65]   Viviendo Como Un Lord Vampiro.pdf",
-          "size": 20326293,
-          "date": "2026-10-15T20:12:21+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5566",
-          "download_ready": true,
           "chapters": [
             65
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/viviendo_como_un_lord_vampiro/5566_%5B%2365%5D%20%20%20Viviendo%20Como%20Un%20Lord%20Vampiro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261015%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T202140Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c594f36db22c8c03da2fd737ffb72def5b78a5bf63d32a2308caae8fad274686"
+          "date": "2026-10-15T20:12:21+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/viviendo_como_un_lord_vampiro/5566_%5B%2365%5D%20%20%20Viviendo%20Como%20Un%20Lord%20Vampiro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261015%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T202140Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c594f36db22c8c03da2fd737ffb72def5b78a5bf63d32a2308caae8fad274686",
+          "filename": "[#65]   Viviendo Como Un Lord Vampiro.pdf",
+          "first": 65,
+          "last": 65,
+          "message_id": 5566,
+          "name": "65",
+          "size": 20326293,
+          "telegram_link": "https://t.me/manhuasgratis/5566"
         }
       ],
       "rating": 4,
@@ -64792,6 +65647,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-16T04:20:34.144739+00:00",
+  "updated_at": "2026-10-16T13:18:30.241736+00:00",
   "version": 3
 }
