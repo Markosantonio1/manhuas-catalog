@@ -524,7 +524,7 @@
           "telegram_link": "https://t.me/c/-1004334091126/28"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Sinopsis...\nLa trama se centra en los grandes caballeros santos y las distintas responsabilidades de estos. nuestro héroe es un chico solitario cual es maltratado y se odia a si mismo por su habilidad (gula/hambre) y su explicación es \"te hace tener hambre\".\nEl único motivo de el vivir es su amiga Roxi.\nLa historia se desarrolla más adelante cuando fate está cuidando la puerta de la ciudad de los caballeros cuando descubre el secreto detrás de su habilidad",
       "visible": true
@@ -1291,7 +1291,7 @@
           "telegram_link": "https://t.me/c/-1004334091126/330"
         }
       ],
-      "rating": 1,
+      "rating": 1.0,
       "rating_count": 1,
       "synopsis": "lchiro Suzuki es un programador de videojuegos que después de que su compañero desapareciera antes del lanzamiento del juego tuvo que arreglar los fallos el solo, por lo que decide tomar una siesta\nDe alguna manera despierta en el mundo que al parecer estaba editando antes de dormir, donde ve su nuevo nombre: Satou Pendragon. Al activar una habilidad que venia predeterminadamente, visualiza un grupo de hombres lagarto no muy lejos de su posición. Para sobrevivir, Satou utiliza la habilidad de regalo Lluvia de estrellas o Ducha de Meteoros, donde al aniquilar a todos los enemigos sube hasta el nivel 310 y se vuelve muy rico...",
       "visible": true
@@ -1555,7 +1555,7 @@
           "telegram_link": "https://t.me/c/-1004334091126/346"
         }
       ],
-      "rating": 2,
+      "rating": 2.0,
       "rating_count": 1,
       "synopsis": "Touka Mimori y sus compañeros de clase son catapultados abruptamente a un mundo de fantasía, convocados por la diosa residente para servir como héroes. ¿Las buenas noticias? ¡La mayoría de los estudiantes demuestran habilidades asombrosas al llegar! ¿El malo? Mimori es el peor de todos, tocando fondo en un rango E miserable. Indignada, la diosa lo arroja a un calabozo para que muera, pero resulta que las habilidades de Mimori no son tan inútiles como anormales. ¡Anormalmente poderoso, quizás!",
       "visible": true
@@ -7633,7 +7633,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5318"
         }
       ],
-      "rating": 2,
+      "rating": 2.0,
       "rating_count": 1,
       "synopsis": "¡Por el estudio que te trajo {{ Murim Login }}\nEl personaje con mayor dificultad y peor desempeño, Baek Yuseol, era considerado un personaje basura en el juego porque no podía usar magia en un entorno de fantasía donde todos los demás podían hacerlo.\nSin embargo…\n[Debido a que se alcanzó el final equivocado, el 90% del Mundo Éter ha sido destruido.] [Por favor, llegue al “Final Verdadero”.] De repente, esas palabras resonaron en mi mente antes de que fuera transmigrado al Mundo Éter.\n[Puedes usar la habilidad “Blink”.] “¿Por qué poseía este personaje?”\nParpadeo era la única habilidad mágica que tenía.",
       "visible": true
@@ -7996,7 +7996,7 @@
           "telegram_link": "https://t.me/manhuasgratis/248"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Han Ji-hyuk, el legendario nigromante que salvó a la humanidad en el continente de Seron, regresó por fin a la Tierra, anhelando una jubilación tranquila y feliz. Pero desde el primer día, sus planes de llevar una vida tranquila se descarrilaron por completo. A los veinte años, Ji-hyuk había sido convocado a Seron por un mago llamado Theros, donde fue obligado a vivir como nigromante. Tras incontables años de lucha y penurias, finalmente derrotó al Rey Demonio y regresó a la Tierra. Pero la Tierra a la que regresó no era la que recordaba.",
       "visible": true
@@ -11587,7 +11587,7 @@
           "telegram_link": "https://t.me/manhuasgratis/2439"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Regresé a la Tierra después de cazar demonios en el otro mundo durante trescientos años. Pero no regresé solo.",
       "visible": true
@@ -13750,7 +13750,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5185"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "Cinco héroes se enfrentaron a Erebos, el mal primordial que llevó al mundo al borde de la destrucción. El Guerrero, Arron. El Herrero Divino, Dweno. La Poeta de las Estrellas, Luna. El Rey Sabio, Lisinas. Y por último, el Héroe del Principio, Kyle-yo. Sin embargo, cuando reencarné, descubrí que todos éramos alabados como grandes héroes… Todos, excepto yo. Una academia de héroes que alberga los Registros de Héroes, un regalo de los cielos que registra los logros de los héroes. Me inscribiré allí y descubriré por qué fui escrito fuera de la historia. «¿Por qué no sigues adelante y te conviertes en un estudiante de honor?»",
       "visible": true
@@ -14231,7 +14231,7 @@
       "latest_chapter": 216,
       "library_count": 3,
       "name": "El Hijo Menor del Maestro de la Espada",
-      "package_count": 34,
+      "package_count": 35,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -14836,6 +14836,22 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            207
+          ],
+          "date": "2026-08-21T19:20:52+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_hijo_menor_del_maestro_de_la_espada/2020_%5B%23207%5D%20%20%20El%20Hijo%20Menor%20del%20Maestro%20de%20la%20Espada.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dedc92af2ed41623daac5b2674c6dd449f42ba6b3f413a0050c5444771033eb5",
+          "filename": "[#207]   El Hijo Menor del Maestro de la Espada.pdf",
+          "first": 207,
+          "last": 207,
+          "message_id": 2020,
+          "name": "207",
+          "size": 10030880,
+          "telegram_link": "https://t.me/manhuasgratis/2020"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             208
           ],
           "date": "2026-08-23T15:10:20+00:00",
@@ -15266,7 +15282,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4084"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "La muerte es solo el comienzo.\" Palabras más ciertas jamás se dijeron para el joven Leon von Marbas, heredero de una casa de nigromantes que alguna vez fue grandiosa. Forzado a ejecutar a su propio padre por el señor de una casa rival, Leon se encuentra de repente como líder de un clan en declive, amenazado por enemigos internos y externos. ¿La única manera de restaurar la gloria de su casa? Leon debe hacer un pacto con el demonio Marbas, la fuente original de la poderosa nigromancia por la que la Casa Marbas fue conocida alguna vez...",
       "visible": true
@@ -16766,7 +16782,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5298"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "Turan pasó su vida como un humilde pastor —ocultando un poder que le dijeron podría destruir todo lo que amaba.\nNo sabía nada de las guerras, las casas nobles ni los linajes ancestrales que moldeaban las tierras más allá de sus colinas.\nY, sinceramente, ya se había cansado un poco de ello.\nObservar el mundo desde la distancia, sin saber nunca qué se escondía más allá del horizonte… hasta que un encuentro fortuito entreabre la puerta, y la curiosidad hace el resto.\nSin nada que lo ate,\nTuran se adentra en un mundo que nunca ha visto —y lentamente, a través de sus ojos, su belleza, su crueldad y sus secretos comienzan a revelarse",
       "visible": true
@@ -17382,7 +17398,7 @@
       "latest_chapter": 79,
       "library_count": 2,
       "name": "El Perro Loco De La Mansión Del Duque",
-      "package_count": 48,
+      "package_count": 50,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -17939,6 +17955,38 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            59
+          ],
+          "date": "2026-08-13T19:34:36+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/764_%5B%2359%5D%20%20%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5e0781086291bdc3c3a437bc069d7c2c78293a8e45fef4e2074065eb5485d6c4",
+          "filename": "[#59]   El Perro Loco de la Mansión del Duque.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 764,
+          "name": "59",
+          "size": 8686354,
+          "telegram_link": "https://t.me/manhuasgratis/764"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            59
+          ],
+          "date": "2026-08-13T19:35:06+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/769_59%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b09084adcbaf0c0dad76282faa259bb519b506a44007f0126d8221500f2e8ca0",
+          "filename": "59 El Perro Loco de la Mansión del Duque.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 769,
+          "name": "59",
+          "size": 8031802,
+          "telegram_link": "https://t.me/manhuasgratis/769"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             60
           ],
           "date": "2026-08-13T19:35:12+00:00",
@@ -18171,14 +18219,14 @@
           ],
           "date": "2026-10-17T04:11:42+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/5627_%5B79%5D%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121502Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f57e325ccf0567bd0a99dba4b7656813d0140e203f29f5c1205a56b2975b4d9b",
           "filename": "[79] El Perro Loco de la Mansión del Duque.pdf",
           "first": 79,
           "last": 79,
           "message_id": 5627,
           "name": "79",
           "size": 12139901,
-          "telegram_link": "https://t.me/manhuasgratis/5627"
+          "telegram_link": "https://t.me/manhuasgratis/5627",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/5627_%5B79%5D%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121502Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f57e325ccf0567bd0a99dba4b7656813d0140e203f29f5c1205a56b2975b4d9b"
         }
       ],
       "rating": 0,
@@ -18944,7 +18992,7 @@
       "latest_chapter": 126,
       "library_count": 2,
       "name": "El Príncipe Heredero Que Vende Medicina",
-      "package_count": 47,
+      "package_count": 49,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -19536,6 +19584,23 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            106,
+            107
+          ],
+          "date": "2026-08-13T19:36:51+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_principe_heredero_que_vende_medicina/784_%5B106-107%5D%20El%20pr%C3%ADncipe%20heredero%20que%20vende%20medicina.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5062734dabf6eb47289c676b97b63cf07af88d3ce870be5bfaefcff27047f265",
+          "filename": "[106-107] El príncipe heredero que vende medicina.pdf",
+          "first": 106,
+          "last": 107,
+          "message_id": 784,
+          "name": "106-107",
+          "size": 22635374,
+          "telegram_link": "https://t.me/manhuasgratis/784"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             108
           ],
           "date": "2026-08-13T19:36:57+00:00",
@@ -19565,6 +19630,23 @@
           "name": "109-110",
           "size": 20044427,
           "telegram_link": "https://t.me/manhuasgratis/786"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            109,
+            110
+          ],
+          "date": "2026-08-13T19:37:09+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_principe_heredero_que_vende_medicina/787_%5B109-110%5D%20El%20pr%C3%ADncipe%20heredero%20que%20vende%20medicina.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02e5103075525f8dbf81cb9480d36f3ecd868e0f5466d52fd30fbe86883e3bce",
+          "filename": "[109-110] El príncipe heredero que vende medicina.pdf",
+          "first": 109,
+          "last": 110,
+          "message_id": 787,
+          "name": "109-110",
+          "size": 20044427,
+          "telegram_link": "https://t.me/manhuasgratis/787"
         },
         {
           "channel_id": -1003003829878,
@@ -22938,7 +23020,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4739"
         }
       ],
-      "rating": 3,
+      "rating": 3.0,
       "rating_count": 2,
       "synopsis": "Debido a una situación como la del segundo FMI, la empresa de seguridad donde trabajaba Jang Taesan quiebra, y él se convierte en un desempleado que deambula por Noryangjin-dong. Intenta suicidarse saltando de un puente PERO ya había otro suicidándose en ese puente. todo bajoneado ve un niño en una pasarela y un coche modelo rayo McQueen a toda velocidad, Pierde la vida al salvar a un estudiante de primaria que casi es atropellado por el rasho. Pero no todo es malo para nuestro chico suicida. gracias a su buena acción, retrocede 14 años en el tiempo y es recibido en una nueva vida.",
       "visible": true
@@ -24026,7 +24108,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5568"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "Estaba siguiendo fielmente el “manual del Rey Demonio”, y aun así terminé siendo asesinado por los héroes.\n¿Mi torre y yo somos ahora un campo de caza hecho a la medida para héroes?\nUna segunda oportunidad gracias a la regresión… ¡al diablo con ese estúpido manual del Rey Demonio!\n¡La historia del terco(?) Rey Demonio Berje intentando sobrevivir como Rey Demonio!",
       "visible": true
@@ -24962,7 +25044,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4879"
         }
       ],
-      "rating": 3,
+      "rating": 3.0,
       "rating_count": 1,
       "synopsis": "Narukami Subaru, un jugador legendario que muere traicionado por su amigo, renace 20 años en el futuro con todos sus recuerdos intactos. En esta nueva era, su traidor ahora es considerado el mejor jugador. Para descubrir la verdad y vengarse, Subaru decide volverse más fuerte usando un método inesperado: convertirse en streamer. Aunque muchos imitan su antiguo estilo, él está decidido a demostrar que es el auténtico y recuperar lo que perdió.",
       "visible": true
@@ -26349,7 +26431,7 @@
           "telegram_link": "https://t.me/manhuasgratis/3315"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Un día, Linghu Qiang adquirió inesperadamente el sistema «El villano quiere contraatacar» y comenzó su carrera transmigrando en libros. Su misión era sobrevivir para recibir recompensas y regresar a su mundo original. Ser villano no era tarea fácil; en varias ocasiones se encontró directamente con el protagonista que lanzaba misiles a mano y lo eliminaba de inmediato. Cuando se trataba de un inmortal de la espada suprema, ni siquiera le daba tiempo para actuar malvadamente antes de atravesarlo con su espada. En resumen, la tasa de éxito… dependía de qué tipo de villano fuera.",
       "visible": true
@@ -26372,7 +26454,7 @@
       "latest_chapter": 120,
       "library_count": 1,
       "name": "El Último Aventurero",
-      "package_count": 25,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -26725,6 +26807,40 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            114,
+            115
+          ],
+          "date": "2026-08-13T19:38:51+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ultimo_aventurero/803_%E2%94%82114-115%E2%94%82El%20%C3%9Altimo%20Aventurero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1bd724e21db5afde93b221ad0a11bceaa3a5e30090966b0cab21fcca78b39675",
+          "filename": "│114-115│El Último Aventurero.pdf",
+          "first": 114,
+          "last": 115,
+          "message_id": 803,
+          "name": "114-115",
+          "size": 14541054,
+          "telegram_link": "https://t.me/manhuasgratis/803"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            114,
+            115
+          ],
+          "date": "2026-08-13T19:38:58+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ultimo_aventurero/804_%E2%94%82114-115%E2%94%82El%20%C3%9Altimo%20Aventurero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ada71c6b4c2b9dc8520eb04d079cdb4a3d2b628150cfa750d688bdefe2f53834",
+          "filename": "│114-115│El Último Aventurero.pdf",
+          "first": 114,
+          "last": 115,
+          "message_id": 804,
+          "name": "114-115",
+          "size": 14541054,
+          "telegram_link": "https://t.me/manhuasgratis/804"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             116
           ],
           "date": "2026-08-13T19:39:03+00:00",
@@ -26786,6 +26902,23 @@
           "name": "119-120",
           "size": 17251893,
           "telegram_link": "https://t.me/manhuasgratis/808"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            119,
+            120
+          ],
+          "date": "2026-08-13T19:39:27+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ultimo_aventurero/809_%5B119-120%5D%20El%20%C3%9Altimo%20Aventurero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea206145f7d09c34d3944e6d38923ca12c17c4799aa24c67a027a2a18cb9bffd",
+          "filename": "[119-120] El Último Aventurero.pdf",
+          "first": 119,
+          "last": 120,
+          "message_id": 809,
+          "name": "119-120",
+          "size": 17251893,
+          "telegram_link": "https://t.me/manhuasgratis/809"
         }
       ],
       "rating": 0,
@@ -29190,7 +29323,7 @@
       "latest_chapter": 40,
       "library_count": 2,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 16,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -29220,6 +29353,31 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-09-11T16:59:48+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4408_%5B%2301-10%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0189ee60fb059af282a7a147ca1252d99f02c065185777cebb776f36b67e65ff",
+          "filename": "[#01-10]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 4408,
+          "name": "1-10",
+          "size": 175971088,
+          "telegram_link": "https://t.me/manhuasgratis/4408"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             11,
             12,
             13,
@@ -29245,6 +29403,31 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-09-11T16:59:48+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4409_%5B%2311-20%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d252beb7bf8d0c725ef7f70f1c4585ef985c6110b8d9daceb21b400a8edc2838",
+          "filename": "[#11-20]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 4409,
+          "name": "11-20",
+          "size": 168803321,
+          "telegram_link": "https://t.me/manhuasgratis/4409"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             21,
             22,
             23,
@@ -29262,6 +29445,27 @@
           "name": "21-26",
           "size": 97252505,
           "telegram_link": "https://t.me/manhuasgratis/2034"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "date": "2026-09-11T16:59:48+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4410_%5B%2321-26%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d969745ec861c2149a4cb965c82a7aab3aa67e8a909aaaac6cdebc159024000d",
+          "filename": "[#21-26]   Esclavo Corporativo en una Historia de Fantasmas .pdf",
+          "first": 21,
+          "last": 26,
+          "message_id": 4410,
+          "name": "21-26",
+          "size": 97252505,
+          "telegram_link": "https://t.me/manhuasgratis/4410"
         },
         {
           "channel_id": -1003003829878,
@@ -29443,6 +29647,22 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            38
+          ],
+          "date": "2026-10-03T04:10:50+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4815_%5B%2338%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=75e8c35c06128586a2e32847c419663de169498661ef86eff8bd0887e06946d0",
+          "filename": "[#38]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 4815,
+          "name": "38",
+          "size": 11535775,
+          "telegram_link": "https://t.me/manhuasgratis/4815"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             39
           ],
           "date": "2026-10-09T23:05:49+00:00",
@@ -29463,17 +29683,33 @@
           ],
           "date": "2026-10-17T04:11:44+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5628_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121513Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad6ea63e4210ad741093d6ada9bae5b400a3623c4ec2119914af502c05371edd",
           "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
           "first": 40,
           "last": 40,
           "message_id": 5628,
           "name": "40",
           "size": 14112602,
-          "telegram_link": "https://t.me/manhuasgratis/5628"
+          "telegram_link": "https://t.me/manhuasgratis/5628",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5628_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121513Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad6ea63e4210ad741093d6ada9bae5b400a3623c4ec2119914af502c05371edd"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-10-17T04:11:46+00:00",
+          "download_ready": true,
+          "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 5629,
+          "name": "40",
+          "size": 14112602,
+          "telegram_link": "https://t.me/manhuasgratis/5629",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5629_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aa22f692a217a8cd8863cd7bb963c33f48ccb9ce10ceb0629bb39eadbad59e28"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 2,
       "synopsis": "Un evento temporal de una obra de 'fantasía moderna' que me gustaba tanto que incluso me tomé un valioso día libre en el trabajo para asistir. Ese mismo día, terminé transmigrando como un personaje en ese mismísimo mundo de fantasía. ¡Y nada menos que como un empleado recién contratado en una corporación grande y famosa! Un trabajo de ensueño con excelentes beneficios, un sueldo magnífico e incluso jefes amables y competentes. ¡Estoy usando la información que conozco sobre este mundo para ascender de puesto a la velocidad de la luz!",
       "visible": true
@@ -29843,7 +30079,7 @@
       "latest_chapter": 203,
       "library_count": 2,
       "name": "Estandar de la reencarnacion",
-      "package_count": 71,
+      "package_count": 72,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -30470,6 +30706,22 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            157
+          ],
+          "date": "2026-08-22T13:32:42+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/estandar_de_la_reencarnacion/2519_%5B%23157%5D%20%20%20Estandar%20De%20La%20Reencarnaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96411225126967f2f3da023fc988841e0602dda7a72aa6761b75b9fd15344a43",
+          "filename": "[#157]   Estandar De La Reencarnación.pdf",
+          "first": 157,
+          "last": 157,
+          "message_id": 2519,
+          "name": "157",
+          "size": 8831240,
+          "telegram_link": "https://t.me/manhuasgratis/2519"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             158
           ],
           "date": "2026-08-22T13:32:42+00:00",
@@ -31073,14 +31325,14 @@
           ],
           "date": "2026-10-17T04:11:49+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/estandar_de_la_reencarnacion/5630_%5B%23203-203.5%5D%20%20%20Estandar%20de%20la%20Reencarnaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=536ef282e5393f259059a629a0ce6d40a684e22c89f170df4cfd78b33df3f4d9",
           "filename": "[#203-203.5]   Estandar de la Reencarnación.pdf",
           "first": 203,
           "last": 203,
           "message_id": 5630,
           "name": "203",
           "size": 24529239,
-          "telegram_link": "https://t.me/manhuasgratis/5630"
+          "telegram_link": "https://t.me/manhuasgratis/5630",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/estandar_de_la_reencarnacion/5630_%5B%23203-203.5%5D%20%20%20Estandar%20de%20la%20Reencarnaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=536ef282e5393f259059a629a0ce6d40a684e22c89f170df4cfd78b33df3f4d9"
         }
       ],
       "rating": 0,
@@ -34228,7 +34480,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5625"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 2,
       "synopsis": ": El juego gacha para móviles es conocido por ser brutalmente difícil, y nadie ha sido capaz de despejar una mazmorra. Loki, el quinto entre todos los maestros del mundo, pierde el conocimiento mientras intenta despejar la mazmorra. Al despertar, Loki se encuentra convertido en un héroe de nivel 1, \"Islat Han\". \"¡Es él! Estoy seguro de que es él quien me ha traído aquí\". Para volver a la Tierra, ¡debe guiar a maestros novatos y héroes y atravesar el piso 100 de la mazmorra! \"Te metiste con la persona equivocada\". Esta es la historia del maestro Loki, que se ve obligado a llevar a todos a la victoria y no puede permitirse ni una sola derrota.",
       "visible": true
@@ -36684,7 +36936,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5548"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "[Por el estudio que te trajo<Sobreviviendo al juego como un bárbaro><El pasado oculto del Jugador>\n<El Rey Demonio abrumado por los héroes> ¡y muchos más!> ]Un día, misteriosas torres negras surgieron de repente por todo el mundo, y unos pocos elegidos comenzaron a despertar.Pero para Bong Joohyuk —un don nadie débil y sin suerte— era algo que no debería haber tenido nada que ver con él.Después de otro día agotador en su trabajo de medio tiempo, justo cuando estaba a punto de darle un bocado a su ramen, entonces—[Bong Joohyuk, has despertado.]“…Eh, joder, ¿qué demonios?!\"¿Será esta por fin su oportunidad para cambiar su vida?",
       "visible": true
@@ -37215,7 +37467,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5295"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 2,
       "synopsis": "Soy un extra villano de tercera en mi juego favorito. No tengo ambiciones y sólo quiero vivir una vida tranquila. Pero vaya, este mundo es un lugar difícil para sobrevivir. Sobreviviré hasta el final de esta historia, de una forma que el protagonista no puede. Sobreviviré a la manera de un villano de tercera.",
       "visible": true
@@ -37577,7 +37829,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5219"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Fui transmigrado a un juego que nunca había visto antes. Pensé que era un RPG de primer nivel — así que, en vez de seguir la trama principal, me dediqué a explorar, a pelear, a sobrevivir. Treinta años después, me había convertido en un héroe de guerra curtido en incontables batallas. Me retiré pensando que por fin podría descansar en paz. Pero resulta que todo eso — la guerra, las tres décadas, mi leyenda — era solo el prólogo. El verdadero juego era una historia de academia... y ahora tengo que sentarme en un salón de clases rodeado de adolescentes, cargando tres décadas de trauma, instinto militar y reflejos.",
       "visible": true
@@ -40251,7 +40503,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4885"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 2,
       "synopsis": "Lin Tianhao, quien llegó desde otro mundo, logra cambiar de clase durante la gran ceremonia de transferencia de profesiones, convirtiéndose en una clase considerada de bajo nivel: Invocador.\nJusto cuando todos se burlaban de que su futuro estaba arruinado, ¡de repente despierta un sistema y se le asigna una identidad única: «Sacrificio Demoníaco»!\n¿Quién dijo que ser invocador es una clase de segunda? ¡Yo tengo el talento SSS más fuerte!",
       "visible": true
@@ -42165,7 +42417,7 @@
       "latest_chapter": 224,
       "library_count": 3,
       "name": "Jungle Juice",
-      "package_count": 41,
+      "package_count": 42,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -42604,6 +42856,23 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            152,
+            153
+          ],
+          "date": "2026-08-26T14:26:01+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/jungle_juice/3621_%E2%94%87152-153%E2%94%87Jungle%20Juice.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8df9c64b149172aa699752dcc214f07d49dc378d8eacd83374451cc0450f9dc",
+          "filename": "┇152-153┇Jungle Juice.pdf",
+          "first": 152,
+          "last": 153,
+          "message_id": 3621,
+          "name": "152-153",
+          "size": 32409018,
+          "telegram_link": "https://t.me/manhuasgratis/3621"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             154
           ],
           "date": "2026-08-26T14:26:01+00:00",
@@ -42968,7 +43237,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5235"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Suchan Jang es una estudiante universitaria extraordinaria en la cima de la cadena alimentaria social. Pero debajo de la fachada perfecta, esconde un par de alas de insectos que de repente crecieron cuando usó un misterioso repelente de insectos llamado \"Jungle Juice\". La vida de Suchan se desmorona cuando muestra sus alas al mundo para salvar la vida de alguien. Cuando toda esperanza parece perdida, Suchan se topa con un mundo oculto de insectos humanos donde todos son aceptados por lo que son. Pero la ley de la jungla gobierna esta sociedad secreta. y todos deben valerse por sí mismos para sobrevivir.",
       "visible": true
@@ -46529,6 +46798,176 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Saye fue recogida a una temprana edad en el harén del sultán, sobrevive a la rebelión del noveno príncipe, Kainer. Durante tal revuelta, Saye que se mantuvo viva durante 11 años, ve una oportunidad para escapar del harén pero Kainer, quien se ha convertido en el sultán, no tiene la intención de dejarla ir y la sorprende diciéndole que ella fue la única razón por la que se había convertido en el sultán",
+      "visible": true
+    },
+    {
+      "added_at": "2026-10-17T03:13:55+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_invitacion_lasciva_de_la_duquesa.jpg",
+      "cover_message_id": 294,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/294",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Drama",
+        "Fantasía"
+      ],
+      "hashtag": "#La_Invitación_Lasciva_De_La_Duquesa",
+      "id": "la_invitacion_lasciva_de_la_duquesa",
+      "latest_chapter": 55,
+      "library_count": 0,
+      "name": "La Invitación Lasciva De La Duquesa",
+      "package_count": 6,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-17T03:13:55+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_invitacion_lasciva_de_la_duquesa/473_%5B1-10%5D%20La%20invitaci%C3%B3n%20lasciva%20de%20la%20duquesa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T073547Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9669d50868e47d48e99ecce6dff73fd9256f01074cdc4f4150f0c89cf1b3baba",
+          "filename": "[1-10] La invitación lasciva de la duquesa.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 473,
+          "name": "1-10",
+          "size": 37150002,
+          "telegram_link": "https://t.me/manhuasgratis/473"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-17T03:13:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_invitacion_lasciva_de_la_duquesa/474_%5B11-20%5D%20La%20invitaci%C3%B3n%20lasciva%20de%20la%20duquesa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T073631Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cb261a27d83f21c53b78733aa74796343691cc4190b1e6ad8064be3d9c6fd96",
+          "filename": "[11-20] La invitación lasciva de la duquesa.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 474,
+          "name": "11-20",
+          "size": 38914844,
+          "telegram_link": "https://t.me/manhuasgratis/474"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-17T03:13:57+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_invitacion_lasciva_de_la_duquesa/475_%5B21-30%5D%20La%20invitaci%C3%B3n%20lasciva%20de%20la%20duquesa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T073727Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d30ad8c977cd2a4ae704e02a5cd2642e419c62c6536ea6d377ce141e01ee3057",
+          "filename": "[21-30] La invitación lasciva de la duquesa.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 475,
+          "name": "21-30",
+          "size": 50965044,
+          "telegram_link": "https://t.me/manhuasgratis/475"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-17T03:13:57+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_invitacion_lasciva_de_la_duquesa/476_%5B31-40%5D%20La%20invitaci%C3%B3n%20lasciva%20de%20la%20duquesa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T073828Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=416194aaf20d470ce0bfb62db383fea8a737d0fa5f3502ff321fdd9cf8520060",
+          "filename": "[31-40] La invitación lasciva de la duquesa.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 476,
+          "name": "31-40",
+          "size": 55478915,
+          "telegram_link": "https://t.me/manhuasgratis/476"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-17T03:13:58+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_invitacion_lasciva_de_la_duquesa/477_%5B41-50%5D%20La%20invitaci%C3%B3n%20lasciva%20de%20la%20duquesa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T073921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d5d2375ee8ab5562701499f59d0915fafa699038c4ea1dc46043a87e5acb977",
+          "filename": "[41-50] La invitación lasciva de la duquesa.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 477,
+          "name": "41-50",
+          "size": 46959890,
+          "telegram_link": "https://t.me/manhuasgratis/477"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55
+          ],
+          "date": "2026-10-17T03:13:58+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_invitacion_lasciva_de_la_duquesa/478_%5B51-55FIN%5D%20La%20invitaci%C3%B3n%20lasciva%20de%20la%20duquesa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T073951Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9c1e89a6e892cb88392d9a920296bb4d8a046b6aa2fa0ad229ba8334fbbd5ef6",
+          "filename": "[51-55FIN] La invitación lasciva de la duquesa.pdf",
+          "first": 51,
+          "last": 55,
+          "message_id": 478,
+          "name": "51-55",
+          "size": 24413287,
+          "telegram_link": "https://t.me/manhuasgratis/478"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Incapaz de soportar a la gente codiciosa y sin escrúpulos de la familia de su esposa,el duque Arthur Kaplan exige el divorcio de su esposa, Roxanne.Sabiendo muy bien que tan pronto como se divorcie su familia la venderá a otro hombre,la duquesa ofrece una propuesta audaz.Ella pide permiso para tener una aventura con otro hombre antes del divorcio,para finalmente poder disfrutar de un corto período de libertad y finalmente saber lo que es ser querida por alguien.Roxanne luego se encuentra con un amable gentil con una máscara que parece satisfacer todos sus deseos y que se siente extrañamente familiar",
       "visible": true
     },
     {
@@ -50476,7 +50915,7 @@
       "latest_chapter": 158,
       "library_count": 0,
       "name": "La Razón Por La Que Raeliana Termino En La Mansión Del Duque V",
-      "package_count": 16,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -50627,6 +51066,31 @@
           "name": "51-60",
           "size": 53157520,
           "telegram_link": "https://t.me/manhuasgratis/356"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-17T03:12:03+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_razon_por_la_que_raeliana_termino_en_la_mansion_del_duque_v/357_051_060_La_Raz%C3%B3n_Por_La_Que_Raeliana_Termino_En_La_Mansi%C3%B3n_Del_Duque%3BV.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T091601Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8b348f1b371a92b23a7ec61e63c1e2538d7586e4e9021205120ed55368ff3bcd",
+          "filename": "051_060_La_Razón_Por_La_Que_Raeliana_Termino_En_La_Mansión_Del_Duque;V.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 357,
+          "name": "51-60",
+          "size": 53157520,
+          "telegram_link": "https://t.me/manhuasgratis/357"
         },
         {
           "channel_id": -1004367557958,
@@ -54185,7 +54649,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5571"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "El Rey Grey tiene una fuerza, riqueza y prestigio incomparables en un mundo gobernado por la habilidad marcial. Sin embargo, la soledad se mantiene muy por detrás de aquellos con gran poder. Debajo del glamoroso exterior de un poderoso rey acecha el caparazón del hombre, desprovisto de propósito y voluntad. Reencarnado en un nuevo mundo lleno de magia y monstruos, el rey tiene una segunda oportunidad de revivir su vida. Sin embargo, corregir su error pasado no será su único desafío. Debajo de la paz y la prosperidad del nuevo mundo hay una corriente subterránea que amenaza con destruir todo para lo que ha trabajado, cuestionando su papel y la razón para nacer de nuevo.",
       "visible": true
@@ -59140,7 +59604,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4892"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "En los barrios bajos vivía un joven llamado Ray que carecía de emociones.\nDe repente, adquirió la capacidad de ver \"colores\" que nadie más podía ver, y tenía el poder de controlarlos.\nUn día, perdió su refugio, un paso subterráneo, y a sus amigos a manos de un mago. Incluso perdió a Niles, en quien había creído y a quien seguía.\nEl chico sin emociones juró vengarse, comenzando su búsqueda para recuperar sus emociones.",
       "visible": true
@@ -59853,7 +60317,7 @@
       "latest_chapter": 237,
       "library_count": 1,
       "name": "Mi papá es demasiado fuerte",
-      "package_count": 15,
+      "package_count": 16,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -60191,6 +60655,47 @@
           "name": "121-146",
           "size": 237237557,
           "telegram_link": "https://t.me/manhuasgratis/101"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+          ],
+          "date": "2026-02-08T17:35:25+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/death_march_to_the_parallel_world/328_Death%20March%20to%20the%20Parallel%20World%20Rhapsody%20-%20Volumen%2021.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2662c571c1bd8b2cf6e12b151276213db2331d91e25b07271432d4264eab548",
+          "filename": "121-146 Mi papá es demasiado fuerte -.-.pdf",
+          "first": 121,
+          "last": 146,
+          "message_id": 328,
+          "name": "121-146",
+          "size": 237237557,
+          "telegram_link": "https://t.me/manhuasgratis/328"
         },
         {
           "channel_id": -1003003829878,
@@ -60830,35 +61335,34 @@
           ],
           "date": "2026-10-17T04:11:51+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mis_alter_egos_son_seres_trascendentales/5631_%5B%2395%5D%20%20%20Mis%20Alter%20Egos%20Son%20Seres%20Trascendentales.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121600Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8bebd81fbd41828e9f358e496fb87deaa9337166c2864ca7bc6b0e89923532fb",
           "filename": "[#95]   Mis Alter Egos Son Seres Trascendentales.pdf",
           "first": 95,
           "last": 95,
           "message_id": 5631,
           "name": "95",
           "size": 21548029,
-          "telegram_link": "https://t.me/manhuasgratis/5631"
+          "telegram_link": "https://t.me/manhuasgratis/5631",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mis_alter_egos_son_seres_trascendentales/5631_%5B%2395%5D%20%20%20Mis%20Alter%20Egos%20Son%20Seres%20Trascendentales.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121600Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8bebd81fbd41828e9f358e496fb87deaa9337166c2864ca7bc6b0e89923532fb"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Un joven, Han Sunghyun, pierde a su familia en un ataque indiscriminado de superhumanos. Mientras vive una vida solitaria debido al trauma del incidente, un día, despierta la capacidad de controlar avatares en su lugar. «¡¿Qué?! ¿Puedo enviar avatares a cazar en otros mundos peligrosos mientras me quedo a salvo en casa, concentrándome solo en fortalecer mis poderes?» A medida que sus avatares crecen rápidamente, cruzando dimensiones, razas y profesiones, ¡Han Sunghyun comienza a cazar a los superhumanos que abusan de sus poderes!",
       "visible": true
     },
     {
       "added_at": "2026-10-17T03:24:17+00:00",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/nao_chan_ntr_me_enamore_d_p_d_m_a_d_l_i_1_adult.jpg",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/nao_chan_ntr_me_enamore_d_p_d_m_a_d_l_i_1.jpg",
       "cover_message_id": 404,
       "cover_telegram_link": "https://t.me/c/-1004187372773/404",
       "genres": [
-        "respaldo",
+        "Respaldo",
         "Finalizada",
         "Romance",
-        "Drama",
-        "+18"
+        "Drama"
       ],
       "hashtag": "#nao_chan_ntr_me_enamore_D_P_D_M_A_D_L_I_1",
-      "id": "nao_chan_ntr_me_enamore_d_p_d_m_a_d_l_i_1_adult",
+      "id": "nao_chan_ntr_me_enamore_d_p_d_m_a_d_l_i_1",
       "latest_chapter": 3,
       "library_count": 0,
       "name": "nao chan ntr me enamore D P D M A D L I 1",
@@ -60916,7 +61420,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Nao una chica que vive en un pequeño pueblo rural en la montaña. A medida que se acerca la graduación de la escuela secundaria, pasa pacíficamente los días que le quedan como estudiante mientras cuida de su algo poco confiable amigo de la infancia, Hiroki, con quien ha estado desde que era una niña. El padre de Hiroki, Masaki, los cuida amablemente. Ha estado criando a Hiroki él solo desde que su esposa murió de una enfermedad casi tan pronto como nació Hiroki",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-08-29T03:35:17+00:00",
@@ -62153,14 +62657,14 @@
           ],
           "date": "2026-10-17T03:24:45+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_puedo_ser_tan_estupido/1082_%5B71-80%5D%20No%20puedo%20ser%20tan%20est%C3%BApido.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4eee238ab55dc41442183e44f9076e2e4943aa63b7e2b9faeb7570328babd7a",
           "filename": "[71-80] No puedo ser tan estúpido.pdf",
           "first": 71,
           "last": 80,
           "message_id": 1082,
           "name": "71-80",
           "size": 66293083,
-          "telegram_link": "https://t.me/manhuasgratis/1082"
+          "telegram_link": "https://t.me/manhuasgratis/1082",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_puedo_ser_tan_estupido/1082_%5B71-80%5D%20No%20puedo%20ser%20tan%20est%C3%BApido.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4eee238ab55dc41442183e44f9076e2e4943aa63b7e2b9faeb7570328babd7a"
         },
         {
           "channel_id": -1004367557958,
@@ -62179,20 +62683,20 @@
           ],
           "date": "2026-10-17T03:24:46+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_puedo_ser_tan_estupido/1083_81-91%20%28Final%29%20No%20Puedo%20Ser%20Tan%20Estupido.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a5ee4a9bf23c486f6b647eda3b9419652d252ae467d01eb1df57bf403e643c8",
           "filename": "81-91 (Final) No Puedo Ser Tan Estupido.pdf",
           "first": 81,
           "last": 91,
           "message_id": 1083,
           "name": "81-91",
           "size": 58564744,
-          "telegram_link": "https://t.me/manhuasgratis/1083"
+          "telegram_link": "https://t.me/manhuasgratis/1083",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_puedo_ser_tan_estupido/1083_81-91%20%28Final%29%20No%20Puedo%20Ser%20Tan%20Estupido.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a5ee4a9bf23c486f6b647eda3b9419652d252ae467d01eb1df57bf403e643c8"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Doha se traslada a la escuela secundaria de Kukje island, a la que sólo pueden asistir los ricachones. Este lugar es famoso por un sistema único en el que los edificios de dormitorios y el tamaño de las habitaciones están determinados por el estatus... Entre ellos, se sigue topando con Rowoon, el más famoso, que ha utilizado la sala VIP más grande durante tres años. Rowoon, el tipo perfecto con cara, cuerpo, inteligencia y lealtad. Pero sólo le falta una cosa... ¡es un estúpido encaprichado que ni siquiera entiende la psicología de las mujeres!",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-08-24T20:46:12+00:00",
@@ -62211,7 +62715,7 @@
       "latest_chapter": 127,
       "library_count": 2,
       "name": "No Soy Esa Clase De Talento",
-      "package_count": 24,
+      "package_count": 25,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -62665,6 +63169,29 @@
           "name": "111-118",
           "size": 54643388,
           "telegram_link": "https://t.me/manhuasgratis/5544"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+          ],
+          "date": "2026-10-14T20:12:37+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5558_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261014%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261014T212527Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=038e1c2518712d77ce81a141daad211300d67c3777c56e1186f2f7704812a264",
+          "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "first": 111,
+          "last": 118,
+          "message_id": 5558,
+          "name": "111-118",
+          "size": 54643388,
+          "telegram_link": "https://t.me/manhuasgratis/5558"
         },
         {
           "channel_id": -1003003829878,
@@ -63569,14 +64096,14 @@
           ],
           "date": "2026-10-17T03:22:01+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/931_1-5%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a2e08f92be6eca9cd8e8fb5bf9c4890eee4661e5f27cd7373d4473147abce44d",
           "filename": "1-5 ☆Novia de la Sombra☆.pdf",
           "first": 1,
           "last": 5,
           "message_id": 931,
           "name": "1-5",
           "size": 23058514,
-          "telegram_link": "https://t.me/manhuasgratis/931"
+          "telegram_link": "https://t.me/manhuasgratis/931",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/931_1-5%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a2e08f92be6eca9cd8e8fb5bf9c4890eee4661e5f27cd7373d4473147abce44d"
         },
         {
           "channel_id": -1004367557958,
@@ -63589,14 +64116,14 @@
           ],
           "date": "2026-10-17T03:22:02+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/932_6-10%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=207d88709dc9fd8932019a9f7b611bbc94788fe44d01ea4d9082696751e18296",
           "filename": "6-10☆Novia de la Sombra☆.pdf",
           "first": 6,
           "last": 10,
           "message_id": 932,
           "name": "6-10",
           "size": 24214590,
-          "telegram_link": "https://t.me/manhuasgratis/932"
+          "telegram_link": "https://t.me/manhuasgratis/932",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/932_6-10%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=207d88709dc9fd8932019a9f7b611bbc94788fe44d01ea4d9082696751e18296"
         },
         {
           "channel_id": -1004367557958,
@@ -63609,14 +64136,14 @@
           ],
           "date": "2026-10-17T03:22:03+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/933_11-15%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6cc241fdd9238a2ba6da58042265e7217a0cf2f49211347321434f93f43c75d3",
           "filename": "11-15 ☆Novia de la Sombra☆.pdf",
           "first": 11,
           "last": 15,
           "message_id": 933,
           "name": "11-15",
           "size": 21965291,
-          "telegram_link": "https://t.me/manhuasgratis/933"
+          "telegram_link": "https://t.me/manhuasgratis/933",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/933_11-15%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6cc241fdd9238a2ba6da58042265e7217a0cf2f49211347321434f93f43c75d3"
         },
         {
           "channel_id": -1004367557958,
@@ -63629,14 +64156,14 @@
           ],
           "date": "2026-10-17T03:22:04+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/935_16-20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3162c43b5882dcd5afe8f4cbc1d2cd1dc0bf4ee80889d4b92899e116664b2656",
           "filename": "16-20☆Novia de la Sombra☆.pdf",
           "first": 16,
           "last": 20,
           "message_id": 935,
           "name": "16-20",
           "size": 23253057,
-          "telegram_link": "https://t.me/manhuasgratis/935"
+          "telegram_link": "https://t.me/manhuasgratis/935",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/935_16-20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3162c43b5882dcd5afe8f4cbc1d2cd1dc0bf4ee80889d4b92899e116664b2656"
         },
         {
           "channel_id": -1004367557958,
@@ -63649,14 +64176,14 @@
           ],
           "date": "2026-10-17T03:22:03+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/934_21-25%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b90d1a1a77a04994890ccfc51a16871a39ee5d0bc091ace055f71e9727e2559",
           "filename": "21-25 ☆Novia de la Sombra☆.pdf",
           "first": 21,
           "last": 25,
           "message_id": 934,
           "name": "21-25",
           "size": 23103782,
-          "telegram_link": "https://t.me/manhuasgratis/934"
+          "telegram_link": "https://t.me/manhuasgratis/934",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/934_21-25%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b90d1a1a77a04994890ccfc51a16871a39ee5d0bc091ace055f71e9727e2559"
         },
         {
           "channel_id": -1004367557958,
@@ -63669,14 +64196,14 @@
           ],
           "date": "2026-10-17T03:22:05+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/936_26-30%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92f034b415b0d6d149967b5fceaae81754b25af5f486e1e514133de8b1bb0689",
           "filename": "26-30 ☆Novia de la Sombra☆.pdf",
           "first": 26,
           "last": 30,
           "message_id": 936,
           "name": "26-30",
           "size": 23607029,
-          "telegram_link": "https://t.me/manhuasgratis/936"
+          "telegram_link": "https://t.me/manhuasgratis/936",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/936_26-30%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92f034b415b0d6d149967b5fceaae81754b25af5f486e1e514133de8b1bb0689"
         },
         {
           "channel_id": -1004367557958,
@@ -63689,14 +64216,14 @@
           ],
           "date": "2026-10-17T03:22:05+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/937_31-35%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d52e35808fb64e9c3af75900b751e2c59c7d73fc3c40859b435edee7386f73ed",
           "filename": "31-35 ☆Novia de la Sombra☆.pdf",
           "first": 31,
           "last": 35,
           "message_id": 937,
           "name": "31-35",
           "size": 21078416,
-          "telegram_link": "https://t.me/manhuasgratis/937"
+          "telegram_link": "https://t.me/manhuasgratis/937",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/937_31-35%20%E2%98%86Novia%20de%20la%20Sombra%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d52e35808fb64e9c3af75900b751e2c59c7d73fc3c40859b435edee7386f73ed"
         },
         {
           "channel_id": -1004367557958,
@@ -63709,14 +64236,14 @@
           ],
           "date": "2026-10-17T03:22:06+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/938_36-40%E2%98%86Novia%20de%20la%20Sombra%20%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b04d00c13545fd76fa77dc3c8bf29077c0989b518bee05999a25a2dc2faa8a11",
           "filename": "36-40☆Novia de la Sombra ☆.pdf",
           "first": 36,
           "last": 40,
           "message_id": 938,
           "name": "36-40",
           "size": 23874164,
-          "telegram_link": "https://t.me/manhuasgratis/938"
+          "telegram_link": "https://t.me/manhuasgratis/938",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/938_36-40%E2%98%86Novia%20de%20la%20Sombra%20%E2%98%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b04d00c13545fd76fa77dc3c8bf29077c0989b518bee05999a25a2dc2faa8a11"
         },
         {
           "channel_id": -1004367557958,
@@ -63725,14 +64252,14 @@
           ],
           "date": "2026-10-17T03:22:07+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/939_%5B41%F0%9F%92%A050%5D%20La%20Novia%20De%20La%20Sombra%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=44d0c1cc05a97e916359f59ba089546e259e8da2ac2f23bc1cbe107cd3e37ca6",
           "filename": "[41💠50] La Novia De La Sombra💕-Merged.pdf",
           "first": 41,
           "last": 41,
           "message_id": 939,
           "name": "41",
           "size": 165494728,
-          "telegram_link": "https://t.me/manhuasgratis/939"
+          "telegram_link": "https://t.me/manhuasgratis/939",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/939_%5B41%F0%9F%92%A050%5D%20La%20Novia%20De%20La%20Sombra%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=44d0c1cc05a97e916359f59ba089546e259e8da2ac2f23bc1cbe107cd3e37ca6"
         },
         {
           "channel_id": -1004367557958,
@@ -63741,14 +64268,14 @@
           ],
           "date": "2026-10-17T03:22:07+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/940_%5B51%F0%9F%92%A060%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=286108856ce963616b9cf8cc9b3725240bc480859b19b8d7fb034548be3a90ad",
           "filename": "[51💠60] La Novia De La Sombra 💕-Merged.pdf",
           "first": 51,
           "last": 51,
           "message_id": 940,
           "name": "51",
           "size": 162665493,
-          "telegram_link": "https://t.me/manhuasgratis/940"
+          "telegram_link": "https://t.me/manhuasgratis/940",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/940_%5B51%F0%9F%92%A060%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=286108856ce963616b9cf8cc9b3725240bc480859b19b8d7fb034548be3a90ad"
         },
         {
           "channel_id": -1004367557958,
@@ -63757,14 +64284,14 @@
           ],
           "date": "2026-10-17T03:22:08+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/941_%5B61%F0%9F%92%A070%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6dc6ebe76991cde786ef35f9b0d3557ceefb9f57056123f44b34f5ff01588367",
           "filename": "[61💠70] La Novia De La Sombra 💕-Merged.pdf",
           "first": 61,
           "last": 61,
           "message_id": 941,
           "name": "61",
           "size": 148202671,
-          "telegram_link": "https://t.me/manhuasgratis/941"
+          "telegram_link": "https://t.me/manhuasgratis/941",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/941_%5B61%F0%9F%92%A070%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6dc6ebe76991cde786ef35f9b0d3557ceefb9f57056123f44b34f5ff01588367"
         },
         {
           "channel_id": -1004367557958,
@@ -63773,14 +64300,14 @@
           ],
           "date": "2026-10-17T03:22:09+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/942_%5B71%F0%9F%92%A080%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41c55ba96fc7623b67deaf59bdb226c6fe6d7727555e99852bccb43ab8f3acf3",
           "filename": "[71💠80] La Novia De La Sombra 💕-Merged.pdf",
           "first": 71,
           "last": 71,
           "message_id": 942,
           "name": "71",
           "size": 155576098,
-          "telegram_link": "https://t.me/manhuasgratis/942"
+          "telegram_link": "https://t.me/manhuasgratis/942",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/942_%5B71%F0%9F%92%A080%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41c55ba96fc7623b67deaf59bdb226c6fe6d7727555e99852bccb43ab8f3acf3"
         },
         {
           "channel_id": -1004367557958,
@@ -63789,20 +64316,20 @@
           ],
           "date": "2026-10-17T03:22:09+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/943_%5B81%F0%9F%92%A090%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9d92492b2f65f451cc2c00c247cd670fa0fe2147f095d982011009c5ae806bb",
           "filename": "[81💠90] La Novia De La Sombra 💕-Merged.pdf",
           "first": 81,
           "last": 81,
           "message_id": 943,
           "name": "81",
           "size": 137494433,
-          "telegram_link": "https://t.me/manhuasgratis/943"
+          "telegram_link": "https://t.me/manhuasgratis/943",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novia_de_la_sombra/943_%5B81%F0%9F%92%A090%5D%20La%20Novia%20De%20La%20Sombra%20%F0%9F%92%95-Merged.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9d92492b2f65f451cc2c00c247cd670fa0fe2147f095d982011009c5ae806bb"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Yunjo es un joven príncipe que siempre prestó servicio al reino tras bambalinas. Se pasó toda la vida siendo la sombra de su hermano, el príncipe heredero Yigang, qué lucha contra enemigos y gana guerras en su nombre. Todo cambia cuando conoce a Seolyun, una mujer misteriosa y encantadora que lo cautiva al instante. ¿Qué ocurre cuando un hombre sale de las sombras para seguir su corazón? ¿Podrá superar todos los obstáculos en su camino para dejarse ver y estar con la mujer que ama?",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-08-22T02:50:15+00:00",
@@ -65447,7 +65974,7 @@
           "telegram_link": "https://t.me/manhuasgratis/2076"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "🌀▹Sinopsis: [Adaptación de una de las mejores novelas de todos los tiempos.]\nShi Feng era uno de los mejores jugadores del juego online “God’s Domain” hasta que fue traicionado por su propio gremio.\nDespués de una noche de beber para sobrellevar sus penas, Shi Feng se despertó y se encontró diez años en el pasado… en una época en la que el “Dominio de Dios” había sido lanzado por primera vez. Con sus recuerdos y sus diez años de experiencia, Shi Feng emprende un viaje de vuelta a la cima. Esta vez, se niega a ser controlado. Y en esta vida, subirá a alturas aún mayores.",
       "visible": true
@@ -65771,7 +66298,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5352"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Dane Sogres, un joven que murió antes de poder desarrollar todo su talento en el campo de batalla, se despierta para descubrir que ha renacido como el hijo menor de un prestigioso conde. Ahora con un vasto talento en diversas disciplinas como el manejo de la lanza, el asesinato, la magia, la invocación y la espada, Dane tiene una segunda oportunidad para cultivar sus habilidades. En su nueva vida, rodeado de una familia amorosa que siempre deseó, se enfrenta a desafíos y diferencias de opinión sobre qué camino seguir. Mientras su padre insiste en enseñarle el manejo de la lanza y su madre sueña con que aprenda magia, Dane debe equilibrar sus talentos y encontrar su verdadero destino en un entorno lleno de amor y expectativas.",
       "visible": true
@@ -67734,7 +68261,8 @@
           "message_id": 5632,
           "name": "104",
           "size": 17655657,
-          "telegram_link": "https://t.me/manhuasgratis/5632"
+          "telegram_link": "https://t.me/manhuasgratis/5632",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/sangre_maldita/5632_%5B%23104%5D%20%20%20Sangre%20Maldita.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121615Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9a30c8c3b8a863d04bfcb0b20f884018cdea864455630a242647bb9b446bf4ab"
         }
       ],
       "rating": 0,
@@ -72219,7 +72747,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5573"
         }
       ],
-      "rating": 2,
+      "rating": 2.0,
       "rating_count": 1,
       "synopsis": "Lin Tian reencarnó como un duende, el rango más bajo de las criaturas mágicas e inicialmente tuvo que permanecer oculto. Luego, él entendió por completo la verdadera naturaleza de un duende. Bendecido con mucha descendencia, ¡cuantos más hijos tiene, más fuerte se vuelve gracias a las bendiciones de los dioses!",
       "visible": true
@@ -72256,7 +72784,8 @@
           "message_id": 848,
           "name": "1",
           "size": 57474068,
-          "telegram_link": "https://t.me/manhuasgratis/848"
+          "telegram_link": "https://t.me/manhuasgratis/848",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_una_villana_pero_estoy_feliz_de_estar_sana/848_01%E2%96%AA%EF%B8%8E10_Soy_Una_Villana%2C_Pero_Estoy_Feliz_De_Estar_Sana_Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121655Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ca155c8f92bac7a709b725a75269b1bfc7d051962a58adddf01f9c3267cf228a"
         },
         {
           "channel_id": -1004367557958,
@@ -72271,7 +72800,8 @@
           "message_id": 849,
           "name": "11",
           "size": 48633190,
-          "telegram_link": "https://t.me/manhuasgratis/849"
+          "telegram_link": "https://t.me/manhuasgratis/849",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_una_villana_pero_estoy_feliz_de_estar_sana/849_11%E2%96%AA%EF%B8%8E20_Soy_Una_Villana%2C_Pero_Estoy_Feliz_De_Estar_Sana_Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121727Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a750be7bfff4c7fbe1a7a1a51a07dc2d9e11d28ef32a20610cba90b8b74aefd3"
         },
         {
           "channel_id": -1004367557958,
@@ -72286,7 +72816,8 @@
           "message_id": 850,
           "name": "21",
           "size": 45579260,
-          "telegram_link": "https://t.me/manhuasgratis/850"
+          "telegram_link": "https://t.me/manhuasgratis/850",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_una_villana_pero_estoy_feliz_de_estar_sana/850_21%E2%96%AA%EF%B8%8E30_Soy_Una_Villana%2C_Pero_Estoy_Feliz_De_Estar_Sana_Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121759Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc950f88b61bf224c4afe9adcf05cb6755b79f996517e279bd10d08bde831d87"
         },
         {
           "channel_id": -1004367557958,
@@ -72301,7 +72832,8 @@
           "message_id": 851,
           "name": "36",
           "size": 34022157,
-          "telegram_link": "https://t.me/manhuasgratis/851"
+          "telegram_link": "https://t.me/manhuasgratis/851",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_una_villana_pero_estoy_feliz_de_estar_sana/851_36%E2%96%AA%EF%B8%8E40_Soy_Una_Villana%2C_Pero_Estoy_Feliz_De_Estar_Sana_Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121835Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=44117b87df87fa386e90f99717586d79db531f65e1cae2fa4dd5b3afddf54eea"
         },
         {
           "channel_id": -1004367557958,
@@ -72316,7 +72848,8 @@
           "message_id": 852,
           "name": "41",
           "size": 76472100,
-          "telegram_link": "https://t.me/manhuasgratis/852"
+          "telegram_link": "https://t.me/manhuasgratis/852",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_una_villana_pero_estoy_feliz_de_estar_sana/852_41%E2%96%AA%EF%B8%8E50_Soy_Una_Villana%2C_Pero_Estoy_Feliz_De_Estar_Sana_Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121925Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bca60fb6d06cc66c378fadeb67e7f4859c392c95efc4cdafa47b16dfa39b3656"
         },
         {
           "channel_id": -1004367557958,
@@ -72331,7 +72864,8 @@
           "message_id": 853,
           "name": "51",
           "size": 28764677,
-          "telegram_link": "https://t.me/manhuasgratis/853"
+          "telegram_link": "https://t.me/manhuasgratis/853",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_una_villana_pero_estoy_feliz_de_estar_sana/853_51%E2%96%AA%EF%B8%8E53_FINAL_Soy_Una_Villana%2C_Pero_Estoy_Feliz_De_Estar_Sana_Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T121947Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=27bcd7b4b18a34cc4c9b21e8dea9cb0c15be6cce9d617f20805705d5abbc032c"
         }
       ],
       "rating": 0,
@@ -73292,7 +73826,7 @@
       "latest_chapter": 164,
       "library_count": 0,
       "name": "Surviving The Game as a Barbarian",
-      "package_count": 39,
+      "package_count": 40,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -73854,6 +74388,22 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            152
+          ],
+          "date": "2026-08-27T13:11:21+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/3673_%E2%94%82152.5%E2%94%82Sobreviviendo%20Al%20Juego%20Siendo%20Un%20B%C3%A1rbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=623b8eb372230e0467ec91ab2556b5083c37e17319e155ee9ce6fc8b08e38ee9",
+          "filename": "│152.5│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
+          "first": 152,
+          "last": 152,
+          "message_id": 3673,
+          "name": "152",
+          "size": 6824462,
+          "telegram_link": "https://t.me/manhuasgratis/3673"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             153
           ],
           "date": "2026-08-27T13:11:21+00:00",
@@ -74099,7 +74649,8 @@
           "message_id": 1049,
           "name": "1-20",
           "size": 81350411,
-          "telegram_link": "https://t.me/manhuasgratis/1049"
+          "telegram_link": "https://t.me/manhuasgratis/1049",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/terciopelo_rojo/1049_01-20%20TERCIOPELO%20ROJO.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122040Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6557b19a41b7ac63ca7315860570d29437dfc7867c994671d99d714372cf52f2"
         },
         {
           "channel_id": -1004367557958,
@@ -74133,7 +74684,8 @@
           "message_id": 1050,
           "name": "21-40",
           "size": 72014830,
-          "telegram_link": "https://t.me/manhuasgratis/1050"
+          "telegram_link": "https://t.me/manhuasgratis/1050",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/terciopelo_rojo/1050_21-40%20TERCIOPELO%20ROJO.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122128Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3e77c8e86ddf19a569340a66cc550adae7b29fbff29c27107dcb836ae0f5c1b8"
         },
         {
           "channel_id": -1004367557958,
@@ -74167,7 +74719,8 @@
           "message_id": 1051,
           "name": "41-60",
           "size": 71370197,
-          "telegram_link": "https://t.me/manhuasgratis/1051"
+          "telegram_link": "https://t.me/manhuasgratis/1051",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/terciopelo_rojo/1051_41-60%20TERCIOPELO%20ROJO.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c34b7a9ff0c80e6c2467fb1f76fee924eadf4e7970bc38a8cd03d0af168a96ff"
         },
         {
           "channel_id": -1004367557958,
@@ -74224,7 +74777,7 @@
       "latest_chapter": 570,
       "library_count": 5,
       "name": "The Ancient Sovereign of Eternity",
-      "package_count": 129,
+      "package_count": 136,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -75391,6 +75944,22 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            384
+          ],
+          "date": "2026-10-07T12:23:20+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5044_%E2%96%8E384%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65d6e09f296aca95d60e8b32084f05515bc90677fea9ef503cba67cafc1c8d7c",
+          "filename": "▎384 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 384,
+          "last": 384,
+          "message_id": 5044,
+          "name": "384",
+          "size": 12036779,
+          "telegram_link": "https://t.me/manhuasgratis/5044"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             385
           ],
           "date": "2026-10-07T12:23:20+00:00",
@@ -75407,6 +75976,22 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            385
+          ],
+          "date": "2026-10-07T12:23:20+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5045_%E2%96%8E385%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50526191c8703cd335ca371793376d4a61cf5b30cb08bbf1c87ad73497de1be0",
+          "filename": "▎385 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 385,
+          "last": 385,
+          "message_id": 5045,
+          "name": "385",
+          "size": 13658531,
+          "telegram_link": "https://t.me/manhuasgratis/5045"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             386
           ],
           "date": "2026-10-07T12:23:20+00:00",
@@ -75419,6 +76004,22 @@
           "name": "386",
           "size": 16154226,
           "telegram_link": "https://t.me/manhuasgratis/5041"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            386
+          ],
+          "date": "2026-10-07T12:23:21+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5046_%E2%96%8E386%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=797160268504112996f0306a41c332d2646eed4e81b370395a5213d5f01861f3",
+          "filename": "▎386 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 386,
+          "last": 386,
+          "message_id": 5046,
+          "name": "386",
+          "size": 16154226,
+          "telegram_link": "https://t.me/manhuasgratis/5046"
         },
         {
           "channel_id": -1003003829878,
@@ -75440,6 +76041,23 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            387,
+            388
+          ],
+          "date": "2026-10-07T12:23:21+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5047_%E2%96%8E387-388%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea316d31dd6fd64eb92730a01716bfec2d72bd75ad4f5203777076bb4ce54e34",
+          "filename": "▎387-388 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 387,
+          "last": 388,
+          "message_id": 5047,
+          "name": "387-388",
+          "size": 25156481,
+          "telegram_link": "https://t.me/manhuasgratis/5047"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             389
           ],
           "date": "2026-10-07T12:23:20+00:00",
@@ -75452,6 +76070,22 @@
           "name": "389",
           "size": 12337394,
           "telegram_link": "https://t.me/manhuasgratis/5043"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            389
+          ],
+          "date": "2026-10-07T12:23:22+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5048_%E2%96%8E389%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4c4186ef56b36f7e437c988e697df1863c6907bccd79eaa6eeb29407e9f023b0",
+          "filename": "▎389 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 389,
+          "last": 389,
+          "message_id": 5048,
+          "name": "389",
+          "size": 12337394,
+          "telegram_link": "https://t.me/manhuasgratis/5048"
         },
         {
           "channel_id": -1003003829878,
@@ -75874,6 +76508,22 @@
           "name": "436",
           "size": 12652738,
           "telegram_link": "https://t.me/manhuasgratis/5073"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            436
+          ],
+          "date": "2026-10-07T12:23:23+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5074_%E2%96%8E436.2%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=659de967c3145aaa45ab24485068a25a128586f9d0f5acb5f11874fa1acbab15",
+          "filename": "▎436.2 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 436,
+          "last": 436,
+          "message_id": 5074,
+          "name": "436",
+          "size": 9204469,
+          "telegram_link": "https://t.me/manhuasgratis/5074"
         },
         {
           "channel_id": -1003003829878,
@@ -76563,6 +77213,22 @@
           "name": "540",
           "size": 16209862,
           "telegram_link": "https://t.me/manhuasgratis/5113"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            540
+          ],
+          "date": "2026-10-07T12:24:28+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5114_%E2%96%8E540%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261013%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261013T102106Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc685c05c0d4e0957c79c737c84def8fabda4839abce33cf46a103db4580e232",
+          "filename": "▎540 ▎The Ancient Sovereign Of Eternity.pdf",
+          "first": 540,
+          "last": 540,
+          "message_id": 5114,
+          "name": "540",
+          "size": 16209862,
+          "telegram_link": "https://t.me/manhuasgratis/5114"
         },
         {
           "channel_id": -1003003829878,
@@ -78017,7 +78683,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5524"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "¿Qué pasa si tu vida es como jugar un juego? ¿Qué pasa si puedes mejorar tu estado y ganar más niveles? ¡Un mundo de fantasía se acerca a ti!\nHan Jee-Han, un estudiante normal de secundaria, de repente desarrolla un poder especial que hace que todo su mundo se convierta en un entorno similar a un juego. Puede ver los niveles de poder de las personas, mirar las estadísticas de un objeto aparentemente normal, obtener habilidades e incluso subir de nivel. Sigue a Han Jee-Han mientras descubre cómo usar este poder y tal vez incluso de dónde viene.",
       "visible": true
@@ -79734,7 +80400,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5296"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 2,
       "synopsis": "Al despertar, Kim Hajin se encuentra en un mundo familiar pero en un cuerpo desconocido.\nUn mundo que él mismo creó y una historia que escribió, pero que nunca terminó.\nSe había convertido en el extra de su novela, un personaje de relleno sin importancia para la historia.\nLa única pista para escapar es permanecer cerca de la historia principal.\nSin embargo, pronto descubre que el mundo no es exactamente idéntico a su creación.",
       "visible": true
@@ -80342,7 +81008,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5471"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Hang Hao se desmayó después de ver la rara luna de sangre en un siglo. Después de despertar, descubrió que el mundo entero había cambiado. Los atributos y conceptos de los hombres y las mujeres están completamente invertidos. Se ha vuelto muy normal que la mujer trabaje para mantener a su familia. Y en algo normal que un hombre se dedique a cuidar la casa. Una mujer sin coche o casa será despreciada, y tampoco encontrará ningún hombre. Los hombres se han vuelto preciosos. Es normal que las mujeres los persigan, pero los hombres persiguen a las mujeres de vuelta…«¡Realmente no es que quiera comer arroz blando! ¡También quiero ser un hombre de verdad!",
       "visible": true
@@ -81074,7 +81740,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5278"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 2,
       "synopsis": "Tras ser traicionado por su propio hermano, el guerrero supremo Gu Chen regresa a su yo de 18 años justo antes de su despertar de clase. En su vida pasada, a pesar de haber sido abandonado en una aldea agrícola por su padre y oprimido por su madrastra y su hermano, Gu Chen los seguía considerando familia, y su constante sumisión lo llevó a la traición definitiva. Armado con una segunda oportunidad y ahora fusionado con la Sangre del Rey Demonio, decide tomar un camino diferente. Rompe lazos con su tóxica familia y elige convertirse en un Invocador Oscuro, aprovechando su inmenso talento y el conocimiento de su vida pasada para embarcarse en un camino imparable de ascenso de nivel.",
       "visible": true
@@ -81153,7 +81819,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5224"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "El año es 2126. La humanidad ha creado con éxito puertas espaciales para aventurarse en el cosmos, sólo para encontrarse empujados a una era de guerra interminable contra los monstruos extraterrestres. [La ventana de estado se ha activado.]",
       "visible": true
@@ -81764,7 +82430,8 @@
           "message_id": 813,
           "name": "91-103",
           "size": 64583065,
-          "telegram_link": "https://t.me/manhuasgratis/813"
+          "telegram_link": "https://t.me/manhuasgratis/813",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/unreachable_girl/813_%2891-103%29%20Unreachable%20Girl%20%281%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122840Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f308382beb021f4dfd5d52d3a6ecc765092987dd86288e5785218cfe717b7814"
         }
       ],
       "rating": 0,
@@ -83107,7 +83774,8 @@
           "message_id": 692,
           "name": "1-10",
           "size": 35187876,
-          "telegram_link": "https://t.me/manhuasgratis/692"
+          "telegram_link": "https://t.me/manhuasgratis/692",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/692_%5B01-10%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122905Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d1df8cab8bb88a1b486c16880a3f024a7b4c8aecd7cf5d4945749ca3992b748"
         },
         {
           "channel_id": -1004367557958,
@@ -83131,7 +83799,8 @@
           "message_id": 693,
           "name": "11-20",
           "size": 34419491,
-          "telegram_link": "https://t.me/manhuasgratis/693"
+          "telegram_link": "https://t.me/manhuasgratis/693",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/693_%5B11-20%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122927Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ccd8e909f59493cc3c499be437a021f2f50272017a1fd64d9e2a99f9e325abe"
         },
         {
           "channel_id": -1004367557958,
@@ -83155,7 +83824,8 @@
           "message_id": 694,
           "name": "21-30",
           "size": 45104975,
-          "telegram_link": "https://t.me/manhuasgratis/694"
+          "telegram_link": "https://t.me/manhuasgratis/694",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/694_%5B21-30%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T122958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fbf54b885f80f3d8cff19047e50d3cad52b5311e54972911280d4d20107ac581"
         },
         {
           "channel_id": -1004367557958,
@@ -83179,7 +83849,8 @@
           "message_id": 695,
           "name": "31-40",
           "size": 47787534,
-          "telegram_link": "https://t.me/manhuasgratis/695"
+          "telegram_link": "https://t.me/manhuasgratis/695",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/695_%5B31-40%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T123030Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=855919f50db366b720e7780d13f4784de07012c24f92699a7c8abacbceb0a57e"
         },
         {
           "channel_id": -1004367557958,
@@ -83203,7 +83874,8 @@
           "message_id": 696,
           "name": "41-50",
           "size": 62991329,
-          "telegram_link": "https://t.me/manhuasgratis/696"
+          "telegram_link": "https://t.me/manhuasgratis/696",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/696_%5B41-50%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T123113Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=07748017397afe5e93abcc154f5b13164e421f2ef721e84b8e59a07ae5cdb6ea"
         },
         {
           "channel_id": -1004367557958,
@@ -83227,7 +83899,8 @@
           "message_id": 697,
           "name": "51-60",
           "size": 66530414,
-          "telegram_link": "https://t.me/manhuasgratis/697"
+          "telegram_link": "https://t.me/manhuasgratis/697",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/697_%5B51-60%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T123159Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=df153740784099090c2fd2d135f28468ac4c1bfd227c1bde0bacd07f1decbb45"
         },
         {
           "channel_id": -1004367557958,
@@ -83251,7 +83924,8 @@
           "message_id": 698,
           "name": "61-70",
           "size": 69351577,
-          "telegram_link": "https://t.me/manhuasgratis/698"
+          "telegram_link": "https://t.me/manhuasgratis/698",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villana_necesita_un_tirano/698_%5B61-70%5D%20Villana%20necesita%20un%20Tirano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T123246Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d499f626f0f82b4d802b80a4516b5deca1f7036f6e649219f59e11d56e416ee"
         }
       ],
       "rating": 0,
@@ -83630,7 +84304,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5566"
         }
       ],
-      "rating": 5,
+      "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Después de medio año huyendo, el vampiro Eugene fue finalmente asesinado, ofrecido como sacrificio para aumentar la fama de un caballero sagrado. Justo cuando su vida terminaba en un amargo arrepentimiento, se le presentó una oportunidad de regresar. “Jamás volveré a morir así. Si realmente regresé al pasado, entonces no volveré a arrepentirme de nada por segunda vez... sin importar lo que tenga que hacer.”",
       "visible": true
@@ -84276,7 +84950,8 @@
           "message_id": 5633,
           "name": "98",
           "size": 18763980,
-          "telegram_link": "https://t.me/manhuasgratis/5633"
+          "telegram_link": "https://t.me/manhuasgratis/5633",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/voy_a_aniquilar_esta_tierra/5633_%5B%2398%5D%20%20%20Voy%20a%20Aniquilar%20Est%C3%A1%20Tierra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T123300Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=64302fb27259b78d2c1dd099bda60fbb04d6c27c6b1bd665d34a7ac06daed8ae"
         }
       ],
       "rating": 0,
@@ -84613,7 +85288,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5372"
         }
       ],
-      "rating": 4,
+      "rating": 4.0,
       "rating_count": 1,
       "synopsis": "Ye Zheng transmigra a un mundo de cultivo sin talento y con un sistema bloqueado. Tras ser rechazado por las sectas \"rectas\", se une a la Secta Hehuan, considerada villana. Buscando la paz, huye con una joven llamada Xiao Tao, pero la maestra \"justiciera\" Bai Ningbing la asesina frente a él.\nEn su lecho de muerte, la sed de venganza activa su Sistema de Corrección de Personalidad, el cual le permite capturar y reformar forzosamente a quienes lo odian. Ahora, Ye Zheng usará a las despiadadas \"Hadas\" como calderos para nutrir su ascenso y cobrar su deuda de sangre.",
       "visible": true
@@ -84625,6 +85300,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-17T12:20:52.609221+00:00",
+  "updated_at": "2026-10-17T11:42:13.435266+00:00",
   "version": 3
 }
