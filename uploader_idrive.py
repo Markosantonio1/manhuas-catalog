@@ -123,7 +123,7 @@ def is_respaldo_series(series: dict) -> bool:
 # ============================================================
 
 def git_commit_and_push(mensaje: str) -> bool:
-    """Hace git config + add + commit + pull --rebase + push."""
+    """Hace git config + add + commit + pull -X ours + push."""
     try:
         subprocess.run(
             ["git", "config", "user.name", "github-actions[bot]"],
@@ -143,16 +143,15 @@ def git_commit_and_push(mensaje: str) -> bool:
             check=False, capture_output=True, text=True,
         )
 
+        # 🛡️ FIX: Usamos pull -X ours para evitar el conflicto.
+        # Si hay diferencia entre el catálogo local y el de GitHub,
+        # gana el local (el que tiene las URLs nuevas de IDrive).
         pr = subprocess.run(
-            ["git", "pull", "--rebase", "origin", "main"],
+            ["git", "pull", "origin", "main", "-X", "ours", "--no-rebase"],
             check=False, capture_output=True, text=True,
         )
         if pr.returncode != 0:
-            print(f"    ⚠ pull --rebase rc={pr.returncode}: {pr.stderr[:300]}")
-            subprocess.run(
-                ["git", "rebase", "--abort"],
-                check=False, capture_output=True,
-            )
+            print(f"    ⚠ pull rc={pr.returncode}: {pr.stderr[:300]}")
             return False
 
         p = subprocess.run(
@@ -381,12 +380,18 @@ def elegir_canal(series: dict, list_key: str) -> tuple:
     """
     series_id = series.get("id", "")
 
-    if is_adult_series(series_id):
-        return ADULT_CHANNEL, "+18"
-    if list_key == "novels":
-        return NOVELS_CHANNEL, "novelas"
+    # 🛡️ FIX: Si es de Respaldo, sus PDFs SIEMPRE están en el canal de 
+    # respaldo, aunque también tenga el género "+18".
+    # Por eso comprobamos "Respaldo" ANTES que "+18".
     if is_respaldo_series(series):
         return RESPALDO_CHANNEL, "respaldo"
+
+    if is_adult_series(series_id):
+        return ADULT_CHANNEL, "+18"
+        
+    if list_key == "novels":
+        return NOVELS_CHANNEL, "novelas"
+        
     return MAIN_CHANNEL, "principal"
 
 
