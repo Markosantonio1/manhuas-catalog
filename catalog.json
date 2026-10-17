@@ -1,4 +1,14 @@
 {
+  "announcements": [
+    {
+      "allow_response": true,
+      "created_at": "2026-10-17T02:21:41.142564+00:00",
+      "expires_at": "2026-10-24T02:21:41.142564+00:00",
+      "id": "ann_1792203701",
+      "message": "puedes pedir por aquí tus manhuas preferidos, haremos lo posible porque pronto estén en disponibles",
+      "title": "Pide tus mahuas preferidos"
+    }
+  ],
   "novels": [
     {
       "added_at": "2026-10-12T14:18:23+00:00",
@@ -514,7 +524,7 @@
           "telegram_link": "https://t.me/c/-1004334091126/28"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Sinopsis...\nLa trama se centra en los grandes caballeros santos y las distintas responsabilidades de estos. nuestro héroe es un chico solitario cual es maltratado y se odia a si mismo por su habilidad (gula/hambre) y su explicación es \"te hace tener hambre\".\nEl único motivo de el vivir es su amiga Roxi.\nLa historia se desarrolla más adelante cuando fate está cuidando la puerta de la ciudad de los caballeros cuando descubre el secreto detrás de su habilidad",
       "visible": true
@@ -1281,7 +1291,7 @@
           "telegram_link": "https://t.me/c/-1004334091126/330"
         }
       ],
-      "rating": 1.0,
+      "rating": 1,
       "rating_count": 1,
       "synopsis": "lchiro Suzuki es un programador de videojuegos que después de que su compañero desapareciera antes del lanzamiento del juego tuvo que arreglar los fallos el solo, por lo que decide tomar una siesta\nDe alguna manera despierta en el mundo que al parecer estaba editando antes de dormir, donde ve su nuevo nombre: Satou Pendragon. Al activar una habilidad que venia predeterminadamente, visualiza un grupo de hombres lagarto no muy lejos de su posición. Para sobrevivir, Satou utiliza la habilidad de regalo Lluvia de estrellas o Ducha de Meteoros, donde al aniquilar a todos los enemigos sube hasta el nivel 310 y se vuelve muy rico...",
       "visible": true
@@ -1545,7 +1555,7 @@
           "telegram_link": "https://t.me/c/-1004334091126/346"
         }
       ],
-      "rating": 2.0,
+      "rating": 2,
       "rating_count": 1,
       "synopsis": "Touka Mimori y sus compañeros de clase son catapultados abruptamente a un mundo de fantasía, convocados por la diosa residente para servir como héroes. ¿Las buenas noticias? ¡La mayoría de los estudiantes demuestran habilidades asombrosas al llegar! ¿El malo? Mimori es el peor de todos, tocando fondo en un rango E miserable. Indignada, la diosa lo arroja a un calabozo para que muera, pero resulta que las habilidades de Mimori no son tan inútiles como anormales. ¡Anormalmente poderoso, quizás!",
       "visible": true
@@ -7350,7 +7360,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5318"
         }
       ],
-      "rating": 2.0,
+      "rating": 2,
       "rating_count": 1,
       "synopsis": "¡Por el estudio que te trajo {{ Murim Login }}\nEl personaje con mayor dificultad y peor desempeño, Baek Yuseol, era considerado un personaje basura en el juego porque no podía usar magia en un entorno de fantasía donde todos los demás podían hacerlo.\nSin embargo…\n[Debido a que se alcanzó el final equivocado, el 90% del Mundo Éter ha sido destruido.] [Por favor, llegue al “Final Verdadero”.] De repente, esas palabras resonaron en mi mente antes de que fuera transmigrado al Mundo Éter.\n[Puedes usar la habilidad “Blink”.] “¿Por qué poseía este personaje?”\nParpadeo era la única habilidad mágica que tenía.",
       "visible": true
@@ -7713,7 +7723,7 @@
           "telegram_link": "https://t.me/manhuasgratis/248"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Han Ji-hyuk, el legendario nigromante que salvó a la humanidad en el continente de Seron, regresó por fin a la Tierra, anhelando una jubilación tranquila y feliz. Pero desde el primer día, sus planes de llevar una vida tranquila se descarrilaron por completo. A los veinte años, Ji-hyuk había sido convocado a Seron por un mago llamado Theros, donde fue obligado a vivir como nigromante. Tras incontables años de lucha y penurias, finalmente derrotó al Rey Demonio y regresó a la Tierra. Pero la Tierra a la que regresó no era la que recordaba.",
       "visible": true
@@ -10353,7 +10363,7 @@
           "telegram_link": "https://t.me/manhuasgratis/2439"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Regresé a la Tierra después de cazar demonios en el otro mundo durante trescientos años. Pero no regresé solo.",
       "visible": true
@@ -12218,7 +12228,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5185"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "Cinco héroes se enfrentaron a Erebos, el mal primordial que llevó al mundo al borde de la destrucción. El Guerrero, Arron. El Herrero Divino, Dweno. La Poeta de las Estrellas, Luna. El Rey Sabio, Lisinas. Y por último, el Héroe del Principio, Kyle-yo. Sin embargo, cuando reencarné, descubrí que todos éramos alabados como grandes héroes… Todos, excepto yo. Una academia de héroes que alberga los Registros de Héroes, un regalo de los cielos que registra los logros de los héroes. Me inscribiré allí y descubriré por qué fui escrito fuera de la historia. «¿Por qué no sigues adelante y te conviertes en un estudiante de honor?»",
       "visible": true
@@ -13750,7 +13760,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4084"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "La muerte es solo el comienzo.\" Palabras más ciertas jamás se dijeron para el joven Leon von Marbas, heredero de una casa de nigromantes que alguna vez fue grandiosa. Forzado a ejecutar a su propio padre por el señor de una casa rival, Leon se encuentra de repente como líder de un clan en declive, amenazado por enemigos internos y externos. ¿La única manera de restaurar la gloria de su casa? Leon debe hacer un pacto con el demonio Marbas, la fuente original de la poderosa nigromancia por la que la Casa Marbas fue conocida alguna vez...",
       "visible": true
@@ -15250,7 +15260,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5298"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "Turan pasó su vida como un humilde pastor —ocultando un poder que le dijeron podría destruir todo lo que amaba.\nNo sabía nada de las guerras, las casas nobles ni los linajes ancestrales que moldeaban las tierras más allá de sus colinas.\nY, sinceramente, ya se había cansado un poco de ello.\nObservar el mundo desde la distancia, sin saber nunca qué se escondía más allá del horizonte… hasta que un encuentro fortuito entreabre la puerta, y la curiosidad hace el resto.\nSin nada que lo ate,\nTuran se adentra en un mundo que nunca ha visto —y lentamente, a través de sus ojos, su belleza, su crueldad y sus secretos comienzan a revelarse",
       "visible": true
@@ -21472,7 +21482,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4739"
         }
       ],
-      "rating": 3.0,
+      "rating": 3,
       "rating_count": 2,
       "synopsis": "Debido a una situación como la del segundo FMI, la empresa de seguridad donde trabajaba Jang Taesan quiebra, y él se convierte en un desempleado que deambula por Noryangjin-dong. Intenta suicidarse saltando de un puente PERO ya había otro suicidándose en ese puente. todo bajoneado ve un niño en una pasarela y un coche modelo rayo McQueen a toda velocidad, Pierde la vida al salvar a un estudiante de primaria que casi es atropellado por el rasho. Pero no todo es malo para nuestro chico suicida. gracias a su buena acción, retrocede 14 años en el tiempo y es recibido en una nueva vida.",
       "visible": true
@@ -22560,7 +22570,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5568"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "Estaba siguiendo fielmente el “manual del Rey Demonio”, y aun así terminé siendo asesinado por los héroes.\n¿Mi torre y yo somos ahora un campo de caza hecho a la medida para héroes?\nUna segunda oportunidad gracias a la regresión… ¡al diablo con ese estúpido manual del Rey Demonio!\n¡La historia del terco(?) Rey Demonio Berje intentando sobrevivir como Rey Demonio!",
       "visible": true
@@ -23249,7 +23259,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4879"
         }
       ],
-      "rating": 3.0,
+      "rating": 3,
       "rating_count": 1,
       "synopsis": "Narukami Subaru, un jugador legendario que muere traicionado por su amigo, renace 20 años en el futuro con todos sus recuerdos intactos. En esta nueva era, su traidor ahora es considerado el mejor jugador. Para descubrir la verdad y vengarse, Subaru decide volverse más fuerte usando un método inesperado: convertirse en streamer. Aunque muchos imitan su antiguo estilo, él está decidido a demostrar que es el auténtico y recuperar lo que perdió.",
       "visible": true
@@ -23275,7 +23285,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Una era de caos tras la pérdida del dueño del trono, cinco grandes familias partidarias se enzarzaron en una gran guerra para hacerse con el trono. Dios se enfadó ante la sangre escarlata que salpicaba su lujuria y lo maldijo, lo que se convirtió en el origen de los rasgos llamados Alfa y Omega. Para aplacar la ira de los dioses, cinco generaciones de las familias que habían, prometieron ofrecer a los dioses la caza fresca que cazaban en competiciones de caza. Mientras tanto, esta competición de caza era la comidilla de la ciudad, y se rumoreaba que el nuevo jefe de la Familia 1 que era famoso por no tener Omegas como cabeza de la familia, era un Omega, y avergonzó a la Familia 2 que era famosa por tener la peor relación con la Familia 1",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-08-31T16:19:24+00:00",
@@ -24610,7 +24620,7 @@
           "telegram_link": "https://t.me/manhuasgratis/3315"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Un día, Linghu Qiang adquirió inesperadamente el sistema «El villano quiere contraatacar» y comenzó su carrera transmigrando en libros. Su misión era sobrevivir para recibir recompensas y regresar a su mundo original. Ser villano no era tarea fácil; en varias ocasiones se encontró directamente con el protagonista que lanzaba misiles a mano y lo eliminaba de inmediato. Cuando se trataba de un inmortal de la espada suprema, ni siquiera le daba tiempo para actuar malvadamente antes de atravesarlo con su espada. En resumen, la tasa de éxito… dependía de qué tipo de villano fuera.",
       "visible": true
@@ -27399,7 +27409,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5199"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 2,
       "synopsis": "Un evento temporal de una obra de 'fantasía moderna' que me gustaba tanto que incluso me tomé un valioso día libre en el trabajo para asistir. Ese mismo día, terminé transmigrando como un personaje en ese mismísimo mundo de fantasía. ¡Y nada menos que como un empleado recién contratado en una corporación grande y famosa! Un trabajo de ensueño con excelentes beneficios, un sueldo magnífico e incluso jefes amables y competentes. ¡Estoy usando la información que conozco sobre este mundo para ascender de puesto a la velocidad de la luz!",
       "visible": true
@@ -30620,14 +30630,14 @@
           ],
           "date": "2026-10-16T23:41:36+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5595_1-20%20Gacha%20infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T002539Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=180c10db49b30e4012c8f43a136a55674dd2491102056e76bf21a601eb9aaefd",
           "filename": "1-20 Gacha infinito -.-.pdf",
           "first": 1,
           "last": 20,
           "message_id": 5595,
           "name": "1-20",
           "size": 224970118,
-          "telegram_link": "https://t.me/manhuasgratis/5595",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5595_1-20%20Gacha%20infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T002539Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=180c10db49b30e4012c8f43a136a55674dd2491102056e76bf21a601eb9aaefd"
+          "telegram_link": "https://t.me/manhuasgratis/5595"
         },
         {
           "channel_id": -1003003829878,
@@ -30655,14 +30665,14 @@
           ],
           "date": "2026-10-16T23:41:36+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5596_21-40%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T002710Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=001d029515bf2cbcd3a0030310c9838f4da69c0f33cf79c9f7257891d5748ef4",
           "filename": "21-40 Gacha Infinito -.-.pdf",
           "first": 21,
           "last": 40,
           "message_id": 5596,
           "name": "21-40",
           "size": 194074766,
-          "telegram_link": "https://t.me/manhuasgratis/5596",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5596_21-40%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T002710Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=001d029515bf2cbcd3a0030310c9838f4da69c0f33cf79c9f7257891d5748ef4"
+          "telegram_link": "https://t.me/manhuasgratis/5596"
         },
         {
           "channel_id": -1003003829878,
@@ -30690,14 +30700,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5597_41-60%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T002836Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e746290f11aefbcb994d10d893e9a0b472488450d4bb5def814554f477f5a7d4",
           "filename": "41-60 Gacha Infinito -.-.pdf",
           "first": 41,
           "last": 60,
           "message_id": 5597,
           "name": "41-60",
           "size": 190182688,
-          "telegram_link": "https://t.me/manhuasgratis/5597",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5597_41-60%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T002836Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e746290f11aefbcb994d10d893e9a0b472488450d4bb5def814554f477f5a7d4"
+          "telegram_link": "https://t.me/manhuasgratis/5597"
         },
         {
           "channel_id": -1003003829878,
@@ -30725,14 +30735,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5598_61-80%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003011Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e32672f72782da21f35a97d4414265d1078e6388e06c0a3561347a3201ad9ca",
           "filename": "61-80 Gacha Infinito -.-.pdf",
           "first": 61,
           "last": 80,
           "message_id": 5598,
           "name": "61-80",
           "size": 202013289,
-          "telegram_link": "https://t.me/manhuasgratis/5598",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5598_61-80%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003011Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e32672f72782da21f35a97d4414265d1078e6388e06c0a3561347a3201ad9ca"
+          "telegram_link": "https://t.me/manhuasgratis/5598"
         },
         {
           "channel_id": -1003003829878,
@@ -30760,14 +30770,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5599_81-100%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003150Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=45be63bdb5eff6ab36eabf054ab0ed628aea05157307a36a748c9e6cce1912ba",
           "filename": "81-100 Gacha Infinito -.-.pdf",
           "first": 81,
           "last": 100,
           "message_id": 5599,
           "name": "81-100",
           "size": 205833376,
-          "telegram_link": "https://t.me/manhuasgratis/5599",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5599_81-100%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003150Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=45be63bdb5eff6ab36eabf054ab0ed628aea05157307a36a748c9e6cce1912ba"
+          "telegram_link": "https://t.me/manhuasgratis/5599"
         },
         {
           "channel_id": -1003003829878,
@@ -30795,14 +30805,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5600_101-120%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003314Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=99913359fec4b9dffe155920d3fe4c143f32f71b24107baa483d10c09153c2e4",
           "filename": "101-120 Gacha Infinito -.-.pdf",
           "first": 101,
           "last": 120,
           "message_id": 5600,
           "name": "101-120",
           "size": 180374374,
-          "telegram_link": "https://t.me/manhuasgratis/5600",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5600_101-120%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003314Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=99913359fec4b9dffe155920d3fe4c143f32f71b24107baa483d10c09153c2e4"
+          "telegram_link": "https://t.me/manhuasgratis/5600"
         },
         {
           "channel_id": -1003003829878,
@@ -30830,14 +30840,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5601_121-140%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003426Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a5dc349929cee96565666de4063eeb66abcebec0e4bedbac7d0fa0fa7e8e5147",
           "filename": "121-140 Gacha Infinito -.-.pdf",
           "first": 121,
           "last": 140,
           "message_id": 5601,
           "name": "121-140",
           "size": 153837632,
-          "telegram_link": "https://t.me/manhuasgratis/5601",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5601_121-140%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003426Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a5dc349929cee96565666de4063eeb66abcebec0e4bedbac7d0fa0fa7e8e5147"
+          "telegram_link": "https://t.me/manhuasgratis/5601"
         },
         {
           "channel_id": -1003003829878,
@@ -30865,14 +30875,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5602_141-160%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003532Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=532d2a1758f4f7ba5a76aa059907fc520deb48aea2603eb65b854aaa49471d03",
           "filename": "141-160 Gacha Infinito -.-.pdf",
           "first": 141,
           "last": 160,
           "message_id": 5602,
           "name": "141-160",
           "size": 147792600,
-          "telegram_link": "https://t.me/manhuasgratis/5602",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5602_141-160%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003532Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=532d2a1758f4f7ba5a76aa059907fc520deb48aea2603eb65b854aaa49471d03"
+          "telegram_link": "https://t.me/manhuasgratis/5602"
         },
         {
           "channel_id": -1003003829878,
@@ -30900,14 +30910,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5603_161-180%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003645Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5ade758dabb9083fab757b7df4870fab3fda2f84e99fd681392d26a37ff8cc2",
           "filename": "161-180 Gacha Infinito -.-.pdf",
           "first": 161,
           "last": 180,
           "message_id": 5603,
           "name": "161-180",
           "size": 161148843,
-          "telegram_link": "https://t.me/manhuasgratis/5603",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5603_161-180%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003645Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5ade758dabb9083fab757b7df4870fab3fda2f84e99fd681392d26a37ff8cc2"
+          "telegram_link": "https://t.me/manhuasgratis/5603"
         },
         {
           "channel_id": -1003003829878,
@@ -30933,14 +30943,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5604_181-198%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003801Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4feaddc12ec1a6fa8b6974d461842c850be4286c016594d2db886fe580ed5099",
           "filename": "181-198 Gacha Infinito -.-.pdf",
           "first": 181,
           "last": 198,
           "message_id": 5604,
           "name": "181-198",
           "size": 170497016,
-          "telegram_link": "https://t.me/manhuasgratis/5604",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5604_181-198%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003801Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4feaddc12ec1a6fa8b6974d461842c850be4286c016594d2db886fe580ed5099"
+          "telegram_link": "https://t.me/manhuasgratis/5604"
         },
         {
           "channel_id": -1003003829878,
@@ -30950,14 +30960,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5605_199-200%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003819Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80441f2282246cd4fe1d9f485715d46525a5f22c30e00040920654fb76b5a8a2",
           "filename": "199-200 Gacha Infinito -.-.pdf",
           "first": 199,
           "last": 200,
           "message_id": 5605,
           "name": "199-200",
           "size": 18283615,
-          "telegram_link": "https://t.me/manhuasgratis/5605",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5605_199-200%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003819Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80441f2282246cd4fe1d9f485715d46525a5f22c30e00040920654fb76b5a8a2"
+          "telegram_link": "https://t.me/manhuasgratis/5605"
         },
         {
           "channel_id": -1003003829878,
@@ -30967,14 +30977,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5606_201-202%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003833Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f5ac377459a2e7c1ab9ddee0dafe70e379cfc1ebe09ed128357e1f871cae4af",
           "filename": "201-202 Gacha Infinito -.-.pdf",
           "first": 201,
           "last": 202,
           "message_id": 5606,
           "name": "201-202",
           "size": 16681087,
-          "telegram_link": "https://t.me/manhuasgratis/5606",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5606_201-202%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003833Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f5ac377459a2e7c1ab9ddee0dafe70e379cfc1ebe09ed128357e1f871cae4af"
+          "telegram_link": "https://t.me/manhuasgratis/5606"
         },
         {
           "channel_id": -1003003829878,
@@ -30984,14 +30994,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5607_203-204%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003847Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e957b1be7fe69a608d454a192aaae89cb245ade8640e561db9445d08b361f26e",
           "filename": "203-204 Gacha Infinito -.-.pdf",
           "first": 203,
           "last": 204,
           "message_id": 5607,
           "name": "203-204",
           "size": 15425107,
-          "telegram_link": "https://t.me/manhuasgratis/5607",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5607_203-204%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003847Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e957b1be7fe69a608d454a192aaae89cb245ade8640e561db9445d08b361f26e"
+          "telegram_link": "https://t.me/manhuasgratis/5607"
         },
         {
           "channel_id": -1003003829878,
@@ -31000,14 +31010,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5608_205%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01c596b67e603ecba40bf752e641ff7f3feed802d31ea99126f156aca1229c83",
           "filename": "205 Gacha Infinito -.-.pdf",
           "first": 205,
           "last": 205,
           "message_id": 5608,
           "name": "205",
           "size": 10472463,
-          "telegram_link": "https://t.me/manhuasgratis/5608",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5608_205%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01c596b67e603ecba40bf752e641ff7f3feed802d31ea99126f156aca1229c83"
+          "telegram_link": "https://t.me/manhuasgratis/5608"
         },
         {
           "channel_id": -1003003829878,
@@ -31016,14 +31026,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5609_206%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003906Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d6a7c3be5302b3e54bd2777aef42705c6e15af157bb868df7b475668cbcdde4",
           "filename": "206 Gacha Infinito -.-.pdf",
           "first": 206,
           "last": 206,
           "message_id": 5609,
           "name": "206",
           "size": 7986523,
-          "telegram_link": "https://t.me/manhuasgratis/5609",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5609_206%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003906Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d6a7c3be5302b3e54bd2777aef42705c6e15af157bb868df7b475668cbcdde4"
+          "telegram_link": "https://t.me/manhuasgratis/5609"
         },
         {
           "channel_id": -1003003829878,
@@ -31032,14 +31042,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5610_207%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a5fcdb6f4eb40f790f30e45799796222014ca3598f47f639d2dfc7fb43a7d12",
           "filename": "207 Gacha Infinito -.-.pdf",
           "first": 207,
           "last": 207,
           "message_id": 5610,
           "name": "207",
           "size": 6564832,
-          "telegram_link": "https://t.me/manhuasgratis/5610",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5610_207%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003913Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a5fcdb6f4eb40f790f30e45799796222014ca3598f47f639d2dfc7fb43a7d12"
+          "telegram_link": "https://t.me/manhuasgratis/5610"
         },
         {
           "channel_id": -1003003829878,
@@ -31048,14 +31058,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5611_208%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2004a535e4e0acaf3a55cb9dfe1d0b38f23b98bc5423762cc23b65cd613c2bcb",
           "filename": "208 Gacha Infinito -.-.pdf",
           "first": 208,
           "last": 208,
           "message_id": 5611,
           "name": "208",
           "size": 5660164,
-          "telegram_link": "https://t.me/manhuasgratis/5611",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5611_208%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2004a535e4e0acaf3a55cb9dfe1d0b38f23b98bc5423762cc23b65cd613c2bcb"
+          "telegram_link": "https://t.me/manhuasgratis/5611"
         },
         {
           "channel_id": -1003003829878,
@@ -31064,14 +31074,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5612_209%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003929Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b3179cb828eac0b257c6ab454a9720d63694e5fc7043b02ae6807daf3f752467",
           "filename": "209 Gacha Infinito -.-.pdf",
           "first": 209,
           "last": 209,
           "message_id": 5612,
           "name": "209",
           "size": 7262684,
-          "telegram_link": "https://t.me/manhuasgratis/5612",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5612_209%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003929Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b3179cb828eac0b257c6ab454a9720d63694e5fc7043b02ae6807daf3f752467"
+          "telegram_link": "https://t.me/manhuasgratis/5612"
         },
         {
           "channel_id": -1003003829878,
@@ -31080,14 +31090,14 @@
           ],
           "date": "2026-10-16T23:41:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5613_210%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003939Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cbb99d6fe4397aef604d215a33978eb916556cf9aa63f3016da5b02c9e888d51",
           "filename": "210 Gacha Infinito -.-.pdf",
           "first": 210,
           "last": 210,
           "message_id": 5613,
           "name": "210",
           "size": 8714207,
-          "telegram_link": "https://t.me/manhuasgratis/5613",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5613_210%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003939Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cbb99d6fe4397aef604d215a33978eb916556cf9aa63f3016da5b02c9e888d51"
+          "telegram_link": "https://t.me/manhuasgratis/5613"
         },
         {
           "channel_id": -1003003829878,
@@ -31096,14 +31106,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5614_211%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003948Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b182d7dbd51d0292767a458ca9cce76d66f79d16658073611ccdcf8ea8cf14f",
           "filename": "211 Gacha Infinito -.-.pdf",
           "first": 211,
           "last": 211,
           "message_id": 5614,
           "name": "211",
           "size": 8631273,
-          "telegram_link": "https://t.me/manhuasgratis/5614",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5614_211%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003948Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b182d7dbd51d0292767a458ca9cce76d66f79d16658073611ccdcf8ea8cf14f"
+          "telegram_link": "https://t.me/manhuasgratis/5614"
         },
         {
           "channel_id": -1003003829878,
@@ -31112,14 +31122,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5615_212%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a3d6bcef5a3a27c35a47348aadd13e19b037112101fcea23abf0295bb49e7b13",
           "filename": "212 Gacha Infinito -.-.pdf",
           "first": 212,
           "last": 212,
           "message_id": 5615,
           "name": "212",
           "size": 7875168,
-          "telegram_link": "https://t.me/manhuasgratis/5615",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5615_212%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T003958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a3d6bcef5a3a27c35a47348aadd13e19b037112101fcea23abf0295bb49e7b13"
+          "telegram_link": "https://t.me/manhuasgratis/5615"
         },
         {
           "channel_id": -1003003829878,
@@ -31128,14 +31138,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5616_213%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e44fa19b9e1c4d669cab4716cf7011632b5ac81ca52bf65b7316377ee301346e",
           "filename": "213 Gacha Infinito -.-.pdf",
           "first": 213,
           "last": 213,
           "message_id": 5616,
           "name": "213",
           "size": 7246625,
-          "telegram_link": "https://t.me/manhuasgratis/5616",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5616_213%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e44fa19b9e1c4d669cab4716cf7011632b5ac81ca52bf65b7316377ee301346e"
+          "telegram_link": "https://t.me/manhuasgratis/5616"
         },
         {
           "channel_id": -1003003829878,
@@ -31144,14 +31154,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5617_214%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee691e9f50a9528b8ac9cd6573de25bc477321c6b090b09894fa3ddef8dad60e",
           "filename": "214 Gacha Infinito -.-.pdf",
           "first": 214,
           "last": 214,
           "message_id": 5617,
           "name": "214",
           "size": 7570879,
-          "telegram_link": "https://t.me/manhuasgratis/5617",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5617_214%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee691e9f50a9528b8ac9cd6573de25bc477321c6b090b09894fa3ddef8dad60e"
+          "telegram_link": "https://t.me/manhuasgratis/5617"
         },
         {
           "channel_id": -1003003829878,
@@ -31160,14 +31170,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5618_215%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17d75a4ce1178bbcfcbf657ee6d15fe5edd1b789a253418e2ae8a081217b9c2c",
           "filename": "215 Gacha Infinito -.-.pdf",
           "first": 215,
           "last": 215,
           "message_id": 5618,
           "name": "215",
           "size": 9475396,
-          "telegram_link": "https://t.me/manhuasgratis/5618",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5618_215%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17d75a4ce1178bbcfcbf657ee6d15fe5edd1b789a253418e2ae8a081217b9c2c"
+          "telegram_link": "https://t.me/manhuasgratis/5618"
         },
         {
           "channel_id": -1003003829878,
@@ -31176,14 +31186,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5619_216%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef1a381fbee15b75b382c4bf75188a69c1d0fd942ef8578d2e860f0be92d369f",
           "filename": "216 Gacha Infinito -.-.pdf",
           "first": 216,
           "last": 216,
           "message_id": 5619,
           "name": "216",
           "size": 8923512,
-          "telegram_link": "https://t.me/manhuasgratis/5619",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5619_216%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004034Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef1a381fbee15b75b382c4bf75188a69c1d0fd942ef8578d2e860f0be92d369f"
+          "telegram_link": "https://t.me/manhuasgratis/5619"
         },
         {
           "channel_id": -1003003829878,
@@ -31193,14 +31203,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5620_217-218%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004050Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=af0151d81644318e44b39011b624abd84ba9f0b231f15cc7923c36f5ec2e39ac",
           "filename": "217-218 Gacha Infinito -.-.pdf",
           "first": 217,
           "last": 218,
           "message_id": 5620,
           "name": "217-218",
           "size": 18066603,
-          "telegram_link": "https://t.me/manhuasgratis/5620",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5620_217-218%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004050Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=af0151d81644318e44b39011b624abd84ba9f0b231f15cc7923c36f5ec2e39ac"
+          "telegram_link": "https://t.me/manhuasgratis/5620"
         },
         {
           "channel_id": -1003003829878,
@@ -31209,14 +31219,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5621_219%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004102Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58b3efc5dbe50303de5e6f15941d34264bed0dc910d305c70735034e227f388f",
           "filename": "219 Gacha Infinito -.-.pdf",
           "first": 219,
           "last": 219,
           "message_id": 5621,
           "name": "219",
           "size": 13104041,
-          "telegram_link": "https://t.me/manhuasgratis/5621",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5621_219%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004102Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58b3efc5dbe50303de5e6f15941d34264bed0dc910d305c70735034e227f388f"
+          "telegram_link": "https://t.me/manhuasgratis/5621"
         },
         {
           "channel_id": -1003003829878,
@@ -31225,14 +31235,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5622_220%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004112Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab37ccca51565f9c9c6c8cca43bec310881293940766e41e3252c4bdd88f8ceb",
           "filename": "220 Gacha Infinito -.-.pdf",
           "first": 220,
           "last": 220,
           "message_id": 5622,
           "name": "220",
           "size": 9232219,
-          "telegram_link": "https://t.me/manhuasgratis/5622",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5622_220%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004112Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab37ccca51565f9c9c6c8cca43bec310881293940766e41e3252c4bdd88f8ceb"
+          "telegram_link": "https://t.me/manhuasgratis/5622"
         },
         {
           "channel_id": -1003003829878,
@@ -31241,14 +31251,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5623_221%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004122Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=39c91bd35689184cee814be0a6ada63676438ab6267c1db45f79bc14f0990c10",
           "filename": "221 Gacha Infinito -.-.pdf",
           "first": 221,
           "last": 221,
           "message_id": 5623,
           "name": "221",
           "size": 10009339,
-          "telegram_link": "https://t.me/manhuasgratis/5623",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5623_221%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004122Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=39c91bd35689184cee814be0a6ada63676438ab6267c1db45f79bc14f0990c10"
+          "telegram_link": "https://t.me/manhuasgratis/5623"
         },
         {
           "channel_id": -1003003829878,
@@ -31257,14 +31267,14 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5624_222%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004131Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=858472ce681aada6179a49d3255b9dc8c138e50047eec893e90999b51267e5ee",
           "filename": "222 Gacha Infinito -.-.pdf",
           "first": 222,
           "last": 222,
           "message_id": 5624,
           "name": "222",
           "size": 7496735,
-          "telegram_link": "https://t.me/manhuasgratis/5624",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5624_222%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004131Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=858472ce681aada6179a49d3255b9dc8c138e50047eec893e90999b51267e5ee"
+          "telegram_link": "https://t.me/manhuasgratis/5624"
         },
         {
           "channel_id": -1003003829878,
@@ -31273,20 +31283,20 @@
           ],
           "date": "2026-10-16T23:41:38+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5625_223%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004141Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9124228a8458188def58b8604e1428c00c0913c3859a4114166d49296c4e7132",
           "filename": "223 Gacha Infinito -.-.pdf",
           "first": 223,
           "last": 223,
           "message_id": 5625,
           "name": "223",
           "size": 7550291,
-          "telegram_link": "https://t.me/manhuasgratis/5625",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/5625_223%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004141Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9124228a8458188def58b8604e1428c00c0913c3859a4114166d49296c4e7132"
+          "telegram_link": "https://t.me/manhuasgratis/5625"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": ": El juego gacha para móviles es conocido por ser brutalmente difícil, y nadie ha sido capaz de despejar una mazmorra. Loki, el quinto entre todos los maestros del mundo, pierde el conocimiento mientras intenta despejar la mazmorra. Al despertar, Loki se encuentra convertido en un héroe de nivel 1, \"Islat Han\". \"¡Es él! Estoy seguro de que es él quien me ha traído aquí\". Para volver a la Tierra, ¡debe guiar a maestros novatos y héroes y atravesar el piso 100 de la mazmorra! \"Te metiste con la persona equivocada\". Esta es la historia del maestro Loki, que se ve obligado a llevar a todos a la victoria y no puede permitirse ni una sola derrota.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-06T03:00:42.605124+00:00",
@@ -32493,7 +32503,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5548"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "[Por el estudio que te trajo<Sobreviviendo al juego como un bárbaro><El pasado oculto del Jugador>\n<El Rey Demonio abrumado por los héroes> ¡y muchos más!> ]Un día, misteriosas torres negras surgieron de repente por todo el mundo, y unos pocos elegidos comenzaron a despertar.Pero para Bong Joohyuk —un don nadie débil y sin suerte— era algo que no debería haber tenido nada que ver con él.Después de otro día agotador en su trabajo de medio tiempo, justo cuando estaba a punto de darle un bocado a su ramen, entonces—[Bong Joohyuk, has despertado.]“…Eh, joder, ¿qué demonios?!\"¿Será esta por fin su oportunidad para cambiar su vida?",
       "visible": true
@@ -33024,7 +33034,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5295"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 2,
       "synopsis": "Soy un extra villano de tercera en mi juego favorito. No tengo ambiciones y sólo quiero vivir una vida tranquila. Pero vaya, este mundo es un lugar difícil para sobrevivir. Sobreviviré hasta el final de esta historia, de una forma que el protagonista no puede. Sobreviviré a la manera de un villano de tercera.",
       "visible": true
@@ -33386,7 +33396,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5219"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Fui transmigrado a un juego que nunca había visto antes. Pensé que era un RPG de primer nivel — así que, en vez de seguir la trama principal, me dediqué a explorar, a pelear, a sobrevivir. Treinta años después, me había convertido en un héroe de guerra curtido en incontables batallas. Me retiré pensando que por fin podría descansar en paz. Pero resulta que todo eso — la guerra, las tres décadas, mi leyenda — era solo el prólogo. El verdadero juego era una historia de academia... y ahora tengo que sentarme en un salón de clases rodeado de adolescentes, cargando tres décadas de trauma, instinto militar y reflejos.",
       "visible": true
@@ -34592,7 +34602,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4885"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 2,
       "synopsis": "Lin Tianhao, quien llegó desde otro mundo, logra cambiar de clase durante la gran ceremonia de transferencia de profesiones, convirtiéndose en una clase considerada de bajo nivel: Invocador.\nJusto cuando todos se burlaban de que su futuro estaba arruinado, ¡de repente despierta un sistema y se le asigna una identidad única: «Sacrificio Demoníaco»!\n¿Quién dijo que ser invocador es una clase de segunda? ¡Yo tengo el talento SSS más fuerte!",
       "visible": true
@@ -37326,7 +37336,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5235"
         }
       ],
-      "rating": 2.0,
+      "rating": 2,
       "rating_count": 1,
       "synopsis": "Suchan Jang es una estudiante universitaria extraordinaria en la cima de la cadena alimentaria social. Pero debajo de la fachada perfecta, esconde un par de alas de insectos que de repente crecieron cuando usó un misterioso repelente de insectos llamado \"Jungle Juice\". La vida de Suchan se desmorona cuando muestra sus alas al mundo para salvar la vida de alguien. Cuando toda esperanza parece perdida, Suchan se topa con un mundo oculto de insectos humanos donde todos son aceptados por lo que son. Pero la ley de la jungla gobierna esta sociedad secreta. y todos deben valerse por sí mismos para sobrevivir.",
       "visible": true
@@ -39431,14 +39441,14 @@
           ],
           "date": "2026-10-16T18:37:35+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/231_%5B%5B001--010%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1b75212a484687a812a271a196b1120b00ca7a4814f6e98c12972a65fc20f32",
           "filename": "[[001--010]] La emperatriz abandonada ~by🦆.pdf",
           "first": 1,
           "last": 10,
           "message_id": 231,
           "name": "1-10",
           "size": 48669707,
-          "telegram_link": "https://t.me/manhuasgratis/231",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/231_%5B%5B001--010%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1b75212a484687a812a271a196b1120b00ca7a4814f6e98c12972a65fc20f32"
+          "telegram_link": "https://t.me/manhuasgratis/231"
         },
         {
           "channel_id": -1004367557958,
@@ -39456,14 +39466,14 @@
           ],
           "date": "2026-10-16T18:37:35+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/232_%5B%5B011--020%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004248Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=35896bd4f37be98b7cf8a6b24fc87a0ac516aafbf9ca523df6cf22cdd0b0fa56",
           "filename": "[[011--020]] La emperatriz abandonada ~by🦆.pdf",
           "first": 11,
           "last": 20,
           "message_id": 232,
           "name": "11-20",
           "size": 47267847,
-          "telegram_link": "https://t.me/manhuasgratis/232",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/232_%5B%5B011--020%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004248Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=35896bd4f37be98b7cf8a6b24fc87a0ac516aafbf9ca523df6cf22cdd0b0fa56"
+          "telegram_link": "https://t.me/manhuasgratis/232"
         },
         {
           "channel_id": -1004367557958,
@@ -39481,14 +39491,14 @@
           ],
           "date": "2026-10-16T18:37:36+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/233_%5B%5B021--030%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f10e3aea7ccae17ad43bafcc04b8674c84e84c1546be5bf42302fcaac31d4a3",
           "filename": "[[021--030]] La emperatriz abandonada ~by🦆.pdf",
           "first": 21,
           "last": 30,
           "message_id": 233,
           "name": "21-30",
           "size": 51226991,
-          "telegram_link": "https://t.me/manhuasgratis/233",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/233_%5B%5B021--030%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f10e3aea7ccae17ad43bafcc04b8674c84e84c1546be5bf42302fcaac31d4a3"
+          "telegram_link": "https://t.me/manhuasgratis/233"
         },
         {
           "channel_id": -1004367557958,
@@ -39506,14 +39516,14 @@
           ],
           "date": "2026-10-16T18:37:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/234_%5B%5B031--040%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004401Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dace925c8efd91a860d646f8e67b7919ae522386155bb6fc0eb463bc8aef7af1",
           "filename": "[[031--040]] La emperatriz abandonada ~by🦆.pdf",
           "first": 31,
           "last": 40,
           "message_id": 234,
           "name": "31-40",
           "size": 50722419,
-          "telegram_link": "https://t.me/manhuasgratis/234",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/234_%5B%5B031--040%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004401Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dace925c8efd91a860d646f8e67b7919ae522386155bb6fc0eb463bc8aef7af1"
+          "telegram_link": "https://t.me/manhuasgratis/234"
         },
         {
           "channel_id": -1004367557958,
@@ -39531,14 +39541,14 @@
           ],
           "date": "2026-10-16T18:37:37+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/235_%5B%5B041--050%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004446Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3a540d4cce72405a8a759baef5d4b06c3dc7a7c4027c8891d4f79edc41cda7e7",
           "filename": "[[041--050]] La emperatriz abandonada ~by🦆.pdf",
           "first": 41,
           "last": 50,
           "message_id": 235,
           "name": "41-50",
           "size": 63360786,
-          "telegram_link": "https://t.me/manhuasgratis/235",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/235_%5B%5B041--050%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004446Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3a540d4cce72405a8a759baef5d4b06c3dc7a7c4027c8891d4f79edc41cda7e7"
+          "telegram_link": "https://t.me/manhuasgratis/235"
         },
         {
           "channel_id": -1004367557958,
@@ -39556,14 +39566,14 @@
           ],
           "date": "2026-10-16T18:37:39+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/236_%5B%5B051--060%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004552Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea39085ee024334089dd0088bc927e63580317ccfd451e3cdc915a633eb166c0",
           "filename": "[[051--060]] La emperatriz abandonada ~by🦆.pdf",
           "first": 51,
           "last": 60,
           "message_id": 236,
           "name": "51-60",
           "size": 97799087,
-          "telegram_link": "https://t.me/manhuasgratis/236",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/236_%5B%5B051--060%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004552Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea39085ee024334089dd0088bc927e63580317ccfd451e3cdc915a633eb166c0"
+          "telegram_link": "https://t.me/manhuasgratis/236"
         },
         {
           "channel_id": -1004367557958,
@@ -39581,14 +39591,14 @@
           ],
           "date": "2026-10-16T18:37:40+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/237_%5B%5B061--070%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004702Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5adc875f919a8daff60cce0bc9014eee36f395a6c1e1885737c32bc29921578e",
           "filename": "[[061--070]] La emperatriz abandonada ~by🦆.pdf",
           "first": 61,
           "last": 70,
           "message_id": 237,
           "name": "61-70",
           "size": 103036889,
-          "telegram_link": "https://t.me/manhuasgratis/237",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/237_%5B%5B061--070%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004702Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5adc875f919a8daff60cce0bc9014eee36f395a6c1e1885737c32bc29921578e"
+          "telegram_link": "https://t.me/manhuasgratis/237"
         },
         {
           "channel_id": -1004367557958,
@@ -39606,14 +39616,14 @@
           ],
           "date": "2026-10-16T18:37:41+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/238_%5B%5B071--080%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004747Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=951bbd58cdc8699a7c5cf58366e165efd6058668a1e9229e6a36d3d43c1763d6",
           "filename": "[[071--080]] La emperatriz abandonada ~by🦆.pdf",
           "first": 71,
           "last": 80,
           "message_id": 238,
           "name": "71-80",
           "size": 65334899,
-          "telegram_link": "https://t.me/manhuasgratis/238",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/238_%5B%5B071--080%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004747Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=951bbd58cdc8699a7c5cf58366e165efd6058668a1e9229e6a36d3d43c1763d6"
+          "telegram_link": "https://t.me/manhuasgratis/238"
         },
         {
           "channel_id": -1004367557958,
@@ -39631,14 +39641,14 @@
           ],
           "date": "2026-10-16T18:37:42+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/239_%5B%5B081--090%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004855Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dada69bfddc08f825220b0a20c802d2815a7097c7da0dcbbe530ad0299af850b",
           "filename": "[[081--090]] La emperatriz abandonada ~by🦆.pdf",
           "first": 81,
           "last": 90,
           "message_id": 239,
           "name": "81-90",
           "size": 102663784,
-          "telegram_link": "https://t.me/manhuasgratis/239",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/239_%5B%5B081--090%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T004855Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dada69bfddc08f825220b0a20c802d2815a7097c7da0dcbbe530ad0299af850b"
+          "telegram_link": "https://t.me/manhuasgratis/239"
         },
         {
           "channel_id": -1004367557958,
@@ -39656,14 +39666,14 @@
           ],
           "date": "2026-10-16T18:37:42+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/240_%5B%5B091--100%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b2666d1f24226753874cf87d8f13d693020d5015a79402d4596a1ddeac7bc25",
           "filename": "[[091--100]] La emperatriz abandonada ~by🦆.pdf",
           "first": 91,
           "last": 100,
           "message_id": 240,
           "name": "91-100",
           "size": 103762475,
-          "telegram_link": "https://t.me/manhuasgratis/240",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/240_%5B%5B091--100%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b2666d1f24226753874cf87d8f13d693020d5015a79402d4596a1ddeac7bc25"
+          "telegram_link": "https://t.me/manhuasgratis/240"
         },
         {
           "channel_id": -1004367557958,
@@ -39681,14 +39691,14 @@
           ],
           "date": "2026-10-16T18:37:43+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/241_%5B%5B111--120%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005051Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=311a74204a2e65fd2ffcd4bed78c7308e77166e6798b4cc3efd63186622b9da6",
           "filename": "[[111--120]] La emperatriz abandonada ~by🦆.pdf",
           "first": 111,
           "last": 120,
           "message_id": 241,
           "name": "111-120",
           "size": 60154950,
-          "telegram_link": "https://t.me/manhuasgratis/241",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/241_%5B%5B111--120%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005051Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=311a74204a2e65fd2ffcd4bed78c7308e77166e6798b4cc3efd63186622b9da6"
+          "telegram_link": "https://t.me/manhuasgratis/241"
         },
         {
           "channel_id": -1004367557958,
@@ -39706,14 +39716,14 @@
           ],
           "date": "2026-10-16T18:37:44+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/242_%5B%5B121--130%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005132Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=611e45050f3336a6e173e0c001687fa2cf7ea6d16d868af707e334d96bef717e",
           "filename": "[[121--130]] La emperatriz abandonada ~by🦆.pdf",
           "first": 121,
           "last": 130,
           "message_id": 242,
           "name": "121-130",
           "size": 59092273,
-          "telegram_link": "https://t.me/manhuasgratis/242",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/242_%5B%5B121--130%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005132Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=611e45050f3336a6e173e0c001687fa2cf7ea6d16d868af707e334d96bef717e"
+          "telegram_link": "https://t.me/manhuasgratis/242"
         },
         {
           "channel_id": -1004367557958,
@@ -39731,14 +39741,14 @@
           ],
           "date": "2026-10-16T18:37:44+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/243_%5B%5B131--140%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d11bcc11c7f411a5623c6dddb9fc303ec259d35aac5047a899ff380ed9942611",
           "filename": "[[131--140]] La emperatriz abandonada ~by🦆.pdf",
           "first": 131,
           "last": 140,
           "message_id": 243,
           "name": "131-140",
           "size": 62777378,
-          "telegram_link": "https://t.me/manhuasgratis/243",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/243_%5B%5B131--140%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d11bcc11c7f411a5623c6dddb9fc303ec259d35aac5047a899ff380ed9942611"
+          "telegram_link": "https://t.me/manhuasgratis/243"
         },
         {
           "channel_id": -1004367557958,
@@ -39751,14 +39761,14 @@
           ],
           "date": "2026-10-16T18:37:45+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/244_%5B%5B141--145%20Fin%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005301Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=358fce7dfceb427db3828453bb77e806613e84d2396485136eed14394a175121",
           "filename": "[[141--145 Fin]] La emperatriz abandonada ~by🦆.pdf",
           "first": 141,
           "last": 145,
           "message_id": 244,
           "name": "141-145",
           "size": 65687471,
-          "telegram_link": "https://t.me/manhuasgratis/244",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_abandonada/244_%5B%5B141--145%20Fin%5D%5D%20La%20emperatriz%20abandonada%20~by%F0%9F%A6%86.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T005301Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=358fce7dfceb427db3828453bb77e806613e84d2396485136eed14394a175121"
+          "telegram_link": "https://t.me/manhuasgratis/244"
         },
         {
           "channel_id": -1004367557958,
@@ -39794,7 +39804,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Como orgullosa hija de la casa Monique, Aristia fue criada para convertirse en la próxima emperatriz del Imperio Castina. Pero con la aparición de una chica misteriosa, todo se ha desmoronado; el emperador le ha dado la espalda y la miserable vida de Aristia como una reina inferior, se ve interrumpida por la muerte. ¡Sin embargo, una segunda oportunidad para cambiar su destino la hace renacer a la edad de 10años",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-16T18:37:22+00:00",
@@ -44022,7 +44032,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5571"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "El Rey Grey tiene una fuerza, riqueza y prestigio incomparables en un mundo gobernado por la habilidad marcial. Sin embargo, la soledad se mantiene muy por detrás de aquellos con gran poder. Debajo del glamoroso exterior de un poderoso rey acecha el caparazón del hombre, desprovisto de propósito y voluntad. Reencarnado en un nuevo mundo lleno de magia y monstruos, el rey tiene una segunda oportunidad de revivir su vida. Sin embargo, corregir su error pasado no será su único desafío. Debajo de la paz y la prosperidad del nuevo mundo hay una corriente subterránea que amenaza con destruir todo para lo que ha trabajado, cuestionando su papel y la razón para nacer de nuevo.",
       "visible": true
@@ -46640,7 +46650,7 @@
           "telegram_link": "https://t.me/manhuasgratis/4892"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "En los barrios bajos vivía un joven llamado Ray que carecía de emociones.\nDe repente, adquirió la capacidad de ver \"colores\" que nadie más podía ver, y tenía el poder de controlarlos.\nUn día, perdió su refugio, un paso subterráneo, y a sus amigos a manos de un mago. Incluso perdió a Niles, en quien había creído y a quien seguía.\nEl chico sin emociones juró vengarse, comenzando su búsqueda para recuperar sus emociones.",
       "visible": true
@@ -48113,7 +48123,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5187"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Un joven, Han Sunghyun, pierde a su familia en un ataque indiscriminado de superhumanos. Mientras vive una vida solitaria debido al trauma del incidente, un día, despierta la capacidad de controlar avatares en su lugar. «¡¿Qué?! ¿Puedo enviar avatares a cazar en otros mundos peligrosos mientras me quedo a salvo en casa, concentrándome solo en fortalecer mis poderes?» A medida que sus avatares crecen rápidamente, cruzando dimensiones, razas y profesiones, ¡Han Sunghyun comienza a cazar a los superhumanos que abusan de sus poderes!",
       "visible": true
@@ -52177,7 +52187,7 @@
           "telegram_link": "https://t.me/manhuasgratis/2076"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "🌀▹Sinopsis: [Adaptación de una de las mejores novelas de todos los tiempos.]\nShi Feng era uno de los mejores jugadores del juego online “God’s Domain” hasta que fue traicionado por su propio gremio.\nDespués de una noche de beber para sobrellevar sus penas, Shi Feng se despertó y se encontró diez años en el pasado… en una época en la que el “Dominio de Dios” había sido lanzado por primera vez. Con sus recuerdos y sus diez años de experiencia, Shi Feng emprende un viaje de vuelta a la cima. Esta vez, se niega a ser controlado. Y en esta vida, subirá a alturas aún mayores.",
       "visible": true
@@ -52501,7 +52511,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5352"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Dane Sogres, un joven que murió antes de poder desarrollar todo su talento en el campo de batalla, se despierta para descubrir que ha renacido como el hijo menor de un prestigioso conde. Ahora con un vasto talento en diversas disciplinas como el manejo de la lanza, el asesinato, la magia, la invocación y la espada, Dane tiene una segunda oportunidad para cultivar sus habilidades. En su nueva vida, rodeado de una familia amorosa que siempre deseó, se enfrenta a desafíos y diferencias de opinión sobre qué camino seguir. Mientras su padre insiste en enseñarle el manejo de la lanza y su madre sueña con que aprenda magia, Dane debe equilibrar sus talentos y encontrar su verdadero destino en un entorno lleno de amor y expectativas.",
       "visible": true
@@ -54751,7 +54761,7 @@
           "telegram_link": "https://t.me/c/-1004467622375/14"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "Después de romper con su novia, Kyung-ho bebe con su amiga Seung-ah y dice que todas las mujeres son iguales. Seung-ah, furiosa por esas palabras, sugiere un trato... \"¿Te gustaría apostar a qué te la ponga dura?\".",
       "visible": true
@@ -58934,7 +58944,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5573"
         }
       ],
-      "rating": 2.0,
+      "rating": 2,
       "rating_count": 1,
       "synopsis": "Lin Tian reencarnó como un duende, el rango más bajo de las criaturas mágicas e inicialmente tuvo que permanecer oculto. Luego, él entendió por completo la verdadera naturaleza de un duende. Bendecido con mucha descendencia, ¡cuantos más hijos tiene, más fuerte se vuelve gracias a las bendiciones de los dioses!",
       "visible": true
@@ -64585,7 +64595,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5524"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "¿Qué pasa si tu vida es como jugar un juego? ¿Qué pasa si puedes mejorar tu estado y ganar más niveles? ¡Un mundo de fantasía se acerca a ti!\nHan Jee-Han, un estudiante normal de secundaria, de repente desarrolla un poder especial que hace que todo su mundo se convierta en un entorno similar a un juego. Puede ver los niveles de poder de las personas, mirar las estadísticas de un objeto aparentemente normal, obtener habilidades e incluso subir de nivel. Sigue a Han Jee-Han mientras descubre cómo usar este poder y tal vez incluso de dónde viene.",
       "visible": true
@@ -66302,7 +66312,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5296"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 2,
       "synopsis": "Al despertar, Kim Hajin se encuentra en un mundo familiar pero en un cuerpo desconocido.\nUn mundo que él mismo creó y una historia que escribió, pero que nunca terminó.\nSe había convertido en el extra de su novela, un personaje de relleno sin importancia para la historia.\nLa única pista para escapar es permanecer cerca de la historia principal.\nSin embargo, pronto descubre que el mundo no es exactamente idéntico a su creación.",
       "visible": true
@@ -66910,7 +66920,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5471"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Hang Hao se desmayó después de ver la rara luna de sangre en un siglo. Después de despertar, descubrió que el mundo entero había cambiado. Los atributos y conceptos de los hombres y las mujeres están completamente invertidos. Se ha vuelto muy normal que la mujer trabaje para mantener a su familia. Y en algo normal que un hombre se dedique a cuidar la casa. Una mujer sin coche o casa será despreciada, y tampoco encontrará ningún hombre. Los hombres se han vuelto preciosos. Es normal que las mujeres los persigan, pero los hombres persiguen a las mujeres de vuelta…«¡Realmente no es que quiera comer arroz blando! ¡También quiero ser un hombre de verdad!",
       "visible": true
@@ -67642,7 +67652,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5278"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 2,
       "synopsis": "Tras ser traicionado por su propio hermano, el guerrero supremo Gu Chen regresa a su yo de 18 años justo antes de su despertar de clase. En su vida pasada, a pesar de haber sido abandonado en una aldea agrícola por su padre y oprimido por su madrastra y su hermano, Gu Chen los seguía considerando familia, y su constante sumisión lo llevó a la traición definitiva. Armado con una segunda oportunidad y ahora fusionado con la Sangre del Rey Demonio, decide tomar un camino diferente. Rompe lazos con su tóxica familia y elige convertirse en un Invocador Oscuro, aprovechando su inmenso talento y el conocimiento de su vida pasada para embarcarse en un camino imparable de ascenso de nivel.",
       "visible": true
@@ -67721,7 +67731,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5224"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "El año es 2126. La humanidad ha creado con éxito puertas espaciales para aventurarse en el cosmos, sólo para encontrarse empujados a una era de guerra interminable contra los monstruos extraterrestres. [La ventana de estado se ha activado.]",
       "visible": true
@@ -69729,7 +69739,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5566"
         }
       ],
-      "rating": 5.0,
+      "rating": 5,
       "rating_count": 1,
       "synopsis": "Después de medio año huyendo, el vampiro Eugene fue finalmente asesinado, ofrecido como sacrificio para aumentar la fama de un caballero sagrado. Justo cuando su vida terminaba en un amargo arrepentimiento, se le presentó una oportunidad de regresar. “Jamás volveré a morir así. Si realmente regresé al pasado, entonces no volveré a arrepentirme de nada por segunda vez... sin importar lo que tenga que hacer.”",
       "visible": true
@@ -70697,7 +70707,7 @@
           "telegram_link": "https://t.me/manhuasgratis/5372"
         }
       ],
-      "rating": 4.0,
+      "rating": 4,
       "rating_count": 1,
       "synopsis": "Ye Zheng transmigra a un mundo de cultivo sin talento y con un sistema bloqueado. Tras ser rechazado por las sectas \"rectas\", se une a la Secta Hehuan, considerada villana. Buscando la paz, huye con una joven llamada Xiao Tao, pero la maestra \"justiciera\" Bai Ningbing la asesina frente a él.\nEn su lecho de muerte, la sed de venganza activa su Sistema de Corrección de Personalidad, el cual le permite capturar y reformar forzosamente a quienes lo odian. Ahora, Ye Zheng usará a las despiadadas \"Hadas\" como calderos para nutrir su ascenso y cobrar su deuda de sangre.",
       "visible": true
@@ -70709,6 +70719,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-17T00:07:11.702901+00:00",
+  "updated_at": "2026-10-17T02:21:41.142564+00:00",
   "version": 3
 }
