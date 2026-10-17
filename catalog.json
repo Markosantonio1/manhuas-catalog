@@ -23285,7 +23285,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Una era de caos tras la pérdida del dueño del trono, cinco grandes familias partidarias se enzarzaron en una gran guerra para hacerse con el trono. Dios se enfadó ante la sangre escarlata que salpicaba su lujuria y lo maldijo, lo que se convirtió en el origen de los rasgos llamados Alfa y Omega. Para aplacar la ira de los dioses, cinco generaciones de las familias que habían, prometieron ofrecer a los dioses la caza fresca que cazaban en competiciones de caza. Mientras tanto, esta competición de caza era la comidilla de la ciudad, y se rumoreaba que el nuevo jefe de la Familia 1 que era famoso por no tener Omegas como cabeza de la familia, era un Omega, y avergonzó a la Familia 2 que era famosa por tener la peor relación con la Familia 1",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-08-31T16:19:24+00:00",
@@ -30363,7 +30363,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "‘”Citas a través de las redes sociales, citas casuales, con tu ex amante como amigos”. ¿Es así como se hacen las citas hoy en día? Jaja, ¿en serio? Un día de primavera lleno de emoción... (descripción de un webtoon que recopila historias románticas de diferentes autores en Naver) ^^Son varios caps pero os traemos el 20 ya que es de los más virales y nos gustó mucho: Trata de unos amigos de la universidad y su romance",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-08-22T03:02:54+00:00",
@@ -70719,6 +70719,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-17T02:21:41.142564+00:00",
+  "updated_at": "2026-10-17T03:08:41.917487+00:00",
   "version": 3
 }
