@@ -17781,10 +17781,10 @@
       ],
       "hashtag": "#El_Hijo_Menor_del_Maestro_de_la_Espada",
       "id": "el_hijo_menor_del_maestro_de_la_espada",
-      "latest_chapter": 216,
+      "latest_chapter": 217,
       "library_count": 3,
       "name": "El Hijo Menor del Maestro de la Espada",
-      "package_count": 34,
+      "package_count": 35,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -18514,6 +18514,21 @@
           "name": "216",
           "size": 6237186,
           "telegram_link": "https://t.me/manhuasgratis/5211"
+        },
+        {
+          "name": "217",
+          "first": 217,
+          "last": 217,
+          "channel_id": -1003003829878,
+          "message_id": 5637,
+          "filename": "[#217]   El Hijo Menor del Maestro de la Espada.pdf",
+          "size": 18166771,
+          "date": "2026-10-17T20:11:58+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5637",
+          "download_ready": true,
+          "chapters": [
+            217
+          ]
         }
       ],
       "rating": 4.5,
@@ -20932,10 +20947,10 @@
       ],
       "hashtag": "#El_Perro_Loco_De_La_Mansión_Del_Duque",
       "id": "el_perro_loco_de_la_mansion_del_duque",
-      "latest_chapter": 79,
+      "latest_chapter": 80,
       "library_count": 2,
       "name": "El Perro Loco De La Mansión Del Duque",
-      "package_count": 48,
+      "package_count": 49,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -21732,6 +21747,21 @@
           "name": "79",
           "size": 12139901,
           "telegram_link": "https://t.me/manhuasgratis/5627"
+        },
+        {
+          "name": "80",
+          "first": 80,
+          "last": 80,
+          "channel_id": -1003003829878,
+          "message_id": 5638,
+          "filename": "[80] El Perro Loco de la Mansión del Duque.pdf",
+          "size": 10633745,
+          "date": "2026-10-17T20:12:00+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5638",
+          "download_ready": true,
+          "chapters": [
+            80
+          ]
         }
       ],
       "rating": 0,
@@ -41118,10 +41148,10 @@
       ],
       "hashtag": "#Han_Pasado_30_Años_Desde_el_Prólogo",
       "id": "han_pasado_30_anos_desde_el_prologo",
-      "latest_chapter": 20,
+      "latest_chapter": 21,
       "library_count": 3,
       "name": "Han Pasado 30 Años Desde el Prólogo",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -41337,6 +41367,21 @@
           "name": "20",
           "size": 15307542,
           "telegram_link": "https://t.me/manhuasgratis/5219"
+        },
+        {
+          "name": "21",
+          "first": 21,
+          "last": 21,
+          "channel_id": -1003003829878,
+          "message_id": 5639,
+          "filename": "[#21]   Han Pasado 30 Años Desde El Prólogo.pdf",
+          "size": 28423957,
+          "date": "2026-10-17T20:12:03+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5639",
+          "download_ready": true,
+          "chapters": [
+            21
+          ]
         }
       ],
       "rating": 5,
@@ -43174,10 +43219,10 @@
       ],
       "hashtag": "#Ingeniero_de_Laberintos_de_Rango_Nacional",
       "id": "ingeniero_de_laberintos_de_rango_nacional",
-      "latest_chapter": 40,
+      "latest_chapter": 41,
       "library_count": 1,
       "name": "Ingeniero de Laberintos de Rango Nacional",
-      "package_count": 25,
+      "package_count": 26,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -43593,6 +43638,21 @@
           "name": "40",
           "size": 8985058,
           "telegram_link": "https://t.me/manhuasgratis/5201"
+        },
+        {
+          "name": "41",
+          "first": 41,
+          "last": 41,
+          "channel_id": -1003003829878,
+          "message_id": 5640,
+          "filename": "[#41]   Ingeniero de Laberintos de Rango Nacional.pdf",
+          "size": 16873444,
+          "date": "2026-10-17T20:12:05+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5640",
+          "download_ready": true,
+          "chapters": [
+            41
+          ]
         }
       ],
       "rating": 0,
@@ -93728,6 +93788,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-17T18:20:33.671888+00:00",
+  "updated_at": "2026-10-17T20:20:34.569713+00:00",
   "version": 3
 }
