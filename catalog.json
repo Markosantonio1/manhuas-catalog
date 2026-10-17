@@ -10766,6 +10766,801 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-17T23:15:36+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/azure_legacy.jpg",
+      "cover_message_id": 518,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/518",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Comedia"
+      ],
+      "hashtag": "#Azure_Legacy",
+      "id": "azure_legacy",
+      "latest_chapter": 321,
+      "library_count": 0,
+      "name": "Azure Legacy",
+      "package_count": 32,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-17T23:15:36+00:00",
+          "download_ready": true,
+          "filename": "▎01-10 ▎Azure Legacy.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 1535,
+          "name": "1-10",
+          "size": 58233942,
+          "telegram_link": "https://t.me/manhuasgratis/1535"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-17T23:15:37+00:00",
+          "download_ready": true,
+          "filename": "▎11-20 ▎Azure Legacy.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 1536,
+          "name": "11-20",
+          "size": 109795886,
+          "telegram_link": "https://t.me/manhuasgratis/1536"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-17T23:15:38+00:00",
+          "download_ready": true,
+          "filename": "▎21-30 ▎Azure Legacy.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 1537,
+          "name": "21-30",
+          "size": 127058440,
+          "telegram_link": "https://t.me/manhuasgratis/1537"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-17T23:15:39+00:00",
+          "download_ready": true,
+          "filename": "▎31-40 ▎Azure Legacy.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 1538,
+          "name": "31-40",
+          "size": 93904784,
+          "telegram_link": "https://t.me/manhuasgratis/1538"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-17T23:15:40+00:00",
+          "download_ready": true,
+          "filename": "▎41-50 ▎Azure Legacy.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 1539,
+          "name": "41-50",
+          "size": 91292455,
+          "telegram_link": "https://t.me/manhuasgratis/1539"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-17T23:15:41+00:00",
+          "download_ready": true,
+          "filename": "▎51-60 ▎Azure Legacy.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 1540,
+          "name": "51-60",
+          "size": 71324423,
+          "telegram_link": "https://t.me/manhuasgratis/1540"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-17T23:15:42+00:00",
+          "download_ready": true,
+          "filename": "▎61-70 ▎Azure Legacy.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 1541,
+          "name": "61-70",
+          "size": 62142218,
+          "telegram_link": "https://t.me/manhuasgratis/1541"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-17T23:15:43+00:00",
+          "download_ready": true,
+          "filename": "▎71-80 ▎Azure Legacy.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 1542,
+          "name": "71-80",
+          "size": 62534181,
+          "telegram_link": "https://t.me/manhuasgratis/1542"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-17T23:15:44+00:00",
+          "download_ready": true,
+          "filename": "▎81-90 ▎Azure Legacy.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 1543,
+          "name": "81-90",
+          "size": 66696443,
+          "telegram_link": "https://t.me/manhuasgratis/1543"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-17T23:15:45+00:00",
+          "download_ready": true,
+          "filename": "▎91-100 ▎Azure Legacy.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 1544,
+          "name": "91-100",
+          "size": 77329122,
+          "telegram_link": "https://t.me/manhuasgratis/1544"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-10-17T23:15:45+00:00",
+          "download_ready": true,
+          "filename": "▎101-110 ▎Azure Legacy.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 1545,
+          "name": "101-110",
+          "size": 79362054,
+          "telegram_link": "https://t.me/manhuasgratis/1545"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-10-17T23:15:46+00:00",
+          "download_ready": true,
+          "filename": "▎111-120 ▎Azure Legacy.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 1546,
+          "name": "111-120",
+          "size": 64671923,
+          "telegram_link": "https://t.me/manhuasgratis/1546"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-10-17T23:15:47+00:00",
+          "download_ready": true,
+          "filename": "▎121-130 ▎Azure Legacy.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 1547,
+          "name": "121-130",
+          "size": 63512002,
+          "telegram_link": "https://t.me/manhuasgratis/1547"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-10-17T23:15:47+00:00",
+          "download_ready": true,
+          "filename": "▎131-140 ▎Azure Legacy.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 1548,
+          "name": "131-140",
+          "size": 71531465,
+          "telegram_link": "https://t.me/manhuasgratis/1548"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-10-17T23:15:48+00:00",
+          "download_ready": true,
+          "filename": "▎141-150 ▎Azure Legacy.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 1549,
+          "name": "141-150",
+          "size": 69105238,
+          "telegram_link": "https://t.me/manhuasgratis/1549"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-10-17T23:15:49+00:00",
+          "download_ready": true,
+          "filename": "▎151-160 ▎Azure Legacy.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 1550,
+          "name": "151-160",
+          "size": 65192891,
+          "telegram_link": "https://t.me/manhuasgratis/1550"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-10-17T23:15:49+00:00",
+          "download_ready": true,
+          "filename": "▎161-170 ▎Azure Legacy.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 1551,
+          "name": "161-170",
+          "size": 75573003,
+          "telegram_link": "https://t.me/manhuasgratis/1551"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-10-17T23:15:50+00:00",
+          "download_ready": true,
+          "filename": "▎171-180 ▎Azure Legacy.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 1552,
+          "name": "171-180",
+          "size": 77533268,
+          "telegram_link": "https://t.me/manhuasgratis/1552"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-10-17T23:15:50+00:00",
+          "download_ready": true,
+          "filename": "▎181-190 ▎Azure Legacy.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 1553,
+          "name": "181-190",
+          "size": 77647459,
+          "telegram_link": "https://t.me/manhuasgratis/1553"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-10-17T23:15:51+00:00",
+          "download_ready": true,
+          "filename": "▎191-200 ▎Azure Legacy.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 1554,
+          "name": "191-200",
+          "size": 69087508,
+          "telegram_link": "https://t.me/manhuasgratis/1554"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-10-17T23:15:52+00:00",
+          "download_ready": true,
+          "filename": "▎201-210 ▎Azure Legacy.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 1555,
+          "name": "201-210",
+          "size": 65085512,
+          "telegram_link": "https://t.me/manhuasgratis/1555"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-10-17T23:15:52+00:00",
+          "download_ready": true,
+          "filename": "▎211-220 ▎Azure Legacy.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 1556,
+          "name": "211-220",
+          "size": 68098517,
+          "telegram_link": "https://t.me/manhuasgratis/1556"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-10-17T23:15:53+00:00",
+          "download_ready": true,
+          "filename": "▎221-230 ▎Azure Legacy.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 1557,
+          "name": "221-230",
+          "size": 66834241,
+          "telegram_link": "https://t.me/manhuasgratis/1557"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-10-17T23:15:53+00:00",
+          "download_ready": true,
+          "filename": "▎231-240 ▎Azure Legacy.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 1558,
+          "name": "231-240",
+          "size": 71528161,
+          "telegram_link": "https://t.me/manhuasgratis/1558"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ],
+          "date": "2026-10-17T23:15:54+00:00",
+          "download_ready": true,
+          "filename": "▎241-250 ▎Azure Legacy.pdf",
+          "first": 241,
+          "last": 250,
+          "message_id": 1559,
+          "name": "241-250",
+          "size": 100955123,
+          "telegram_link": "https://t.me/manhuasgratis/1559"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "date": "2026-10-17T23:15:55+00:00",
+          "download_ready": true,
+          "filename": "▎251-260 ▎Azure Legacy.pdf",
+          "first": 251,
+          "last": 260,
+          "message_id": 1560,
+          "name": "251-260",
+          "size": 115724311,
+          "telegram_link": "https://t.me/manhuasgratis/1560"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ],
+          "date": "2026-10-17T23:15:55+00:00",
+          "download_ready": true,
+          "filename": "▎261-270 ▎Azure Legacy.pdf",
+          "first": 261,
+          "last": 270,
+          "message_id": 1561,
+          "name": "261-270",
+          "size": 113309068,
+          "telegram_link": "https://t.me/manhuasgratis/1561"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "date": "2026-10-17T23:15:56+00:00",
+          "download_ready": true,
+          "filename": "▎271-280 ▎Azure Legacy.pdf",
+          "first": 271,
+          "last": 280,
+          "message_id": 1562,
+          "name": "271-280",
+          "size": 84711722,
+          "telegram_link": "https://t.me/manhuasgratis/1562"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+          ],
+          "date": "2026-10-17T23:15:56+00:00",
+          "download_ready": true,
+          "filename": "▎281-290 ▎Azure Legacy.pdf",
+          "first": 281,
+          "last": 290,
+          "message_id": 1563,
+          "name": "281-290",
+          "size": 74772278,
+          "telegram_link": "https://t.me/manhuasgratis/1563"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300
+          ],
+          "date": "2026-10-17T23:15:57+00:00",
+          "download_ready": true,
+          "filename": "▎291-300 ▎Azure Legacy.pdf",
+          "first": 291,
+          "last": 300,
+          "message_id": 1564,
+          "name": "291-300",
+          "size": 76675201,
+          "telegram_link": "https://t.me/manhuasgratis/1564"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310
+          ],
+          "date": "2026-10-17T23:15:58+00:00",
+          "download_ready": true,
+          "filename": "▎301-310 ▎Azure Legacy.pdf",
+          "first": 301,
+          "last": 310,
+          "message_id": 1565,
+          "name": "301-310",
+          "size": 74943692,
+          "telegram_link": "https://t.me/manhuasgratis/1565"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321
+          ],
+          "date": "2026-10-17T23:15:59+00:00",
+          "download_ready": true,
+          "filename": "▎311-321 ▎Azure Legacy┊FINAL┊.pdf",
+          "first": 311,
+          "last": 321,
+          "message_id": 1566,
+          "name": "311-321",
+          "size": 86335696,
+          "telegram_link": "https://t.me/manhuasgratis/1566"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Meng Chuan presenció el asesinato de su madre ante sus ojos, por lo que entrenó muy duro con la esperanza de vengar algún día su muerte. Pero sus días de paz se vieron interrumpidos por la cancelación de su compromiso matrimonial, una invasión de fuerzas extranjeras, el santuario caído en manos del enemigo... Para proteger al pueblo de Ning City, tomó su espada y juró ser el más fuerte. Es una gran responsabilidad y un largo viaje...",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-17T17:53:33+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/baguette_lascivo_adult.jpg",
       "cover_message_id": 454,
@@ -10839,7 +11634,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Tengo 27 año y aunque tengo la edad suficiente para tener mi propio romance dulce, me niego a salir con ningún hombre debido a mi traumatizante experiencia con mi primer novio cuando tenía 20 años. ¡Lo que me importa es el tamaño de un hombre!",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-17T17:53:39+00:00",
@@ -15641,6 +16436,335 @@
       "rating_count": 0,
       "synopsis": "¡Un dios del Murim, un mensajero superrápido!\nUn dios que conquistó los cielos incluso antes de ser un dios. A medida que gana iluminación y gana fuerza. cae en una grieta creada repentinamente…\nLlega a la Corea del siglo XXI. Una tierra asolada por puertas y demonios. ¡Un dios Marcial, o más bien un repartidor, trae la paz!",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-17T23:15:04+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_elixir_del_sol.jpg",
+      "cover_message_id": 514,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/514",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Drama",
+        "Fantasía"
+      ],
+      "hashtag": "#El_Elixir_del_Sol",
+      "id": "el_elixir_del_sol",
+      "latest_chapter": 116,
+      "library_count": 0,
+      "name": "El Elixir del Sol",
+      "package_count": 13,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-17T23:15:04+00:00",
+          "download_ready": true,
+          "filename": "01-10│➢ El Elixir del Sol.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 1509,
+          "name": "1-10",
+          "size": 74082840,
+          "telegram_link": "https://t.me/manhuasgratis/1509"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-17T23:15:09+00:00",
+          "download_ready": true,
+          "filename": "11-20│➢ El Elixir del Sol.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 1510,
+          "name": "11-20",
+          "size": 79857659,
+          "telegram_link": "https://t.me/manhuasgratis/1510"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "date": "2026-10-17T23:15:20+00:00",
+          "download_ready": true,
+          "filename": "𝘌𝘹𝘵𝘳𝘢𝘴 21-26│➢ El Elixir del Sol.pdf",
+          "first": 21,
+          "last": 26,
+          "message_id": 1523,
+          "name": "21-26",
+          "size": 64164897,
+          "telegram_link": "https://t.me/manhuasgratis/1523"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-17T23:15:11+00:00",
+          "download_ready": true,
+          "filename": "21-30│➢ El Elixir del Sol.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 1511,
+          "name": "21-30",
+          "size": 85243575,
+          "telegram_link": "https://t.me/manhuasgratis/1511"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-17T23:15:12+00:00",
+          "download_ready": true,
+          "filename": "31-40│➢ El Elixir del Sol.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 1512,
+          "name": "31-40",
+          "size": 79650260,
+          "telegram_link": "https://t.me/manhuasgratis/1512"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-17T23:15:14+00:00",
+          "download_ready": true,
+          "filename": "41-50│➢ El Elixir del Sol.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 1513,
+          "name": "41-50",
+          "size": 89168603,
+          "telegram_link": "https://t.me/manhuasgratis/1513"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-17T23:15:15+00:00",
+          "download_ready": true,
+          "filename": "51-60│➢ El Elixir del Sol.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 1514,
+          "name": "51-60",
+          "size": 96578197,
+          "telegram_link": "https://t.me/manhuasgratis/1514"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-17T23:15:15+00:00",
+          "download_ready": true,
+          "filename": "61-70│➢ El Elixir del Sol.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 1515,
+          "name": "61-70",
+          "size": 89561339,
+          "telegram_link": "https://t.me/manhuasgratis/1515"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-17T23:15:16+00:00",
+          "download_ready": true,
+          "filename": "71-80│➢ El Elixir del Sol.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 1516,
+          "name": "71-80",
+          "size": 86968387,
+          "telegram_link": "https://t.me/manhuasgratis/1516"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-17T23:15:17+00:00",
+          "download_ready": true,
+          "filename": "81-90│➢ El Elixir del Sol.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 1517,
+          "name": "81-90",
+          "size": 81499867,
+          "telegram_link": "https://t.me/manhuasgratis/1517"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-17T23:15:17+00:00",
+          "download_ready": true,
+          "filename": "91-100│➢ El Elixir del Sol.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 1518,
+          "name": "91-100",
+          "size": 87550730,
+          "telegram_link": "https://t.me/manhuasgratis/1518"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-10-17T23:15:18+00:00",
+          "download_ready": true,
+          "filename": "101-110│➢ El Elixir del Sol.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 1519,
+          "name": "101-110",
+          "size": 86794091,
+          "telegram_link": "https://t.me/manhuasgratis/1519"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+          ],
+          "date": "2026-10-17T23:15:19+00:00",
+          "download_ready": true,
+          "filename": "111-116 𝙁𝙞𝙣│➢ El Elixir del Sol.pdf",
+          "first": 111,
+          "last": 116,
+          "message_id": 1520,
+          "name": "111-116",
+          "size": 53431187,
+          "telegram_link": "https://t.me/manhuasgratis/1520"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Bayan habló serenamente. “Quiero tener a su majestad.” “¿...Qué dijiste?” La sonrisa de Dan se endureció. La tribu Shiyo, donde todos poseen poderes curativos. Bayan, quien al no poseer los poderes curativos vivió siendo tratada con desdén por su tribu, y Dan, hostigado con una inacabable sed por castigo de Dios. Es la historia de ambos y su amor destinado. Novela: https://t.me/c/2114439385/2211",
+      "visible": false
     },
     {
       "added_at": "2026-10-17T03:16:06+00:00",
@@ -32948,6 +34072,30 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-17T23:18:36.847783+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/encuentra_a_kim_dae_ri_adult.jpg",
+      "cover_message_id": 424,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/424",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "+18",
+        "Drama",
+        "Romance"
+      ],
+      "hashtag": "#Encuentra_A_Kim_Dae_Ri",
+      "id": "encuentra_a_kim_dae_ri_adult",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "Encuentra A Kim Dae Ri",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Un capitulo corto de una antologia en la que participo RangRAri",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-21T20:15:50+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/esclavo_corporativo_en_una_historia_de_fantasmas.jpg",
       "cover_message_id": 36,
@@ -32962,7 +34110,7 @@
       "latest_chapter": 40,
       "library_count": 2,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 17,
+      "package_count": 16,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -33243,22 +34391,6 @@
           "name": "40",
           "size": 14112602,
           "telegram_link": "https://t.me/manhuasgratis/5628"
-        },
-        {
-          "name": "40",
-          "first": 40,
-          "last": 40,
-          "channel_id": -1003003829878,
-          "message_id": 5629,
-          "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 14112602,
-          "date": "2026-10-17T04:11:46+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5629",
-          "download_ready": true,
-          "chapters": [
-            40
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5629_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T232110Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9702f42ca5a64cf96859b2c5bf2160b610eed23d4377bb7292122b3f58bfac4"
         }
       ],
       "rating": 4,
@@ -42135,7 +43267,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Changwook Choi, un estudiante universitario de ingeniería que es solitario. Un día, aprende los secretos de sus compañeras universitarias que se llaman diosas de la ingeniería ... \"¿No puedes mantenerlo en secreto? En cambio... te daré una chupada.\"",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-17T03:17:00+00:00",
@@ -48228,6 +49360,29 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-17T23:18:36.848782+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/la_ascension_es_humeda_adult.jpg",
+      "cover_message_id": 498,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/498",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "+18"
+      ],
+      "hashtag": "#La_Ascensión_Es_Húmeda",
+      "id": "la_ascension_es_humeda_adult",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "La Ascensión Es Húmeda",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Siempre durante la temporada de lluvias se le aparecía una chica parecida a \"Sadako\" y un buen día nuestra protagonista decide ayudarla a cruzar al otro mundo, acompáñala en la grata sorpresa que se llevará. 》Colección de esta antología Bendición Disfrazada El Nombre De La Emoción ¿Cómo Sobrevivir A La Temporada De Lluvias? Secreto En Un Día Lluvioso",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-28T23:02:27+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_basura_de_la_familia_del_conde.jpg",
       "cover_message_id": 98,
@@ -49221,6 +50376,28 @@
       "rating_count": 0,
       "synopsis": "Una palpitante historia de fantasía de la realeza sobre el romance de Moon-Young. Una feroz bestia disfrazado de cachorrito para ganarse el amor. Y Hwa-Yeong, una chica que cría y entrena a un cachorrito grande. Ajena a su verdadera identidad",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-17T23:18:36.849788+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/la_comida_mas_perfecta.jpg",
+      "cover_message_id": 512,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/512",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance"
+      ],
+      "hashtag": "#La_Comida_Más_Perfecta",
+      "id": "la_comida_mas_perfecta",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "La Comida Más Perfecta",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Para el vampiro Jiwoo, las relaciones no eran importantes ni vinculantes, sólo un acuerdo para obtener lo que más deseaba: sangre. La chica nunca ha tenido problemas con tener múltiples relaciones a la vez, romper cada vez que se aburre y buscar constantemente a alguien nuevo, o al menos así era hasta que conoció a Unni. ¿Habrá algún cambio en Jiwoo después de conocer a la pequeña rubia? ¿Será suficiente esta relación, o tal vez ya tuvo a alguien más desde el principio?",
+      "visible": false
     },
     {
       "added_at": "2026-10-16T18:35:59+00:00",
@@ -67508,7 +68685,7 @@
       ],
       "rating": 0,
       "rating_count": 0,
-      "synopsis": "Eris Boreas Greyrat es una antigua chica de la nobleza, que un día fue transportada al otro lado del mundo con su primo Rudeus. Creció como espadachín, pero en su viaje no pudo salvar a Rudeus ya que casi lo matan. Decidiendo que quiere ser alguien que pueda apoyarlo y no al revés, Eris decide dejar a Rudeus y emprender su propio viaje para hacerse más fuerte. Este es un spin-off de Mushoku Tensei, que se separa del manga principal alrededor del capítulo 51 (volumen 6 de la novela ligera, primera temporada del anime). Manga Principal: Especial Relacionado: https://t.me/c/2114439385/50281",
+      "synopsis": "Eris Boreas Greyrat es una antigua chica de la nobleza, que un día fue transportada al otro lado del mundo con su primo Rudeus. Creció como espadachín, pero en su viaje no pudo salvar a Rudeus ya que casi lo matan. Decidiendo que quiere ser alguien que pueda apoyarlo y no al revés, Eris decide dejar a Rudeus y emprender su propio viaje para hacerse más fuerte. Este es un spin-off de Mushoku Tensei, que se separa del manga principal alrededor del capítulo 51 (volumen 6 de la novela ligera, primera temporada del anime). Manga Principal: Especial",
       "visible": true
     },
     {
@@ -69087,7 +70264,7 @@
       "latest_chapter": 127,
       "library_count": 3,
       "name": "No Soy Esa Clase De Talento",
-      "package_count": 25,
+      "package_count": 24,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -69541,29 +70718,6 @@
           "name": "111-118",
           "size": 54643388,
           "telegram_link": "https://t.me/manhuasgratis/5544"
-        },
-        {
-          "name": "111-118",
-          "first": 111,
-          "last": 118,
-          "channel_id": -1003003829878,
-          "message_id": 5558,
-          "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
-          "size": 54643388,
-          "date": "2026-10-14T20:12:37+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5558",
-          "download_ready": true,
-          "chapters": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5558_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261017%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261017T232110Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d108880580559a862a37ad0809ed9ac45273b5331c0f83f2867697bb5f9103be"
         },
         {
           "channel_id": -1003003829878,
@@ -71453,6 +72607,29 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-17T23:18:36.850776+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/placer_al_desnudo_adult.jpg",
+      "cover_message_id": 502,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/502",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "+18"
+      ],
+      "hashtag": "#Placer_Al_Desnudo",
+      "id": "placer_al_desnudo_adult",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "Placer Al Desnudo",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Esta obra es una Antología que cuenta la historia de, una mujer que secretamente disfruta tomando fotos desnuda a altas horas de la noche en una empresa vacía, es atrapada por el jefe del departamento de marketing que está trabajando horas extras.",
+      "visible": false
+    },
+    {
       "added_at": "2026-08-22T02:50:15+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/que_abundante_cosecha_senor_demonio.jpg",
       "cover_message_id": 64,
@@ -72338,6 +73515,61 @@
       "rating_count": 0,
       "synopsis": ":Una es una directora prometedora y la otra una mujer adinerada en el camino, ambas son lo mejor de la sal, el dulce, la crema y el hado. ¿Cómo elegir entre el amor y el dinero, el poder, la sociedad, el mundo y la presión familiar? ¡No! Sólo los niños hacen la elección, ¡las hermanas juegan!",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-17T23:14:50+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/realmente_no_soy_un_genio.jpg",
+      "cover_message_id": 510,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/510",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Acción",
+        "Fantasía",
+        "Romance"
+      ],
+      "hashtag": "#Realmente_No_Soy_Un_Genio",
+      "id": "realmente_no_soy_un_genio",
+      "latest_chapter": 41,
+      "library_count": 0,
+      "name": "Realmente No Soy Un Genio",
+      "package_count": 2,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-17T23:14:50+00:00",
+          "download_ready": true,
+          "filename": "{01♦️40}  Realmente No Soy un Genio.pdf",
+          "first": 1,
+          "last": 1,
+          "message_id": 1504,
+          "name": "1",
+          "size": 344013398,
+          "telegram_link": "https://t.me/manhuasgratis/1504"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41
+          ],
+          "date": "2026-10-17T23:14:51+00:00",
+          "download_ready": true,
+          "filename": "{41♦️73} Realmente no Soy un Genio.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 1505,
+          "name": "41",
+          "size": 211900006,
+          "telegram_link": "https://t.me/manhuasgratis/1505"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "¿Qué? ¿El pollo de corral que crié era un fénix de pura sangre? ¿Qué? ¿Todos los peces dorados que crío son dragones de verdad? ¿Qué? ¿Las malas hierbas de mi jardín son la mejor medicina? Li Fan: No, de ninguna manera, ¿cómo puedo convertirme en una potencia sin igual? Un joven que viajó a través de la antigüedad y se convirtió en una existencia poderosa de primer nivel. Los gobernantes de todos los ámbitos de la vida le rindieron homenaje. ¡Veamos qué tan fuerte ese joven mira hacia abajo al mundo!",
+      "visible": false
     },
     {
       "added_at": "2026-08-24T20:54:24+00:00",
@@ -76064,6 +77296,31 @@
       "rating_count": 0,
       "synopsis": "Eun Sian, también conocida como Shanshan por su buena amiga Hyunee, es popular entre todas las chicas de la escuela. Lo que sería genial si ella girara de esa manera, pero no lo hace. Simplemente sucede que está aterrorizada por los hombres, y su madre está obsesionada con protegerla de todos los hombres. Y de repente, Yuri, la chica más bonita de la escuela, ha admitido a Sian que siente algo por ella. Ahora Yuri no dejará de seguir a Sian, lo que también estaría bien para Sian, excepto que parece que Yuri quiere a Sian para ella sola ... y quién sabe cómo caerá para asegurarse de que eso suceda",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-17T23:18:36.851783+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/secreto_en_un_dia_lluvioso_adult.jpg",
+      "cover_message_id": 500,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/500",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "+18",
+        "Drama",
+        "Comedia"
+      ],
+      "hashtag": "#Secreto_En_Un_Día_Lluvioso",
+      "id": "secreto_en_un_dia_lluvioso_adult",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "Secreto En Un Día Lluvioso",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "La razón por la cual no odio la lluvia torrencial, ocho historias más que surgieron en la temporada de lluvias húmedas. 》Colección de esta antología Bendición Disfrazada El Nombre De La Emoción ¿Cómo Sobrevivir A La Temporada De Lluvias? La Ascensión Es Húmeda",
+      "visible": false
     },
     {
       "added_at": "2026-08-25T03:28:44+00:00",
@@ -80492,6 +81749,151 @@
       "rating_count": 1,
       "synopsis": "Lin Tian reencarnó como un duende, el rango más bajo de las criaturas mágicas e inicialmente tuvo que permanecer oculto. Luego, él entendió por completo la verdadera naturaleza de un duende. Bendecido con mucha descendencia, ¡cuantos más hijos tiene, más fuerte se vuelve gracias a las bendiciones de los dioses!",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-17T23:15:26+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/soy_una_villana_pero_elegi_al_protagonista_masculino.jpg",
+      "cover_message_id": 516,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/516",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Comedia",
+        "Fantasía"
+      ],
+      "hashtag": "#Soy_una_Villana_Pero_Elegí_al_Protagonista_Masculino",
+      "id": "soy_una_villana_pero_elegi_al_protagonista_masculino",
+      "latest_chapter": 71,
+      "library_count": 0,
+      "name": "Soy una Villana Pero Elegí al Protagonista Masculino",
+      "package_count": 8,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-17T23:15:26+00:00",
+          "download_ready": true,
+          "filename": "01▪︎10_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 1,
+          "last": 1,
+          "message_id": 1525,
+          "name": "1",
+          "size": 51753228,
+          "telegram_link": "https://t.me/manhuasgratis/1525"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-17T23:15:26+00:00",
+          "download_ready": true,
+          "filename": "11▪︎20_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 1526,
+          "name": "11",
+          "size": 41313927,
+          "telegram_link": "https://t.me/manhuasgratis/1526"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-17T23:15:27+00:00",
+          "download_ready": true,
+          "filename": "22▪︎30_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 1527,
+          "name": "22",
+          "size": 38304497,
+          "telegram_link": "https://t.me/manhuasgratis/1527"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31
+          ],
+          "date": "2026-10-17T23:15:29+00:00",
+          "download_ready": true,
+          "filename": "31▪︎40_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 1529,
+          "name": "31",
+          "size": 42355077,
+          "telegram_link": "https://t.me/manhuasgratis/1529"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41
+          ],
+          "date": "2026-10-17T23:15:30+00:00",
+          "download_ready": true,
+          "filename": "41▪︎50_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 1530,
+          "name": "41",
+          "size": 46029097,
+          "telegram_link": "https://t.me/manhuasgratis/1530"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51
+          ],
+          "date": "2026-10-17T23:15:31+00:00",
+          "download_ready": true,
+          "filename": "51▪︎60_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 1531,
+          "name": "51",
+          "size": 50364346,
+          "telegram_link": "https://t.me/manhuasgratis/1531"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61
+          ],
+          "date": "2026-10-17T23:15:31+00:00",
+          "download_ready": true,
+          "filename": "61▪︎70_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino_Xio🐼.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 1532,
+          "name": "61",
+          "size": 63072801,
+          "telegram_link": "https://t.me/manhuasgratis/1532"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            71
+          ],
+          "date": "2026-10-17T23:15:32+00:00",
+          "download_ready": true,
+          "filename": "71▪︎72_FINAL_Soy_una_Villana,_Pero_Elegí_al_Protagonista_Masculino.pdf",
+          "first": 71,
+          "last": 71,
+          "message_id": 1533,
+          "name": "71",
+          "size": 17461626,
+          "telegram_link": "https://t.me/manhuasgratis/1533"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "En la novela, Song Yeon-joo está poseído por la malvada mujer Edult, quien robó el corazón del protagonista masculino, Linus. Para evitar convertirse en el sospechoso número uno del asesinato de la familia imperial, lucha por recuperar su corazón, pero lo llevan a casa en nombre de la protección.",
+      "visible": false
     },
     {
       "added_at": "2026-10-17T03:20:37+00:00",
@@ -94661,6 +96063,30 @@
       "rating_count": 0,
       "synopsis": "Una chica que no quiere ir a una cita a ciegos se reúne con su amiga después de 5 años y le dicen que cambien de cuerpos en broma, pero lo intentan y a la mañana siguiente ¿Resulto?",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-17T23:18:36.852782+00:00",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/coveradult/outro_adult.jpg",
+      "cover_message_id": 490,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/490",
+      "genres": [
+        "Respaldo",
+        "Finalizada",
+        "Romance",
+        "Drama",
+        "+18"
+      ],
+      "hashtag": "#ᴄᴏᴍᴘʟᴇᴛᴏ_Outro",
+      "id": "outro_adult",
+      "latest_chapter": 0,
+      "library_count": 0,
+      "name": "ᴄᴏᴍᴘʟᴇᴛᴏ Outro",
+      "package_count": 0,
+      "packages": [],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Mi novia, con la que he estado saliendo durante 7 años, está revolcándose en la cama con otra chica y mi sueño de debutar se ha hecho añicos, por lo que ya no tengo muchas expectativas, cuando de pronto un rayo de esperanza aparece a Ji An. Recibió una oferta para aparecer en el programa mientras elogiaba su propia canción. Ji an esta emocionada por la oportunidad de escapar de su amante Yoo-Wom",
+      "visible": false
     }
   ],
   "source": {
@@ -94669,6 +96095,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-17T23:20:29.248486+00:00",
+  "updated_at": "2026-10-17T23:19:05.650150+00:00",
   "version": 3
 }
