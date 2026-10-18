@@ -1,6 +1,7 @@
 # uploader_idrive.py
 import asyncio
 import gc
+import html
 import json
 import os
 import re
@@ -488,6 +489,22 @@ async def main():
     success_count = 0
     fail_count = 0
 
+    # 🚀 MENSAJE DE PROGRESO: Enviamos el mensaje inicial y guardamos su ID
+    progress_message_id = None
+    last_update_time = time.time()
+    try:
+        initial_text = (
+            "🤖 <b>Bot de subida IDrive en acción</b>\n\n"
+            f"[░░░░░░░░░░░░░░░░░░░░] 0% (0/{len(to_process)})\n\n"
+            f"📚 <b>Serie:</b> Iniciando...\n"
+            f"📄 <b>Actual:</b> Esperando...\n"
+            f"✅ <b>Éxitos:</b> 0 | ❌ <b>Errores:</b> 0"
+        )
+        msg = await client.send_message(NOTIFY_USERNAME, initial_text, parse_mode="html")
+        progress_message_id = msg.id
+    except Exception as e:
+        print(f"⚠️ No se pudo enviar el mensaje de progreso: {e}")
+
     try:
         for idx, (series, pack, list_key) in enumerate(to_process, start=1):
             series_name = series.get("name", "Desconocida")
@@ -578,6 +595,32 @@ async def main():
                 else:
                     print("    ⚠ Checkpoint NO subido (se reintentará al final)")
 
+            # ⏱️ ACTUALIZACIÓN DEL PROGRESO (cada 20 segundos)
+            if progress_message_id and (time.time() - last_update_time >= 20):
+                try:
+                    percent = int((idx / len(to_process)) * 100)
+                    filled = int(percent / 5)
+                    bar = "█" * filled + "░" * (20 - filled)
+
+                    safe_series = html.escape(series_name + tipo_tag + tag)
+                    safe_pack = html.escape(pack_name)
+
+                    progress_text = (
+                        "🤖 <b>Bot de subida IDrive en acción</b>\n\n"
+                        f"[{bar}] {percent}% ({idx}/{len(to_process)})\n\n"
+                        f"📚 <b>Serie:</b> {safe_series}\n"
+                        f"📄 <b>Actual:</b> {safe_pack}\n"
+                        f"✅ <b>Éxitos:</b> {success_count} | ❌ <b>Errores:</b> {fail_count}"
+                    )
+
+                    await client.edit_message(
+                        NOTIFY_USERNAME, progress_message_id, progress_text, parse_mode="html"
+                    )
+                    last_update_time = time.time()
+                    print("    🔄 Mensaje de progreso actualizado en Telegram.")
+                except Exception as e:
+                    print(f"    ⚠️ No se pudo actualizar el mensaje: {e}")
+
             if idx < len(to_process):
                 print("    ⏸  Pausa de 3s...")
                 await asyncio.sleep(3)
@@ -611,7 +654,7 @@ async def main():
 
     try:
         report = (
-            f"📊 *Uploader IDrive e2*\n"
+            f"📊 <b>Reporte Final - Uploader IDrive e2</b>\n"
             f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
             f"↻ Reconciliados: {reconciliados}\n"
             f"✅ Subidos nuevos: {success_count}\n"
@@ -622,8 +665,16 @@ async def main():
             f"  • Respaldo: {pendientes_respaldo}\n"
             f"  • Novelas:  {pendientes_novelas}\n"
         )
-        await client.send_message(NOTIFY_USERNAME, report, parse_mode="md")
-        print("✓ Reporte enviado por Telegram.")
+
+        if progress_message_id:
+            await client.edit_message(
+                NOTIFY_USERNAME, progress_message_id, report, parse_mode="html"
+            )
+            print("✓ Reporte final enviado (editado sobre el progreso).")
+        else:
+            await client.send_message(NOTIFY_USERNAME, report, parse_mode="html")
+            print("✓ Reporte enviado por Telegram (mensaje nuevo).")
+
     except Exception as exc:
         print(f"⚠ Error enviando reporte: {exc}")
 
