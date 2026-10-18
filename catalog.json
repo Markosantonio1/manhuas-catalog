@@ -14303,7 +14303,6 @@
       "cover_message_id": 169,
       "cover_telegram_link": "https://t.me/c/-1004187372773/169",
       "genres": [
-        "Finalizada",
         "Fantasía",
         "Recuerdos de la vida",
         "Escolar",
@@ -39124,7 +39123,7 @@
       "latest_chapter": 40,
       "library_count": 2,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 17,
+      "package_count": 16,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -39405,22 +39404,6 @@
           "name": "40",
           "size": 14112602,
           "telegram_link": "https://t.me/manhuasgratis/5628"
-        },
-        {
-          "name": "40",
-          "first": 40,
-          "last": 40,
-          "channel_id": -1003003829878,
-          "message_id": 5629,
-          "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 14112602,
-          "date": "2026-10-17T04:11:46+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5629",
-          "download_ready": true,
-          "chapters": [
-            40
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5629_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T152100Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c111b0e2470b69a80588b82210fea7036a5bf3896f897406a89cb8d221a5db6"
         }
       ],
       "rating": 4,
@@ -104195,6 +104178,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-18T15:20:28.209907+00:00",
+  "updated_at": "2026-10-18T15:25:02.271115+00:00",
   "version": 3
 }
