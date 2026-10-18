@@ -39124,7 +39124,7 @@
       "latest_chapter": 40,
       "library_count": 2,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 16,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -39405,6 +39405,21 @@
           "name": "40",
           "size": 14112602,
           "telegram_link": "https://t.me/manhuasgratis/5628"
+        },
+        {
+          "name": "40",
+          "first": 40,
+          "last": 40,
+          "channel_id": -1003003829878,
+          "message_id": 5629,
+          "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "size": 14112602,
+          "date": "2026-10-17T04:11:46+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5629",
+          "download_ready": true,
+          "chapters": [
+            40
+          ]
         }
       ],
       "rating": 4,
@@ -70839,10 +70854,10 @@
       ],
       "hashtag": "#Mago_Prismatico_Genio",
       "id": "mago_prismatico_genio",
-      "latest_chapter": 96,
+      "latest_chapter": 98,
       "library_count": 2,
       "name": "Mago Prismatico Genio",
-      "package_count": 59,
+      "package_count": 61,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -71824,6 +71839,36 @@
           "name": "96",
           "size": 11517550,
           "telegram_link": "https://t.me/manhuasgratis/4892"
+        },
+        {
+          "name": "97",
+          "first": 97,
+          "last": 97,
+          "channel_id": -1003003829878,
+          "message_id": 5691,
+          "filename": "[#97]   Mago Prismático Genio.pdf",
+          "size": 17126682,
+          "date": "2026-10-18T04:12:43+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5691",
+          "download_ready": true,
+          "chapters": [
+            97
+          ]
+        },
+        {
+          "name": "98",
+          "first": 98,
+          "last": 98,
+          "channel_id": -1003003829878,
+          "message_id": 5692,
+          "filename": "[#98]   Mago Prismático Genio.pdf",
+          "size": 10942966,
+          "date": "2026-10-18T04:12:46+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5692",
+          "download_ready": true,
+          "chapters": [
+            98
+          ]
         }
       ],
       "rating": 4,
@@ -76815,7 +76860,7 @@
       "latest_chapter": 127,
       "library_count": 3,
       "name": "No Soy Esa Clase De Talento",
-      "package_count": 24,
+      "package_count": 25,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -77269,6 +77314,28 @@
           "name": "111-118",
           "size": 54643388,
           "telegram_link": "https://t.me/manhuasgratis/5544"
+        },
+        {
+          "name": "111-118",
+          "first": 111,
+          "last": 118,
+          "channel_id": -1003003829878,
+          "message_id": 5558,
+          "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
+          "size": 54643388,
+          "date": "2026-10-14T20:12:37+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5558",
+          "download_ready": true,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -99650,10 +99717,10 @@
       ],
       "hashtag": "#Un_marine_espacial_con_una_ventana_de_estado",
       "id": "un_marine_espacial_con_una_ventana_de_estado",
-      "latest_chapter": 10,
+      "latest_chapter": 11,
       "library_count": 5,
       "name": "Un marine espacial con una ventana de estado",
-      "package_count": 3,
+      "package_count": 4,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -99709,6 +99776,21 @@
           "name": "9-10",
           "size": 19614776,
           "telegram_link": "https://t.me/manhuasgratis/5224"
+        },
+        {
+          "name": "11",
+          "first": 11,
+          "last": 11,
+          "channel_id": -1003003829878,
+          "message_id": 5693,
+          "filename": "11 un marine espacial con una ventana de estado -.-.pdf",
+          "size": 9692780,
+          "date": "2026-10-18T04:12:48+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5693",
+          "download_ready": true,
+          "chapters": [
+            11
+          ]
         }
       ],
       "rating": 4,
@@ -104131,6 +104213,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-18T02:01:10.158654+00:00",
+  "updated_at": "2026-10-18T06:20:30.385706+00:00",
   "version": 3
 }
