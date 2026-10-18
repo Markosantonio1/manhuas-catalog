@@ -34450,7 +34450,8 @@
           "download_ready": true,
           "chapters": [
             40
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5629_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T002108Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d52be15ba8afae9bfc52ac9e80602dc14cd7caefe3981ecca96cdcff78dddaa"
         }
       ],
       "rating": 4,
@@ -70799,7 +70800,8 @@
             116,
             117,
             118
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5558_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T002108Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7650e921993ccdf166cb836f7836bd050715f4cdca95ad43d4df426015e25484"
         },
         {
           "channel_id": -1003003829878,
