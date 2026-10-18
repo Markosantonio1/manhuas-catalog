@@ -8559,7 +8559,8 @@
           "download_ready": true,
           "chapters": [
             751
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/against_the_gods/5849_751%20Against%20The%20Gods.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T202118Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d0a309958c74af1db1c3d647e76569fdd7a3dd125cf0c546759445a01fd746a"
         }
       ],
       "rating": 0,
@@ -71270,7 +71271,8 @@
           "download_ready": true,
           "chapters": [
             185
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_venganza_del_sabueso_de_sangre_de_hierro/5850_%5B%23185%5D%20%20%20La%20Venganza%20del%20Sabueso%20de%20Sangre%20de%20Hierro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T202134Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=73b030036fd04debe29ffc26bee3eace832f0398f262045cf358ede95785b42d"
         }
       ],
       "rating": 5,
