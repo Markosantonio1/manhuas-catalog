@@ -39124,7 +39124,7 @@
       "latest_chapter": 40,
       "library_count": 2,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 16,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -39405,6 +39405,21 @@
           "name": "40",
           "size": 14112602,
           "telegram_link": "https://t.me/manhuasgratis/5628"
+        },
+        {
+          "name": "40",
+          "first": 40,
+          "last": 40,
+          "channel_id": -1003003829878,
+          "message_id": 5629,
+          "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "size": 14112602,
+          "date": "2026-10-17T04:11:46+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5629",
+          "download_ready": true,
+          "chapters": [
+            40
+          ]
         }
       ],
       "rating": 4,
@@ -104179,6 +104194,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-18T14:04:57.442151+00:00",
+  "updated_at": "2026-10-18T15:20:28.209907+00:00",
   "version": 3
 }
