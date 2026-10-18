@@ -71854,7 +71854,8 @@
           "download_ready": true,
           "chapters": [
             97
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mago_prismatico_genio/5691_%5B%2397%5D%20%20%20Mago%20Prism%C3%A1tico%20Genio.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T062118Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5134b2ac50182a034697bc53ce36a6a9749ad064a7f1fadbf2c3637002402163"
         },
         {
           "name": "98",
@@ -71869,7 +71870,8 @@
           "download_ready": true,
           "chapters": [
             98
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mago_prismatico_genio/5692_%5B%2398%5D%20%20%20Mago%20Prism%C3%A1tico%20Genio.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T062128Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7d37b5afc1c34cd03d4684a075bbe0a2f00c29e4252683aad98e9839c9025641"
         }
       ],
       "rating": 4,
@@ -99792,7 +99794,8 @@
           "download_ready": true,
           "chapters": [
             11
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_marine_espacial_con_una_ventana_de_estado/5693_11%20un%20marine%20espacial%20con%20una%20ventana%20de%20estado%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T062136Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a97dded4c9b095ff30cfaecf928548cbed7643350ae464d6cc603cf10c9429b9"
         }
       ],
       "rating": 4,
