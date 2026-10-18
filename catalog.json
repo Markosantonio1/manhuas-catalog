@@ -7163,7 +7163,7 @@
       "latest_chapter": 751,
       "library_count": 0,
       "name": "Against The Gods",
-      "package_count": 42,
+      "package_count": 43,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -8545,6 +8545,21 @@
           "size": 6001047,
           "telegram_link": "https://t.me/manhuasgratis/5822",
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/against_the_gods/5822_751%20Against%20The%20Gods.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261018%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261018T194549Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e618b98db13c4aea481069eae83537d9a6c01af44802d8f91ce1635a6a8fddf2"
+        },
+        {
+          "name": "751",
+          "first": 751,
+          "last": 751,
+          "channel_id": -1003003829878,
+          "message_id": 5849,
+          "filename": "751 Against The Gods.pdf",
+          "size": 6001047,
+          "date": "2026-10-18T20:13:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5849",
+          "download_ready": true,
+          "chapters": [
+            751
+          ]
         }
       ],
       "rating": 0,
@@ -70228,10 +70243,10 @@
       ],
       "hashtag": "#La_Venganza_del_Sabueso_de_Sangre_de_Hierro",
       "id": "la_venganza_del_sabueso_de_sangre_de_hierro",
-      "latest_chapter": 184,
+      "latest_chapter": 185,
       "library_count": 5,
       "name": "La Venganza del Sabueso de Sangre de Hierro",
-      "package_count": 55,
+      "package_count": 56,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -71241,6 +71256,21 @@
           "name": "184",
           "size": 14579308,
           "telegram_link": "https://t.me/manhuasgratis/5220"
+        },
+        {
+          "name": "185",
+          "first": 185,
+          "last": 185,
+          "channel_id": -1003003829878,
+          "message_id": 5850,
+          "filename": "[#185]   La Venganza del Sabueso de Sangre de Hierro.pdf",
+          "size": 19926854,
+          "date": "2026-10-18T20:13:20+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5850",
+          "download_ready": true,
+          "chapters": [
+            185
+          ]
         }
       ],
       "rating": 5,
@@ -115060,6 +115090,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-18T18:54:22.383794+00:00",
+  "updated_at": "2026-10-18T20:20:34.690821+00:00",
   "version": 3
 }
