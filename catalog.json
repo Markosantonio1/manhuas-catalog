@@ -8567,7 +8567,8 @@
           "download_ready": true,
           "chapters": [
             751
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/against_the_gods/5849_751%20Against%20The%20Gods.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T152113Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=392770ad2969e6640ed17e827afb7a9bb5a44ec7a1b2eb2460519f2fc500d927"
         }
       ],
       "rating": 0,
