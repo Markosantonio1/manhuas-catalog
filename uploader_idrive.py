@@ -49,6 +49,7 @@ NOVELS_CHANNEL = -1004334091126          # novelas
 ADULT_CHANNEL = -1004467622375           # +18
 RESPALDO_CHANNEL = -1004367557958        # canal de respaldo (series importadas)
 
+# Límite de paquetes que el usuario pidió procesar para esta cadena
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
 
 # ⏱️ Tiempo máximo de ejecución por run (segundos). Al superarlo, el script
@@ -224,10 +225,10 @@ def mark_completed_series_visible(catalog: dict) -> int:
 # CHAIN — disparar el siguiente run
 # ============================================================
 
-def trigger_next_run(current_chain_run: int) -> bool:
+def trigger_next_run(current_chain_run: int, next_max_packages: int) -> bool:
     """
     Dispara el siguiente run del workflow vía `gh workflow run`.
-    Pasa el mismo MAX_PACKAGES_PER_RUN y el chain_run incrementado.
+    Pasa el límite restante (next_max_packages) y el chain_run incrementado.
     Reintenta 2 veces si falla (rate limit puntual, red, etc.).
     """
     next_run = current_chain_run + 1
@@ -241,7 +242,7 @@ def trigger_next_run(current_chain_run: int) -> bool:
     cmd = [
         "gh", "workflow", "run", UPLOADER_WORKFLOW_FILE,
         "-f", f"chain_run={next_run}",
-        "-f", f"max_packages={MAX_PACKAGES_PER_RUN}",
+        "-f", f"max_packages={next_max_packages}",
     ]
 
     for attempt in range(1, 3):
@@ -255,7 +256,7 @@ def trigger_next_run(current_chain_run: int) -> bool:
                 timeout=45,
             )
             if result.returncode == 0:
-                print(f"  ✓ Siguiente run disparado (chain_run={next_run})")
+                print(f"  ✓ Siguiente run disparado (chain_run={next_run}, max_packages={next_max_packages})")
                 return True
             stderr_preview = (result.stderr or "").strip()[:300]
             print(f"  ⚠ gh devolvió rc={result.returncode}: {stderr_preview}")
@@ -268,7 +269,7 @@ def trigger_next_run(current_chain_run: int) -> bool:
     print(f"  ✗ No se pudo disparar el siguiente run tras 2 intentos.")
     print(f"    ⚠️ Deberás lanzarlo manualmente con:")
     print(f"       gh workflow run {UPLOADER_WORKFLOW_FILE} "
-          f"-f chain_run={next_run} -f max_packages={MAX_PACKAGES_PER_RUN}")
+          f"-f chain_run={next_run} -f max_packages={next_max_packages}")
     return False
 
 
@@ -796,12 +797,16 @@ async def main():
     pending_after = total_pendientes - success_count
     made_progress = (success_count + reconciliados) > 0
 
-    # 🔁 Decidir si hay que encadenar el siguiente run
+    # 🔁 Decidir si hay que encadenar el siguiente run.
+    # OJO: Si success_count >= MAX_PACKAGES_PER_RUN, significa que ya
+    # completamos la cuota solicitada por el usuario original, aunque
+    # el reloj nos haya pillado justo al final. En ese caso NO encadenamos.
     should_chain = (
-        timed_out                       # solo si se cortó por tiempo
-        and pending_after > 0           # y queda trabajo pendiente
-        and made_progress               # y este run sí progresó
-        and CHAIN_RUN < MAX_CHAIN_RUNS  # y no se ha alcanzado el límite
+        timed_out
+        and pending_after > 0
+        and made_progress
+        and CHAIN_RUN < MAX_CHAIN_RUNS
+        and success_count < MAX_PACKAGES_PER_RUN # <-- NUEVO
     )
 
     print("\n" + "=" * 60)
@@ -824,6 +829,8 @@ async def main():
             print(f"⛔ Sin progreso → NO se encadena")
         elif CHAIN_RUN >= MAX_CHAIN_RUNS:
             print(f"⛔ Límite de {MAX_CHAIN_RUNS} runs alcanzado → NO se encadena")
+        elif success_count >= MAX_PACKAGES_PER_RUN:
+            print(f"⛔ Ya se completó la cuota de {MAX_PACKAGES_PER_RUN} PDFs → NO se encadena")
     elif pending_after == 0:
         print(f"✅ TODOS los pendientes completados. Fin del proceso.")
     print("=" * 60)
@@ -845,6 +852,12 @@ async def main():
             chain_status = (
                 f"\n⛔ Límite de {MAX_CHAIN_RUNS} runs alcanzado. "
                 f"NO se encadena. Ejecuta manualmente."
+            )
+        elif timed_out and success_count >= MAX_PACKAGES_PER_RUN:
+            chain_status = (
+                f"\n✅ <b>Cuota de {MAX_PACKAGES_PER_RUN} PDFs completada</b> "
+                f"(el tiempo se agotó justo al terminar).\n"
+                f"👉 Lanza un nuevo workflow si quieres continuar con los {pending_after} restantes."
             )
         elif pending_after == 0:
             chain_status = (
@@ -899,6 +912,10 @@ async def main():
         print("\n" + "=" * 60)
         print(f"🔁 Encadenando siguiente run...")
 
+        # Calculamos cuánto queda del límite que el usuario pidió originalmente.
+        # Si pidió 10 y se hicieron 5, el siguiente run tendrá max_packages=5.
+        next_limit = max(1, MAX_PACKAGES_PER_RUN - success_count)
+
         # 📢 Mensaje de cierre INDEPENDIENTE (no edit del anterior).
         # Sirve para que en el chat quede claro: "el run X terminó aquí,
         # el run X+1 arranca con Y pendientes". Así nunca se confunden
@@ -910,7 +927,8 @@ async def main():
                 f"✅ Subidos en este run: <b>{success_count}</b>\n"
                 f"👁️ Series visibles ahora: <b>{newly_visible}</b>\n"
                 f"📦 Pendientes para el siguiente run: <b>{pending_after}</b>\n\n"
-                f"⏳ Disparando <b>Chain {CHAIN_RUN + 1}/{MAX_CHAIN_RUNS - 1}</b>... "
+                f"⏳ Disparando <b>Chain {CHAIN_RUN + 1}/{MAX_CHAIN_RUNS - 1}</b> "
+                f"(límite: {next_limit} PDFs)... "
                 f"<i>(busca arriba el mensaje nuevo)</i>",
                 parse_mode="html",
             )
@@ -918,7 +936,7 @@ async def main():
         except Exception as exc:
             print(f"  ⚠ No se pudo enviar mensaje de cierre: {exc}")
 
-        trigger_next_run(CHAIN_RUN)
+        trigger_next_run(CHAIN_RUN, next_limit)
         print("=" * 60)
 
     try:
