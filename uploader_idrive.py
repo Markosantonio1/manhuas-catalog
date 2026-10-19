@@ -47,9 +47,27 @@ NOTIFY_USERNAME = "@Markosantonio"
 MAIN_CHANNEL = "manhuasgratis"           # manhuas normales
 NOVELS_CHANNEL = -1004334091126          # novelas
 ADULT_CHANNEL = -1004467622375           # +18
-RESPALDO_CHANNEL = -1004367557958        # ← NUEVO: canal de respaldo (series importadas)
+RESPALDO_CHANNEL = -1004367557958        # canal de respaldo (series importadas)
 
 MAX_PACKAGES_PER_RUN = int(os.getenv("MAX_PACKAGES_PER_RUN", "5"))
+
+# ⏱️ Tiempo máximo de ejecución por run (segundos). Al superarlo, el script
+# para limpio, guarda progreso y dispara el siguiente run del workflow.
+# 9000s = 2h 30m (margen de 30 min bajo el límite de 3h de GitHub Actions).
+MAX_RUNTIME_SECONDS = int(os.getenv("MAX_RUNTIME_SECONDS", "9000"))
+
+# 🔁 Cuántos runs puede encadenar como máximo este proceso.
+# 40 runs * 2h 30m = 100 horas totales.
+MAX_CHAIN_RUNS = int(os.getenv("MAX_CHAIN_RUNS", "40"))
+
+# 🔢 Número del run actual dentro de la cadena (0 = primero).
+CHAIN_RUN = int(os.getenv("CHAIN_RUN", "0"))
+
+# Nombre del workflow que se dispara para el siguiente run.
+# Debe coincidir con el archivo .github/workflows/uploader_idrive.yml
+UPLOADER_WORKFLOW_FILE = os.getenv(
+    "UPLOADER_WORKFLOW_FILE", "uploader_idrive.yml"
+)
 
 # Cada cuántos paquetes se hace checkpoint (commit + push remoto)
 SAVE_EVERY_N = int(os.getenv("SAVE_EVERY_N", "10"))
@@ -144,7 +162,7 @@ def git_commit_and_push(mensaje: str) -> bool:
             check=False, capture_output=True, text=True,
         )
 
-        # 🛡️ FIX: Usamos pull -X ours para evitar el conflicto.
+        # 🛡️ Usamos pull -X ours para evitar el conflicto.
         # Si hay diferencia entre el catálogo local y el de GitHub,
         # gana el local (el que tiene las URLs nuevas de IDrive).
         pr = subprocess.run(
@@ -166,6 +184,92 @@ def git_commit_and_push(mensaje: str) -> bool:
     except Exception as exc:
         print(f"    ⚠ Error commit/push: {exc}")
         return False
+
+
+# ============================================================
+# AUTO-VISIBILIDAD — marcar series completadas como visibles
+# ============================================================
+
+def mark_completed_series_visible(catalog: dict) -> int:
+    """
+    Recorre el catálogo y marca como visible cualquier serie/novela
+    que tenga TODOS sus paquetes con download_url asignada.
+
+    Así, cuando este run termina de subir la última URL de una serie,
+    la APK la ve sin necesidad de ejecutar todo.py.
+
+    Devuelve el número de series que pasaron de ocultas a visibles.
+    """
+    changed = 0
+    for list_key in ("series", "novels"):
+        for item in catalog.get(list_key, []):
+            packages = item.get("packages", [])
+            if not packages:
+                continue  # series sin paquetes → ya se ocultan en todo.py
+            # ¿Todos los paquetes tienen URL?
+            if not all(p.get("download_url") for p in packages):
+                continue
+            # ¿Ya está visible? → nada que hacer
+            if item.get("visible", True):
+                continue
+            # Marcarla visible
+            item["visible"] = True
+            changed += 1
+            hashtag = item.get("hashtag") or item.get("id") or "?"
+            print(f"  👁️ {hashtag} → visible (todas las URLs asignadas)")
+    return changed
+
+
+# ============================================================
+# CHAIN — disparar el siguiente run
+# ============================================================
+
+def trigger_next_run(current_chain_run: int) -> bool:
+    """
+    Dispara el siguiente run del workflow vía `gh workflow run`.
+    Pasa el mismo MAX_PACKAGES_PER_RUN y el chain_run incrementado.
+    Reintenta 2 veces si falla (rate limit puntual, red, etc.).
+    """
+    next_run = current_chain_run + 1
+    if next_run >= MAX_CHAIN_RUNS:
+        print(
+            f"  ⛔ Límite de cadena alcanzado "
+            f"({next_run} ≥ {MAX_CHAIN_RUNS}). NO se dispara siguiente run."
+        )
+        return False
+
+    cmd = [
+        "gh", "workflow", "run", UPLOADER_WORKFLOW_FILE,
+        "-f", f"chain_run={next_run}",
+        "-f", f"max_packages={MAX_PACKAGES_PER_RUN}",
+    ]
+
+    for attempt in range(1, 3):
+        try:
+            print(f"  🔁 Intento {attempt}/2: {' '.join(cmd)}")
+            result = subprocess.run(
+                cmd,
+                check=False,
+                capture_output=True,
+                text=True,
+                timeout=45,
+            )
+            if result.returncode == 0:
+                print(f"  ✓ Siguiente run disparado (chain_run={next_run})")
+                return True
+            stderr_preview = (result.stderr or "").strip()[:300]
+            print(f"  ⚠ gh devolvió rc={result.returncode}: {stderr_preview}")
+        except Exception as exc:
+            print(f"  ⚠ Error disparando: {type(exc).__name__}: {exc}")
+
+        if attempt < 2:
+            time.sleep(8)
+
+    print(f"  ✗ No se pudo disparar el siguiente run tras 2 intentos.")
+    print(f"    ⚠️ Deberás lanzarlo manualmente con:")
+    print(f"       gh workflow run {UPLOADER_WORKFLOW_FILE} "
+          f"-f chain_run={next_run} -f max_packages={MAX_PACKAGES_PER_RUN}")
+    return False
 
 
 # ============================================================
@@ -381,7 +485,7 @@ def elegir_canal(series: dict, list_key: str) -> tuple:
     """
     series_id = series.get("id", "")
 
-    # 🛡️ FIX: Si es de Respaldo, sus PDFs SIEMPRE están en el canal de 
+    # 🛡️ Si es de Respaldo, sus PDFs SIEMPRE están en el canal de
     # respaldo, aunque también tenga el género "+18".
     # Por eso comprobamos "Respaldo" ANTES que "+18".
     if is_respaldo_series(series):
@@ -389,10 +493,10 @@ def elegir_canal(series: dict, list_key: str) -> tuple:
 
     if is_adult_series(series_id):
         return ADULT_CHANNEL, "+18"
-        
+
     if list_key == "novels":
         return NOVELS_CHANNEL, "novelas"
-        
+
     return MAIN_CHANNEL, "principal"
 
 
@@ -401,10 +505,15 @@ def elegir_canal(series: dict, list_key: str) -> tuple:
 # ============================================================
 
 async def main():
+    # ⏱️ Marca de tiempo de inicio — para el corte por tiempo
+    START_TIME = time.time()
+
     print("=" * 60)
     print("UPLOADER IDRIVE E2 — GitHub Actions (manhuas + novelas + +18 + respaldo)")
     print("=" * 60)
     print(f"Checkpoint cada {SAVE_EVERY_N} paquetes")
+    print(f"Chain run: {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}")
+    print(f"Tiempo máximo: {MAX_RUNTIME_SECONDS}s ({MAX_RUNTIME_SECONDS // 60} min)")
 
     if not API_ID or not API_HASH:
         raise RuntimeError("Faltan TELEGRAM_API_ID o TELEGRAM_API_HASH.")
@@ -488,6 +597,8 @@ async def main():
 
     success_count = 0
     fail_count = 0
+    timed_out = False
+    newly_visible = 0
 
     # 🚀 MENSAJE DE PROGRESO: Enviamos el mensaje inicial y guardamos su ID
     progress_message_id = None
@@ -507,6 +618,22 @@ async def main():
 
     try:
         for idx, (series, pack, list_key) in enumerate(to_process, start=1):
+            # ⏱️ CORTE POR TIEMPO: comprobar ANTES de procesar el siguiente
+            # paquete. Si ya hemos superado el tiempo máximo, salimos limpios
+            # sin cortar una descarga/subida a medias.
+            elapsed = time.time() - START_TIME
+            if elapsed >= MAX_RUNTIME_SECONDS:
+                print(
+                    f"\n⏸️ Tiempo límite alcanzado "
+                    f"({elapsed:.0f}s ≥ {MAX_RUNTIME_SECONDS}s). "
+                    f"Deteniendo para guardar progreso y encadenar siguiente run."
+                )
+                print(f"   Procesados en este run: {idx - 1}/{len(to_process)}")
+                print(f"   Pendientes después de este run: "
+                      f"{total_pendientes - success_count}")
+                timed_out = True
+                break
+
             series_name = series.get("name", "Desconocida")
             series_id = series.get("id", "")
             pack_name = pack.get("name", "Paquete")
@@ -627,11 +754,28 @@ async def main():
     finally:
         print("\n" + "-" * 60)
         print("Guardado final...")
+
+        # 1. 👁️ Marcar como visibles las series que ya tienen todas las URLs.
+        #    Esto se hace ANTES del save_catalog para que el cambio se suba
+        #    en el mismo commit.
+        try:
+            newly_visible = mark_completed_series_visible(catalog)
+            if newly_visible > 0:
+                print(f"  ✓ {newly_visible} series ahora visibles")
+        except Exception as exc:
+            print(f"  ⚠ Error marcando visibles: {exc}")
+
+        # 2. 💾 Guardar + push (incluye las visibles recién marcadas).
         try:
             save_catalog(catalog)
-            if git_commit_and_push(
-                f"IDrive: guardado final ({success_count} subidos)"
-            ):
+            commit_msg = f"IDrive: guardado final ({success_count} subidos"
+            if newly_visible > 0:
+                commit_msg += f", {newly_visible} visibles"
+            if timed_out:
+                commit_msg += ", detenido por tiempo"
+            commit_msg += f") [chain {CHAIN_RUN}]"
+
+            if git_commit_and_push(commit_msg):
                 print("✓ Catálogo final subido a GitHub")
             else:
                 print("⚠ No se pudo subir el catálogo final")
@@ -641,29 +785,83 @@ async def main():
     # --------------------------------------------------------
     # REPORTE FINAL
     # --------------------------------------------------------
+    pending_after = total_pendientes - success_count
+    made_progress = (success_count + reconciliados) > 0
+
+    # 🔁 Decidir si hay que encadenar el siguiente run
+    should_chain = (
+        timed_out                       # solo si se cortó por tiempo
+        and pending_after > 0           # y queda trabajo pendiente
+        and made_progress               # y este run sí progresó
+        and CHAIN_RUN < MAX_CHAIN_RUNS  # y no se ha alcanzado el límite
+    )
+
     print("\n" + "=" * 60)
     print(f"✓ Reconciliados: {reconciliados}")
     print(f"✓ Subidos nuevos: {success_count}")
     print(f"✗ Fallidos: {fail_count}")
+    print(f"👁️ Marcadas visibles: {newly_visible}")
     print(f"📦 Pendientes antes (manhuas):  {pendientes_manhuas}")
     print(f"📦 Pendientes antes (+18):      {pendientes_adult}")
     print(f"📦 Pendientes antes (respaldo): {pendientes_respaldo}")
     print(f"📦 Pendientes antes (novelas):  {pendientes_novelas}")
-    print(f"📦 Pendientes restantes totales: {total_pendientes - success_count}")
+    print(f"📦 Pendientes restantes: {pending_after}")
+    print(f"⏱️ Duración: {time.time() - START_TIME:.0f}s "
+          f"· Chain: {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}")
+    if timed_out:
+        print(f"⏸️ Detenido por tiempo")
+        if should_chain:
+            print(f"🔁 Encadenando siguiente run (chain_run={CHAIN_RUN + 1})...")
+        elif not made_progress:
+            print(f"⛔ Sin progreso → NO se encadena")
+        elif CHAIN_RUN >= MAX_CHAIN_RUNS:
+            print(f"⛔ Límite de {MAX_CHAIN_RUNS} runs alcanzado → NO se encadena")
+    elif pending_after == 0:
+        print(f"✅ TODOS los pendientes completados. Fin del proceso.")
     print("=" * 60)
 
     try:
+        # 🏷️ Línea de estado del chain
+        if timed_out and should_chain:
+            chain_status = (
+                f"\n⏸️ <b>Detenido por tiempo</b> (2h 30m)\n"
+                f"🔁 Encadenando siguiente run "
+                f"(chain_run={CHAIN_RUN + 1}/{MAX_CHAIN_RUNS - 1})..."
+            )
+        elif timed_out and not made_progress:
+            chain_status = (
+                f"\n⛔ Detenido por tiempo <b>sin progreso</b> "
+                f"(sin conexión o error). NO se encadena."
+            )
+        elif timed_out and CHAIN_RUN >= MAX_CHAIN_RUNS:
+            chain_status = (
+                f"\n⛔ Límite de {MAX_CHAIN_RUNS} runs alcanzado. "
+                f"NO se encadena. Ejecuta manualmente."
+            )
+        elif pending_after == 0:
+            chain_status = f"\n✅ <b>Todos los pendientes completados</b>"
+        else:
+            chain_status = ""
+
+        visible_line = (
+            f"\n👁️ Nuevas series visibles: {newly_visible}"
+            if newly_visible > 0 else ""
+        )
+
         report = (
             f"📊 <b>Reporte Final - Uploader IDrive e2</b>\n"
-            f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
+            f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n"
+            f"Chain run: {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}\n\n"
             f"↻ Reconciliados: {reconciliados}\n"
             f"✅ Subidos nuevos: {success_count}\n"
             f"❌ Fallidos: {fail_count}\n"
-            f"📦 Pendientes restantes: {total_pendientes - success_count}\n"
+            f"{visible_line}\n"
+            f"📦 Pendientes restantes: {pending_after}\n"
             f"  • Manhuas:  {pendientes_manhuas}\n"
             f"  • +18:      {pendientes_adult}\n"
             f"  • Respaldo: {pendientes_respaldo}\n"
             f"  • Novelas:  {pendientes_novelas}\n"
+            f"{chain_status}"
         )
 
         if progress_message_id:
@@ -677,6 +875,15 @@ async def main():
 
     except Exception as exc:
         print(f"⚠ Error enviando reporte: {exc}")
+
+    # --------------------------------------------------------
+    # 🔁 DISPARAR SIGUIENTE RUN (si aplica)
+    # --------------------------------------------------------
+    if should_chain:
+        print("\n" + "=" * 60)
+        print(f"🔁 Encadenando siguiente run...")
+        trigger_next_run(CHAIN_RUN)
+        print("=" * 60)
 
     try:
         await client.disconnect()
