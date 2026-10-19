@@ -7171,7 +7171,7 @@
       "latest_chapter": 751,
       "library_count": 0,
       "name": "Against The Gods",
-      "package_count": 42,
+      "package_count": 43,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -8553,6 +8553,21 @@
           "name": "751",
           "size": 6001047,
           "telegram_link": "https://t.me/manhuasgratis/5822"
+        },
+        {
+          "name": "751",
+          "first": 751,
+          "last": 751,
+          "channel_id": -1003003829878,
+          "message_id": 5849,
+          "filename": "751 Against The Gods.pdf",
+          "size": 6001047,
+          "date": "2026-10-18T20:13:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5849",
+          "download_ready": true,
+          "chapters": [
+            751
+          ]
         }
       ],
       "rating": 0,
@@ -23427,10 +23442,10 @@
       ],
       "hashtag": "#El_Chico_Problemático_de_la_Torre_Mágica",
       "id": "el_chico_problematico_de_la_torre_magica",
-      "latest_chapter": 59,
+      "latest_chapter": 66,
       "library_count": 1,
       "name": "El Chico Problemático de la Torre Mágica",
-      "package_count": 10,
+      "package_count": 12,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -23640,6 +23655,41 @@
           "name": "59",
           "size": 13190822,
           "telegram_link": "https://t.me/manhuasgratis/5184"
+        },
+        {
+          "name": "60",
+          "first": 60,
+          "last": 60,
+          "channel_id": -1003003829878,
+          "message_id": 5875,
+          "filename": "[#60]   El Chico Problemático de la Torre Mágica.pdf",
+          "size": 18620137,
+          "date": "2026-10-19T12:13:34+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5875",
+          "download_ready": true,
+          "chapters": [
+            60
+          ]
+        },
+        {
+          "name": "61-66",
+          "first": 61,
+          "last": 66,
+          "channel_id": -1003003829878,
+          "message_id": 5876,
+          "filename": "[#61-66]   El Chico Problemático de la Torre Mágica.pdf",
+          "size": 135005271,
+          "date": "2026-10-19T12:13:36+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/5876",
+          "download_ready": true,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
         }
       ],
       "rating": 5,
@@ -122562,6 +122612,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-19T12:03:23.333118+00:00",
+  "updated_at": "2026-10-19T12:20:38.650228+00:00",
   "version": 3
 }
