@@ -23678,7 +23678,8 @@
           "download_ready": true,
           "chapters": [
             60
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_chico_problematico_de_la_torre_magica/5875_%5B%2360%5D%20%20%20El%20Chico%20Problem%C3%A1tico%20de%20la%20Torre%20M%C3%A1gica.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T152133Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf8c3b50f1c3844d0bbe182e78468d11c64c52d13c9e5bbaf269cdecd80780ec"
         },
         {
           "name": "61-66",
@@ -23698,7 +23699,8 @@
             64,
             65,
             66
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_chico_problematico_de_la_torre_magica/5876_%5B%2361-66%5D%20%20%20El%20Chico%20Problem%C3%A1tico%20de%20la%20Torre%20M%C3%A1gica.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T152318Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e50df70c386e0f9a23d6726fc392fa4818fcdc5eeb0bfa436284a23d8c065575"
         }
       ],
       "rating": 5,
