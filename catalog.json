@@ -7171,7 +7171,7 @@
       "latest_chapter": 751,
       "library_count": 0,
       "name": "Against The Gods",
-      "package_count": 43,
+      "package_count": 42,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -8553,21 +8553,6 @@
           "name": "751",
           "size": 6001047,
           "telegram_link": "https://t.me/manhuasgratis/5822"
-        },
-        {
-          "name": "751",
-          "first": 751,
-          "last": 751,
-          "channel_id": -1003003829878,
-          "message_id": 5849,
-          "filename": "751 Against The Gods.pdf",
-          "size": 6001047,
-          "date": "2026-10-18T20:13:17+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5849",
-          "download_ready": true,
-          "chapters": [
-            751
-          ]
         }
       ],
       "rating": 0,
@@ -23450,10 +23435,10 @@
       ],
       "hashtag": "#El_Chico_Problemático_de_la_Torre_Mágica",
       "id": "el_chico_problematico_de_la_torre_magica",
-      "latest_chapter": 66,
+      "latest_chapter": 59,
       "library_count": 1,
       "name": "El Chico Problemático de la Torre Mágica",
-      "package_count": 12,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -23663,41 +23648,6 @@
           "name": "59",
           "size": 13190822,
           "telegram_link": "https://t.me/manhuasgratis/5184"
-        },
-        {
-          "name": "60",
-          "first": 60,
-          "last": 60,
-          "channel_id": -1003003829878,
-          "message_id": 5875,
-          "filename": "[#60]   El Chico Problemático de la Torre Mágica.pdf",
-          "size": 18620137,
-          "date": "2026-10-19T12:13:34+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5875",
-          "download_ready": true,
-          "chapters": [
-            60
-          ]
-        },
-        {
-          "name": "61-66",
-          "first": 61,
-          "last": 66,
-          "channel_id": -1003003829878,
-          "message_id": 5876,
-          "filename": "[#61-66]   El Chico Problemático de la Torre Mágica.pdf",
-          "size": 135005271,
-          "date": "2026-10-19T12:13:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5876",
-          "download_ready": true,
-          "chapters": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66
-          ]
         }
       ],
       "rating": 5,
@@ -103606,7 +103556,8 @@
           "message_id": 945,
           "name": "121-130",
           "size": 84602663,
-          "telegram_link": "https://t.me/manhuasgratis/945"
+          "telegram_link": "https://t.me/manhuasgratis/945",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/945_121_130%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T134116Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=546c31cb9a86f1bf27cac3212dd80355f429e017a0e0c6256a35ac2366e8e927"
         },
         {
           "channel_id": -1003003829878,
@@ -103630,7 +103581,8 @@
           "message_id": 946,
           "name": "131-140",
           "size": 79647848,
-          "telegram_link": "https://t.me/manhuasgratis/946"
+          "telegram_link": "https://t.me/manhuasgratis/946",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/946_131_140%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T134324Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d8a77861d9938e4ec04d1495d43ceb02a25daa52e4663744b4ee365ee9265de"
         },
         {
           "channel_id": -1003003829878,
@@ -103654,7 +103606,8 @@
           "message_id": 947,
           "name": "141-150",
           "size": 71227529,
-          "telegram_link": "https://t.me/manhuasgratis/947"
+          "telegram_link": "https://t.me/manhuasgratis/947",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/947_141_150%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T134519Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ee24cd539cc4d4bef3f83b4e78bd10d5f62619e07807ebbf37df12bf959afdf"
         },
         {
           "channel_id": -1003003829878,
@@ -103678,7 +103631,8 @@
           "message_id": 948,
           "name": "151-160",
           "size": 69090137,
-          "telegram_link": "https://t.me/manhuasgratis/948"
+          "telegram_link": "https://t.me/manhuasgratis/948",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/948_151_160%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T134711Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=88941778a7002864aa0df556ac3d382027871e687419972917dbbeb9de72dac5"
         },
         {
           "channel_id": -1003003829878,
@@ -103702,7 +103656,8 @@
           "message_id": 949,
           "name": "161-170",
           "size": 64699440,
-          "telegram_link": "https://t.me/manhuasgratis/949"
+          "telegram_link": "https://t.me/manhuasgratis/949",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/949_161_170%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T134856Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a91afa5d66227fc53b0499af8f5b9843beed96564869ee213cc2de72fa4cb28e"
         },
         {
           "channel_id": -1003003829878,
@@ -103726,7 +103681,8 @@
           "message_id": 950,
           "name": "171-180",
           "size": 72133317,
-          "telegram_link": "https://t.me/manhuasgratis/950"
+          "telegram_link": "https://t.me/manhuasgratis/950",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/950_171_180%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T135052Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f8a608341c038cc1fde4ff90a0d337ec2a2f387155e87b797ecdeb40cbae8f2"
         },
         {
           "channel_id": -1003003829878,
@@ -103750,7 +103706,8 @@
           "message_id": 951,
           "name": "181-190",
           "size": 76115585,
-          "telegram_link": "https://t.me/manhuasgratis/951"
+          "telegram_link": "https://t.me/manhuasgratis/951",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/951_181_190%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T135255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b9c8fbf71560aa9be8e7dd94f5da20046c9a78764b1bdf675056bc4b1da5470"
         },
         {
           "channel_id": -1003003829878,
@@ -103774,7 +103731,8 @@
           "message_id": 952,
           "name": "191-200",
           "size": 69535376,
-          "telegram_link": "https://t.me/manhuasgratis/952"
+          "telegram_link": "https://t.me/manhuasgratis/952",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/952_191_200%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T135448Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=38be4eec9c05f352e55373af0e6589752a8d59c8c18d4b788e52b2faafb75ced"
         },
         {
           "channel_id": -1003003829878,
@@ -103798,7 +103756,8 @@
           "message_id": 953,
           "name": "201-210",
           "size": 79111712,
-          "telegram_link": "https://t.me/manhuasgratis/953"
+          "telegram_link": "https://t.me/manhuasgratis/953",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/953_201_210%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T135656Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=38b8b64448dbd07ca539b7290f57579d74062f65949978090647f0bedb430bbf"
         },
         {
           "channel_id": -1003003829878,
@@ -103822,7 +103781,8 @@
           "message_id": 954,
           "name": "211-220",
           "size": 74241815,
-          "telegram_link": "https://t.me/manhuasgratis/954"
+          "telegram_link": "https://t.me/manhuasgratis/954",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/954_211_220%20Subiendo%20de%20Nivel%2010.000%20a%C3%B1os%20en%20el%20futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261019%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261019T135856Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=52cd3eb00a6686d2f361301845c7c18497b47627c114f77186cf6ff8fb9ee45a"
         },
         {
           "channel_id": -1003003829878,
@@ -122642,6 +122602,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-19T13:20:33.978637+00:00",
+  "updated_at": "2026-10-19T12:03:23.333118+00:00",
   "version": 3
 }
