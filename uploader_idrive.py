@@ -594,6 +594,10 @@ async def main():
 
     to_process = pendientes_reales[:MAX_PACKAGES_PER_RUN]
     print(f"Procesando {len(to_process)} paquetes (límite: {MAX_PACKAGES_PER_RUN})")
+    print(f"🔍 DEBUG: pendientes_reales={len(pendientes_reales)} · "
+          f"to_process={len(to_process)} · "
+          f"reconciliados={reconciliados} · "
+          f"chain_run={CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}")
 
     success_count = 0
     fail_count = 0
@@ -605,7 +609,9 @@ async def main():
     last_update_time = time.time()
     try:
         initial_text = (
-            "🤖 <b>Bot de subida IDrive en acción</b>\n\n"
+            f"🤖 <b>Bot IDrive — Chain {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}</b>\n\n"
+            f"📦 <b>Pendientes totales:</b> {total_pendientes}\n"
+            f"🎯 <b>Procesando este run:</b> {len(to_process)}\n\n"
             f"[░░░░░░░░░░░░░░░░░░░░] 0% (0/{len(to_process)})\n\n"
             f"📚 <b>Serie:</b> Iniciando...\n"
             f"📄 <b>Actual:</b> Esperando...\n"
@@ -732,9 +738,11 @@ async def main():
                     safe_series = html.escape(series_name + tipo_tag + tag)
                     safe_pack = html.escape(pack_name)
 
+                    pending_live = total_pendientes - success_count
                     progress_text = (
-                        "🤖 <b>Bot de subida IDrive en acción</b>\n\n"
-                        f"[{bar}] {percent}% ({idx}/{len(to_process)})\n\n"
+                        f"🤖 <b>Bot IDrive — Chain {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}</b>\n\n"
+                        f"[{bar}] {percent}% ({idx}/{len(to_process)})\n"
+                        f"📦 Quedarán pendientes: {pending_live}\n\n"
                         f"📚 <b>Serie:</b> {safe_series}\n"
                         f"📄 <b>Actual:</b> {safe_pack}\n"
                         f"✅ <b>Éxitos:</b> {success_count} | ❌ <b>Errores:</b> {fail_count}"
@@ -839,7 +847,16 @@ async def main():
                 f"NO se encadena. Ejecuta manualmente."
             )
         elif pending_after == 0:
-            chain_status = f"\n✅ <b>Todos los pendientes completados</b>"
+            chain_status = (
+                f"\n✅ <b>Todos los pendientes completados</b>\n"
+                f"🎉 Trabajo terminado. No hay más runs."
+            )
+        elif not timed_out:
+            chain_status = (
+                f"\n⏹️ <b>Procesados todos los paquetes de este run</b>\n"
+                f"📦 Aún quedan {pending_after} pendientes en el catálogo.\n"
+                f"👉 Lanza un nuevo workflow manualmente si quieres continuar."
+            )
         else:
             chain_status = ""
 
@@ -849,9 +866,8 @@ async def main():
         )
 
         report = (
-            f"📊 <b>Reporte Final - Uploader IDrive e2</b>\n"
-            f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n"
-            f"Chain run: {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}\n\n"
+            f"📊 <b>Reporte Run {CHAIN_RUN}/{MAX_CHAIN_RUNS - 1}</b>\n"
+            f"Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}\n\n"
             f"↻ Reconciliados: {reconciliados}\n"
             f"✅ Subidos nuevos: {success_count}\n"
             f"❌ Fallidos: {fail_count}\n"
@@ -882,6 +898,26 @@ async def main():
     if should_chain:
         print("\n" + "=" * 60)
         print(f"🔁 Encadenando siguiente run...")
+
+        # 📢 Mensaje de cierre INDEPENDIENTE (no edit del anterior).
+        # Sirve para que en el chat quede claro: "el run X terminó aquí,
+        # el run X+1 arranca con Y pendientes". Así nunca se confunden
+        # los mensajes del run viejo con los del run nuevo.
+        try:
+            await client.send_message(
+                NOTIFY_USERNAME,
+                f"🏁 <b>Run {CHAIN_RUN} finalizado (por tiempo)</b>\n\n"
+                f"✅ Subidos en este run: <b>{success_count}</b>\n"
+                f"👁️ Series visibles ahora: <b>{newly_visible}</b>\n"
+                f"📦 Pendientes para el siguiente run: <b>{pending_after}</b>\n\n"
+                f"⏳ Disparando <b>Chain {CHAIN_RUN + 1}/{MAX_CHAIN_RUNS - 1}</b>... "
+                f"<i>(busca arriba el mensaje nuevo)</i>",
+                parse_mode="html",
+            )
+            print("  ✓ Mensaje de cierre enviado a Telegram")
+        except Exception as exc:
+            print(f"  ⚠ No se pudo enviar mensaje de cierre: {exc}")
+
         trigger_next_run(CHAIN_RUN)
         print("=" * 60)
 
