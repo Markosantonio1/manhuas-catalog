@@ -61,7 +61,7 @@ jobs:
           # ── Parámetros del chain ──
           MAX_PACKAGES_PER_RUN: ${{ inputs.max_packages }}
           CHAIN_RUN: ${{ inputs.chain_run }}
-          MAX_RUNTIME_SECONDS: "9000"    # 2h 30m
+          MAX_RUNTIME_SECONDS: "300"    # 2h 30m
           MAX_CHAIN_RUNS: "40"           # 40 * 2.5h = 100h
           # ── Token para git push y gh workflow run ──
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
