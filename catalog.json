@@ -40325,10 +40325,10 @@
       ],
       "hashtag": "#Emperador_Magico",
       "id": "emperador_magico",
-      "latest_chapter": 915,
+      "latest_chapter": 924,
       "library_count": 6,
       "name": "Emperador Magico",
-      "package_count": 71,
+      "package_count": 94,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -41999,6 +41999,290 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            867
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "867 Emperador Demoníaco -.-.pdf",
+          "first": 867,
+          "last": 867,
+          "message_id": 4036,
+          "name": "867",
+          "size": 13322587,
+          "telegram_link": "https://t.me/manhuasgratis/4036"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            868
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "868 Emperador Demoníaco -.-.pdf",
+          "first": 868,
+          "last": 868,
+          "message_id": 4037,
+          "name": "868",
+          "size": 8207481,
+          "telegram_link": "https://t.me/manhuasgratis/4037"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            869
+          ],
+          "date": "2026-08-29T13:18:03+00:00",
+          "download_ready": true,
+          "filename": "869 Emperador Demoniaco -.-.pdf",
+          "first": 869,
+          "last": 869,
+          "message_id": 4038,
+          "name": "869",
+          "size": 7740396,
+          "telegram_link": "https://t.me/manhuasgratis/4038"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            870,
+            871,
+            872
+          ],
+          "date": "2026-08-29T13:18:04+00:00",
+          "download_ready": true,
+          "filename": "870-872 Emperador Demoníaco -.-.pdf",
+          "first": 870,
+          "last": 872,
+          "message_id": 4039,
+          "name": "870-872",
+          "size": 22677026,
+          "telegram_link": "https://t.me/manhuasgratis/4039"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            873
+          ],
+          "date": "2026-08-29T13:18:04+00:00",
+          "download_ready": true,
+          "filename": "873 Emperador Demoníaco -.-.pdf",
+          "first": 873,
+          "last": 873,
+          "message_id": 4040,
+          "name": "873",
+          "size": 10604103,
+          "telegram_link": "https://t.me/manhuasgratis/4040"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            874
+          ],
+          "date": "2026-08-29T13:18:04+00:00",
+          "download_ready": true,
+          "filename": "874 Emperador Demoníaco -.-.pdf",
+          "first": 874,
+          "last": 874,
+          "message_id": 4041,
+          "name": "874",
+          "size": 9089278,
+          "telegram_link": "https://t.me/manhuasgratis/4041"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            875
+          ],
+          "date": "2026-08-29T13:18:04+00:00",
+          "download_ready": true,
+          "filename": "875 Emperador Demoníaco -.-.pdf",
+          "first": 875,
+          "last": 875,
+          "message_id": 4042,
+          "name": "875",
+          "size": 7438419,
+          "telegram_link": "https://t.me/manhuasgratis/4042"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            876
+          ],
+          "date": "2026-08-29T13:18:08+00:00",
+          "download_ready": true,
+          "filename": "876 Emperador Demoníaco -.-.pdf",
+          "first": 876,
+          "last": 876,
+          "message_id": 4043,
+          "name": "876",
+          "size": 5822689,
+          "telegram_link": "https://t.me/manhuasgratis/4043"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            879,
+            880
+          ],
+          "date": "2026-08-29T13:18:08+00:00",
+          "download_ready": true,
+          "filename": "879-880 Emperador Demoníaco -.-.pdf",
+          "first": 879,
+          "last": 880,
+          "message_id": 4044,
+          "name": "879-880",
+          "size": 12686234,
+          "telegram_link": "https://t.me/manhuasgratis/4044"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            881
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "881 Emperador Demoníaco -.-.pdf",
+          "first": 881,
+          "last": 881,
+          "message_id": 4045,
+          "name": "881",
+          "size": 6398677,
+          "telegram_link": "https://t.me/manhuasgratis/4045"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            882
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "882 Emperador Demoníaco -.-.pdf",
+          "first": 882,
+          "last": 882,
+          "message_id": 4046,
+          "name": "882",
+          "size": 5923102,
+          "telegram_link": "https://t.me/manhuasgratis/4046"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            883,
+            884
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "883-884 Emperador Demoníaco -.-.pdf",
+          "first": 883,
+          "last": 884,
+          "message_id": 4047,
+          "name": "883-884",
+          "size": 12505165,
+          "telegram_link": "https://t.me/manhuasgratis/4047"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            885,
+            886
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "885-886 Emperador Demoníaco -.-.pdf",
+          "first": 885,
+          "last": 886,
+          "message_id": 4048,
+          "name": "885-886",
+          "size": 12761209,
+          "telegram_link": "https://t.me/manhuasgratis/4048"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            887,
+            888,
+            889
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "887-889 Emperador Demoníaco -.-.pdf",
+          "first": 887,
+          "last": 889,
+          "message_id": 4049,
+          "name": "887-889",
+          "size": 21160662,
+          "telegram_link": "https://t.me/manhuasgratis/4049"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            890,
+            891,
+            892,
+            893
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "890-893 Emperador Demoníaco -.-.pdf",
+          "first": 890,
+          "last": 893,
+          "message_id": 4050,
+          "name": "890-893",
+          "size": 29962086,
+          "telegram_link": "https://t.me/manhuasgratis/4050"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            894
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "894 Emperador Demoníaco -.-.pdf",
+          "first": 894,
+          "last": 894,
+          "message_id": 4051,
+          "name": "894",
+          "size": 7432785,
+          "telegram_link": "https://t.me/manhuasgratis/4051"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            895,
+            896,
+            897
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "895-897 Emperador Demoníaco -.-.pdf",
+          "first": 895,
+          "last": 897,
+          "message_id": 4052,
+          "name": "895-897",
+          "size": 21858435,
+          "telegram_link": "https://t.me/manhuasgratis/4052"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            898,
+            899,
+            900
+          ],
+          "date": "2026-08-29T13:18:09+00:00",
+          "download_ready": true,
+          "filename": "898-900 Emperador Demoníaco -.-.pdf",
+          "first": 898,
+          "last": 900,
+          "message_id": 4053,
+          "name": "898-900",
+          "size": 20219173,
+          "telegram_link": "https://t.me/manhuasgratis/4053"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             901,
             902
           ],
@@ -42032,6 +42316,23 @@
         {
           "channel_id": -1003003829878,
           "chapters": [
+            904,
+            905,
+            906
+          ],
+          "date": "2026-09-07T14:32:18+00:00",
+          "download_ready": true,
+          "filename": "904-906 Emperador Demoníaco -.-.pdf",
+          "first": 904,
+          "last": 906,
+          "message_id": 4338,
+          "name": "904-906",
+          "size": 21172960,
+          "telegram_link": "https://t.me/manhuasgratis/4338"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
             907,
             908,
             909
@@ -42046,6 +42347,23 @@
           "name": "907-909",
           "size": 26192823,
           "telegram_link": "https://t.me/manhuasgratis/4522"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            910,
+            911,
+            912
+          ],
+          "date": "2026-09-20T13:32:09+00:00",
+          "download_ready": true,
+          "filename": "910-912 Emperador Demoníaco -.-.pdf",
+          "first": 910,
+          "last": 912,
+          "message_id": 4603,
+          "name": "910-912",
+          "size": 19520081,
+          "telegram_link": "https://t.me/manhuasgratis/4603"
         },
         {
           "channel_id": -1003003829878,
@@ -42079,6 +42397,57 @@
           "name": "914-915",
           "size": 15683329,
           "telegram_link": "https://t.me/manhuasgratis/4654"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            916,
+            917,
+            918
+          ],
+          "date": "2026-10-04T04:11:34+00:00",
+          "download_ready": true,
+          "filename": "916-918 Emperador Demoníaco -.-.pdf",
+          "first": 916,
+          "last": 918,
+          "message_id": 4828,
+          "name": "916-918",
+          "size": 24196692,
+          "telegram_link": "https://t.me/manhuasgratis/4828"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            919,
+            920,
+            921
+          ],
+          "date": "2026-10-11T04:11:14+00:00",
+          "download_ready": true,
+          "filename": "919-921 Emperador Demoníaco -.-.pdf",
+          "first": 919,
+          "last": 921,
+          "message_id": 5212,
+          "name": "919-921",
+          "size": 18126410,
+          "telegram_link": "https://t.me/manhuasgratis/5212"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            922,
+            923,
+            924
+          ],
+          "date": "2026-10-18T04:12:40+00:00",
+          "download_ready": true,
+          "filename": "922-924 Emperador Demoníaco -.-.pdf",
+          "first": 922,
+          "last": 924,
+          "message_id": 5690,
+          "name": "922-924",
+          "size": 19032578,
+          "telegram_link": "https://t.me/manhuasgratis/5690"
         }
       ],
       "rating": 0,
@@ -120748,6 +121117,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-19T01:17:26.685926+00:00",
+  "updated_at": "2026-10-19T01:29:14.411781+00:00",
   "version": 3
 }
