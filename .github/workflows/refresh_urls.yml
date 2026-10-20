@@ -2,7 +2,7 @@ name: Refresh IDrive URLs
 
 on:
   schedule:
-    - cron: '0 3 */4 * *'   # Cada 4 días a las 03:00 UTC
+    - cron: '0 3 */1 * *'   # Cada 4 días a las 03:00 UTC
   workflow_dispatch:
 
 jobs:
