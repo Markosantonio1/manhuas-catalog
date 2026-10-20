@@ -1,6 +1,6 @@
 {
-  "version_code": 11,
-  "version_name": "2.1",
-  "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/2.1/manhuasgratis2.1.apk",
-  "changelog": "🚀 ¡Gran actualización!.\n• Rediseño completo de Disponibles: 3 columnas y tarjetas más limpias.\n• Chapitas azules para series finalizadas.\n• Arreglado el historial de Novedades.\n• Mejoras de rendimiento y fluidez."
+  "version_code": 12,
+  "version_name": "2.2",
+  "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/2.2/manhuasgratis2.2.apk",
+  "changelog": "🚀 ¡Gran actualización!.\n• 🔧 Botón Actualizar con mejoras de rendimiento\n• 📅 Fecha de última actualización visible bajo el botón.\n• 🆘 Botón de reporte de problemas en cada serie (con contacto opcional).\n• 🐛 Correcciones internas y mejoras de estabilidad."
 }
