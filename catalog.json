@@ -43904,10 +43904,10 @@
       ],
       "hashtag": "#El_soberano_del_hogar",
       "id": "el_soberano_del_hogar",
-      "latest_chapter": 100,
+      "latest_chapter": 101,
       "library_count": 0,
       "name": "El soberano del hogar",
-      "package_count": 45,
+      "package_count": 46,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -44683,6 +44683,21 @@
           "name": "100",
           "size": 8863655,
           "telegram_link": "https://t.me/manhuasgratis/5924"
+        },
+        {
+          "name": "101",
+          "first": 101,
+          "last": 101,
+          "channel_id": -1003003829878,
+          "message_id": 6043,
+          "filename": "101 • El Soberano del Hogar.pdf",
+          "size": 8593844,
+          "date": "2026-10-20T02:56:16+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6043",
+          "download_ready": true,
+          "chapters": [
+            101
+          ]
         }
       ],
       "rating": 0,
@@ -136638,6 +136653,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-20T01:47:25.132039+00:00",
+  "updated_at": "2026-10-20T04:20:31.770353+00:00",
   "version": 3
 }
