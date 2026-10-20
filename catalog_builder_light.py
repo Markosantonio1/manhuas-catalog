@@ -6,10 +6,9 @@
 # estructura. NO toca las series existentes más allá de añadir packages.
 #
 # - Manhuas: añade packages SIN download_url (los sube el uploader).
-# - Novelas: añade packages descargando el PDF y subiéndolo a GitHub.
+# - Novelas: añade packages SIN download_url (los sube el uploader a IDrive).
 
 import asyncio
-import base64
 import json
 import os
 import re
@@ -41,7 +40,6 @@ NOVELS_CHANNEL_ID = -1004334091126
 GITHUB_USER = "Markosantonio1"
 GITHUB_REPO = "manhuas-catalog"
 GITHUB_BRANCH = "main"
-NOVELS_REPO_DIR = "novels"
 
 SCAN_WAIT = 0.15
 MAX_CHAPTER = 5000
@@ -101,14 +99,6 @@ def extract_hashtags(text: str) -> list:
     return result
 
 
-def sanitize_filename(value: str) -> str:
-    """⚠ IDÉNTICA a uploader_idrive.py"""
-    cleaned = re.sub(r"[\\/:*?\"<>|]", "_", value or "")
-    cleaned = re.sub(r"[\x00-\x1f]", "_", cleaned)
-    cleaned = cleaned.strip()
-    return cleaned or "archivo.pdf"
-
-
 def normalize_filename(filename: str) -> str:
     text = unicodedata.normalize("NFKC", filename or "")
     for dash in "‐-‒–—―−":
@@ -127,12 +117,21 @@ def likely_year(value: int) -> bool:
 def extract_chapter_range(filename: str) -> Optional[tuple]:
     text = normalize_filename(filename)
     text = re.sub(r"\.[^.]+$", "", text)
+    
+    # 🛡️ LIMPIEZA PROFUNDA
+    text = re.sub(r'[\{\}\[\]\(\)]', ' ', text)
+    text = re.sub(r'[^\w\s\.\-_~]', '-', text)
+    text = re.sub(r'\b\d{1,3}(?:[.,]\d{3})+\b', ' ', text) # Evitar años
+    text = re.sub(r'-{2,}', '-', text)
+    text = re.sub(r'\s+', ' ', text).strip()
 
     candidates = []
+    # 🛡️ FIX: Añadido soporte para _al_, " al ", etc.
     for match in re.finditer(
-        r"(?<!\d)(\d{1,4})\s*[-_~]\s*(\d{1,4})(?!\d)", text,
+        r"(?<![\d.])(\d{1,4}(?:\.\d+)?)\s*(?:[-_~]{1,3}|[-\s_~]*al[-\s_~]*)\s*(\d{1,4}(?:\.\d+)?)(?![\d.])", 
+        text, flags=re.IGNORECASE
     ):
-        first, last = int(match.group(1)), int(match.group(2))
+        first, last = int(float(match.group(1))), int(float(match.group(2)))
         if not valid_chapter(first) or not valid_chapter(last):
             continue
         if last < first:
@@ -147,8 +146,7 @@ def extract_chapter_range(filename: str) -> Optional[tuple]:
         if start < 18: score += 30
         elif start < 50: score += 15
         if "#" in prefix: score += 10
-        if any(s in prefix for s in ("[", "(", "{", "〖", "〗", "【", "】")):
-            score += 15
+        if any(s in prefix for s in ("[", "(", "{", "〖", "〗", "【", "】")): score += 15
         candidates.append((score, start, first, last))
 
     if candidates:
@@ -156,8 +154,8 @@ def extract_chapter_range(filename: str) -> Optional[tuple]:
         return candidates[0][2], candidates[0][3]
 
     candidates = []
-    for match in re.finditer(r"(?<![\d-])(\d{1,4})(?![\d-])", text):
-        value = int(match.group(1))
+    for match in re.finditer(r"(?<![\d.])(\d{1,4}(?:\.\d+)?)(?![\d.])", text):
+        value = int(float(match.group(1)))
         if not valid_chapter(value) or likely_year(value):
             continue
         start = match.start()
@@ -167,8 +165,7 @@ def extract_chapter_range(filename: str) -> Optional[tuple]:
         elif start < 30: score += 20
         elif start < 60: score += 5
         if "#" in prefix: score += 15
-        if any(s in prefix for s in ("[", "(", "{", "〖", "〗", "【", "】")):
-            score += 20
+        if any(s in prefix for s in ("[", "(", "{", "〖", "〗", "【", "】")): score += 20
         if value <= 999: score += 10
         candidates.append((score, start, value))
 
@@ -205,101 +202,6 @@ def detect_volume_number(filename: str, default: int) -> int:
     if match:
         return int(match.group(1))
     return default
-
-
-def slugify(text: str) -> str:
-    normalized = unicodedata.normalize("NFKD", text)
-    normalized = "".join(ch for ch in normalized if not unicodedata.combining(ch))
-    normalized = normalized.lower()
-    normalized = re.sub(r"[^a-z0-9]+", "_", normalized)
-    normalized = re.sub(r"_+", "_", normalized).strip("_")
-    return normalized or "serie"
-
-
-# ============================================================
-# GITHUB — SUBIR NOVELAS (blob)
-# ============================================================
-
-def _make_github_session(token: str) -> requests.Session:
-    session = requests.Session()
-    session.headers.update({
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-        "User-Agent": "ManhuasBot-Light/1.0",
-    })
-    return session
-
-
-async def upload_novel_to_github(series_id: str, local_pdf: Path) -> Optional[str]:
-    if not GITHUB_TOKEN:
-        print("  ⚠ GITHUB_TOKEN no configurado")
-        return None
-
-    api_base = f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}"
-    session = _make_github_session(GITHUB_TOKEN)
-
-    try:
-        ref = session.get(f"{api_base}/git/ref/heads/{GITHUB_BRANCH}", timeout=30)
-        ref.raise_for_status()
-        parent_commit_sha = ref.json()["object"]["sha"]
-
-        commit = session.get(f"{api_base}/git/commits/{parent_commit_sha}", timeout=30)
-        commit.raise_for_status()
-        base_tree_sha = commit.json()["tree"]["sha"]
-
-        content_b64 = base64.b64encode(local_pdf.read_bytes()).decode("utf-8")
-        blob = session.post(
-            f"{api_base}/git/blobs",
-            json={"content": content_b64, "encoding": "base64"},
-            timeout=600,
-        )
-        blob.raise_for_status()
-        blob_sha = blob.json()["sha"]
-
-        path_in_repo = f"{NOVELS_REPO_DIR}/{series_id}/{local_pdf.name}"
-        tree = session.post(
-            f"{api_base}/git/trees",
-            json={
-                "base_tree": base_tree_sha,
-                "tree": [{
-                    "path": path_in_repo,
-                    "mode": "100644", "type": "blob", "sha": blob_sha,
-                }],
-            },
-            timeout=60,
-        )
-        tree.raise_for_status()
-        new_tree_sha = tree.json()["sha"]
-
-        new_commit = session.post(
-            f"{api_base}/git/commits",
-            json={
-                "message": f"Novela: {series_id} - {local_pdf.name}",
-                "tree": new_tree_sha,
-                "parents": [parent_commit_sha],
-            },
-            timeout=30,
-        )
-        new_commit.raise_for_status()
-        new_commit_sha = new_commit.json()["sha"]
-
-        update = session.patch(
-            f"{api_base}/git/refs/heads/{GITHUB_BRANCH}",
-            json={"sha": new_commit_sha, "force": False},
-            timeout=30,
-        )
-        update.raise_for_status()
-
-        return (
-            f"https://raw.githubusercontent.com/"
-            f"{GITHUB_USER}/{GITHUB_REPO}/main/{path_in_repo}"
-        )
-
-    except requests.exceptions.RequestException as exc:
-        print(f"    ✗ Error subiendo novela: {exc}")
-        return None
-    finally:
-        session.close()
 
 
 # ============================================================
@@ -450,46 +352,23 @@ def build_manhua_package(msg) -> Optional[dict]:
         "size": int(getattr(msg.file, "size", 0) or 0),
         "date": msg.date.isoformat() if getattr(msg, "date", None) else None,
         "telegram_link": telegram_link(MAIN_CHANNEL_ID, message_id, MAIN_CHANNEL_USERNAME),
-        "download_ready": True,
+        "download_ready": False,
         "chapters": list(range(first, last + 1)),
     }
 
 
-async def build_novel_package(client, novel: dict, msg) -> Optional[dict]:
+def build_novel_package(msg) -> Optional[dict]:
+    """
+    Crea el paquete de la novela SIN descargarla.
+    El uploader_idrive.yml se encargará de bajarla de Telegram y subirla a IDrive.
+    """
     message_id = int(msg.id)
     filename = (getattr(msg.file, "name", None) or f"volumen_{message_id}.pdf").strip()
     size = int(getattr(msg.file, "size", 0) or 0)
     date = msg.date.isoformat() if getattr(msg, "date", None) else None
-    series_id = novel.get("id") or slugify(novel.get("name", "novela"))
-
-    temp_dir = BASE_DIR / "novels_cache" / series_id
-    temp_dir.mkdir(parents=True, exist_ok=True)
-    local_path = temp_dir / sanitize_filename(filename)
-
-    print(f"    ↓ Descargando volumen: {filename}")
-    try:
-        await client.download_media(msg, file=str(local_path))
-    except Exception as exc:
-        print(f"    ✗ Error descargando: {exc}")
-        return None
-
-    if not local_path.exists() or local_path.stat().st_size == 0:
-        print("    ✗ Descarga vacía")
-        return None
-
-    print(f"    ↑ Subiendo a GitHub: {filename}")
-    url = await upload_novel_to_github(series_id, local_path)
-
-    try:
-        local_path.unlink()
-    except Exception:
-        pass
-
-    if not url:
-        print("    ✗ No se pudo subir a GitHub")
-        return None
 
     volume_number = detect_volume_number(filename, message_id)
+    
     return {
         "name": f"Volumen {volume_number}",
         "first": volume_number,
@@ -500,9 +379,8 @@ async def build_novel_package(client, novel: dict, msg) -> Optional[dict]:
         "size": size,
         "date": date,
         "telegram_link": telegram_link(NOVELS_CHANNEL_ID, message_id, None),
-        "download_ready": True,
+        "download_ready": False,
         "chapters": [volume_number],
-        "download_url": url,
         "is_novel_volume": True,
     }
 
@@ -677,7 +555,7 @@ async def main():
                 for msg in new_msgs.get(hkey, []):
                     if int(msg.id) in existing:
                         continue
-                    pkg = await build_novel_package(client, novel, msg)
+                    pkg = build_novel_package(msg)
                     if pkg:
                         novel.setdefault("packages", []).append(pkg)
                         existing.add(pkg["message_id"])
@@ -690,9 +568,7 @@ async def main():
                         key=lambda p: (p["first"], p["last"], p["message_id"])
                     )
                     novel["package_count"] = len(novel["packages"])
-                    novel["latest_chapter"] = max(
-                        (p["last"] for p in novel["packages"]), default=0,
-                    )
+                    novel["latest_chapter"] = len(novel["packages"])
     finally:
         try:
             await client.disconnect()
