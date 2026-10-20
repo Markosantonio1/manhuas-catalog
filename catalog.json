@@ -44697,7 +44697,8 @@
           "download_ready": true,
           "chapters": [
             101
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_soberano_del_hogar/6043_101%20%E2%80%A2%20El%20Soberano%20del%20Hogar.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261020%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261020T062126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c931d223d8a405a1472e80746aeb0930db5ebd6ba733aea37a215a91a6b596f3"
         }
       ],
       "rating": 0,
