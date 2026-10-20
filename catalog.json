@@ -47343,10 +47343,10 @@
       ],
       "hashtag": "#El_Mago_Pastor",
       "id": "el_mago_pastor",
-      "latest_chapter": 40,
+      "latest_chapter": 41,
       "library_count": 4,
       "name": "El Mago Pastor",
-      "package_count": 20,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -47687,6 +47687,21 @@
           "name": "40",
           "size": 12185891,
           "telegram_link": "https://t.me/manhuasgratis/5298"
+        },
+        {
+          "name": "41",
+          "first": 41,
+          "last": 41,
+          "channel_id": -1003003829878,
+          "message_id": 6057,
+          "filename": "41 El Mago Pastor -.-.pdf",
+          "size": 15435982,
+          "date": "2026-10-20T20:13:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6057",
+          "download_ready": false,
+          "chapters": [
+            41
+          ]
         }
       ],
       "rating": 4,
@@ -150137,6 +150152,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-20T15:20:31.547339+00:00",
+  "updated_at": "2026-10-20T20:20:37.757465+00:00",
   "version": 3
 }
