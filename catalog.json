@@ -23805,7 +23805,7 @@
       "latest_chapter": 156,
       "library_count": 0,
       "name": "Cazador Suicida De Clase SSS",
-      "package_count": 20,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -24197,6 +24197,21 @@
           "size": 6254264,
           "telegram_link": "https://t.me/manhuasgratis/451",
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/cazador_suicida_de_clase_sss/451_151%20Cazador%20Suicida%20De%20Clase%20SSS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261020%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261020T150907Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe4b648bb7824ef4ba41b315bed34dcbbced9f67c89f0ec02a1e520d7dcf6f20"
+        },
+        {
+          "name": "151",
+          "first": 151,
+          "last": 151,
+          "channel_id": -1003003829878,
+          "message_id": 6046,
+          "filename": "[151] Cazador Suicida De Clase SSS.pdf",
+          "size": 13522762,
+          "date": "2026-10-20T12:35:30+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6046",
+          "download_ready": true,
+          "chapters": [
+            151
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -149734,6 +149749,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-20T12:50:50.482519+00:00",
+  "updated_at": "2026-10-20T15:20:31.547339+00:00",
   "version": 3
 }
