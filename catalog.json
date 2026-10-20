@@ -47495,10 +47495,11 @@
           "size": 12034516,
           "date": "2026-10-20T21:38:31+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6068",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             191
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_mago_infinito/6068_%E2%96%8E191%20%E2%96%8EEl%20Mago%20Infinito.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261020%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261020T214246Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=61af71e4f08842c2d4161b1246caef2527547b0438d31dd58e1f95cea6717f21"
         }
       ],
       "rating": 0,
