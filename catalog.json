@@ -49691,10 +49691,10 @@
       ],
       "hashtag": "#El_Guerrero_Despiadado",
       "id": "el_guerrero_despiadado",
-      "latest_chapter": 76,
+      "latest_chapter": 73,
       "library_count": 0,
       "name": "El Guerrero Despiadado",
-      "package_count": 31,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -50188,51 +50188,6 @@
           "name": "73",
           "size": 10076491,
           "telegram_link": "https://t.me/manhuasgratis/5156"
-        },
-        {
-          "name": "74",
-          "first": 74,
-          "last": 74,
-          "channel_id": -1003003829878,
-          "message_id": 6603,
-          "filename": "[74] El guerrero despiadado.pdf",
-          "size": 11691960,
-          "date": "2026-10-21T17:34:05+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6603",
-          "download_ready": false,
-          "chapters": [
-            74
-          ]
-        },
-        {
-          "name": "75",
-          "first": 75,
-          "last": 75,
-          "channel_id": -1003003829878,
-          "message_id": 6604,
-          "filename": "[75] El guerrero despiadado.pdf",
-          "size": 11222189,
-          "date": "2026-10-21T17:34:07+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6604",
-          "download_ready": false,
-          "chapters": [
-            75
-          ]
-        },
-        {
-          "name": "76",
-          "first": 76,
-          "last": 76,
-          "channel_id": -1003003829878,
-          "message_id": 6605,
-          "filename": "[76] El guerrero despiadado.pdf",
-          "size": 8887534,
-          "date": "2026-10-21T17:34:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6605",
-          "download_ready": false,
-          "chapters": [
-            76
-          ]
         }
       ],
       "rating": 0,
@@ -62761,10 +62716,10 @@
       ],
       "hashtag": "#El_Psicópata_del_Murim",
       "id": "el_psicopata_del_murim",
-      "latest_chapter": 48,
+      "latest_chapter": 47,
       "library_count": 0,
       "name": "El Psicópata del Murim",
-      "package_count": 18,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -63067,21 +63022,6 @@
           "name": "47",
           "size": 10364769,
           "telegram_link": "https://t.me/manhuasgratis/5563"
-        },
-        {
-          "name": "48",
-          "first": 48,
-          "last": 48,
-          "channel_id": -1003003829878,
-          "message_id": 6606,
-          "filename": "[48] El Psicópata del Murim.pdf",
-          "size": 11770183,
-          "date": "2026-10-21T20:17:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6606",
-          "download_ready": false,
-          "chapters": [
-            48
-          ]
         }
       ],
       "rating": 0,
@@ -64829,10 +64769,10 @@
       ],
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
-      "latest_chapter": 193,
+      "latest_chapter": 192,
       "library_count": 6,
       "name": "El Regreso del Héroe de Clase Desastre",
-      "package_count": 56,
+      "package_count": 55,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -65850,21 +65790,6 @@
           "name": "192",
           "size": 8736550,
           "telegram_link": "https://t.me/manhuasgratis/5564"
-        },
-        {
-          "name": "193",
-          "first": 193,
-          "last": 193,
-          "channel_id": -1003003829878,
-          "message_id": 6607,
-          "filename": "[193] El Regreso del Heroe de Clase Desastre.pdf",
-          "size": 14797152,
-          "date": "2026-10-21T20:17:22+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6607",
-          "download_ready": false,
-          "chapters": [
-            193
-          ]
         }
       ],
       "rating": 5,
@@ -91406,7 +91331,8 @@
           "message_id": 3642,
           "name": "151-160",
           "size": 70861875,
-          "telegram_link": "https://t.me/manhuasgratis/3642"
+          "telegram_link": "https://t.me/manhuasgratis/3642",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3642_151_160_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T202943Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b87ede51b350fb16303d87bcb0fe9e50920985ff3360b9f9fd39910b2ab03687"
         },
         {
           "channel_id": -1004367557958,
@@ -91430,7 +91356,8 @@
           "message_id": 3643,
           "name": "161-170",
           "size": 73217489,
-          "telegram_link": "https://t.me/manhuasgratis/3643"
+          "telegram_link": "https://t.me/manhuasgratis/3643",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3643_161_170_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203052Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e7cbe116b52fdce29afb32f36d300d336306a26e1d7d6ce10aee451e2b5fe734"
         },
         {
           "channel_id": -1004367557958,
@@ -91454,7 +91381,8 @@
           "message_id": 3644,
           "name": "171-180",
           "size": 54157001,
-          "telegram_link": "https://t.me/manhuasgratis/3644"
+          "telegram_link": "https://t.me/manhuasgratis/3644",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3644_171_180_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203151Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6ef07eb9f384e847bd67cafbb7287c6a807c71ab7b68c9a0247c93b7616c01c6"
         },
         {
           "channel_id": -1004367557958,
@@ -91478,7 +91406,8 @@
           "message_id": 3645,
           "name": "181-190",
           "size": 52134507,
-          "telegram_link": "https://t.me/manhuasgratis/3645"
+          "telegram_link": "https://t.me/manhuasgratis/3645",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3645_181_190_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203242Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ba3793001de8710ef55c120dcfe643889b8c0a8011779db7e958cb24f525600"
         },
         {
           "channel_id": -1004367557958,
@@ -91502,7 +91431,8 @@
           "message_id": 3646,
           "name": "191-200",
           "size": 57363572,
-          "telegram_link": "https://t.me/manhuasgratis/3646"
+          "telegram_link": "https://t.me/manhuasgratis/3646",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3646_191_200_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203343Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c02f89480dfc33557d8f353cf423b034ba8e6636e933b5d190b7bbbcec1a2195"
         },
         {
           "channel_id": -1004367557958,
@@ -91526,7 +91456,8 @@
           "message_id": 3647,
           "name": "201-210",
           "size": 62826175,
-          "telegram_link": "https://t.me/manhuasgratis/3647"
+          "telegram_link": "https://t.me/manhuasgratis/3647",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3647_201_210_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203447Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d53096a6eb1aee0adaa0d824e25230d2c163ec0698768c4277e613e62d1b5cd8"
         },
         {
           "channel_id": -1004367557958,
@@ -91550,7 +91481,8 @@
           "message_id": 3648,
           "name": "211-220",
           "size": 65187559,
-          "telegram_link": "https://t.me/manhuasgratis/3648"
+          "telegram_link": "https://t.me/manhuasgratis/3648",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3648_211_220_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203553Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a85c2aaa710b9763d51fedb6f5c36f9dd151d1b63b6b8be5704d4cfd6921c2f"
         },
         {
           "channel_id": -1004367557958,
@@ -91574,7 +91506,8 @@
           "message_id": 3649,
           "name": "221-230",
           "size": 97249373,
-          "telegram_link": "https://t.me/manhuasgratis/3649"
+          "telegram_link": "https://t.me/manhuasgratis/3649",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3649_221_230_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203730Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=11f41a1b7e21b0ee15d8b70044a5de2815cb2264e5b21260362d3fb232edbdef"
         },
         {
           "channel_id": -1004367557958,
@@ -91598,7 +91531,8 @@
           "message_id": 3650,
           "name": "231-240",
           "size": 102395820,
-          "telegram_link": "https://t.me/manhuasgratis/3650"
+          "telegram_link": "https://t.me/manhuasgratis/3650",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3650_231_240_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T203919Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=42c0226a2c3597c446e59c8d8271c2b85361af66f385e1c228ad3ab2408b012f"
         },
         {
           "channel_id": -1004367557958,
@@ -91622,7 +91556,8 @@
           "message_id": 3651,
           "name": "241-250",
           "size": 97426517,
-          "telegram_link": "https://t.me/manhuasgratis/3651"
+          "telegram_link": "https://t.me/manhuasgratis/3651",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/immortal_swordsman_in_the_feminist_world/3651_241_250_Inmortal_Swordsman_in_The_Feminist_World_%CF%90%CE%B3_%CE%B1%E2%88%82%D0%BC%CE%B9_%CF%B2%D0%BD%CE%B1%D0%B8.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T204057Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8152c122b0d6b1b7d8a56745314e318b4ba11354209c64b8890837a18042977e"
         },
         {
           "channel_id": -1004367557958,
@@ -184096,6 +184031,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-21T20:20:32.353886+00:00",
+  "updated_at": "2026-10-21T16:19:07.480185+00:00",
   "version": 3
 }
