@@ -49691,10 +49691,10 @@
       ],
       "hashtag": "#El_Guerrero_Despiadado",
       "id": "el_guerrero_despiadado",
-      "latest_chapter": 73,
+      "latest_chapter": 76,
       "library_count": 0,
       "name": "El Guerrero Despiadado",
-      "package_count": 28,
+      "package_count": 31,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -50188,6 +50188,51 @@
           "name": "73",
           "size": 10076491,
           "telegram_link": "https://t.me/manhuasgratis/5156"
+        },
+        {
+          "name": "74",
+          "first": 74,
+          "last": 74,
+          "channel_id": -1003003829878,
+          "message_id": 6603,
+          "filename": "[74] El guerrero despiadado.pdf",
+          "size": 11691960,
+          "date": "2026-10-21T17:34:05+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6603",
+          "download_ready": false,
+          "chapters": [
+            74
+          ]
+        },
+        {
+          "name": "75",
+          "first": 75,
+          "last": 75,
+          "channel_id": -1003003829878,
+          "message_id": 6604,
+          "filename": "[75] El guerrero despiadado.pdf",
+          "size": 11222189,
+          "date": "2026-10-21T17:34:07+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6604",
+          "download_ready": false,
+          "chapters": [
+            75
+          ]
+        },
+        {
+          "name": "76",
+          "first": 76,
+          "last": 76,
+          "channel_id": -1003003829878,
+          "message_id": 6605,
+          "filename": "[76] El guerrero despiadado.pdf",
+          "size": 8887534,
+          "date": "2026-10-21T17:34:09+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6605",
+          "download_ready": false,
+          "chapters": [
+            76
+          ]
         }
       ],
       "rating": 0,
@@ -62716,10 +62761,10 @@
       ],
       "hashtag": "#El_Psicópata_del_Murim",
       "id": "el_psicopata_del_murim",
-      "latest_chapter": 47,
+      "latest_chapter": 48,
       "library_count": 0,
       "name": "El Psicópata del Murim",
-      "package_count": 17,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -63022,6 +63067,21 @@
           "name": "47",
           "size": 10364769,
           "telegram_link": "https://t.me/manhuasgratis/5563"
+        },
+        {
+          "name": "48",
+          "first": 48,
+          "last": 48,
+          "channel_id": -1003003829878,
+          "message_id": 6606,
+          "filename": "[48] El Psicópata del Murim.pdf",
+          "size": 11770183,
+          "date": "2026-10-21T20:17:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6606",
+          "download_ready": false,
+          "chapters": [
+            48
+          ]
         }
       ],
       "rating": 0,
@@ -64769,10 +64829,10 @@
       ],
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
-      "latest_chapter": 192,
+      "latest_chapter": 193,
       "library_count": 6,
       "name": "El Regreso del Héroe de Clase Desastre",
-      "package_count": 55,
+      "package_count": 56,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -65790,6 +65850,21 @@
           "name": "192",
           "size": 8736550,
           "telegram_link": "https://t.me/manhuasgratis/5564"
+        },
+        {
+          "name": "193",
+          "first": 193,
+          "last": 193,
+          "channel_id": -1003003829878,
+          "message_id": 6607,
+          "filename": "[193] El Regreso del Heroe de Clase Desastre.pdf",
+          "size": 14797152,
+          "date": "2026-10-21T20:17:22+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6607",
+          "download_ready": false,
+          "chapters": [
+            193
+          ]
         }
       ],
       "rating": 5,
@@ -184101,6 +184176,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-21T16:19:07.480185+00:00",
+  "updated_at": "2026-10-21T21:20:34.832915+00:00",
   "version": 3
 }
