@@ -38509,10 +38509,11 @@
           "size": 16054323,
           "date": "2026-10-21T12:16:08+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6363",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             151
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_asesino_pietro/6363_151-%20Pedro%20el%20Asesino.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T142157Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c2e80eda2dabe46b4b369a6f70a6973028cf51cace9dc935ac43b6434b556bf"
         },
         {
           "name": "152",
@@ -38524,10 +38525,11 @@
           "size": 18712177,
           "date": "2026-10-21T12:16:10+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6364",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             152
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_asesino_pietro/6364_152.1-152.2%20Asesino%20Pietro%20%28Viejo%20sabroso%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T142215Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6c5a6794e9e8f17b79576c4188ddbadcf02c41097216acd65b9976103b82c82"
         },
         {
           "name": "153",
@@ -38539,10 +38541,11 @@
           "size": 21707651,
           "date": "2026-10-21T12:16:11+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6365",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             153
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_asesino_pietro/6365_153.1-153.2%20Asesino%20Pietro%20%28Viejo%20sabroso%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T142235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc8c19a88b35d85a20cb4c6ad4d95e2b7b569ee52c1fd7262c270bfaad929d6a"
         }
       ],
       "rating": 5,
