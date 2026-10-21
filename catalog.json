@@ -121969,10 +121969,11 @@
           "size": 10391759,
           "date": "2026-10-20T22:28:19+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6166",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             257
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6166_%E2%96%8E257.5%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T062325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=542204fa36467744f5429379d80f3447158021b80844adccdd82d8b8c3fe0e84"
         },
         {
           "name": "257",
@@ -121984,10 +121985,11 @@
           "size": 13478980,
           "date": "2026-10-20T22:28:19+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6176",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             257
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6176_%E2%96%8E257%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T062337Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a7bdec3a2e2a17e9c3b84504b9aaf7dd52ec924066e61a8dc475cab30371ee2"
         },
         {
           "name": "257",
@@ -121999,10 +122001,11 @@
           "size": 10391759,
           "date": "2026-10-20T22:28:19+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6177",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             257
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6177_%E2%96%8E257.5%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T062350Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=78961942774ddee975465700dd8f7f65e14d7d03ac3a80baf297748c7a0f0591"
         },
         {
           "channel_id": -1003003829878,
@@ -161603,13 +161606,14 @@
           "message_id": 3181,
           "name": "81-89",
           "size": 37615499,
-          "telegram_link": "https://t.me/manhuasgratis/3181"
+          "telegram_link": "https://t.me/manhuasgratis/3181",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/y_fueron_felices_despues/3181_%5B%5B81%E2%96%AA%EF%B8%8E89%5D%5D%20%20%5B%5BFin%5D%5D%20Y%20Fueron%20Felices%20Despu%C3%A9s-Xio%F0%9F%90%BC.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T062427Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d5f7cb7da99a395810e366ab415294759372897e08db081b361ece85762a984"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "¿Qué harías si renacieras como un personaje de tu novela romántica favorita? Para Peony, una fan acérrima de “El canto de Askar”, la respuesta es simple: ¡casarse con su personaje favorito, por supuesto! Reencarnada como la princesa del Reino de Garten, Peony está decidida a casarse con Richt, el personaje masculino secundario de “El canto de Askar” y expríncipe del imperio de Fairspren, quien fue desterrado a una tierra inhóspita luego del final feliz de la novela (la cual no terminó tan feliz para él). Entre pruebas y adversidades, ¿podrán Peony y Richt aprovechar al máximo su segunda oportunidad de vida y amor?",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-13T23:45:02+00:00",
