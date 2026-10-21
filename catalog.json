@@ -49691,10 +49691,10 @@
       ],
       "hashtag": "#El_Guerrero_Despiadado",
       "id": "el_guerrero_despiadado",
-      "latest_chapter": 76,
+      "latest_chapter": 73,
       "library_count": 0,
       "name": "El Guerrero Despiadado",
-      "package_count": 31,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -50188,51 +50188,6 @@
           "name": "73",
           "size": 10076491,
           "telegram_link": "https://t.me/manhuasgratis/5156"
-        },
-        {
-          "name": "74",
-          "first": 74,
-          "last": 74,
-          "channel_id": -1003003829878,
-          "message_id": 6603,
-          "filename": "[74] El guerrero despiadado.pdf",
-          "size": 11691960,
-          "date": "2026-10-21T17:34:05+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6603",
-          "download_ready": false,
-          "chapters": [
-            74
-          ]
-        },
-        {
-          "name": "75",
-          "first": 75,
-          "last": 75,
-          "channel_id": -1003003829878,
-          "message_id": 6604,
-          "filename": "[75] El guerrero despiadado.pdf",
-          "size": 11222189,
-          "date": "2026-10-21T17:34:07+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6604",
-          "download_ready": false,
-          "chapters": [
-            75
-          ]
-        },
-        {
-          "name": "76",
-          "first": 76,
-          "last": 76,
-          "channel_id": -1003003829878,
-          "message_id": 6605,
-          "filename": "[76] El guerrero despiadado.pdf",
-          "size": 8887534,
-          "date": "2026-10-21T17:34:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6605",
-          "download_ready": false,
-          "chapters": [
-            76
-          ]
         }
       ],
       "rating": 0,
@@ -80515,7 +80470,8 @@
           "message_id": 3425,
           "name": "31-40",
           "size": 33708561,
-          "telegram_link": "https://t.me/manhuasgratis/3425"
+          "telegram_link": "https://t.me/manhuasgratis/3425",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/existencia/3425_31-40%20Existencia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T192921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=63e4528876fa96fc7d91ef0be34b83e37b70df97a5f73647accbe19674dac354"
         },
         {
           "channel_id": -1004367557958,
@@ -80539,7 +80495,8 @@
           "message_id": 3426,
           "name": "41-50",
           "size": 32166735,
-          "telegram_link": "https://t.me/manhuasgratis/3426"
+          "telegram_link": "https://t.me/manhuasgratis/3426",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/existencia/3426_41-50%20Existencia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T192954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5d0b6952b1ffe13e40beece76d14c4206efdc15fcc197fc5dfd8364d040294c"
         },
         {
           "channel_id": -1004367557958,
@@ -80563,7 +80520,8 @@
           "message_id": 3427,
           "name": "51-60",
           "size": 30156406,
-          "telegram_link": "https://t.me/manhuasgratis/3427"
+          "telegram_link": "https://t.me/manhuasgratis/3427",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/existencia/3427_51-60%20Existencia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=500d5fd8a5983a96bea267e7ca945131927e6be5bd35c4375c489d4e19674288"
         },
         {
           "channel_id": -1004367557958,
@@ -80587,7 +80545,8 @@
           "message_id": 3428,
           "name": "61-70",
           "size": 38318253,
-          "telegram_link": "https://t.me/manhuasgratis/3428"
+          "telegram_link": "https://t.me/manhuasgratis/3428",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/existencia/3428_61-70%20Existencia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193110Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=827f1a9ac88f6f61ff82d74ec248ddb36b2cc66c70d50d166d0473fdd9ef6f28"
         },
         {
           "channel_id": -1004367557958,
@@ -80603,7 +80562,8 @@
           "message_id": 3429,
           "name": "71-72",
           "size": 14611969,
-          "telegram_link": "https://t.me/manhuasgratis/3429"
+          "telegram_link": "https://t.me/manhuasgratis/3429",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/existencia/3429_71-72%20Existencia%20Final.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193125Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ddc80f306fdd685b5b8d7de7f85d73eecaafe5e879e82b9707f570201ec1d63e"
         }
       ],
       "rating": 0,
@@ -80652,7 +80612,8 @@
           "message_id": 3735,
           "name": "1-10",
           "size": 53460882,
-          "telegram_link": "https://t.me/manhuasgratis/3735"
+          "telegram_link": "https://t.me/manhuasgratis/3735",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/falle_al_divorciarme_de_mi_esposo/3735_01-10%20Fall%C3%A9%20al%20divorciarme%20de%20mi%20esposo%20%5B%CE%B1%E2%88%82%D0%BC%CE%B9%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=26454485ef6903c07809dfdde7ab4a85e8901a5e581df4f7a8f9d90957c32529"
         },
         {
           "channel_id": -1004367557958,
@@ -80676,7 +80637,8 @@
           "message_id": 3736,
           "name": "11-20",
           "size": 56240367,
-          "telegram_link": "https://t.me/manhuasgratis/3736"
+          "telegram_link": "https://t.me/manhuasgratis/3736",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/falle_al_divorciarme_de_mi_esposo/3736_11-20%20Fall%C3%A9%20al%20divorciarme%20de%20mi%20esposo%20%5B%CE%B1%E2%88%82%D0%BC%CE%B9%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f8f86c58cf54c0def2ba64cb8d8e8e1bd593ac3fafb9731736d1db81fab9013"
         },
         {
           "channel_id": -1004367557958,
@@ -80700,7 +80662,8 @@
           "message_id": 3737,
           "name": "21-30",
           "size": 57726889,
-          "telegram_link": "https://t.me/manhuasgratis/3737"
+          "telegram_link": "https://t.me/manhuasgratis/3737",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/falle_al_divorciarme_de_mi_esposo/3737_21-30%20Fall%C3%A9%20al%20divorciarme%20de%20mi%20esposo%20%5B%CE%B1%E2%88%82%D0%BC%CE%B9%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193410Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=78222ed10ac0c9982395d14f5efa8bd125a97bffd43d13ccea7c105228ac23ac"
         },
         {
           "channel_id": -1004367557958,
@@ -80724,7 +80687,8 @@
           "message_id": 3738,
           "name": "31-40",
           "size": 58904820,
-          "telegram_link": "https://t.me/manhuasgratis/3738"
+          "telegram_link": "https://t.me/manhuasgratis/3738",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/falle_al_divorciarme_de_mi_esposo/3738_31-40%20Fall%C3%A9%20al%20divorciarme%20de%20mi%20esposo%20%5B%CE%B1%E2%88%82%D0%BC%CE%B9%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193513Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f9ad47cb3bfb173034aae9ec44f9d26da78d0288897b3ede561a9f545b17a794"
         },
         {
           "channel_id": -1004367557958,
@@ -80746,7 +80710,8 @@
           "message_id": 3739,
           "name": "41-48",
           "size": 46157921,
-          "telegram_link": "https://t.me/manhuasgratis/3739"
+          "telegram_link": "https://t.me/manhuasgratis/3739",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/falle_al_divorciarme_de_mi_esposo/3739_41-48%20Fall%C3%A9%20al%20divorciarme%20de%20mi%20esposo%20%5B%CE%B1%E2%88%82%D0%BC%CE%B9%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T193600Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5441639b57fb3f7051e5661c44a6dd52b8cc2a1b65c8dc40a8ae322ab61e2dde"
         },
         {
           "channel_id": -1004367557958,
@@ -183986,6 +183951,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-21T19:20:35.806786+00:00",
+  "updated_at": "2026-10-21T16:19:07.480185+00:00",
   "version": 3
 }
