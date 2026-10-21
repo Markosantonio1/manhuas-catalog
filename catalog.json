@@ -37984,10 +37984,10 @@
       ],
       "hashtag": "#El_Asesino_Pietro",
       "id": "el_asesino_pietro",
-      "latest_chapter": 150,
+      "latest_chapter": 153,
       "library_count": 2,
       "name": "El Asesino Pietro",
-      "package_count": 24,
+      "package_count": 27,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -38498,6 +38498,51 @@
           "name": "149-150",
           "size": 31123737,
           "telegram_link": "https://t.me/manhuasgratis/6069"
+        },
+        {
+          "name": "151",
+          "first": 151,
+          "last": 151,
+          "channel_id": -1003003829878,
+          "message_id": 6363,
+          "filename": "151- Pedro el Asesino.pdf",
+          "size": 16054323,
+          "date": "2026-10-21T12:16:08+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6363",
+          "download_ready": false,
+          "chapters": [
+            151
+          ]
+        },
+        {
+          "name": "152",
+          "first": 152,
+          "last": 152,
+          "channel_id": -1003003829878,
+          "message_id": 6364,
+          "filename": "152.1-152.2 Asesino Pietro (Viejo sabroso).pdf",
+          "size": 18712177,
+          "date": "2026-10-21T12:16:10+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6364",
+          "download_ready": false,
+          "chapters": [
+            152
+          ]
+        },
+        {
+          "name": "153",
+          "first": 153,
+          "last": 153,
+          "channel_id": -1003003829878,
+          "message_id": 6365,
+          "filename": "153.1-153.2 Asesino Pietro (Viejo sabroso).pdf",
+          "size": 21707651,
+          "date": "2026-10-21T12:16:11+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6365",
+          "download_ready": false,
+          "chapters": [
+            153
+          ]
         }
       ],
       "rating": 5,
@@ -164644,6 +164689,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-21T11:39:37.178366+00:00",
+  "updated_at": "2026-10-21T12:20:35.403421+00:00",
   "version": 3
 }
