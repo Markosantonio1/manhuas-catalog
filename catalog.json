@@ -49647,10 +49647,10 @@
       ],
       "hashtag": "#El_Guerrero_Despiadado",
       "id": "el_guerrero_despiadado",
-      "latest_chapter": 73,
+      "latest_chapter": 76,
       "library_count": 0,
       "name": "El Guerrero Despiadado",
-      "package_count": 28,
+      "package_count": 31,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -50144,6 +50144,51 @@
           "name": "73",
           "size": 10076491,
           "telegram_link": "https://t.me/manhuasgratis/5156"
+        },
+        {
+          "name": "74",
+          "first": 74,
+          "last": 74,
+          "channel_id": -1003003829878,
+          "message_id": 6603,
+          "filename": "[74] El guerrero despiadado.pdf",
+          "size": 11691960,
+          "date": "2026-10-21T17:34:05+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6603",
+          "download_ready": false,
+          "chapters": [
+            74
+          ]
+        },
+        {
+          "name": "75",
+          "first": 75,
+          "last": 75,
+          "channel_id": -1003003829878,
+          "message_id": 6604,
+          "filename": "[75] El guerrero despiadado.pdf",
+          "size": 11222189,
+          "date": "2026-10-21T17:34:07+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6604",
+          "download_ready": false,
+          "chapters": [
+            75
+          ]
+        },
+        {
+          "name": "76",
+          "first": 76,
+          "last": 76,
+          "channel_id": -1003003829878,
+          "message_id": 6605,
+          "filename": "[76] El guerrero despiadado.pdf",
+          "size": 8887534,
+          "date": "2026-10-21T17:34:09+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6605",
+          "download_ready": false,
+          "chapters": [
+            76
+          ]
         }
       ],
       "rating": 0,
@@ -183859,6 +183904,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-21T16:19:07.480185+00:00",
+  "updated_at": "2026-10-21T18:20:36.934665+00:00",
   "version": 3
 }
