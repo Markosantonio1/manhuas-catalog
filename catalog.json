@@ -49691,10 +49691,10 @@
       ],
       "hashtag": "#El_Guerrero_Despiadado",
       "id": "el_guerrero_despiadado",
-      "latest_chapter": 76,
+      "latest_chapter": 73,
       "library_count": 0,
       "name": "El Guerrero Despiadado",
-      "package_count": 31,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -50188,51 +50188,6 @@
           "name": "73",
           "size": 10076491,
           "telegram_link": "https://t.me/manhuasgratis/5156"
-        },
-        {
-          "name": "74",
-          "first": 74,
-          "last": 74,
-          "channel_id": -1003003829878,
-          "message_id": 6603,
-          "filename": "[74] El guerrero despiadado.pdf",
-          "size": 11691960,
-          "date": "2026-10-21T17:34:05+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6603",
-          "download_ready": false,
-          "chapters": [
-            74
-          ]
-        },
-        {
-          "name": "75",
-          "first": 75,
-          "last": 75,
-          "channel_id": -1003003829878,
-          "message_id": 6604,
-          "filename": "[75] El guerrero despiadado.pdf",
-          "size": 11222189,
-          "date": "2026-10-21T17:34:07+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6604",
-          "download_ready": false,
-          "chapters": [
-            75
-          ]
-        },
-        {
-          "name": "76",
-          "first": 76,
-          "last": 76,
-          "channel_id": -1003003829878,
-          "message_id": 6605,
-          "filename": "[76] El guerrero despiadado.pdf",
-          "size": 8887534,
-          "date": "2026-10-21T17:34:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6605",
-          "download_ready": false,
-          "chapters": [
-            76
-          ]
         }
       ],
       "rating": 0,
@@ -62761,10 +62716,10 @@
       ],
       "hashtag": "#El_Psicópata_del_Murim",
       "id": "el_psicopata_del_murim",
-      "latest_chapter": 48,
+      "latest_chapter": 47,
       "library_count": 0,
       "name": "El Psicópata del Murim",
-      "package_count": 18,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -63067,21 +63022,6 @@
           "name": "47",
           "size": 10364769,
           "telegram_link": "https://t.me/manhuasgratis/5563"
-        },
-        {
-          "name": "48",
-          "first": 48,
-          "last": 48,
-          "channel_id": -1003003829878,
-          "message_id": 6606,
-          "filename": "[48] El Psicópata del Murim.pdf",
-          "size": 11770183,
-          "date": "2026-10-21T20:17:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6606",
-          "download_ready": false,
-          "chapters": [
-            48
-          ]
         }
       ],
       "rating": 0,
@@ -64829,10 +64769,10 @@
       ],
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
-      "latest_chapter": 193,
+      "latest_chapter": 192,
       "library_count": 6,
       "name": "El Regreso del Héroe de Clase Desastre",
-      "package_count": 56,
+      "package_count": 55,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -65850,21 +65790,6 @@
           "name": "192",
           "size": 8736550,
           "telegram_link": "https://t.me/manhuasgratis/5564"
-        },
-        {
-          "name": "193",
-          "first": 193,
-          "last": 193,
-          "channel_id": -1003003829878,
-          "message_id": 6607,
-          "filename": "[193] El Regreso del Heroe de Clase Desastre.pdf",
-          "size": 14797152,
-          "date": "2026-10-21T20:17:22+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6607",
-          "download_ready": false,
-          "chapters": [
-            193
-          ]
         }
       ],
       "rating": 5,
@@ -138417,7 +138342,8 @@
           "message_id": 3841,
           "name": "171-174",
           "size": 21563327,
-          "telegram_link": "https://t.me/manhuasgratis/3841"
+          "telegram_link": "https://t.me/manhuasgratis/3841",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3841_Padre%20sin%20igual%20171-174.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232545Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fdff0e67e4165bcb0f2ff809b36ef107d82e7a19c341f44909d952716e15462d"
         },
         {
           "channel_id": -1004367557958,
@@ -138432,7 +138358,8 @@
           "message_id": 3842,
           "name": "175",
           "size": 6386510,
-          "telegram_link": "https://t.me/manhuasgratis/3842"
+          "telegram_link": "https://t.me/manhuasgratis/3842",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3842_Padre%20sin%20igual%20175.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232553Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=723e271b5945e05b668d56a51fd60c6a3d33e9c6724c3cb5734f281107df7a8b"
         },
         {
           "channel_id": -1004367557958,
@@ -138451,7 +138378,8 @@
           "message_id": 3843,
           "name": "176-180",
           "size": 30931776,
-          "telegram_link": "https://t.me/manhuasgratis/3843"
+          "telegram_link": "https://t.me/manhuasgratis/3843",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3843_Padre%20sin%20igual%20176-180.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232619Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f9bda1eda8266e0f1890c0232312155a251c567e02e88c0e5429c1925a301575"
         },
         {
           "channel_id": -1004367557958,
@@ -138470,7 +138398,8 @@
           "message_id": 3844,
           "name": "181-185",
           "size": 28756743,
-          "telegram_link": "https://t.me/manhuasgratis/3844"
+          "telegram_link": "https://t.me/manhuasgratis/3844",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3844_Padre%20sin%20igual%20181-185.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232642Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b33d85962b6bfca8a8ff389681645430c9523ff54d59fee9fc7556728417ed9"
         },
         {
           "channel_id": -1004367557958,
@@ -138488,7 +138417,8 @@
           "message_id": 3845,
           "name": "186-189",
           "size": 23523386,
-          "telegram_link": "https://t.me/manhuasgratis/3845"
+          "telegram_link": "https://t.me/manhuasgratis/3845",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3845_Padre%20sin%20igual%20186-189.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232702Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=48740a5e4bf9146d462e28bbe5e8d36ca4533bf4faa06a16b774ca40b365f2ce"
         },
         {
           "channel_id": -1004367557958,
@@ -138503,7 +138433,8 @@
           "message_id": 3846,
           "name": "190",
           "size": 5633291,
-          "telegram_link": "https://t.me/manhuasgratis/3846"
+          "telegram_link": "https://t.me/manhuasgratis/3846",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3846_Padre%20sin%20igual%20190.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232710Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3a3bb7ad69e55f9594ca0a102b26388218f0d6ef38d197ccb8d23a4c9c15e72b"
         },
         {
           "channel_id": -1004367557958,
@@ -138519,7 +138450,8 @@
           "message_id": 3847,
           "name": "191-192",
           "size": 12256740,
-          "telegram_link": "https://t.me/manhuasgratis/3847"
+          "telegram_link": "https://t.me/manhuasgratis/3847",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3847_%5B191-192%5D%20Padre%20sin%20igual.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232723Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=40e4954b568e5c30dbcd080eaaaf5da63523ab479135950edd0580a987456ae2"
         },
         {
           "channel_id": -1004367557958,
@@ -138536,7 +138468,8 @@
           "message_id": 3848,
           "name": "193-195",
           "size": 17733919,
-          "telegram_link": "https://t.me/manhuasgratis/3848"
+          "telegram_link": "https://t.me/manhuasgratis/3848",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3848_Padre%20sin%20igual%20193-195.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232739Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=883f3b1940e4e12e03589aa4f284f2e9038717384656a0f8f68af0773ee84ba7"
         },
         {
           "channel_id": -1004367557958,
@@ -138555,7 +138488,8 @@
           "message_id": 3849,
           "name": "196-200",
           "size": 29082181,
-          "telegram_link": "https://t.me/manhuasgratis/3849"
+          "telegram_link": "https://t.me/manhuasgratis/3849",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3849_%5B196-200%5D%20Padre%20sin%20igual.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232803Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d55a5770647f9a20b164325d3a25d3b7bc067c41e1b06ec0cd654d6f053baac7"
         },
         {
           "channel_id": -1004367557958,
@@ -138571,7 +138505,8 @@
           "message_id": 3850,
           "name": "201-202",
           "size": 11045223,
-          "telegram_link": "https://t.me/manhuasgratis/3850"
+          "telegram_link": "https://t.me/manhuasgratis/3850",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/padre_sin_igual/3850_%5B201-202%5D%20Padre%20sin%20igual.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T232815Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c7c35f67a204d1ac1de5554693c93c3c7246274c8db993a056b6b13e79557738"
         },
         {
           "channel_id": -1004367557958,
@@ -184346,6 +184281,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-21T23:20:34.627955+00:00",
+  "updated_at": "2026-10-21T16:19:07.480185+00:00",
   "version": 3
 }
