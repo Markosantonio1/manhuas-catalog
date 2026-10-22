@@ -30573,10 +30573,10 @@
       ],
       "hashtag": "#Cazador_Suicida_De_Clase_SSS",
       "id": "cazador_suicida_de_clase_sss",
-      "latest_chapter": 157,
+      "latest_chapter": 156,
       "library_count": 0,
       "name": "Cazador Suicida De Clase SSS",
-      "package_count": 21,
+      "package_count": 20,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -31033,21 +31033,6 @@
           "name": "156",
           "size": 10363002,
           "telegram_link": "https://t.me/manhuasgratis/6050"
-        },
-        {
-          "name": "157",
-          "first": 157,
-          "last": 157,
-          "channel_id": -1003003829878,
-          "message_id": 6623,
-          "filename": "[157] Cazador Suicida de Clase SSS.pdf",
-          "size": 10103562,
-          "date": "2026-10-22T17:17:28+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6623",
-          "download_ready": false,
-          "chapters": [
-            157
-          ]
         }
       ],
       "rating": 0,
@@ -49483,10 +49468,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Reencarnó_Como_Un_Genio_Espadachín",
       "id": "el_asesino_que_reencarno_como_un_genio_espadachin",
-      "latest_chapter": 98,
+      "latest_chapter": 97,
       "library_count": 0,
       "name": "El Asesino Que Reencarnó Como Un Genio Espadachín",
-      "package_count": 23,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -49915,21 +49900,6 @@
           "name": "97",
           "size": 10338593,
           "telegram_link": "https://t.me/manhuasgratis/6551"
-        },
-        {
-          "name": "98",
-          "first": 98,
-          "last": 98,
-          "channel_id": -1003003829878,
-          "message_id": 6626,
-          "filename": "[#98]   El Asesino Que Reencarnó Como Un Genio.pdf",
-          "size": 26252170,
-          "date": "2026-10-22T20:17:38+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6626",
-          "download_ready": false,
-          "chapters": [
-            98
-          ]
         }
       ],
       "rating": 0,
@@ -66498,10 +66468,10 @@
       ],
       "hashtag": "#El_Mercenario_que_Reencarnó_Entré_Aristócratas",
       "id": "el_mercenario_que_reencarno_entre_aristocratas",
-      "latest_chapter": 53,
+      "latest_chapter": 52,
       "library_count": 1,
       "name": "El Mercenario que Reencarnó Entré Aristócratas",
-      "package_count": 20,
+      "package_count": 19,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -66839,21 +66809,6 @@
           "name": "52",
           "size": 11810608,
           "telegram_link": "https://t.me/manhuasgratis/6072"
-        },
-        {
-          "name": "53",
-          "first": 53,
-          "last": 53,
-          "channel_id": -1003003829878,
-          "message_id": 6627,
-          "filename": "[#53]   El Mercenario Que Reencarnó Entré Nobles.pdf",
-          "size": 15800475,
-          "date": "2026-10-22T20:17:41+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6627",
-          "download_ready": false,
-          "chapters": [
-            53
-          ]
         }
       ],
       "rating": 5,
@@ -70352,10 +70307,10 @@
       ],
       "hashtag": "#El_Príncipe_Heredero_Que_Vende_Medicina",
       "id": "el_principe_heredero_que_vende_medicina",
-      "latest_chapter": 128,
+      "latest_chapter": 126,
       "library_count": 2,
       "name": "El Príncipe Heredero Que Vende Medicina",
-      "package_count": 48,
+      "package_count": 47,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -71187,22 +71142,6 @@
           "name": "126",
           "size": 7147771,
           "telegram_link": "https://t.me/manhuasgratis/5233"
-        },
-        {
-          "name": "127-128",
-          "first": 127,
-          "last": 128,
-          "channel_id": -1003003829878,
-          "message_id": 6628,
-          "filename": "[#127-128]   El Príncipe Heredero que Vende Medicina.pdf",
-          "size": 33573215,
-          "date": "2026-10-22T20:17:43+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6628",
-          "download_ready": false,
-          "chapters": [
-            127,
-            128
-          ]
         }
       ],
       "rating": 5,
@@ -92499,7 +92438,8 @@
           "message_id": 5068,
           "name": "11-20",
           "size": 85830314,
-          "telegram_link": "https://t.me/manhuasgratis/5068"
+          "telegram_link": "https://t.me/manhuasgratis/5068",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fatal_possession/5068_11%20-%2020%20%F0%96%A5%94%20Fatal%20Possession.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204108Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9f21e594c137ec668bad8675c17017c5cb92c755ac1d426ecbb7a1ee4547919"
         },
         {
           "channel_id": -1004367557958,
@@ -92523,7 +92463,8 @@
           "message_id": 5069,
           "name": "21-30",
           "size": 51227409,
-          "telegram_link": "https://t.me/manhuasgratis/5069"
+          "telegram_link": "https://t.me/manhuasgratis/5069",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fatal_possession/5069_21%20-%2030%20%F0%96%A5%94%20Fatal%20Possession.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204212Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=34b9e239a6a982c3ae0cceccdfa04e212aa7af44a668c0233def0500b548fb98"
         },
         {
           "channel_id": -1004367557958,
@@ -92548,7 +92489,8 @@
           "message_id": 5070,
           "name": "31-41",
           "size": 50297118,
-          "telegram_link": "https://t.me/manhuasgratis/5070"
+          "telegram_link": "https://t.me/manhuasgratis/5070",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fatal_possession/5070_31%20-%2041%20%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A1%20%F0%96%A5%94%20Fatal%20Possession.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204314Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf5a0725ed359832d5715d235ba666a6a7766455944f5c2f7617d26d0e27216b"
         }
       ],
       "rating": 0,
@@ -92660,7 +92602,8 @@
           "message_id": 5019,
           "name": "1-5",
           "size": 36340054,
-          "telegram_link": "https://t.me/manhuasgratis/5019"
+          "telegram_link": "https://t.me/manhuasgratis/5019",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fin_me_odias/5019_01-05%20FIN%20%E2%9F%AB%20Me%20odias.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204351Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=45cdb6c09b0a3b4ffc50aaef379ce61a2a29fcab038a3d842020440df9d1a137"
         }
       ],
       "rating": 0,
@@ -92706,7 +92649,8 @@
           "message_id": 5226,
           "name": "1-6",
           "size": 49170388,
-          "telegram_link": "https://t.me/manhuasgratis/5226"
+          "telegram_link": "https://t.me/manhuasgratis/5226",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fin_unnie_te_etiquetare/5226_01%20-%2006%20FIN%20%F0%91%81%8D%20%C2%A1Unnie%21%20Te%20etiquetar%C3%A9.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204453Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=84b76e3b36f2f6113391656b8da56017176e802d772e90a5a79e1bc5083518db"
         }
       ],
       "rating": 0,
@@ -94094,7 +94038,8 @@
           "message_id": 5087,
           "name": "0-10",
           "size": 51485406,
-          "telegram_link": "https://t.me/manhuasgratis/5087"
+          "telegram_link": "https://t.me/manhuasgratis/5087",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/freak_quency/5087_%E2%9D%A500-10%E2%80%A2Freak-Quency.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204557Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=923b1fee9acdc541157c40b5bce465603dae212ca0fc4b8039fdc8629074d888"
         },
         {
           "channel_id": -1004367557958,
@@ -94118,7 +94063,8 @@
           "message_id": 5088,
           "name": "11-20",
           "size": 73176179,
-          "telegram_link": "https://t.me/manhuasgratis/5088"
+          "telegram_link": "https://t.me/manhuasgratis/5088",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/freak_quency/5088_%E2%9D%A511-20%E2%80%A2Freak-Quency.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204731Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=71611e23d929ff4f9014743de00bb9fc6bd63395ef7a0daacd15c5e41a6e363e"
         },
         {
           "channel_id": -1004367557958,
@@ -94142,7 +94088,8 @@
           "message_id": 5089,
           "name": "21-30",
           "size": 56406025,
-          "telegram_link": "https://t.me/manhuasgratis/5089"
+          "telegram_link": "https://t.me/manhuasgratis/5089",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/freak_quency/5089_%E2%9D%A521-30%E2%80%A2Freak-Quency.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204837Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37a9cb6968f7e29fe11f309bf97d208b2f9d891ee968be55101c94ea7b3d983c"
         },
         {
           "channel_id": -1004367557958,
@@ -94166,7 +94113,8 @@
           "message_id": 5090,
           "name": "31-40",
           "size": 39106547,
-          "telegram_link": "https://t.me/manhuasgratis/5090"
+          "telegram_link": "https://t.me/manhuasgratis/5090",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/freak_quency/5090_%E2%9D%A531-40%E2%80%A2Freak-Quency.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T204924Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3c434b7c70029cff4993b4fbb094e89c64935a19c9e6dc2d7385f64e11c269a"
         },
         {
           "channel_id": -1004367557958,
@@ -94190,7 +94138,8 @@
           "message_id": 5091,
           "name": "41-50",
           "size": 44079227,
-          "telegram_link": "https://t.me/manhuasgratis/5091"
+          "telegram_link": "https://t.me/manhuasgratis/5091",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/freak_quency/5091_%E2%9D%A541-50%E2%80%A2Freak-Quency.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T205015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a89a80f9ac2149f4431f88483b9dfe5c14a36e374b7ece450ceae98e142f3234"
         },
         {
           "channel_id": -1004367557958,
@@ -113283,10 +113232,10 @@
       ],
       "hashtag": "#La_Basura_De_La_Familia_Del_Conde",
       "id": "la_basura_de_la_familia_del_conde",
-      "latest_chapter": 193,
+      "latest_chapter": 192,
       "library_count": 3,
       "name": "La Basura De La Familia Del Conde",
-      "package_count": 34,
+      "package_count": 33,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -113975,21 +113924,6 @@
           "name": "192",
           "size": 16332030,
           "telegram_link": "https://t.me/manhuasgratis/5570"
-        },
-        {
-          "name": "193",
-          "first": 193,
-          "last": 193,
-          "channel_id": -1003003829878,
-          "message_id": 6629,
-          "filename": "[#193]   La Basura De La Familia Del Conde.pdf",
-          "size": 14976584,
-          "date": "2026-10-22T20:17:45+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6629",
-          "download_ready": false,
-          "chapters": [
-            193
-          ]
         }
       ],
       "rating": 5,
@@ -129900,10 +129834,10 @@
       ],
       "hashtag": "#La_Vida_Después_de_la_Muerte",
       "id": "la_vida_despues_de_la_muerte",
-      "latest_chapter": 259,
+      "latest_chapter": 258,
       "library_count": 5,
       "name": "La Vida Después de la Muerte",
-      "package_count": 55,
+      "package_count": 54,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -130980,21 +130914,6 @@
           "name": "258",
           "size": 9901051,
           "telegram_link": "https://t.me/manhuasgratis/5571"
-        },
-        {
-          "name": "259",
-          "first": 259,
-          "last": 259,
-          "channel_id": -1003003829878,
-          "message_id": 6630,
-          "filename": "259 La vida después de la muerte -.-.pdf",
-          "size": 9321521,
-          "date": "2026-10-22T20:17:47+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6630",
-          "download_ready": false,
-          "chapters": [
-            259
-          ]
         }
       ],
       "rating": 4,
@@ -212737,10 +212656,10 @@
       ],
       "hashtag": "#Viviendo_como_un_Lord_Vampiro",
       "id": "viviendo_como_un_lord_vampiro",
-      "latest_chapter": 66,
+      "latest_chapter": 65,
       "library_count": 1,
       "name": "Viviendo como un Lord Vampiro",
-      "package_count": 20,
+      "package_count": 19,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -213091,21 +213010,6 @@
           "name": "65",
           "size": 20326293,
           "telegram_link": "https://t.me/manhuasgratis/5566"
-        },
-        {
-          "name": "66",
-          "first": 66,
-          "last": 66,
-          "channel_id": -1003003829878,
-          "message_id": 6624,
-          "filename": "[66] Viviendo Como Un Lord Vampiro.pdf",
-          "size": 13261360,
-          "date": "2026-10-22T17:17:29+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6624",
-          "download_ready": false,
-          "chapters": [
-            66
-          ]
         }
       ],
       "rating": 5,
@@ -217330,6 +217234,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-22T20:20:34.667153+00:00",
+  "updated_at": "2026-10-22T17:03:06.392989+00:00",
   "version": 3
 }
