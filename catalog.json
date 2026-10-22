@@ -30573,10 +30573,10 @@
       ],
       "hashtag": "#Cazador_Suicida_De_Clase_SSS",
       "id": "cazador_suicida_de_clase_sss",
-      "latest_chapter": 156,
+      "latest_chapter": 157,
       "library_count": 0,
       "name": "Cazador Suicida De Clase SSS",
-      "package_count": 20,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -31033,6 +31033,21 @@
           "name": "156",
           "size": 10363002,
           "telegram_link": "https://t.me/manhuasgratis/6050"
+        },
+        {
+          "name": "157",
+          "first": 157,
+          "last": 157,
+          "channel_id": -1003003829878,
+          "message_id": 6623,
+          "filename": "[157] Cazador Suicida de Clase SSS.pdf",
+          "size": 10103562,
+          "date": "2026-10-22T17:17:28+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6623",
+          "download_ready": false,
+          "chapters": [
+            157
+          ]
         }
       ],
       "rating": 0,
@@ -212582,10 +212597,10 @@
       ],
       "hashtag": "#Viviendo_como_un_Lord_Vampiro",
       "id": "viviendo_como_un_lord_vampiro",
-      "latest_chapter": 65,
+      "latest_chapter": 66,
       "library_count": 1,
       "name": "Viviendo como un Lord Vampiro",
-      "package_count": 19,
+      "package_count": 20,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -212936,6 +212951,21 @@
           "name": "65",
           "size": 20326293,
           "telegram_link": "https://t.me/manhuasgratis/5566"
+        },
+        {
+          "name": "66",
+          "first": 66,
+          "last": 66,
+          "channel_id": -1003003829878,
+          "message_id": 6624,
+          "filename": "[66] Viviendo Como Un Lord Vampiro.pdf",
+          "size": 13261360,
+          "date": "2026-10-22T17:17:29+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6624",
+          "download_ready": false,
+          "chapters": [
+            66
+          ]
         }
       ],
       "rating": 5,
@@ -217160,6 +217190,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-22T17:03:06.392989+00:00",
+  "updated_at": "2026-10-22T18:20:38.932699+00:00",
   "version": 3
 }
