@@ -49691,10 +49691,10 @@
       ],
       "hashtag": "#El_Guerrero_Despiadado",
       "id": "el_guerrero_despiadado",
-      "latest_chapter": 76,
+      "latest_chapter": 73,
       "library_count": 0,
       "name": "El Guerrero Despiadado",
-      "package_count": 31,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -50188,51 +50188,6 @@
           "name": "73",
           "size": 10076491,
           "telegram_link": "https://t.me/manhuasgratis/5156"
-        },
-        {
-          "name": "74",
-          "first": 74,
-          "last": 74,
-          "channel_id": -1003003829878,
-          "message_id": 6603,
-          "filename": "[74] El guerrero despiadado.pdf",
-          "size": 11691960,
-          "date": "2026-10-21T17:34:05+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6603",
-          "download_ready": false,
-          "chapters": [
-            74
-          ]
-        },
-        {
-          "name": "75",
-          "first": 75,
-          "last": 75,
-          "channel_id": -1003003829878,
-          "message_id": 6604,
-          "filename": "[75] El guerrero despiadado.pdf",
-          "size": 11222189,
-          "date": "2026-10-21T17:34:07+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6604",
-          "download_ready": false,
-          "chapters": [
-            75
-          ]
-        },
-        {
-          "name": "76",
-          "first": 76,
-          "last": 76,
-          "channel_id": -1003003829878,
-          "message_id": 6605,
-          "filename": "[76] El guerrero despiadado.pdf",
-          "size": 8887534,
-          "date": "2026-10-21T17:34:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6605",
-          "download_ready": false,
-          "chapters": [
-            76
-          ]
         }
       ],
       "rating": 0,
@@ -62761,10 +62716,10 @@
       ],
       "hashtag": "#El_Psicópata_del_Murim",
       "id": "el_psicopata_del_murim",
-      "latest_chapter": 48,
+      "latest_chapter": 47,
       "library_count": 0,
       "name": "El Psicópata del Murim",
-      "package_count": 18,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -63067,21 +63022,6 @@
           "name": "47",
           "size": 10364769,
           "telegram_link": "https://t.me/manhuasgratis/5563"
-        },
-        {
-          "name": "48",
-          "first": 48,
-          "last": 48,
-          "channel_id": -1003003829878,
-          "message_id": 6606,
-          "filename": "[48] El Psicópata del Murim.pdf",
-          "size": 11770183,
-          "date": "2026-10-21T20:17:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6606",
-          "download_ready": false,
-          "chapters": [
-            48
-          ]
         }
       ],
       "rating": 0,
@@ -64829,10 +64769,10 @@
       ],
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
-      "latest_chapter": 193,
+      "latest_chapter": 192,
       "library_count": 6,
       "name": "El Regreso del Héroe de Clase Desastre",
-      "package_count": 56,
+      "package_count": 55,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -65850,21 +65790,6 @@
           "name": "192",
           "size": 8736550,
           "telegram_link": "https://t.me/manhuasgratis/5564"
-        },
-        {
-          "name": "193",
-          "first": 193,
-          "last": 193,
-          "channel_id": -1003003829878,
-          "message_id": 6607,
-          "filename": "[193] El Regreso del Heroe de Clase Desastre.pdf",
-          "size": 14797152,
-          "date": "2026-10-21T20:17:22+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6607",
-          "download_ready": false,
-          "chapters": [
-            193
-          ]
         }
       ],
       "rating": 5,
@@ -168389,7 +168314,8 @@
           "message_id": 6520,
           "name": "71-75",
           "size": 48920890,
-          "telegram_link": "https://t.me/manhuasgratis/6520"
+          "telegram_link": "https://t.me/manhuasgratis/6520",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_book_eating_wizard/6520_71-75%20-%20The%20book%20eating%20wizard.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012145Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=068c8fb4724f8601ba7a3f68c5c79dfdae5c3aa89178419f797e1b1a1191a349"
         },
         {
           "channel_id": -1003003829878,
@@ -168408,7 +168334,8 @@
           "message_id": 6521,
           "name": "76-80",
           "size": 41523160,
-          "telegram_link": "https://t.me/manhuasgratis/6521"
+          "telegram_link": "https://t.me/manhuasgratis/6521",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_book_eating_wizard/6521_76-80%20-%20The%20book%20eating%20wizard.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012221Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b1c242dde318ad8e907f08e06047968eea6955e1bd347dbd3de330f86399cd12"
         },
         {
           "channel_id": -1003003829878,
@@ -168430,7 +168357,8 @@
           "message_id": 6522,
           "name": "81-88",
           "size": 70689350,
-          "telegram_link": "https://t.me/manhuasgratis/6522"
+          "telegram_link": "https://t.me/manhuasgratis/6522",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_book_eating_wizard/6522_81-88%20-%20The%20book%20eating%20wizard.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012320Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=617f7f314687a30ac935ffff08e64d448790ead4e90471f71a59ccac76e93cd4"
         },
         {
           "channel_id": -1003003829878,
@@ -168446,7 +168374,8 @@
           "message_id": 6523,
           "name": "89-90",
           "size": 14115580,
-          "telegram_link": "https://t.me/manhuasgratis/6523"
+          "telegram_link": "https://t.me/manhuasgratis/6523",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_book_eating_wizard/6523_89-90%20-%20The%20book%20eating%20wizard.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012336Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd98ec48e9658e06cd1da243d0c132b79c59a36733f0a3ce08cfe90aa9b790fe"
         },
         {
           "channel_id": -1003003829878,
@@ -168461,7 +168390,8 @@
           "message_id": 6524,
           "name": "91",
           "size": 7638683,
-          "telegram_link": "https://t.me/manhuasgratis/6524"
+          "telegram_link": "https://t.me/manhuasgratis/6524",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_book_eating_wizard/6524_91%20-%20The%20book%20eating%20wizard.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012346Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0898109cd2d6275b1525b3584c0de003eb6abc9efa886a280cf5e176fc0ffe4c"
         }
       ],
       "rating": 0,
@@ -175611,7 +175541,8 @@
           "message_id": 3517,
           "name": "1-10",
           "size": 62308622,
-          "telegram_link": "https://t.me/manhuasgratis/3517"
+          "telegram_link": "https://t.me/manhuasgratis/3517",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/te_negro_caliente/3517_01-10%20%E2%95%91%20T%C3%A9%20negro%20caliente%20%E2%95%91.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012439Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a5c3d60ff064ed1ffe0f777bbbeec4a73ca16b603e36194d90cdb21e933bb7e4"
         },
         {
           "channel_id": -1004367557958,
@@ -175635,7 +175566,8 @@
           "message_id": 3518,
           "name": "11-20",
           "size": 48253736,
-          "telegram_link": "https://t.me/manhuasgratis/3518"
+          "telegram_link": "https://t.me/manhuasgratis/3518",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/te_negro_caliente/3518_11-20%20%E2%95%91%20T%C3%A9%20negro%20caliente%20%E2%95%91.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012521Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0dd0730fcd10c0f3c090bf1e4c4d8bc64e08fe5df577818d0ae0d40831541c57"
         },
         {
           "channel_id": -1004367557958,
@@ -175659,7 +175591,8 @@
           "message_id": 3519,
           "name": "31-40",
           "size": 89655607,
-          "telegram_link": "https://t.me/manhuasgratis/3519"
+          "telegram_link": "https://t.me/manhuasgratis/3519",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/te_negro_caliente/3519_31-40%20%E2%95%91%20T%C3%A9%20negro%20caliente%20%E2%95%91.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012635Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ab35fff7961951662739d30da5a6d81b9c41dd11b985b9edf08854fffe055c2"
         },
         {
           "channel_id": -1004367557958,
@@ -175683,7 +175616,8 @@
           "message_id": 3520,
           "name": "41-50",
           "size": 44797571,
-          "telegram_link": "https://t.me/manhuasgratis/3520"
+          "telegram_link": "https://t.me/manhuasgratis/3520",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/te_negro_caliente/3520_41-50%20%E2%95%91%20T%C3%A9%20negro%20caliente%20%E2%95%91.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012715Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36f08f40388dcbd448c9e9a6ba8b92be19e8c74e2c58c14d47503b56332ecd75"
         },
         {
           "channel_id": -1004367557958,
@@ -175699,7 +175633,8 @@
           "message_id": 3521,
           "name": "51-52",
           "size": 9690986,
-          "telegram_link": "https://t.me/manhuasgratis/3521"
+          "telegram_link": "https://t.me/manhuasgratis/3521",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/te_negro_caliente/3521_51-52%20%E2%95%91%20T%C3%A9%20negro%20caliente%20%E2%95%91%20Final%202da.%20Temporada%20%E2%95%91.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T012727Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=397030326b8134d8bc204365e35d63a40dda5d089b0bda693b97d56dbc8ba041"
         }
       ],
       "rating": 0,
@@ -176020,10 +175955,10 @@
       ],
       "hashtag": "#Un_Guardia_Rebelde_en_una_Fantasía_Medieval",
       "id": "un_guardia_rebelde_en_una_fantasia_medieval",
-      "latest_chapter": 32,
+      "latest_chapter": 12,
       "library_count": 0,
       "name": "Un Guardia Rebelde en una Fantasía Medieval",
-      "package_count": 6,
+      "package_count": 2,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -176064,82 +175999,6 @@
           "name": "11-12",
           "size": 21916757,
           "telegram_link": "https://t.me/manhuasgratis/6527"
-        },
-        {
-          "name": "13-20",
-          "first": 13,
-          "last": 20,
-          "channel_id": -1003003829878,
-          "message_id": 6610,
-          "filename": "13-20 Un Guardia Rebelde En Una Fantasía Medieval.pdf",
-          "size": 171733610,
-          "date": "2026-10-21T23:25:12+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6610",
-          "download_ready": false,
-          "chapters": [
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
-        },
-        {
-          "name": "21-25",
-          "first": 21,
-          "last": 25,
-          "channel_id": -1003003829878,
-          "message_id": 6611,
-          "filename": "21-25 Un Guardia Rebelde En Una Fantasía Medieval.pdf",
-          "size": 102628835,
-          "date": "2026-10-21T23:25:12+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6611",
-          "download_ready": false,
-          "chapters": [
-            21,
-            22,
-            23,
-            24,
-            25
-          ]
-        },
-        {
-          "name": "26-30",
-          "first": 26,
-          "last": 30,
-          "channel_id": -1003003829878,
-          "message_id": 6612,
-          "filename": "26-30 Un Guardia Rebelde En Una Fantasía Medieval.pdf",
-          "size": 109960312,
-          "date": "2026-10-21T23:25:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6612",
-          "download_ready": false,
-          "chapters": [
-            26,
-            27,
-            28,
-            29,
-            30
-          ]
-        },
-        {
-          "name": "31-32",
-          "first": 31,
-          "last": 32,
-          "channel_id": -1003003829878,
-          "message_id": 6613,
-          "filename": "31-32 Un Guardia Rebelde En Una Fantasía Medieval.pdf",
-          "size": 33359548,
-          "date": "2026-10-21T23:25:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6613",
-          "download_ready": false,
-          "chapters": [
-            31,
-            32
-          ]
         }
       ],
       "rating": 0,
@@ -184654,6 +184513,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-22T01:20:27.720553+00:00",
+  "updated_at": "2026-10-21T16:19:07.480185+00:00",
   "version": 3
 }
