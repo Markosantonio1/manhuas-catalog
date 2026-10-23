@@ -51624,10 +51624,10 @@
       ],
       "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "id": "dominio_absoluto_del_nivel_0",
-      "latest_chapter": 50,
+      "latest_chapter": 52,
       "library_count": 9,
       "name": "Dominio Absoluto del Nivel 0",
-      "package_count": 19,
+      "package_count": 20,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -51963,6 +51963,22 @@
           "name": "46-50",
           "size": 27626091,
           "telegram_link": "https://t.me/manhuasgratis/5189"
+        },
+        {
+          "name": "51-52",
+          "first": 51,
+          "last": 52,
+          "channel_id": -1003003829878,
+          "message_id": 6631,
+          "filename": "51-52 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 11474078,
+          "date": "2026-10-23T04:17:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6631",
+          "download_ready": false,
+          "chapters": [
+            51,
+            52
+          ]
         }
       ],
       "rating": 4.75,
@@ -85287,10 +85303,10 @@
       ],
       "hashtag": "#El_Rey_Demonio_Abrumado_por_Héroes",
       "id": "el_rey_demonio_abrumado_por_heroes",
-      "latest_chapter": 52,
+      "latest_chapter": 53,
       "library_count": 1,
       "name": "El Rey Demonio Abrumado por Héroes",
-      "package_count": 20,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -85643,6 +85659,21 @@
           "name": "52",
           "size": 14219500,
           "telegram_link": "https://t.me/manhuasgratis/5568"
+        },
+        {
+          "name": "53",
+          "first": 53,
+          "last": 53,
+          "channel_id": -1003003829878,
+          "message_id": 6632,
+          "filename": "[53] El Rey Demonio Abrumado por Héroes.pdf",
+          "size": 14231338,
+          "date": "2026-10-23T04:17:21+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6632",
+          "download_ready": false,
+          "chapters": [
+            53
+          ]
         }
       ],
       "rating": 4,
@@ -206540,10 +206571,10 @@
       ],
       "hashtag": "#Soy_el_Dios_de_los_Goblins",
       "id": "soy_el_dios_de_los_goblins",
-      "latest_chapter": 127,
+      "latest_chapter": 128,
       "library_count": 2,
       "name": "Soy el Dios de los Goblins",
-      "package_count": 74,
+      "package_count": 75,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -207781,6 +207812,21 @@
           "name": "126-127",
           "size": 14988251,
           "telegram_link": "https://t.me/manhuasgratis/6087"
+        },
+        {
+          "name": "128",
+          "first": 128,
+          "last": 128,
+          "channel_id": -1003003829878,
+          "message_id": 6633,
+          "filename": "[128] Soy el Dios de los Goblins.pdf",
+          "size": 10430430,
+          "date": "2026-10-23T04:17:24+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6633",
+          "download_ready": false,
+          "chapters": [
+            128
+          ]
         }
       ],
       "rating": 2,
@@ -243930,6 +243976,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-23T02:55:02.686437+00:00",
+  "updated_at": "2026-10-23T06:20:37.241549+00:00",
   "version": 3
 }
