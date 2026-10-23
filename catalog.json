@@ -52019,11 +52019,12 @@
           "size": 11474078,
           "date": "2026-10-23T04:17:19+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6631",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             51,
             52
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dominio_absoluto_del_nivel_0/6631_51-52%20%E2%80%A2%20Dominio%20Absoluto%20del%20Nivel%200.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261023%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261023T192148Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6ce8bd626d670d9a9907e98667f31095b92fce0cc8bbef14a5497ce12c62bd76"
         }
       ],
       "rating": 4.75,
@@ -85833,10 +85834,11 @@
           "size": 14231338,
           "date": "2026-10-23T04:17:21+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6632",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             53
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_rey_demonio_abrumado_por_heroes/6632_%5B53%5D%20El%20Rey%20Demonio%20Abrumado%20por%20H%C3%A9roes.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261023%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261023T192204Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=915fa860c70251ce7f1dc3d38039a080fbaf15a880ab6cec5756093e4b57462a"
         }
       ],
       "rating": 4,
@@ -208580,10 +208582,11 @@
           "size": 10430430,
           "date": "2026-10-23T04:17:24+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6633",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             128
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/soy_el_dios_de_los_goblins/6633_%5B128%5D%20Soy%20el%20Dios%20de%20los%20Goblins.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261023%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261023T192217Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3b90b662c17e9379d4068e21257db479bae4afcb0ca2a83e7c2c3336d10e402c"
         }
       ],
       "rating": 2,
