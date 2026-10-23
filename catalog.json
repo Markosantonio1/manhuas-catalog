@@ -107740,10 +107740,10 @@
       ],
       "hashtag": "#Guía_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
       "id": "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
-      "latest_chapter": 44,
+      "latest_chapter": 48,
       "library_count": 1,
       "name": "Guía de estrategia de un cobarde para conquistar la torre",
-      "package_count": 29,
+      "package_count": 30,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -108223,6 +108223,24 @@
           "name": "44",
           "size": 15275666,
           "telegram_link": "https://t.me/manhuasgratis/5548"
+        },
+        {
+          "name": "45-48",
+          "first": 45,
+          "last": 48,
+          "channel_id": -1003003829878,
+          "message_id": 6636,
+          "filename": "[45-48] Guía de Estrategia de un Cobarde para Conquistar.pdf",
+          "size": 56652044,
+          "date": "2026-10-23T20:17:22+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6636",
+          "download_ready": false,
+          "chapters": [
+            45,
+            46,
+            47,
+            48
+          ]
         }
       ],
       "rating": 5,
@@ -244867,6 +244885,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-23T19:20:37.043809+00:00",
+  "updated_at": "2026-10-23T20:20:34.885677+00:00",
   "version": 3
 }
