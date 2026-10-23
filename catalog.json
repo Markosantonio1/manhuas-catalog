@@ -185890,10 +185890,10 @@
       ],
       "hashtag": "#Revenge",
       "id": "revenge_adult",
-      "latest_chapter": 80,
+      "latest_chapter": 25,
       "library_count": 0,
       "name": "Revenge",
-      "package_count": 4,
+      "package_count": 3,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -185964,27 +185964,12 @@
           "name": "21-25",
           "size": 21186810,
           "telegram_link": "https://t.me/manhuasgratis/4182"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            80
-          ],
-          "date": "2026-10-23T00:58:22+00:00",
-          "download_ready": true,
-          "filename": "Tomo 10 [#80-88] • Tokyo Revengers.pdf",
-          "first": 80,
-          "last": 80,
-          "message_id": 5616,
-          "name": "80",
-          "size": 57983896,
-          "telegram_link": "https://t.me/manhuasgratis/5616"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Ryeong-ah sale sola a repartir invitaciones de boda a sus amigas. El amor está a punto de brotar para un hombre que no puede apartar los ojos del lugar donde se siente ofendido por su futuro marido, que considera a sus amigos como conocidos de poca monta. La relación entre ambos, que debería haber terminado en una noche jugando con fuego, se entremezcla cada vez más…",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-22T02:38:31+00:00",
@@ -223200,7 +223185,7 @@
       "latest_chapter": 270,
       "library_count": 0,
       "name": "Tokyo Revengers",
-      "package_count": 34,
+      "package_count": 35,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -223396,6 +223381,21 @@
           "name": "71",
           "size": 40896650,
           "telegram_link": "https://t.me/manhuasgratis/5615"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            80
+          ],
+          "date": "2026-10-23T00:58:22+00:00",
+          "download_ready": true,
+          "filename": "Tomo 10 [#80-88] • Tokyo Revengers.pdf",
+          "first": 80,
+          "last": 80,
+          "message_id": 5616,
+          "name": "80",
+          "size": 57983896,
+          "telegram_link": "https://t.me/manhuasgratis/5616"
         },
         {
           "channel_id": -1004367557958,
@@ -238099,6 +238099,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-23T01:30:51.158743+00:00",
+  "updated_at": "2026-10-23T02:05:47.351908+00:00",
   "version": 3
 }
