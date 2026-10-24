@@ -31885,7 +31885,7 @@
       "latest_chapter": 112,
       "library_count": 0,
       "name": "Caballero En Eterna Regresión",
-      "package_count": 48,
+      "package_count": 50,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -32718,6 +32718,36 @@
           "name": "112",
           "size": 13564491,
           "telegram_link": "https://t.me/manhuasgratis/6787"
+        },
+        {
+          "name": "112",
+          "first": 112,
+          "last": 112,
+          "channel_id": -1003003829878,
+          "message_id": 6788,
+          "filename": "[#112.5]   Caballero En Eterna Regresión.pdf",
+          "size": 1350116,
+          "date": "2026-10-23T23:15:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6788",
+          "download_ready": false,
+          "chapters": [
+            112
+          ]
+        },
+        {
+          "name": "112",
+          "first": 112,
+          "last": 112,
+          "channel_id": -1003003829878,
+          "message_id": 6789,
+          "filename": "[#112.5-112.7]   Caballero En Eterna Regresión.pdf",
+          "size": 21657221,
+          "date": "2026-10-23T23:15:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6789",
+          "download_ready": false,
+          "chapters": [
+            112
+          ]
         }
       ],
       "rating": 0,
@@ -247044,6 +247074,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-24T01:01:31.833600+00:00",
+  "updated_at": "2026-10-24T01:20:47.094591+00:00",
   "version": 3
 }
