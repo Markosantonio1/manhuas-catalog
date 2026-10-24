@@ -8011,207 +8011,6 @@
       "visible": true
     },
     {
-      "added_at": "2026-10-18T01:56:31+00:00",
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/01_10_dark_moon_altar_de_la_luna.jpg",
-      "cover_message_id": 594,
-      "cover_telegram_link": "https://t.me/c/-1004187372773/594",
-      "genres": [
-        "Respaldo",
-        "Finalizada",
-        "Drama",
-        "Fantasía",
-        "Romance"
-      ],
-      "hashtag": "#01_10_DARK_MOON_Altar_de_la_Luna",
-      "id": "01_10_dark_moon_altar_de_la_luna",
-      "latest_chapter": 71,
-      "library_count": 0,
-      "name": "01 10 DARK MOON Altar de la Luna",
-      "package_count": 7,
-      "packages": [
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "date": "2026-10-18T01:56:31+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1920_%E3%80%8C01-10%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8801c94362544445f567269884918b535859edca33344d01dbcd484faacd8a08",
-          "filename": "「01-10」DARK MOON - Altar de la Luna.pdf",
-          "first": 1,
-          "last": 10,
-          "message_id": 1920,
-          "name": "1-10",
-          "size": 90713677,
-          "telegram_link": "https://t.me/manhuasgratis/1920"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "date": "2026-10-18T01:56:31+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1921_%E3%80%8C11-20%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ade75aba6ad936cb780248bb8dc8fd8ae5780eac118f6e01c6c226506ff039d9",
-          "filename": "「11-20」DARK MOON - Altar de la Luna.pdf",
-          "first": 11,
-          "last": 20,
-          "message_id": 1921,
-          "name": "11-20",
-          "size": 86480303,
-          "telegram_link": "https://t.me/manhuasgratis/1921"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "date": "2026-10-18T01:56:32+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1922_%E3%80%8C21-30%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e67c7ebc8d70636dca42c8e12e2bdec06208209b95b5fc735b94e2c275b1e670",
-          "filename": "「21-30」DARK MOON - Altar de la Luna.pdf",
-          "first": 21,
-          "last": 30,
-          "message_id": 1922,
-          "name": "21-30",
-          "size": 94046893,
-          "telegram_link": "https://t.me/manhuasgratis/1922"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            31,
-            32,
-            33,
-            34,
-            35,
-            36,
-            37,
-            38,
-            39,
-            40
-          ],
-          "date": "2026-10-18T01:56:33+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1923_%E3%80%8C31-40%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f89c8cf18cd3b9a9b9c1b2349baf5a4827bb21de9ae0d8a57faaba647e3cb70",
-          "filename": "「31-40」DARK MOON - Altar de la Luna.pdf",
-          "first": 31,
-          "last": 40,
-          "message_id": 1923,
-          "name": "31-40",
-          "size": 85318511,
-          "telegram_link": "https://t.me/manhuasgratis/1923"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            41,
-            42,
-            43,
-            44,
-            45,
-            46,
-            47,
-            48,
-            49,
-            50
-          ],
-          "date": "2026-10-18T01:56:33+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1924_%E3%80%8C41-50%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5446cf60bb1bc030e66ff024049f53955a9090daaa2b488441b8ed012404aa37",
-          "filename": "「41-50」DARK MOON - Altar de la Luna.pdf",
-          "first": 41,
-          "last": 50,
-          "message_id": 1924,
-          "name": "41-50",
-          "size": 94469044,
-          "telegram_link": "https://t.me/manhuasgratis/1924"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            51,
-            52,
-            53,
-            54,
-            55,
-            56,
-            57,
-            58,
-            59,
-            60
-          ],
-          "date": "2026-10-18T01:56:34+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1925_%E3%80%8C51-60%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6c929e6b26cd3fbb5fb7c92193874e095a4164af1bc73afa837fa496f7c85e9",
-          "filename": "「51-60」DARK MOON - Altar de la Luna.pdf",
-          "first": 51,
-          "last": 60,
-          "message_id": 1925,
-          "name": "51-60",
-          "size": 101451598,
-          "telegram_link": "https://t.me/manhuasgratis/1925"
-        },
-        {
-          "channel_id": -1004367557958,
-          "chapters": [
-            61,
-            62,
-            63,
-            64,
-            65,
-            66,
-            67,
-            68,
-            69,
-            70,
-            71
-          ],
-          "date": "2026-10-18T01:56:35+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1926_%E3%80%8C61-71%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna%20%28Fin%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f3cc66af2b805efbda5113590e649696a5cf421ba6fa06f1027fa1f84933496",
-          "filename": "「61-71」DARK MOON - Altar de la Luna (Fin).pdf",
-          "first": 61,
-          "last": 71,
-          "message_id": 1926,
-          "name": "61-71",
-          "size": 110274269,
-          "telegram_link": "https://t.me/manhuasgratis/1926"
-        }
-      ],
-      "rating": 0,
-      "rating_count": 0,
-      "synopsis": "Sinopsis no disponible.",
-      "visible": true
-    },
-    {
       "added_at": "2026-10-20T21:07:04+00:00",
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/01_10_el_emperador_bestia_yo_xio.jpg",
       "cover_message_id": 834,
@@ -9286,11 +9085,12 @@
       "cover_message_id": 1092,
       "cover_telegram_link": "https://t.me/c/-1004187372773/1092",
       "genres": [
-        "Respaldo",
+        "respaldo",
         "Finalizada",
         "Aventura",
         "Fantasía",
-        "Romance"
+        "Romance",
+        "harem inverso"
       ],
       "hashtag": "#01_10_La_Criada_Quiere_Dejar_el_Juego_del_Harem",
       "id": "01_10_la_criada_quiere_dejar_el_juego_del_harem",
@@ -26216,10 +26016,11 @@
       "cover_message_id": 478,
       "cover_telegram_link": "https://t.me/c/-1004187372773/478",
       "genres": [
-        "Respaldo",
+        "respaldo",
         "Finalizada",
         "Drama",
-        "Romance"
+        "Romance",
+        "harem inverso"
       ],
       "hashtag": "#Atrapada_por_el_Bully",
       "id": "atrapada_por_el_bully",
@@ -32102,14 +31903,14 @@
           ],
           "date": "2026-10-23T23:15:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6740_%5B%2301-10%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000324Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2483d0228f6248619e2c337c7d3d1be3ede99754334b3dcd13db41c3c1ea6f04",
           "filename": "[#01-10]   Caballero En Eterna Regresión.pdf",
           "first": 1,
           "last": 10,
           "message_id": 6740,
           "name": "1-10",
           "size": 135605841,
-          "telegram_link": "https://t.me/manhuasgratis/6740",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6740_%5B%2301-10%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000324Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2483d0228f6248619e2c337c7d3d1be3ede99754334b3dcd13db41c3c1ea6f04"
+          "telegram_link": "https://t.me/manhuasgratis/6740"
         },
         {
           "channel_id": -1003003829878,
@@ -32127,14 +31928,14 @@
           ],
           "date": "2026-10-23T23:15:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6741_%5B%2311-20%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=424350988933b5ea724a270a069b36422e190ca8a1bea46c9fe8a9f1ca2e841d",
           "filename": "[#11-20]   Caballero En Eterna Regresión.pdf",
           "first": 11,
           "last": 20,
           "message_id": 6741,
           "name": "11-20",
           "size": 142186067,
-          "telegram_link": "https://t.me/manhuasgratis/6741",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6741_%5B%2311-20%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=424350988933b5ea724a270a069b36422e190ca8a1bea46c9fe8a9f1ca2e841d"
+          "telegram_link": "https://t.me/manhuasgratis/6741"
         },
         {
           "channel_id": -1003003829878,
@@ -32152,14 +31953,14 @@
           ],
           "date": "2026-10-23T23:15:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6742_%5B%2321-30%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000510Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02dad9183c7d6fb0ca1c0770b20a1f9ce0905c389ce2d051eb562bd664f282ad",
           "filename": "[#21-30]   Caballero En Eterna Regresión.pdf",
           "first": 21,
           "last": 30,
           "message_id": 6742,
           "name": "21-30",
           "size": 108460727,
-          "telegram_link": "https://t.me/manhuasgratis/6742",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6742_%5B%2321-30%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000510Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02dad9183c7d6fb0ca1c0770b20a1f9ce0905c389ce2d051eb562bd664f282ad"
+          "telegram_link": "https://t.me/manhuasgratis/6742"
         },
         {
           "channel_id": -1003003829878,
@@ -32177,14 +31978,14 @@
           ],
           "date": "2026-10-23T23:15:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6743_%5B%2331-40%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000607Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=468a217c0985027af304e168cbe9e64b2779ee4d5bedafa1a5ccbb12156e2ac5",
           "filename": "[#31-40]   Caballero En Eterna Regresión.pdf",
           "first": 31,
           "last": 40,
           "message_id": 6743,
           "name": "31-40",
           "size": 93473290,
-          "telegram_link": "https://t.me/manhuasgratis/6743",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6743_%5B%2331-40%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000607Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=468a217c0985027af304e168cbe9e64b2779ee4d5bedafa1a5ccbb12156e2ac5"
+          "telegram_link": "https://t.me/manhuasgratis/6743"
         },
         {
           "channel_id": -1003003829878,
@@ -32202,14 +32003,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6744_%5B%2341-50%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000710Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=27836dab2c58543ff42d5427d7a8789555b8f4c6b3df26a31536e2cab6281ff4",
           "filename": "[#41-50]   Caballero En Eterna Regresión.pdf",
           "first": 41,
           "last": 50,
           "message_id": 6744,
           "name": "41-50",
           "size": 95086581,
-          "telegram_link": "https://t.me/manhuasgratis/6744",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6744_%5B%2341-50%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000710Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=27836dab2c58543ff42d5427d7a8789555b8f4c6b3df26a31536e2cab6281ff4"
+          "telegram_link": "https://t.me/manhuasgratis/6744"
         },
         {
           "channel_id": -1003003829878,
@@ -32227,14 +32028,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6745_%5B%2351-60%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000808Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b9ad259afd0034dd4003b03810587d6e8926e615ff280498800044ba8a7185d9",
           "filename": "[#51-60]   Caballero En Eterna Regresión.pdf",
           "first": 51,
           "last": 60,
           "message_id": 6745,
           "name": "51-60",
           "size": 94580683,
-          "telegram_link": "https://t.me/manhuasgratis/6745",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6745_%5B%2351-60%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000808Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b9ad259afd0034dd4003b03810587d6e8926e615ff280498800044ba8a7185d9"
+          "telegram_link": "https://t.me/manhuasgratis/6745"
         },
         {
           "channel_id": -1003003829878,
@@ -32247,14 +32048,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6746_%5B%2361-65%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000842Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4a674923e2fb10d7d520adf9501c5640778ca5abf413b68adf55524d39f4d02c",
           "filename": "[#61-65]   Caballero En Eterna Regresión.pdf",
           "first": 61,
           "last": 65,
           "message_id": 6746,
           "name": "61-65",
           "size": 53509014,
-          "telegram_link": "https://t.me/manhuasgratis/6746",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6746_%5B%2361-65%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000842Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4a674923e2fb10d7d520adf9501c5640778ca5abf413b68adf55524d39f4d02c"
+          "telegram_link": "https://t.me/manhuasgratis/6746"
         },
         {
           "channel_id": -1003003829878,
@@ -32263,14 +32064,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6747_%5B%2366%5D%20%20%20Caballero%20en%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43e9b7b3996f1e18a6289f8d07e547a0eac473c9034c2b4d1395131072cad95c",
           "filename": "[#66]   Caballero en Eterna Regresión.pdf",
           "first": 66,
           "last": 66,
           "message_id": 6747,
           "name": "66",
           "size": 11008922,
-          "telegram_link": "https://t.me/manhuasgratis/6747",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6747_%5B%2366%5D%20%20%20Caballero%20en%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43e9b7b3996f1e18a6289f8d07e547a0eac473c9034c2b4d1395131072cad95c"
+          "telegram_link": "https://t.me/manhuasgratis/6747"
         },
         {
           "channel_id": -1003003829878,
@@ -32279,14 +32080,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6748_%5B%2367%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e255411c4f3d72a822717697b1195326dc485c7556d9271ff480a3b280ce7699",
           "filename": "[#67]   Caballero En Eterna Regresión.pdf",
           "first": 67,
           "last": 67,
           "message_id": 6748,
           "name": "67",
           "size": 11616926,
-          "telegram_link": "https://t.me/manhuasgratis/6748",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6748_%5B%2367%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e255411c4f3d72a822717697b1195326dc485c7556d9271ff480a3b280ce7699"
+          "telegram_link": "https://t.me/manhuasgratis/6748"
         },
         {
           "channel_id": -1003003829878,
@@ -32295,14 +32096,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6749_%5B%2368%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000915Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c01715efd9523a83e14642f33a57dc082da978a20cf6738a9e671fd5d05f140c",
           "filename": "[#68]   Caballero En Eterna Regresión.pdf",
           "first": 68,
           "last": 68,
           "message_id": 6749,
           "name": "68",
           "size": 12005473,
-          "telegram_link": "https://t.me/manhuasgratis/6749",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6749_%5B%2368%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000915Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c01715efd9523a83e14642f33a57dc082da978a20cf6738a9e671fd5d05f140c"
+          "telegram_link": "https://t.me/manhuasgratis/6749"
         },
         {
           "channel_id": -1003003829878,
@@ -32312,14 +32113,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6750_%5B%2369-70%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=71e0fe64836b5a5ab6a2ecc2d11f3f7a96c9defc6c33955c1de1358188df26e8",
           "filename": "[#69-70]   Caballero En Eterna Regresión.pdf",
           "first": 69,
           "last": 70,
           "message_id": 6750,
           "name": "69-70",
           "size": 20676870,
-          "telegram_link": "https://t.me/manhuasgratis/6750",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6750_%5B%2369-70%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=71e0fe64836b5a5ab6a2ecc2d11f3f7a96c9defc6c33955c1de1358188df26e8"
+          "telegram_link": "https://t.me/manhuasgratis/6750"
         },
         {
           "channel_id": -1003003829878,
@@ -32329,14 +32130,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6751_%5B%2371-72%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000950Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=91487178cbf0cf6ba2764cd11bcde7473a89ca5877e0c8d1eeac7701d6aef60f",
           "filename": "[#71-72]   Caballero En Eterna Regresión.pdf",
           "first": 71,
           "last": 72,
           "message_id": 6751,
           "name": "71-72",
           "size": 19006047,
-          "telegram_link": "https://t.me/manhuasgratis/6751",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6751_%5B%2371-72%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000950Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=91487178cbf0cf6ba2764cd11bcde7473a89ca5877e0c8d1eeac7701d6aef60f"
+          "telegram_link": "https://t.me/manhuasgratis/6751"
         },
         {
           "channel_id": -1003003829878,
@@ -32345,14 +32146,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6752_%5B%2373%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d8eee76af9379cb207046341b2809cba8e163ff9bc57a9807b293bea54972f6",
           "filename": "[#73]   Caballero En Eterna Regresión.pdf",
           "first": 73,
           "last": 73,
           "message_id": 6752,
           "name": "73",
           "size": 9622839,
-          "telegram_link": "https://t.me/manhuasgratis/6752",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6752_%5B%2373%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T000959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d8eee76af9379cb207046341b2809cba8e163ff9bc57a9807b293bea54972f6"
+          "telegram_link": "https://t.me/manhuasgratis/6752"
         },
         {
           "channel_id": -1003003829878,
@@ -32361,14 +32162,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6753_%5B%2374%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4835ace529e0b7512ca2a58d58c70b19edad068d035e31e966e39cd2b467bbb7",
           "filename": "[#74]   Caballero En Eterna Regresión.pdf",
           "first": 74,
           "last": 74,
           "message_id": 6753,
           "name": "74",
           "size": 11229949,
-          "telegram_link": "https://t.me/manhuasgratis/6753",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6753_%5B%2374%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4835ace529e0b7512ca2a58d58c70b19edad068d035e31e966e39cd2b467bbb7"
+          "telegram_link": "https://t.me/manhuasgratis/6753"
         },
         {
           "channel_id": -1003003829878,
@@ -32377,14 +32178,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6754_%5B%2375%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001035Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=56081e2eb37377e95fc59e79d722aa67a33b8144207cc302ccd32b590eddff69",
           "filename": "[#75]   Caballero En Eterna Regresión.pdf",
           "first": 75,
           "last": 75,
           "message_id": 6754,
           "name": "75",
           "size": 9861489,
-          "telegram_link": "https://t.me/manhuasgratis/6754",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6754_%5B%2375%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001035Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=56081e2eb37377e95fc59e79d722aa67a33b8144207cc302ccd32b590eddff69"
+          "telegram_link": "https://t.me/manhuasgratis/6754"
         },
         {
           "channel_id": -1003003829878,
@@ -32393,14 +32194,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6755_%5B%2376%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001044Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d39170195c107eaebd9decbe87d5cab744053f9f9ed1e937fb2d1c5ef7d2fc02",
           "filename": "[#76]   Caballero En Eterna Regresión.pdf",
           "first": 76,
           "last": 76,
           "message_id": 6755,
           "name": "76",
           "size": 9591716,
-          "telegram_link": "https://t.me/manhuasgratis/6755",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6755_%5B%2376%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001044Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d39170195c107eaebd9decbe87d5cab744053f9f9ed1e937fb2d1c5ef7d2fc02"
+          "telegram_link": "https://t.me/manhuasgratis/6755"
         },
         {
           "channel_id": -1003003829878,
@@ -32409,14 +32210,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6756_%5B%2377%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001056Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93a686b2b2b60778f47bf1381387bf599ffe71d170fab50c9b2d806262cf2b7",
           "filename": "[#77]   Caballero En Eterna Regresión.pdf",
           "first": 77,
           "last": 77,
           "message_id": 6756,
           "name": "77",
           "size": 11870828,
-          "telegram_link": "https://t.me/manhuasgratis/6756",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6756_%5B%2377%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001056Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93a686b2b2b60778f47bf1381387bf599ffe71d170fab50c9b2d806262cf2b7"
+          "telegram_link": "https://t.me/manhuasgratis/6756"
         },
         {
           "channel_id": -1003003829878,
@@ -32425,14 +32226,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6757_%5B%2378%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001107Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b5df0375c3d992f29bed21e530bd21b520a5d71a42b81a124747bae7812298e",
           "filename": "[#78]   Caballero En Eterna Regresión.pdf",
           "first": 78,
           "last": 78,
           "message_id": 6757,
           "name": "78",
           "size": 12274990,
-          "telegram_link": "https://t.me/manhuasgratis/6757",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6757_%5B%2378%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001107Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b5df0375c3d992f29bed21e530bd21b520a5d71a42b81a124747bae7812298e"
+          "telegram_link": "https://t.me/manhuasgratis/6757"
         },
         {
           "channel_id": -1003003829878,
@@ -32441,14 +32242,14 @@
           ],
           "date": "2026-10-23T23:15:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6758_%5B%2379%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001119Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=717ce17d65075660d0234bcf855ebaaa0f64fa10b475b33d906d29aa080734ca",
           "filename": "[#79]   Caballero En Eterna Regresión.pdf",
           "first": 79,
           "last": 79,
           "message_id": 6758,
           "name": "79",
           "size": 12324214,
-          "telegram_link": "https://t.me/manhuasgratis/6758",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6758_%5B%2379%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001119Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=717ce17d65075660d0234bcf855ebaaa0f64fa10b475b33d906d29aa080734ca"
+          "telegram_link": "https://t.me/manhuasgratis/6758"
         },
         {
           "channel_id": -1003003829878,
@@ -32457,14 +32258,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6759_%5B%2380%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001129Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4168491da9c16badad84a64a80036bb6010b85c253a3c229bd5757d32d4aa182",
           "filename": "[#80]   Caballero En Eterna Regresión.pdf",
           "first": 80,
           "last": 80,
           "message_id": 6759,
           "name": "80",
           "size": 11341459,
-          "telegram_link": "https://t.me/manhuasgratis/6759",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6759_%5B%2380%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001129Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4168491da9c16badad84a64a80036bb6010b85c253a3c229bd5757d32d4aa182"
+          "telegram_link": "https://t.me/manhuasgratis/6759"
         },
         {
           "channel_id": -1003003829878,
@@ -32473,14 +32274,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6760_%5B%2381%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001143Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5bb1251a048b8a82718f6f53507b27b39ea4c42956b2a0955c3415c4c088f5e1",
           "filename": "[#81]   Caballero En Eterna Regresión.pdf",
           "first": 81,
           "last": 81,
           "message_id": 6760,
           "name": "81",
           "size": 11149683,
-          "telegram_link": "https://t.me/manhuasgratis/6760",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6760_%5B%2381%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001143Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5bb1251a048b8a82718f6f53507b27b39ea4c42956b2a0955c3415c4c088f5e1"
+          "telegram_link": "https://t.me/manhuasgratis/6760"
         },
         {
           "channel_id": -1003003829878,
@@ -32489,14 +32290,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6761_%5B%2382%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001155Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bb49e1a2d5511a2e1d9165e428b65df854dd681cb10d88eb93736a8bb685d094",
           "filename": "[#82]   Caballero En Eterna Regresión.pdf",
           "first": 82,
           "last": 82,
           "message_id": 6761,
           "name": "82",
           "size": 12316441,
-          "telegram_link": "https://t.me/manhuasgratis/6761",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6761_%5B%2382%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001155Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bb49e1a2d5511a2e1d9165e428b65df854dd681cb10d88eb93736a8bb685d094"
+          "telegram_link": "https://t.me/manhuasgratis/6761"
         },
         {
           "channel_id": -1003003829878,
@@ -32506,14 +32307,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6762_%5B%2383-84%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001210Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4168d5cb0e5bc7d79ddf0e29ac82c81bb6ae43c1d9204dc929f5b09add2c62ce",
           "filename": "[#83-84]   Caballero En Eterna Regresión.pdf",
           "first": 83,
           "last": 84,
           "message_id": 6762,
           "name": "83-84",
           "size": 19637117,
-          "telegram_link": "https://t.me/manhuasgratis/6762",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6762_%5B%2383-84%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001210Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4168d5cb0e5bc7d79ddf0e29ac82c81bb6ae43c1d9204dc929f5b09add2c62ce"
+          "telegram_link": "https://t.me/manhuasgratis/6762"
         },
         {
           "channel_id": -1003003829878,
@@ -32522,14 +32323,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6763_%5B%2385%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001220Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=998bd3702a7b41ccd4231ae010974a94b9d622b0484a412e1e27b0260b83e1e8",
           "filename": "[#85]   Caballero En Eterna Regresión.pdf",
           "first": 85,
           "last": 85,
           "message_id": 6763,
           "name": "85",
           "size": 10175144,
-          "telegram_link": "https://t.me/manhuasgratis/6763",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6763_%5B%2385%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001220Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=998bd3702a7b41ccd4231ae010974a94b9d622b0484a412e1e27b0260b83e1e8"
+          "telegram_link": "https://t.me/manhuasgratis/6763"
         },
         {
           "channel_id": -1003003829878,
@@ -32538,14 +32339,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6764_%5B%2386%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001228Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6af424a32a49c63170748cba0a4aa44b4fc16aa39e759120f2503b0698eb5d05",
           "filename": "[#86]   Caballero En Eterna Regresión.pdf",
           "first": 86,
           "last": 86,
           "message_id": 6764,
           "name": "86",
           "size": 8107760,
-          "telegram_link": "https://t.me/manhuasgratis/6764",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6764_%5B%2386%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001228Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6af424a32a49c63170748cba0a4aa44b4fc16aa39e759120f2503b0698eb5d05"
+          "telegram_link": "https://t.me/manhuasgratis/6764"
         },
         {
           "channel_id": -1003003829878,
@@ -32555,14 +32356,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6765_%5B%2387-88%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001244Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d23332c2efefc7e574787ed4d732d40ebe1a31e16115f95d2be4f4d332a52520",
           "filename": "[#87-88]   Caballero En Eterna Regresión.pdf",
           "first": 87,
           "last": 88,
           "message_id": 6765,
           "name": "87-88",
           "size": 22279314,
-          "telegram_link": "https://t.me/manhuasgratis/6765",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6765_%5B%2387-88%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001244Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d23332c2efefc7e574787ed4d732d40ebe1a31e16115f95d2be4f4d332a52520"
+          "telegram_link": "https://t.me/manhuasgratis/6765"
         },
         {
           "channel_id": -1003003829878,
@@ -32571,14 +32372,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6766_%5B%2389%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001257Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1e07c9dfc8be4a5e78be7377586f2c1c3e29b5b9ca79515fdc7f220f74903338",
           "filename": "[#89]   Caballero En Eterna Regresión.pdf",
           "first": 89,
           "last": 89,
           "message_id": 6766,
           "name": "89",
           "size": 16616035,
-          "telegram_link": "https://t.me/manhuasgratis/6766",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6766_%5B%2389%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001257Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1e07c9dfc8be4a5e78be7377586f2c1c3e29b5b9ca79515fdc7f220f74903338"
+          "telegram_link": "https://t.me/manhuasgratis/6766"
         },
         {
           "channel_id": -1003003829878,
@@ -32587,14 +32388,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6767_%5B%2390%5D%20%20%20Caballero%20en%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001309Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=10311f10c50be7d43e44b016dbcb6672eb79e4707aba291be4cd5401fb591dd7",
           "filename": "[#90]   Caballero en Eterna Regresión.pdf",
           "first": 90,
           "last": 90,
           "message_id": 6767,
           "name": "90",
           "size": 13471528,
-          "telegram_link": "https://t.me/manhuasgratis/6767",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6767_%5B%2390%5D%20%20%20Caballero%20en%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001309Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=10311f10c50be7d43e44b016dbcb6672eb79e4707aba291be4cd5401fb591dd7"
+          "telegram_link": "https://t.me/manhuasgratis/6767"
         },
         {
           "channel_id": -1003003829878,
@@ -32604,14 +32405,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6768_%5B%2391-92%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001326Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=764098d33e40bbbef32585be3c847b6e66a84d7f37cbfe273bd1ff546cff1c98",
           "filename": "[#91-92]   Caballero En Eterna Regresión.pdf",
           "first": 91,
           "last": 92,
           "message_id": 6768,
           "name": "91-92",
           "size": 23833181,
-          "telegram_link": "https://t.me/manhuasgratis/6768",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6768_%5B%2391-92%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001326Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=764098d33e40bbbef32585be3c847b6e66a84d7f37cbfe273bd1ff546cff1c98"
+          "telegram_link": "https://t.me/manhuasgratis/6768"
         },
         {
           "channel_id": -1003003829878,
@@ -32620,14 +32421,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6769_%5B%2393%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001338Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de9fe3bd593fa41d3f328ac41bc9648d3e5d5abfa55cf664e1bddb3af14bd2e0",
           "filename": "[#93]   Caballero En Eterna Regresión.pdf",
           "first": 93,
           "last": 93,
           "message_id": 6769,
           "name": "93",
           "size": 13672758,
-          "telegram_link": "https://t.me/manhuasgratis/6769",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6769_%5B%2393%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001338Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de9fe3bd593fa41d3f328ac41bc9648d3e5d5abfa55cf664e1bddb3af14bd2e0"
+          "telegram_link": "https://t.me/manhuasgratis/6769"
         },
         {
           "channel_id": -1003003829878,
@@ -32636,14 +32437,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6770_%5B%2394%5D%20%20%20Caballero%20en%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001353Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=67e1d2258327ee0754eea616bb9055160efe156896b0d9278efcf550b74108e7",
           "filename": "[#94]   Caballero en Eterna Regresión.pdf",
           "first": 94,
           "last": 94,
           "message_id": 6770,
           "name": "94",
           "size": 13203189,
-          "telegram_link": "https://t.me/manhuasgratis/6770",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6770_%5B%2394%5D%20%20%20Caballero%20en%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001353Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=67e1d2258327ee0754eea616bb9055160efe156896b0d9278efcf550b74108e7"
+          "telegram_link": "https://t.me/manhuasgratis/6770"
         },
         {
           "channel_id": -1003003829878,
@@ -32652,14 +32453,14 @@
           ],
           "date": "2026-10-23T23:15:15+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6771_%5B%2395%5D%20%20%20Caballero%20En%20Eterna%20Regresion.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001406Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=85c94a2491b114f9705a84a1d9130d2e7c76114b912cbae32ae454c1ee088f93",
           "filename": "[#95]   Caballero En Eterna Regresion.pdf",
           "first": 95,
           "last": 95,
           "message_id": 6771,
           "name": "95",
           "size": 17074928,
-          "telegram_link": "https://t.me/manhuasgratis/6771",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6771_%5B%2395%5D%20%20%20Caballero%20En%20Eterna%20Regresion.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001406Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=85c94a2491b114f9705a84a1d9130d2e7c76114b912cbae32ae454c1ee088f93"
+          "telegram_link": "https://t.me/manhuasgratis/6771"
         },
         {
           "channel_id": -1003003829878,
@@ -32668,14 +32469,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6772_%5B%2396%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001419Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c7a802ad8e593ac2b3c874d9f2cb9a7d39ce6a98069342f481fac5a80f4cebb",
           "filename": "[#96]   Caballero En Eterna Regresión.pdf",
           "first": 96,
           "last": 96,
           "message_id": 6772,
           "name": "96",
           "size": 16126603,
-          "telegram_link": "https://t.me/manhuasgratis/6772",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6772_%5B%2396%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001419Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c7a802ad8e593ac2b3c874d9f2cb9a7d39ce6a98069342f481fac5a80f4cebb"
+          "telegram_link": "https://t.me/manhuasgratis/6772"
         },
         {
           "channel_id": -1003003829878,
@@ -32684,14 +32485,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6773_%5B%2397%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001432Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6b238231a84b31736ade27141b94f30806c1938fd26a19edcbc3415d211207b",
           "filename": "[#97]   Caballero En Eterna Regresión.pdf",
           "first": 97,
           "last": 97,
           "message_id": 6773,
           "name": "97",
           "size": 14136058,
-          "telegram_link": "https://t.me/manhuasgratis/6773",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6773_%5B%2397%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001432Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6b238231a84b31736ade27141b94f30806c1938fd26a19edcbc3415d211207b"
+          "telegram_link": "https://t.me/manhuasgratis/6773"
         },
         {
           "channel_id": -1003003829878,
@@ -32700,14 +32501,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6774_%5B%2398%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001444Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d043239433a8dd7af4098e4e706d61aaef8035431e22ceffd21f39c611d28704",
           "filename": "[#98]   Caballero En Eterna Regresión.pdf",
           "first": 98,
           "last": 98,
           "message_id": 6774,
           "name": "98",
           "size": 15051588,
-          "telegram_link": "https://t.me/manhuasgratis/6774",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6774_%5B%2398%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001444Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d043239433a8dd7af4098e4e706d61aaef8035431e22ceffd21f39c611d28704"
+          "telegram_link": "https://t.me/manhuasgratis/6774"
         },
         {
           "channel_id": -1003003829878,
@@ -32716,14 +32517,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6775_%5B%2399%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001455Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=20cdc62b260583bf1ec9fbe85a43b8a6bff92bd9459ba8eb289cc512ad2bfcae",
           "filename": "[#99]   Caballero En Eterna Regresión.pdf",
           "first": 99,
           "last": 99,
           "message_id": 6775,
           "name": "99",
           "size": 11511234,
-          "telegram_link": "https://t.me/manhuasgratis/6775",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6775_%5B%2399%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001455Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=20cdc62b260583bf1ec9fbe85a43b8a6bff92bd9459ba8eb289cc512ad2bfcae"
+          "telegram_link": "https://t.me/manhuasgratis/6775"
         },
         {
           "channel_id": -1003003829878,
@@ -32732,14 +32533,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6776_%5B%23100%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001506Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b859949a1eab6b0801f6b9ca17c4bf5bf1db7aee71ab5637b249cda7d9a0d1c0",
           "filename": "[#100]   Caballero En Eterna Regresión.pdf",
           "first": 100,
           "last": 100,
           "message_id": 6776,
           "name": "100",
           "size": 11278456,
-          "telegram_link": "https://t.me/manhuasgratis/6776",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6776_%5B%23100%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001506Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b859949a1eab6b0801f6b9ca17c4bf5bf1db7aee71ab5637b249cda7d9a0d1c0"
+          "telegram_link": "https://t.me/manhuasgratis/6776"
         },
         {
           "channel_id": -1003003829878,
@@ -32748,14 +32549,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6777_%5B%23101%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001518Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d854fb03e314935b3cc7f7a3a9f18c3c382533e2e1298eb49170809a70eb456",
           "filename": "[#101]   Caballero En Eterna Regresión.pdf",
           "first": 101,
           "last": 101,
           "message_id": 6777,
           "name": "101",
           "size": 13358958,
-          "telegram_link": "https://t.me/manhuasgratis/6777",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6777_%5B%23101%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001518Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d854fb03e314935b3cc7f7a3a9f18c3c382533e2e1298eb49170809a70eb456"
+          "telegram_link": "https://t.me/manhuasgratis/6777"
         },
         {
           "channel_id": -1003003829878,
@@ -32764,14 +32565,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6778_%5B%23102%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001529Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ef2923a79e9c7f0a91cfcc9d57054f6f24089236c87ca35dd001d43ae09e578",
           "filename": "[#102]   Caballero En Eterna Regresión.pdf",
           "first": 102,
           "last": 102,
           "message_id": 6778,
           "name": "102",
           "size": 11770673,
-          "telegram_link": "https://t.me/manhuasgratis/6778",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6778_%5B%23102%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001529Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ef2923a79e9c7f0a91cfcc9d57054f6f24089236c87ca35dd001d43ae09e578"
+          "telegram_link": "https://t.me/manhuasgratis/6778"
         },
         {
           "channel_id": -1003003829878,
@@ -32780,14 +32581,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6779_%5B%23103%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001540Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a6eba4e4d752a61d876d39bb67ca76d23f6220055e4a9f529615f1b1bde24d1",
           "filename": "[#103]   Caballero En Eterna Regresión.pdf",
           "first": 103,
           "last": 103,
           "message_id": 6779,
           "name": "103",
           "size": 13526126,
-          "telegram_link": "https://t.me/manhuasgratis/6779",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6779_%5B%23103%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001540Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a6eba4e4d752a61d876d39bb67ca76d23f6220055e4a9f529615f1b1bde24d1"
+          "telegram_link": "https://t.me/manhuasgratis/6779"
         },
         {
           "channel_id": -1003003829878,
@@ -32796,14 +32597,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6780_%5B%23104%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001554Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e63990a86495fd0043f2e055d479e9f18bb7aa5f3b998e080169b4b1fb6eb13b",
           "filename": "[#104]   Caballero En Eterna Regresión.pdf",
           "first": 104,
           "last": 104,
           "message_id": 6780,
           "name": "104",
           "size": 12334637,
-          "telegram_link": "https://t.me/manhuasgratis/6780",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6780_%5B%23104%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001554Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e63990a86495fd0043f2e055d479e9f18bb7aa5f3b998e080169b4b1fb6eb13b"
+          "telegram_link": "https://t.me/manhuasgratis/6780"
         },
         {
           "channel_id": -1003003829878,
@@ -32812,14 +32613,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6781_%5B%23105%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001605Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9d1d5c4fb703ea66fe99186865fb6b08a4a5ca8b6e1800e4d9ab43507586bedf",
           "filename": "[#105]   Caballero En Eterna Regresión.pdf",
           "first": 105,
           "last": 105,
           "message_id": 6781,
           "name": "105",
           "size": 10504502,
-          "telegram_link": "https://t.me/manhuasgratis/6781",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6781_%5B%23105%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001605Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9d1d5c4fb703ea66fe99186865fb6b08a4a5ca8b6e1800e4d9ab43507586bedf"
+          "telegram_link": "https://t.me/manhuasgratis/6781"
         },
         {
           "channel_id": -1003003829878,
@@ -32828,14 +32629,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6782_%5B%23106%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001615Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=118ae824f88ad3ea120b63117600a5e00c6fe216f230888a90954a1f23bf070e",
           "filename": "[#106]   Caballero En Eterna Regresión.pdf",
           "first": 106,
           "last": 106,
           "message_id": 6782,
           "name": "106",
           "size": 11023447,
-          "telegram_link": "https://t.me/manhuasgratis/6782",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6782_%5B%23106%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001615Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=118ae824f88ad3ea120b63117600a5e00c6fe216f230888a90954a1f23bf070e"
+          "telegram_link": "https://t.me/manhuasgratis/6782"
         },
         {
           "channel_id": -1003003829878,
@@ -32845,14 +32646,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6783_%5B%23107-108%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001637Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2de4afc5002776e18b13201c6dcff3381ca957c819065a11bf8842195ff07582",
           "filename": "[#107-108]   Caballero En Eterna Regresión.pdf",
           "first": 107,
           "last": 108,
           "message_id": 6783,
           "name": "107-108",
           "size": 29155480,
-          "telegram_link": "https://t.me/manhuasgratis/6783",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6783_%5B%23107-108%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001637Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2de4afc5002776e18b13201c6dcff3381ca957c819065a11bf8842195ff07582"
+          "telegram_link": "https://t.me/manhuasgratis/6783"
         },
         {
           "channel_id": -1003003829878,
@@ -32861,14 +32662,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6784_%5B%23109%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001646Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0736cad75033d1476f5de440b38a448480df5f59ac2bf9bba7ae5c0b5be5c13d",
           "filename": "[#109]   Caballero En Eterna Regresión.pdf",
           "first": 109,
           "last": 109,
           "message_id": 6784,
           "name": "109",
           "size": 9037952,
-          "telegram_link": "https://t.me/manhuasgratis/6784",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6784_%5B%23109%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001646Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0736cad75033d1476f5de440b38a448480df5f59ac2bf9bba7ae5c0b5be5c13d"
+          "telegram_link": "https://t.me/manhuasgratis/6784"
         },
         {
           "channel_id": -1003003829878,
@@ -32877,14 +32678,14 @@
           ],
           "date": "2026-10-23T23:15:16+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6785_%5B%23110%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001657Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=052190c286bcff905cda6150c2ed06c7e98ab9a8cbf539cf62e3ef68375a9c79",
           "filename": "[#110]   Caballero En Eterna Regresión.pdf",
           "first": 110,
           "last": 110,
           "message_id": 6785,
           "name": "110",
           "size": 10975232,
-          "telegram_link": "https://t.me/manhuasgratis/6785",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6785_%5B%23110%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001657Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=052190c286bcff905cda6150c2ed06c7e98ab9a8cbf539cf62e3ef68375a9c79"
+          "telegram_link": "https://t.me/manhuasgratis/6785"
         },
         {
           "channel_id": -1003003829878,
@@ -32893,14 +32694,14 @@
           ],
           "date": "2026-10-23T23:15:17+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6786_%5B%23111%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001708Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=621b5781f0cc73dc2422d165c19480f69ab187ffb9263a25f9bd72a0c46306d0",
           "filename": "[#111]   Caballero En Eterna Regresión.pdf",
           "first": 111,
           "last": 111,
           "message_id": 6786,
           "name": "111",
           "size": 11796208,
-          "telegram_link": "https://t.me/manhuasgratis/6786",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6786_%5B%23111%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001708Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=621b5781f0cc73dc2422d165c19480f69ab187ffb9263a25f9bd72a0c46306d0"
+          "telegram_link": "https://t.me/manhuasgratis/6786"
         },
         {
           "channel_id": -1003003829878,
@@ -32909,14 +32710,14 @@
           ],
           "date": "2026-10-23T23:15:17+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6787_%5B%23112%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001726Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=440b6090b4674457b38ebf51f33a4acc5cef61ba2dd78a092ee2b7cd58f9b40b",
           "filename": "[#112]   Caballero En Eterna Regresión.pdf",
           "first": 112,
           "last": 112,
           "message_id": 6787,
           "name": "112",
           "size": 13564491,
-          "telegram_link": "https://t.me/manhuasgratis/6787",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6787_%5B%23112%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001726Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=440b6090b4674457b38ebf51f33a4acc5cef61ba2dd78a092ee2b7cd58f9b40b"
+          "telegram_link": "https://t.me/manhuasgratis/6787"
         }
       ],
       "rating": 0,
@@ -43891,11 +43692,12 @@
       "cover_message_id": 1348,
       "cover_telegram_link": "https://t.me/c/-1004187372773/1348",
       "genres": [
-        "Respaldo",
+        "respaldo",
         "Finalizada",
         "Romance",
         "Fantasía",
-        "Drama"
+        "Drama",
+        "harem inverso"
       ],
       "hashtag": "#Dark_Moon_Altar_de_la_Luna",
       "id": "dark_moon_altar_de_la_luna",
@@ -43918,16 +43720,16 @@
             9,
             10
           ],
-          "date": "2026-10-22T16:59:47+00:00",
+          "date": "2026-10-18T01:56:31+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5239_%E3%80%8C01-10%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T180231Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36b03ab917697abe41a615e09d1284ced12aa80c3097958d671a0316491a1f30",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1920_%E3%80%8C01-10%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8801c94362544445f567269884918b535859edca33344d01dbcd484faacd8a08",
           "filename": "「01-10」DARK MOON - Altar de la Luna.pdf",
           "first": 1,
           "last": 10,
-          "message_id": 5239,
+          "message_id": 1920,
           "name": "1-10",
           "size": 90713677,
-          "telegram_link": "https://t.me/manhuasgratis/5239"
+          "telegram_link": "https://t.me/manhuasgratis/1920"
         },
         {
           "channel_id": -1004367557958,
@@ -43943,16 +43745,16 @@
             19,
             20
           ],
-          "date": "2026-10-22T16:59:48+00:00",
+          "date": "2026-10-18T01:56:31+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5240_%E3%80%8C11-20%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261023%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261023T070154Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f1fb41c19e98773fbe8e52b5774477ce8305bbd4be2efeecb5ef29eb3fce9a5",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1921_%E3%80%8C11-20%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ade75aba6ad936cb780248bb8dc8fd8ae5780eac118f6e01c6c226506ff039d9",
           "filename": "「11-20」DARK MOON - Altar de la Luna.pdf",
           "first": 11,
           "last": 20,
-          "message_id": 5240,
+          "message_id": 1921,
           "name": "11-20",
           "size": 86480303,
-          "telegram_link": "https://t.me/manhuasgratis/5240"
+          "telegram_link": "https://t.me/manhuasgratis/1921"
         },
         {
           "channel_id": -1004367557958,
@@ -43968,16 +43770,16 @@
             29,
             30
           ],
-          "date": "2026-10-22T16:59:49+00:00",
+          "date": "2026-10-18T01:56:32+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5241_%E3%80%8C21-30%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T180444Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8da7d2424b57216643399a260ad964f0c9fa5f9cb135f4a3388f2cbe5d8589cf",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1922_%E3%80%8C21-30%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e67c7ebc8d70636dca42c8e12e2bdec06208209b95b5fc735b94e2c275b1e670",
           "filename": "「21-30」DARK MOON - Altar de la Luna.pdf",
           "first": 21,
           "last": 30,
-          "message_id": 5241,
+          "message_id": 1922,
           "name": "21-30",
           "size": 94046893,
-          "telegram_link": "https://t.me/manhuasgratis/5241"
+          "telegram_link": "https://t.me/manhuasgratis/1922"
         },
         {
           "channel_id": -1004367557958,
@@ -43993,16 +43795,16 @@
             39,
             40
           ],
-          "date": "2026-10-22T16:59:50+00:00",
+          "date": "2026-10-18T01:56:33+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5242_%E3%80%8C31-40%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T180650Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c967970f2e2cf75bcdb0e481a292e032c1c106f08ef375593e93b38625c22143",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1923_%E3%80%8C31-40%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f89c8cf18cd3b9a9b9c1b2349baf5a4827bb21de9ae0d8a57faaba647e3cb70",
           "filename": "「31-40」DARK MOON - Altar de la Luna.pdf",
           "first": 31,
           "last": 40,
-          "message_id": 5242,
+          "message_id": 1923,
           "name": "31-40",
           "size": 85318511,
-          "telegram_link": "https://t.me/manhuasgratis/5242"
+          "telegram_link": "https://t.me/manhuasgratis/1923"
         },
         {
           "channel_id": -1004367557958,
@@ -44018,16 +43820,16 @@
             49,
             50
           ],
-          "date": "2026-10-22T16:59:50+00:00",
+          "date": "2026-10-18T01:56:33+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5243_%E3%80%8C41-50%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T180902Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=60dc13063e5a43962022715350633288e8ad859d327b16a63bfb641b87679fea",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1924_%E3%80%8C41-50%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5446cf60bb1bc030e66ff024049f53955a9090daaa2b488441b8ed012404aa37",
           "filename": "「41-50」DARK MOON - Altar de la Luna.pdf",
           "first": 41,
           "last": 50,
-          "message_id": 5243,
+          "message_id": 1924,
           "name": "41-50",
           "size": 94469044,
-          "telegram_link": "https://t.me/manhuasgratis/5243"
+          "telegram_link": "https://t.me/manhuasgratis/1924"
         },
         {
           "channel_id": -1004367557958,
@@ -44043,16 +43845,16 @@
             59,
             60
           ],
-          "date": "2026-10-22T16:59:51+00:00",
+          "date": "2026-10-18T01:56:34+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5244_%E3%80%8C51-60%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T181126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fed32734467915b060a8c566657e72d85bb46f2552a081ddd418248911260e17",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1925_%E3%80%8C51-60%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6c929e6b26cd3fbb5fb7c92193874e095a4164af1bc73afa837fa496f7c85e9",
           "filename": "「51-60」DARK MOON - Altar de la Luna.pdf",
           "first": 51,
           "last": 60,
-          "message_id": 5244,
+          "message_id": 1925,
           "name": "51-60",
           "size": 101451598,
-          "telegram_link": "https://t.me/manhuasgratis/5244"
+          "telegram_link": "https://t.me/manhuasgratis/1925"
         },
         {
           "channel_id": -1004367557958,
@@ -44069,16 +43871,16 @@
             70,
             71
           ],
-          "date": "2026-10-22T16:59:52+00:00",
+          "date": "2026-10-18T01:56:35+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dark_moon_altar_de_la_luna/5245_%E3%80%8C61-71%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna%20%28Fin%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261022%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261022T181346Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a55d1e60d97aedcc2f405bef11fdb6162e8610cc56b2717e59269f237b250b91",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/01_10_dark_moon_altar_de_la_luna/1926_%E3%80%8C61-71%E3%80%8DDARK%20MOON%20-%20Altar%20de%20la%20Luna%20%28Fin%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261021%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261021T081507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f3cc66af2b805efbda5113590e649696a5cf421ba6fa06f1027fa1f84933496",
           "filename": "「61-71」DARK MOON - Altar de la Luna (Fin).pdf",
           "first": 61,
           "last": 71,
-          "message_id": 5245,
+          "message_id": 1926,
           "name": "61-71",
           "size": 110274269,
-          "telegram_link": "https://t.me/manhuasgratis/5245"
+          "telegram_link": "https://t.me/manhuasgratis/1926"
         }
       ],
       "rating": 0,
@@ -46840,7 +46642,8 @@
         "Finalizada",
         "Fantasía",
         "Acción",
-        "Romance"
+        "Romance",
+        "harem inverso"
       ],
       "hashtag": "#Deseo_Decirte_Adiós",
       "id": "deseo_decirte_adios",
@@ -168682,14 +168485,14 @@
           ],
           "date": "2026-10-23T23:38:12+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6842_1-10%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001826Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c98c7c534afe9bffcbbec0c4507086e6a3abff132465ad46c7e31f9fb78dc92",
           "filename": "1-10 Murim Login.pdf",
           "first": 1,
           "last": 10,
           "message_id": 6842,
           "name": "1-10",
           "size": 98506203,
-          "telegram_link": "https://t.me/manhuasgratis/6842",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6842_1-10%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001826Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c98c7c534afe9bffcbbec0c4507086e6a3abff132465ad46c7e31f9fb78dc92"
+          "telegram_link": "https://t.me/manhuasgratis/6842"
         },
         {
           "channel_id": -1003003829878,
@@ -168707,14 +168510,14 @@
           ],
           "date": "2026-10-23T23:38:12+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6843_11-20%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=413cd9bb3773fde757f4410363c21e6ac91dd6df40f6fe03430578449b7c8fb1",
           "filename": "11-20 Murim Login.pdf",
           "first": 11,
           "last": 20,
           "message_id": 6843,
           "name": "11-20",
           "size": 89789501,
-          "telegram_link": "https://t.me/manhuasgratis/6843",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6843_11-20%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T001921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=413cd9bb3773fde757f4410363c21e6ac91dd6df40f6fe03430578449b7c8fb1"
+          "telegram_link": "https://t.me/manhuasgratis/6843"
         },
         {
           "channel_id": -1003003829878,
@@ -168732,14 +168535,14 @@
           ],
           "date": "2026-10-23T23:38:12+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6844_21-30%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002039Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3e7d354704d6ce3bfcacd6e4754a5b4dbdba20814f658459f6a64faf00c7636",
           "filename": "21-30 Murim Login.pdf",
           "first": 21,
           "last": 30,
           "message_id": 6844,
           "name": "21-30",
           "size": 99020421,
-          "telegram_link": "https://t.me/manhuasgratis/6844",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6844_21-30%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002039Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3e7d354704d6ce3bfcacd6e4754a5b4dbdba20814f658459f6a64faf00c7636"
+          "telegram_link": "https://t.me/manhuasgratis/6844"
         },
         {
           "channel_id": -1003003829878,
@@ -168757,14 +168560,14 @@
           ],
           "date": "2026-10-23T23:38:12+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6845_31-40%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=78971f55b16a4ad713f66cb531f6ded61d561c938ecb2be11d1ee697d1612c52",
           "filename": "31-40 Murim Login.pdf",
           "first": 31,
           "last": 40,
           "message_id": 6845,
           "name": "31-40",
           "size": 105457825,
-          "telegram_link": "https://t.me/manhuasgratis/6845",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6845_31-40%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=78971f55b16a4ad713f66cb531f6ded61d561c938ecb2be11d1ee697d1612c52"
+          "telegram_link": "https://t.me/manhuasgratis/6845"
         },
         {
           "channel_id": -1003003829878,
@@ -168782,14 +168585,14 @@
           ],
           "date": "2026-10-23T23:38:12+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6846_41-50%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002218Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea6a10105d3845bd40f4564854ca11a2fe21ab6479823fe7fcf7f05a046e8ac1",
           "filename": "41-50 Murim Login.pdf",
           "first": 41,
           "last": 50,
           "message_id": 6846,
           "name": "41-50",
           "size": 118465692,
-          "telegram_link": "https://t.me/manhuasgratis/6846",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6846_41-50%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002218Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea6a10105d3845bd40f4564854ca11a2fe21ab6479823fe7fcf7f05a046e8ac1"
+          "telegram_link": "https://t.me/manhuasgratis/6846"
         },
         {
           "channel_id": -1003003829878,
@@ -168827,14 +168630,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6847_51-80%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002347Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f65c4856d9e3a55fa5a4580b4be4872e31ac8ff9606882939fca63e550870f4",
           "filename": "51-80 Murim Login.pdf",
           "first": 51,
           "last": 80,
           "message_id": 6847,
           "name": "51-80",
           "size": 212666729,
-          "telegram_link": "https://t.me/manhuasgratis/6847",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6847_51-80%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002347Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f65c4856d9e3a55fa5a4580b4be4872e31ac8ff9606882939fca63e550870f4"
+          "telegram_link": "https://t.me/manhuasgratis/6847"
         },
         {
           "channel_id": -1003003829878,
@@ -168852,14 +168655,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6848_81-90%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002436Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=38ff2dd245eefa10a1f60cd3dc89a58d44ac8e2f8cbf99ee4b8263547a3029ea",
           "filename": "81-90 Murim Login.pdf",
           "first": 81,
           "last": 90,
           "message_id": 6848,
           "name": "81-90",
           "size": 117730886,
-          "telegram_link": "https://t.me/manhuasgratis/6848",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6848_81-90%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002436Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=38ff2dd245eefa10a1f60cd3dc89a58d44ac8e2f8cbf99ee4b8263547a3029ea"
+          "telegram_link": "https://t.me/manhuasgratis/6848"
         },
         {
           "channel_id": -1003003829878,
@@ -168877,14 +168680,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6849_91-100%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002524Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f4b0b5224b6293e5f4b5e6af06d620ad1065a7e7fc9c6b8c3079122ee008491",
           "filename": "91-100 Murim Login.pdf",
           "first": 91,
           "last": 100,
           "message_id": 6849,
           "name": "91-100",
           "size": 110209631,
-          "telegram_link": "https://t.me/manhuasgratis/6849",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6849_91-100%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002524Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f4b0b5224b6293e5f4b5e6af06d620ad1065a7e7fc9c6b8c3079122ee008491"
+          "telegram_link": "https://t.me/manhuasgratis/6849"
         },
         {
           "channel_id": -1003003829878,
@@ -168902,14 +168705,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6850_101-110%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002615Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d99f073a93b0d6993eb088dc9a9d5d6f96247dff00b3308d4f9ec6823941c1a",
           "filename": "101-110 Murim Login.pdf",
           "first": 101,
           "last": 110,
           "message_id": 6850,
           "name": "101-110",
           "size": 119091157,
-          "telegram_link": "https://t.me/manhuasgratis/6850",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6850_101-110%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002615Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d99f073a93b0d6993eb088dc9a9d5d6f96247dff00b3308d4f9ec6823941c1a"
+          "telegram_link": "https://t.me/manhuasgratis/6850"
         },
         {
           "channel_id": -1003003829878,
@@ -168927,14 +168730,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6851_111-120%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002701Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c38b06232cbd754924db933b30c94885567fb5c3e5ae188081ccd70d345d96b1",
           "filename": "111-120 Murim Login.pdf",
           "first": 111,
           "last": 120,
           "message_id": 6851,
           "name": "111-120",
           "size": 106639068,
-          "telegram_link": "https://t.me/manhuasgratis/6851",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6851_111-120%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002701Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c38b06232cbd754924db933b30c94885567fb5c3e5ae188081ccd70d345d96b1"
+          "telegram_link": "https://t.me/manhuasgratis/6851"
         },
         {
           "channel_id": -1003003829878,
@@ -168952,14 +168755,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6852_121-130%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002802Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=971b54393a86b20a02c0d530f4dc817760d3659545d60c886a7b6ee822251159",
           "filename": "121-130 Murim Login.pdf",
           "first": 121,
           "last": 130,
           "message_id": 6852,
           "name": "121-130",
           "size": 142281174,
-          "telegram_link": "https://t.me/manhuasgratis/6852",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6852_121-130%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002802Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=971b54393a86b20a02c0d530f4dc817760d3659545d60c886a7b6ee822251159"
+          "telegram_link": "https://t.me/manhuasgratis/6852"
         },
         {
           "channel_id": -1003003829878,
@@ -168987,14 +168790,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6853_131-150%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002949Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=16803666d421fd429f98d7f05930a7af3ebb30aa1ccf1af796ce1b489c096ec9",
           "filename": "131-150 Murim Login.pdf",
           "first": 131,
           "last": 150,
           "message_id": 6853,
           "name": "131-150",
           "size": 257669441,
-          "telegram_link": "https://t.me/manhuasgratis/6853",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6853_131-150%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T002949Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=16803666d421fd429f98d7f05930a7af3ebb30aa1ccf1af796ce1b489c096ec9"
+          "telegram_link": "https://t.me/manhuasgratis/6853"
         },
         {
           "channel_id": -1003003829878,
@@ -169012,14 +168815,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6854_151%20-%20160%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003046Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d5eeea7c0777b1c3209de72e06beea0af873f35791b44a47b23f2ae4ad94c9c",
           "filename": "151 - 160 Murim Login.pdf",
           "first": 151,
           "last": 160,
           "message_id": 6854,
           "name": "151-160",
           "size": 123837854,
-          "telegram_link": "https://t.me/manhuasgratis/6854",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6854_151%20-%20160%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003046Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d5eeea7c0777b1c3209de72e06beea0af873f35791b44a47b23f2ae4ad94c9c"
+          "telegram_link": "https://t.me/manhuasgratis/6854"
         },
         {
           "channel_id": -1003003829878,
@@ -169047,14 +168850,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6855_161%20-%20180%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003218Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=582fb806b249e7bc5eeafacd820a83b10a9d55f425643de168c7869e119635b2",
           "filename": "161 - 180 Murim Login.pdf",
           "first": 161,
           "last": 180,
           "message_id": 6855,
           "name": "161-180",
           "size": 218082363,
-          "telegram_link": "https://t.me/manhuasgratis/6855",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6855_161%20-%20180%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003218Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=582fb806b249e7bc5eeafacd820a83b10a9d55f425643de168c7869e119635b2"
+          "telegram_link": "https://t.me/manhuasgratis/6855"
         },
         {
           "channel_id": -1003003829878,
@@ -169073,14 +168876,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6856_181%20-%20191%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003307Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e315a8791be4e37ba5062a5974a15814df6944b27a3cb48129cc31eede3c5fb2",
           "filename": "181 - 191 Murim Login.pdf",
           "first": 181,
           "last": 191,
           "message_id": 6856,
           "name": "181-191",
           "size": 116247184,
-          "telegram_link": "https://t.me/manhuasgratis/6856",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6856_181%20-%20191%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003307Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e315a8791be4e37ba5062a5974a15814df6944b27a3cb48129cc31eede3c5fb2"
+          "telegram_link": "https://t.me/manhuasgratis/6856"
         },
         {
           "channel_id": -1003003829878,
@@ -169098,14 +168901,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6857_192%20-%20201%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003355Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=94978f35919259afa58107328c946289b160131b4052b35ef794664e74a16417",
           "filename": "192 - 201 Murim Login.pdf",
           "first": 192,
           "last": 201,
           "message_id": 6857,
           "name": "192-201",
           "size": 110865026,
-          "telegram_link": "https://t.me/manhuasgratis/6857",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6857_192%20-%20201%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003355Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=94978f35919259afa58107328c946289b160131b4052b35ef794664e74a16417"
+          "telegram_link": "https://t.me/manhuasgratis/6857"
         },
         {
           "channel_id": -1003003829878,
@@ -169122,14 +168925,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6858_202%20-%20210%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003449Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd3b469781695f2465a501c8b09c7f5f161794d610e26245cae0c79f52ada2d7",
           "filename": "202 - 210 Murim Login.pdf",
           "first": 202,
           "last": 210,
           "message_id": 6858,
           "name": "202-210",
           "size": 87299866,
-          "telegram_link": "https://t.me/manhuasgratis/6858",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6858_202%20-%20210%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003449Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd3b469781695f2465a501c8b09c7f5f161794d610e26245cae0c79f52ada2d7"
+          "telegram_link": "https://t.me/manhuasgratis/6858"
         },
         {
           "channel_id": -1003003829878,
@@ -169146,14 +168949,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6859_211%20-%20219%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003544Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f76d8f1d334bc9032afa725a8caa5956c65a9f928c9b29e08d5480eeb336cb1",
           "filename": "211 - 219 Murim Login.pdf",
           "first": 211,
           "last": 219,
           "message_id": 6859,
           "name": "211-219",
           "size": 91605917,
-          "telegram_link": "https://t.me/manhuasgratis/6859",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6859_211%20-%20219%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003544Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f76d8f1d334bc9032afa725a8caa5956c65a9f928c9b29e08d5480eeb336cb1"
+          "telegram_link": "https://t.me/manhuasgratis/6859"
         },
         {
           "channel_id": -1003003829878,
@@ -169172,14 +168975,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6860_220%20-%20230%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003635Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=12bf1131042095a1aa49674c495b039364e5614b50d880cc9deff3117a1898c7",
           "filename": "220 - 230 Murim Login.pdf",
           "first": 220,
           "last": 230,
           "message_id": 6860,
           "name": "220-230",
           "size": 120120167,
-          "telegram_link": "https://t.me/manhuasgratis/6860",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6860_220%20-%20230%20Murim%20Login.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003635Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=12bf1131042095a1aa49674c495b039364e5614b50d880cc9deff3117a1898c7"
+          "telegram_link": "https://t.me/manhuasgratis/6860"
         },
         {
           "channel_id": -1003003829878,
@@ -169189,14 +168992,14 @@
           ],
           "date": "2026-10-23T23:38:13+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6861_231-232%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003652Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=26b530fa90d712637e00e4ec5e5094e1aa2ee57f50ef3c91ca442272a976719f",
           "filename": "231-232 Murim Login -.-.pdf",
           "first": 231,
           "last": 232,
           "message_id": 6861,
           "name": "231-232",
           "size": 24247549,
-          "telegram_link": "https://t.me/manhuasgratis/6861",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6861_231-232%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003652Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=26b530fa90d712637e00e4ec5e5094e1aa2ee57f50ef3c91ca442272a976719f"
+          "telegram_link": "https://t.me/manhuasgratis/6861"
         },
         {
           "channel_id": -1003003829878,
@@ -169208,14 +169011,14 @@
           ],
           "date": "2026-10-23T23:38:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6862_233-236%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003717Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0645edf1ee7eacdf1f26bc8e7a5bf1439dff6e0dcfd8918223214f55d5a714e2",
           "filename": "233-236 Murim login -.-.pdf",
           "first": 233,
           "last": 236,
           "message_id": 6862,
           "name": "233-236",
           "size": 36155095,
-          "telegram_link": "https://t.me/manhuasgratis/6862",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6862_233-236%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003717Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0645edf1ee7eacdf1f26bc8e7a5bf1439dff6e0dcfd8918223214f55d5a714e2"
+          "telegram_link": "https://t.me/manhuasgratis/6862"
         },
         {
           "channel_id": -1003003829878,
@@ -169227,14 +169030,14 @@
           ],
           "date": "2026-10-23T23:38:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6863_237-240%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003801Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a95fee05531fd5e61b2b9c8f52595caaef612337cd780310feb46460a1a8dd41",
           "filename": "237-240 Murim Login -.-.pdf",
           "first": 237,
           "last": 240,
           "message_id": 6863,
           "name": "237-240",
           "size": 46850595,
-          "telegram_link": "https://t.me/manhuasgratis/6863",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6863_237-240%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003801Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a95fee05531fd5e61b2b9c8f52595caaef612337cd780310feb46460a1a8dd41"
+          "telegram_link": "https://t.me/manhuasgratis/6863"
         },
         {
           "channel_id": -1003003829878,
@@ -169244,14 +169047,14 @@
           ],
           "date": "2026-10-23T23:38:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6864_241-242%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003820Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=10de78fa3f49c7bd7a3faf87adc42b8817b76e0d660049754463bf886cb676f3",
           "filename": "241-242 Murim Login -.-.pdf",
           "first": 241,
           "last": 242,
           "message_id": 6864,
           "name": "241-242",
           "size": 21192505,
-          "telegram_link": "https://t.me/manhuasgratis/6864",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6864_241-242%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003820Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=10de78fa3f49c7bd7a3faf87adc42b8817b76e0d660049754463bf886cb676f3"
+          "telegram_link": "https://t.me/manhuasgratis/6864"
         },
         {
           "channel_id": -1003003829878,
@@ -169263,14 +169066,14 @@
           ],
           "date": "2026-10-23T23:38:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6865_243-246%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003851Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b677f8aba0cb4caccae459889997c5307b6fcc8d6c6e6f7b34a198e1ffa3bf7",
           "filename": "243-246 Murim login -.-.pdf",
           "first": 243,
           "last": 246,
           "message_id": 6865,
           "name": "243-246",
           "size": 45522514,
-          "telegram_link": "https://t.me/manhuasgratis/6865",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6865_243-246%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003851Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b677f8aba0cb4caccae459889997c5307b6fcc8d6c6e6f7b34a198e1ffa3bf7"
+          "telegram_link": "https://t.me/manhuasgratis/6865"
         },
         {
           "channel_id": -1003003829878,
@@ -169280,14 +169083,14 @@
           ],
           "date": "2026-10-23T23:38:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6866_247-248%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003906Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a19011ebfe42db9e6de26636bbd86851aa7cd229937f82cd39303fb695442455",
           "filename": "247-248 Murim login -.-.pdf",
           "first": 247,
           "last": 248,
           "message_id": 6866,
           "name": "247-248",
           "size": 18929383,
-          "telegram_link": "https://t.me/manhuasgratis/6866",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6866_247-248%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003906Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a19011ebfe42db9e6de26636bbd86851aa7cd229937f82cd39303fb695442455"
+          "telegram_link": "https://t.me/manhuasgratis/6866"
         },
         {
           "channel_id": -1003003829878,
@@ -169297,14 +169100,14 @@
           ],
           "date": "2026-10-23T23:38:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6867_249-250%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003919Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8241fb34fb51f9b90c6c566146e2d64daeff648e1c70bb4662ad8aec2b19d577",
           "filename": "249-250 Murim login -.-.pdf",
           "first": 249,
           "last": 250,
           "message_id": 6867,
           "name": "249-250",
           "size": 17176764,
-          "telegram_link": "https://t.me/manhuasgratis/6867",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6867_249-250%20Murim%20login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T003919Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8241fb34fb51f9b90c6c566146e2d64daeff648e1c70bb4662ad8aec2b19d577"
+          "telegram_link": "https://t.me/manhuasgratis/6867"
         }
       ],
       "rating": 0,
@@ -192157,14 +191960,14 @@
           ],
           "date": "2026-10-23T23:16:06+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6794_%5B%2301-10%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004014Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8eb37eb7041acbc5c992f329eb80f437c2d96da3d71999997375dbb21c2b13bf",
           "filename": "[#01-10] • Regresión Inútil.pdf",
           "first": 1,
           "last": 10,
           "message_id": 6794,
           "name": "1-10",
           "size": 87963763,
-          "telegram_link": "https://t.me/manhuasgratis/6794",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6794_%5B%2301-10%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004014Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8eb37eb7041acbc5c992f329eb80f437c2d96da3d71999997375dbb21c2b13bf"
+          "telegram_link": "https://t.me/manhuasgratis/6794"
         },
         {
           "channel_id": -1003003829878,
@@ -192182,14 +191985,14 @@
           ],
           "date": "2026-10-23T23:16:06+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6795_%5B%2311-20%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004059Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=25a0f37edf7571e6f88da92e2dd6d0a90f175dbba92719be074aa7bccc0662fe",
           "filename": "[#11-20] • Regresión Inútil.pdf",
           "first": 11,
           "last": 20,
           "message_id": 6795,
           "name": "11-20",
           "size": 73307850,
-          "telegram_link": "https://t.me/manhuasgratis/6795",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6795_%5B%2311-20%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004059Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=25a0f37edf7571e6f88da92e2dd6d0a90f175dbba92719be074aa7bccc0662fe"
+          "telegram_link": "https://t.me/manhuasgratis/6795"
         },
         {
           "channel_id": -1003003829878,
@@ -192207,14 +192010,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6796_%5B%2321-30%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004142Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cec18cb95874b71cbfcf9014c77be446162c258c7b394b36304d3d6e5d4e6c07",
           "filename": "[#21-30] • Regresión Inútil.pdf",
           "first": 21,
           "last": 30,
           "message_id": 6796,
           "name": "21-30",
           "size": 69671708,
-          "telegram_link": "https://t.me/manhuasgratis/6796",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6796_%5B%2321-30%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004142Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cec18cb95874b71cbfcf9014c77be446162c258c7b394b36304d3d6e5d4e6c07"
+          "telegram_link": "https://t.me/manhuasgratis/6796"
         },
         {
           "channel_id": -1003003829878,
@@ -192232,14 +192035,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6797_%5B%2331-40%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004220Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d29f09f88091308c11f837ef250ec79826246e2238aa851b969f9c117ba2d63b",
           "filename": "[#31-40] • Regresión Inútil.pdf",
           "first": 31,
           "last": 40,
           "message_id": 6797,
           "name": "31-40",
           "size": 61182126,
-          "telegram_link": "https://t.me/manhuasgratis/6797",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6797_%5B%2331-40%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004220Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d29f09f88091308c11f837ef250ec79826246e2238aa851b969f9c117ba2d63b"
+          "telegram_link": "https://t.me/manhuasgratis/6797"
         },
         {
           "channel_id": -1003003829878,
@@ -192257,14 +192060,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6798_%5B%2341-50%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004256Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d91727f565a04fbe46977026f9c1504a646be83445a6b111560825523e1b02cd",
           "filename": "[#41-50] • Regresión Inútil.pdf",
           "first": 41,
           "last": 50,
           "message_id": 6798,
           "name": "41-50",
           "size": 58450832,
-          "telegram_link": "https://t.me/manhuasgratis/6798",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6798_%5B%2341-50%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004256Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d91727f565a04fbe46977026f9c1504a646be83445a6b111560825523e1b02cd"
+          "telegram_link": "https://t.me/manhuasgratis/6798"
         },
         {
           "channel_id": -1003003829878,
@@ -192282,14 +192085,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6799_%5B%2351-60%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004334Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1847ca62162effc8f948a94961775701bc2baccfcb59fcdbebf7262194e2e5fd",
           "filename": "[#51-60] • Regresión Inútil.pdf",
           "first": 51,
           "last": 60,
           "message_id": 6799,
           "name": "51-60",
           "size": 58724938,
-          "telegram_link": "https://t.me/manhuasgratis/6799",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6799_%5B%2351-60%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004334Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1847ca62162effc8f948a94961775701bc2baccfcb59fcdbebf7262194e2e5fd"
+          "telegram_link": "https://t.me/manhuasgratis/6799"
         },
         {
           "channel_id": -1003003829878,
@@ -192302,14 +192105,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6800_%5B%2361-65%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004403Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc738824406d4e9c37bddb007bf060e067cb5c968cda26e87568746a99e6f6fe",
           "filename": "[#61-65] • Regresión Inútil.pdf",
           "first": 61,
           "last": 65,
           "message_id": 6800,
           "name": "61-65",
           "size": 40966604,
-          "telegram_link": "https://t.me/manhuasgratis/6800",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6800_%5B%2361-65%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004403Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc738824406d4e9c37bddb007bf060e067cb5c968cda26e87568746a99e6f6fe"
+          "telegram_link": "https://t.me/manhuasgratis/6800"
         },
         {
           "channel_id": -1003003829878,
@@ -192319,14 +192122,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6801_%5B%2366-67%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004416Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=acccc991bf74646285d2bca1e0dd4001b8a929e97dc733df1b410107222c255c",
           "filename": "[#66-67] • Regresión Inútil .pdf",
           "first": 66,
           "last": 67,
           "message_id": 6801,
           "name": "66-67",
           "size": 16310962,
-          "telegram_link": "https://t.me/manhuasgratis/6801",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6801_%5B%2366-67%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004416Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=acccc991bf74646285d2bca1e0dd4001b8a929e97dc733df1b410107222c255c"
+          "telegram_link": "https://t.me/manhuasgratis/6801"
         },
         {
           "channel_id": -1003003829878,
@@ -192335,14 +192138,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6802_%5B%2368%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004422Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=657d98ec0f7435d18ee4793e17ff34d306f0c3f2f391ff004a67c05f801ad8ca",
           "filename": "[#68] • Regresión Inútil.pdf",
           "first": 68,
           "last": 68,
           "message_id": 6802,
           "name": "68",
           "size": 4638456,
-          "telegram_link": "https://t.me/manhuasgratis/6802",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6802_%5B%2368%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004422Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=657d98ec0f7435d18ee4793e17ff34d306f0c3f2f391ff004a67c05f801ad8ca"
+          "telegram_link": "https://t.me/manhuasgratis/6802"
         },
         {
           "channel_id": -1003003829878,
@@ -192351,14 +192154,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6803_%5B%2369%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004431Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8906d22c438e11eeb39b87ad8c06bbb2564da410967324b30820e65c968b28a1",
           "filename": "[#69] • Regresión Inútil.pdf",
           "first": 69,
           "last": 69,
           "message_id": 6803,
           "name": "69",
           "size": 8604462,
-          "telegram_link": "https://t.me/manhuasgratis/6803",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6803_%5B%2369%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004431Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8906d22c438e11eeb39b87ad8c06bbb2564da410967324b30820e65c968b28a1"
+          "telegram_link": "https://t.me/manhuasgratis/6803"
         },
         {
           "channel_id": -1003003829878,
@@ -192367,14 +192170,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6804_%5B%2370%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004441Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=08a586cd9bd8653aa77f385d3717a0285bb80b1616d2dad8985d93abe6d6fdf5",
           "filename": "[#70] • Regresión Inútil.pdf",
           "first": 70,
           "last": 70,
           "message_id": 6804,
           "name": "70",
           "size": 10776280,
-          "telegram_link": "https://t.me/manhuasgratis/6804",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6804_%5B%2370%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004441Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=08a586cd9bd8653aa77f385d3717a0285bb80b1616d2dad8985d93abe6d6fdf5"
+          "telegram_link": "https://t.me/manhuasgratis/6804"
         },
         {
           "channel_id": -1003003829878,
@@ -192383,14 +192186,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6805_%5B%2371%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2af76c7e566cf9522a850d2c5f15288c1fa214ea0ea6ce70d51c543ac2afab17",
           "filename": "[#71] • Regresión Inútil .pdf",
           "first": 71,
           "last": 71,
           "message_id": 6805,
           "name": "71",
           "size": 9239449,
-          "telegram_link": "https://t.me/manhuasgratis/6805",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6805_%5B%2371%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004451Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2af76c7e566cf9522a850d2c5f15288c1fa214ea0ea6ce70d51c543ac2afab17"
+          "telegram_link": "https://t.me/manhuasgratis/6805"
         },
         {
           "channel_id": -1003003829878,
@@ -192399,14 +192202,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6806_%5B%2372%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004459Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd23d9939e1292a6acdb91a028240775db75351a8531beacafeddd430ae980d6",
           "filename": "[#72] • Regresión Inútil.pdf",
           "first": 72,
           "last": 72,
           "message_id": 6806,
           "name": "72",
           "size": 7424707,
-          "telegram_link": "https://t.me/manhuasgratis/6806",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6806_%5B%2372%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004459Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd23d9939e1292a6acdb91a028240775db75351a8531beacafeddd430ae980d6"
+          "telegram_link": "https://t.me/manhuasgratis/6806"
         },
         {
           "channel_id": -1003003829878,
@@ -192415,14 +192218,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6807_%5B%2373%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30e33f31c31b87b42020ab1af1817e47e51b8e1858bf2ce3e67d7a0751d4cbbb",
           "filename": "[#73] • Regresión Inútil .pdf",
           "first": 73,
           "last": 73,
           "message_id": 6807,
           "name": "73",
           "size": 7884036,
-          "telegram_link": "https://t.me/manhuasgratis/6807",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6807_%5B%2373%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30e33f31c31b87b42020ab1af1817e47e51b8e1858bf2ce3e67d7a0751d4cbbb"
+          "telegram_link": "https://t.me/manhuasgratis/6807"
         },
         {
           "channel_id": -1003003829878,
@@ -192431,14 +192234,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6808_%5B%2374%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004516Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=116851c3e8015060260e9fa17906745d3a04f138369867b3f53ac58f23f823a3",
           "filename": "[#74] • Regresión Inútil .pdf",
           "first": 74,
           "last": 74,
           "message_id": 6808,
           "name": "74",
           "size": 8332392,
-          "telegram_link": "https://t.me/manhuasgratis/6808",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6808_%5B%2374%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004516Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=116851c3e8015060260e9fa17906745d3a04f138369867b3f53ac58f23f823a3"
+          "telegram_link": "https://t.me/manhuasgratis/6808"
         },
         {
           "channel_id": -1003003829878,
@@ -192447,14 +192250,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6809_%5B%2375%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004524Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fddfe81b6e93388d7d90d6f01e8a0eaf8fa1369aa5e7542d4c32c3459d681aa3",
           "filename": "[#75] • Regresión Inútil .pdf",
           "first": 75,
           "last": 75,
           "message_id": 6809,
           "name": "75",
           "size": 7433240,
-          "telegram_link": "https://t.me/manhuasgratis/6809",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6809_%5B%2375%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004524Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fddfe81b6e93388d7d90d6f01e8a0eaf8fa1369aa5e7542d4c32c3459d681aa3"
+          "telegram_link": "https://t.me/manhuasgratis/6809"
         },
         {
           "channel_id": -1003003829878,
@@ -192463,14 +192266,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6810_%5B%2376%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004537Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce134fb12adbfca7b248c6aed6638d74878dda976a6827c3becd42d2751fa77c",
           "filename": "[#76] • Regresión Inútil .pdf",
           "first": 76,
           "last": 76,
           "message_id": 6810,
           "name": "76",
           "size": 11549048,
-          "telegram_link": "https://t.me/manhuasgratis/6810",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6810_%5B%2376%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004537Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce134fb12adbfca7b248c6aed6638d74878dda976a6827c3becd42d2751fa77c"
+          "telegram_link": "https://t.me/manhuasgratis/6810"
         },
         {
           "channel_id": -1003003829878,
@@ -192479,14 +192282,14 @@
           ],
           "date": "2026-10-23T23:16:07+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6811_%5B%2377%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004547Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed036795f49eb3ea452d7184cee1e789e4c51bf2149fd69d56dbc0b925eb60e8",
           "filename": "[#77] • Regresión Inútil .pdf",
           "first": 77,
           "last": 77,
           "message_id": 6811,
           "name": "77",
           "size": 9849938,
-          "telegram_link": "https://t.me/manhuasgratis/6811",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6811_%5B%2377%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004547Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed036795f49eb3ea452d7184cee1e789e4c51bf2149fd69d56dbc0b925eb60e8"
+          "telegram_link": "https://t.me/manhuasgratis/6811"
         },
         {
           "channel_id": -1003003829878,
@@ -192495,14 +192298,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6812_%5B%2378%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004556Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0739ceb70bdc1b01d7930e1b4c1be8124a61c5afd735cfbc7ce6500cb3d82dbd",
           "filename": "[#78] • Regresión Inútil.pdf",
           "first": 78,
           "last": 78,
           "message_id": 6812,
           "name": "78",
           "size": 7941102,
-          "telegram_link": "https://t.me/manhuasgratis/6812",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6812_%5B%2378%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004556Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0739ceb70bdc1b01d7930e1b4c1be8124a61c5afd735cfbc7ce6500cb3d82dbd"
+          "telegram_link": "https://t.me/manhuasgratis/6812"
         },
         {
           "channel_id": -1003003829878,
@@ -192511,14 +192314,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6813_%5B%2379%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004606Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=23d329171a5fcdeeca53169a456a69b4cf526271c45d06c43212c1dfc864a5ac",
           "filename": "[#79] • Regresión Inútil .pdf",
           "first": 79,
           "last": 79,
           "message_id": 6813,
           "name": "79",
           "size": 9116816,
-          "telegram_link": "https://t.me/manhuasgratis/6813",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6813_%5B%2379%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004606Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=23d329171a5fcdeeca53169a456a69b4cf526271c45d06c43212c1dfc864a5ac"
+          "telegram_link": "https://t.me/manhuasgratis/6813"
         },
         {
           "channel_id": -1003003829878,
@@ -192527,14 +192330,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6814_%5B%2380%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004614Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d51b38ff4518eaa9da07ddc5afa55c06997475c376423487ffdbe8500a3b135",
           "filename": "[#80] • Regresión Inútil .pdf",
           "first": 80,
           "last": 80,
           "message_id": 6814,
           "name": "80",
           "size": 7874773,
-          "telegram_link": "https://t.me/manhuasgratis/6814",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6814_%5B%2380%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004614Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d51b38ff4518eaa9da07ddc5afa55c06997475c376423487ffdbe8500a3b135"
+          "telegram_link": "https://t.me/manhuasgratis/6814"
         },
         {
           "channel_id": -1003003829878,
@@ -192543,14 +192346,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6815_%5B%2381%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004623Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=298a41d9e94abb19c12d3eb67cceb2ba0280407bc091ac690515c3415d073202",
           "filename": "[#81] • Regresión Inútil .pdf",
           "first": 81,
           "last": 81,
           "message_id": 6815,
           "name": "81",
           "size": 8126609,
-          "telegram_link": "https://t.me/manhuasgratis/6815",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6815_%5B%2381%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004623Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=298a41d9e94abb19c12d3eb67cceb2ba0280407bc091ac690515c3415d073202"
+          "telegram_link": "https://t.me/manhuasgratis/6815"
         },
         {
           "channel_id": -1003003829878,
@@ -192559,14 +192362,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6816_%5B%2382%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004631Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47249225f3af53d77ec7dbe7688f7300de39cb7ab9d4e448bd0c6f4b37ad7ecf",
           "filename": "[#82] • Regresión Inútil .pdf",
           "first": 82,
           "last": 82,
           "message_id": 6816,
           "name": "82",
           "size": 8084305,
-          "telegram_link": "https://t.me/manhuasgratis/6816",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6816_%5B%2382%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004631Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47249225f3af53d77ec7dbe7688f7300de39cb7ab9d4e448bd0c6f4b37ad7ecf"
+          "telegram_link": "https://t.me/manhuasgratis/6816"
         },
         {
           "channel_id": -1003003829878,
@@ -192575,14 +192378,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6817_%5B%2383%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004638Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5bccc0f5c07ecba9e4ca4c95260465a314690f766b1a8b33ad8d0dbcfe5f00bb",
           "filename": "[#83] • Regresión Inútil .pdf",
           "first": 83,
           "last": 83,
           "message_id": 6817,
           "name": "83",
           "size": 5813548,
-          "telegram_link": "https://t.me/manhuasgratis/6817",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6817_%5B%2383%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004638Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5bccc0f5c07ecba9e4ca4c95260465a314690f766b1a8b33ad8d0dbcfe5f00bb"
+          "telegram_link": "https://t.me/manhuasgratis/6817"
         },
         {
           "channel_id": -1003003829878,
@@ -192591,14 +192394,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6818_%5B%2384%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004647Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f16cb186fb140ffbdd5e63a49b096bd960ffe92040e2a991d949791eb7f89cef",
           "filename": "[#84] • Regresión Inútil .pdf",
           "first": 84,
           "last": 84,
           "message_id": 6818,
           "name": "84",
           "size": 7346224,
-          "telegram_link": "https://t.me/manhuasgratis/6818",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6818_%5B%2384%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004647Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f16cb186fb140ffbdd5e63a49b096bd960ffe92040e2a991d949791eb7f89cef"
+          "telegram_link": "https://t.me/manhuasgratis/6818"
         },
         {
           "channel_id": -1003003829878,
@@ -192607,14 +192410,14 @@
           ],
           "date": "2026-10-23T23:16:08+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6819_%5B%2385%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004654Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=844c2a7d13feece1a79a532567a5e2c530cb8afaa4554670472ce1ec30a7a662",
           "filename": "[#85] • Regresión Inútil .pdf",
           "first": 85,
           "last": 85,
           "message_id": 6819,
           "name": "85",
           "size": 6934300,
-          "telegram_link": "https://t.me/manhuasgratis/6819",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6819_%5B%2385%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004654Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=844c2a7d13feece1a79a532567a5e2c530cb8afaa4554670472ce1ec30a7a662"
+          "telegram_link": "https://t.me/manhuasgratis/6819"
         },
         {
           "channel_id": -1003003829878,
@@ -192629,8 +192432,7 @@
           "message_id": 6820,
           "name": "86",
           "size": 7586832,
-          "telegram_link": "https://t.me/manhuasgratis/6820",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6820_%5B%2386%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f06a219fc2e64767789f69731f2c433fed61edfda4290683b6d6650053742b1e"
+          "telegram_link": "https://t.me/manhuasgratis/6820"
         },
         {
           "channel_id": -1003003829878,
@@ -192645,8 +192447,7 @@
           "message_id": 6821,
           "name": "87",
           "size": 5698380,
-          "telegram_link": "https://t.me/manhuasgratis/6821",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6821_%5B%2387%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004712Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c2da108e24789f380c2f4800270fefc5955b5e1c442191d3e12a81ebc739033"
+          "telegram_link": "https://t.me/manhuasgratis/6821"
         },
         {
           "channel_id": -1003003829878,
@@ -192661,8 +192462,7 @@
           "message_id": 6822,
           "name": "88",
           "size": 6192390,
-          "telegram_link": "https://t.me/manhuasgratis/6822",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6822_%5B%2388%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004719Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c3a331ce51525fcb44896fe10d1e7e45a8ec504a938c770fc1ef760ef141e1e"
+          "telegram_link": "https://t.me/manhuasgratis/6822"
         },
         {
           "channel_id": -1003003829878,
@@ -192677,8 +192477,7 @@
           "message_id": 6823,
           "name": "89",
           "size": 6726429,
-          "telegram_link": "https://t.me/manhuasgratis/6823",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6823_%5B%2389%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004727Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17f2148b9fcf27d891fad6ed32e1d8b219fb1f22192a41881a692d41c67c852f"
+          "telegram_link": "https://t.me/manhuasgratis/6823"
         },
         {
           "channel_id": -1003003829878,
@@ -192693,8 +192492,7 @@
           "message_id": 6824,
           "name": "90",
           "size": 7085065,
-          "telegram_link": "https://t.me/manhuasgratis/6824",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6824_%5B%2390%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004735Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bea6bdff1b076294c9d4908120673fdf92f1d619537967992fe7e5385dc9d392"
+          "telegram_link": "https://t.me/manhuasgratis/6824"
         },
         {
           "channel_id": -1003003829878,
@@ -192709,8 +192507,7 @@
           "message_id": 6825,
           "name": "91",
           "size": 6318293,
-          "telegram_link": "https://t.me/manhuasgratis/6825",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6825_%5B%2391%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004743Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c08f561089c463d65e6e0d7dde7b4c78c17672089cc6b9d961b40a4521850b11"
+          "telegram_link": "https://t.me/manhuasgratis/6825"
         },
         {
           "channel_id": -1003003829878,
@@ -192725,8 +192522,7 @@
           "message_id": 6826,
           "name": "92",
           "size": 6737299,
-          "telegram_link": "https://t.me/manhuasgratis/6826",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6826_%5B%2392%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004750Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b1fac5b80eb9fe2c97b0cc437d7bf7ee2b53d8fda1289e5084e596de04b8774d"
+          "telegram_link": "https://t.me/manhuasgratis/6826"
         },
         {
           "channel_id": -1003003829878,
@@ -192741,8 +192537,7 @@
           "message_id": 6827,
           "name": "93",
           "size": 8484423,
-          "telegram_link": "https://t.me/manhuasgratis/6827",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6827_%5B%2393%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004759Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c92d0666854a68baf48bfbf4dd58c75953c1b25f8dff814d2c797daa813471cd"
+          "telegram_link": "https://t.me/manhuasgratis/6827"
         },
         {
           "channel_id": -1003003829878,
@@ -192757,8 +192552,7 @@
           "message_id": 6828,
           "name": "94",
           "size": 6906848,
-          "telegram_link": "https://t.me/manhuasgratis/6828",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6828_%5B%2394%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004807Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80af177c0db4f835e6dab50d0430a879eb1b0ab1e23443b50c7bd9c852496742"
+          "telegram_link": "https://t.me/manhuasgratis/6828"
         },
         {
           "channel_id": -1003003829878,
@@ -192773,8 +192567,7 @@
           "message_id": 6829,
           "name": "95",
           "size": 6693193,
-          "telegram_link": "https://t.me/manhuasgratis/6829",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6829_%5B%2395%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004815Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c069fe645ca3f1c32abb569b7a9d7a038d4e11f9052ebaf2fe0193dde1d6a52"
+          "telegram_link": "https://t.me/manhuasgratis/6829"
         },
         {
           "channel_id": -1003003829878,
@@ -192789,8 +192582,7 @@
           "message_id": 6830,
           "name": "96",
           "size": 7478577,
-          "telegram_link": "https://t.me/manhuasgratis/6830",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6830_%5B%2396%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004826Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3ea1eb242b4b61a19f5ba5ad4bacae61a1b59a316aaf3d260da211ef566325a1"
+          "telegram_link": "https://t.me/manhuasgratis/6830"
         },
         {
           "channel_id": -1003003829878,
@@ -192805,8 +192597,7 @@
           "message_id": 6831,
           "name": "97",
           "size": 6440278,
-          "telegram_link": "https://t.me/manhuasgratis/6831",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6831_%5B%2397%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004833Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd3ac1bef014eb020a196bf173ab1fe4e3480855768c65e85bf070180965ff05"
+          "telegram_link": "https://t.me/manhuasgratis/6831"
         },
         {
           "channel_id": -1003003829878,
@@ -192821,8 +192612,7 @@
           "message_id": 6832,
           "name": "98",
           "size": 7235983,
-          "telegram_link": "https://t.me/manhuasgratis/6832",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6832_%5B%2398%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004842Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=053295ec73ce96f284852a3addd0e5d365346ffbd10ba1e12b2313ed3250d626"
+          "telegram_link": "https://t.me/manhuasgratis/6832"
         },
         {
           "channel_id": -1003003829878,
@@ -192837,8 +192627,7 @@
           "message_id": 6833,
           "name": "99",
           "size": 9180827,
-          "telegram_link": "https://t.me/manhuasgratis/6833",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6833_%5B%2399%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004851Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b23f8af55c57852ed3c70b3508bab524242f50e23ca6e12525e367514ad8785b"
+          "telegram_link": "https://t.me/manhuasgratis/6833"
         },
         {
           "channel_id": -1003003829878,
@@ -192853,8 +192642,7 @@
           "message_id": 6834,
           "name": "100",
           "size": 8424922,
-          "telegram_link": "https://t.me/manhuasgratis/6834",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6834_%5B%23100%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004900Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d0d29910f65c553828b1bfa35427d7b7d8c4adb1f68597209c3aea6e9e6aa012"
+          "telegram_link": "https://t.me/manhuasgratis/6834"
         },
         {
           "channel_id": -1003003829878,
@@ -192869,8 +192657,7 @@
           "message_id": 6835,
           "name": "101",
           "size": 8245629,
-          "telegram_link": "https://t.me/manhuasgratis/6835",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6835_%5B%23101%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004908Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=380872e1a69e42d7e5f16f79b1340cd03de2f2dfeae271542b066a79e407582f"
+          "telegram_link": "https://t.me/manhuasgratis/6835"
         },
         {
           "channel_id": -1003003829878,
@@ -192885,8 +192672,7 @@
           "message_id": 6836,
           "name": "102",
           "size": 7023611,
-          "telegram_link": "https://t.me/manhuasgratis/6836",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6836_%5B%23102%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004917Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b1af2a212bef7efd6bc3d1313d6c8b3099ca66b6b11c5bec15c3fb7f9018579f"
+          "telegram_link": "https://t.me/manhuasgratis/6836"
         },
         {
           "channel_id": -1003003829878,
@@ -192901,8 +192687,7 @@
           "message_id": 6837,
           "name": "103",
           "size": 8910408,
-          "telegram_link": "https://t.me/manhuasgratis/6837",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6837_%5B%23103%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004926Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cddd157bb3a31d2d086dd5ba6a3fdf8cb68c8865452db4b49b65dc702bd052b3"
+          "telegram_link": "https://t.me/manhuasgratis/6837"
         },
         {
           "channel_id": -1003003829878,
@@ -192917,8 +192702,7 @@
           "message_id": 6838,
           "name": "104",
           "size": 8254149,
-          "telegram_link": "https://t.me/manhuasgratis/6838",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6838_%5B%23104%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b9744164d7b1e62c0c11d999a27f5a8e716ccb2163e727ec5e4b20db005f653"
+          "telegram_link": "https://t.me/manhuasgratis/6838"
         },
         {
           "channel_id": -1003003829878,
@@ -192933,8 +192717,7 @@
           "message_id": 6839,
           "name": "105",
           "size": 8508365,
-          "telegram_link": "https://t.me/manhuasgratis/6839",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6839_%5B%23105%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004944Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=91051d24dc36d58edf85254e9fe8566f18ceb14182c7ad704bfac0f9372dee25"
+          "telegram_link": "https://t.me/manhuasgratis/6839"
         },
         {
           "channel_id": -1003003829878,
@@ -192949,14 +192732,13 @@
           "message_id": 6840,
           "name": "106",
           "size": 7189545,
-          "telegram_link": "https://t.me/manhuasgratis/6840",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/regresion_inutil/6840_%5B%23106%5D%20%E2%80%A2%20Regresi%C3%B3n%20In%C3%BAtil%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261024%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T004954Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=20e8a9ea9ae7c15d0e030987958f8b1b255a231863bd0ffa7655fa568d24985e"
+          "telegram_link": "https://t.me/manhuasgratis/6840"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Lee Sungmin, un estudiante de secundaria normal y corriente, es convocado a este mundo llamado \"Eria\".\nAguanta durante decenas de años sin talento ni poderes, y pasa por todo tipo de dificultades para sobrevivir, pero al final muere miserablemente.\nSin embargo, antes de morir, regresa al pasado tras obtener por casualidad la \"Piedra de la Vida Anterior\", y obtiene la oportunidad de empezar su vida de nuevo.\nSin embargo, sigue viviendo una vida sin ningún talento, sin tener nada. Aunque no puede acercarse a los genios que le rodean debido al \"muro\" que les rodea, además de sentirse inferior, avanza paso a paso con firme determinación, sin rendirse nunca. \"Pase lo que pase, ¡voy a vivir una vida mejor que la anterior aunque tenga que luchar!\".",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-23T02:39:37+00:00",
@@ -247241,6 +247023,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-24T00:00:05.721438+00:00",
+  "updated_at": "2026-10-24T01:01:31.833600+00:00",
   "version": 3
 }
