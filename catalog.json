@@ -2,6 +2,83 @@
   "announcements": [],
   "novels": [
     {
+      "added_at": "2026-10-26T14:51:10+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/covernovela/becoming_a_spanish_magnate_using_my_chemistry_knowledge.jpg",
+      "cover_message_id": 369,
+      "cover_telegram_link": "https://t.me/c/-1004334091126/369",
+      "featured": false,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Drama"
+      ],
+      "hashtag": "#Becoming_a_Spanish_Magnate_Using_My_Chemistry_Knowledge",
+      "id": "becoming_a_spanish_magnate_using_my_chemistry_knowledge",
+      "latest_chapter": 3,
+      "library_count": 0,
+      "name": "Becoming a Spanish Magnate Using My Chemistry Knowledge",
+      "package_count": 3,
+      "packages": [
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            1
+          ],
+          "date": "2026-10-26T14:51:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Becoming a Spanish Magnate - C001-100 [RNCALATION].pdf",
+          "first": 1,
+          "is_novel_volume": true,
+          "last": 1,
+          "message_id": 372,
+          "name": "Volumen 1",
+          "size": 3577118,
+          "telegram_link": "https://t.me/c/-1004334091126/372"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            2
+          ],
+          "date": "2026-10-26T14:51:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Becoming a Spanish Magnate - C101-200 [RNCALATION].pdf",
+          "first": 2,
+          "is_novel_volume": true,
+          "last": 2,
+          "message_id": 373,
+          "name": "Volumen 2",
+          "size": 3668754,
+          "telegram_link": "https://t.me/c/-1004334091126/373"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            3
+          ],
+          "date": "2026-10-26T14:51:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Becoming a Spanish Magnate - C201-291 [RNCALATION].pdf",
+          "first": 3,
+          "is_novel_volume": true,
+          "last": 3,
+          "message_id": 374,
+          "name": "Volumen 3",
+          "size": 3216475,
+          "telegram_link": "https://t.me/c/-1004334091126/374"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "En el año 1568, antes de que el eje del mal, Gran Bretaña, dominara el mundo. Poseí el cuerpo de un muchacho español.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-12T14:18:23+00:00",
       "aliases": [
         "Arifureta: From Commonplace to World's Strongest"
@@ -4146,10 +4223,10 @@
       ],
       "hashtag": "#The_Disciple_of_Lich",
       "id": "the_disciple_of_lich",
-      "latest_chapter": 7,
+      "latest_chapter": 4,
       "library_count": 1,
       "name": "The Disciple of Lich",
-      "package_count": 7,
+      "package_count": 4,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4218,57 +4295,6 @@
           "name": "Volumen 4",
           "size": 19909475,
           "telegram_link": "https://t.me/c/-1004334091126/367"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            5
-          ],
-          "date": "2026-10-26T14:51:10+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Becoming a Spanish Magnate - C001-100 [RNCALATION].pdf",
-          "first": 5,
-          "is_novel_volume": true,
-          "last": 5,
-          "message_id": 372,
-          "name": "Volumen 5",
-          "size": 3577118,
-          "telegram_link": "https://t.me/c/-1004334091126/372"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            6
-          ],
-          "date": "2026-10-26T14:51:10+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Becoming a Spanish Magnate - C101-200 [RNCALATION].pdf",
-          "first": 6,
-          "is_novel_volume": true,
-          "last": 6,
-          "message_id": 373,
-          "name": "Volumen 6",
-          "size": 3668754,
-          "telegram_link": "https://t.me/c/-1004334091126/373"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            7
-          ],
-          "date": "2026-10-26T14:51:10+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Becoming a Spanish Magnate - C201-291 [RNCALATION].pdf",
-          "first": 7,
-          "is_novel_volume": true,
-          "last": 7,
-          "message_id": 374,
-          "name": "Volumen 7",
-          "size": 3216475,
-          "telegram_link": "https://t.me/c/-1004334091126/374"
         }
       ],
       "rating": 4,
@@ -317832,6 +317858,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-26T15:02:01.758732+00:00",
+  "updated_at": "2026-10-26T15:14:12.417976+00:00",
   "version": 3
 }
