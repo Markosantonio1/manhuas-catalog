@@ -27,8 +27,8 @@
             1
           ],
           "date": "2026-10-26T14:51:10+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/becoming_a_spanish_magnate_using_my_chemistry_knowledge/372_Becoming%20a%20Spanish%20Magnate%20-%20C001-100%20%5BRNCALATION%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T163833Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=32adb25acdca297196051b154d93ce3e893011651364165d2b123c4ac2d94c46",
           "filename": "Becoming a Spanish Magnate - C001-100 [RNCALATION].pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -44,8 +44,8 @@
             2
           ],
           "date": "2026-10-26T14:51:10+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/becoming_a_spanish_magnate_using_my_chemistry_knowledge/373_Becoming%20a%20Spanish%20Magnate%20-%20C101-200%20%5BRNCALATION%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T163838Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=efb9a63bbfb7618ebb3d9d3d5f07bcf6214a8528c10e2519d0f8d50f7c551173",
           "filename": "Becoming a Spanish Magnate - C101-200 [RNCALATION].pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -61,8 +61,8 @@
             3
           ],
           "date": "2026-10-26T14:51:10+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/becoming_a_spanish_magnate_using_my_chemistry_knowledge/374_Becoming%20a%20Spanish%20Magnate%20-%20C201-291%20%5BRNCALATION%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T163843Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ff605a2639d59cb94b2d06c45d82048afae1759047336ab72aea046c4fda690",
           "filename": "Becoming a Spanish Magnate - C201-291 [RNCALATION].pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -76,7 +76,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "En el año 1568, antes de que el eje del mal, Gran Bretaña, dominara el mundo. Poseí el cuerpo de un muchacho español.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:18:23+00:00",
@@ -20702,7 +20702,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "El chef estrella, KangHyun, se escondió en un campo tranquilo después de perder el sentido del gusto, donde encontró un camino a otro mundo en la casa de su abuelo. Como de todos modos estaba huyendo, planeaba disfrutar de una vida relajante en el campamento, pero... ¡la gente en el otro mundo sigue interesándose en KangHyun! ¿KangHyun realmente podrá sanar al experimentar una vida lenta?",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-24T13:26:11+00:00",
@@ -116479,7 +116479,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Un mundo donde el juego y la realidad se vuelven uno. La historia de un hombre que comienza con 13 rasgos ocultos.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-23T01:21:11+00:00",
@@ -191885,7 +191885,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "El juego se combina con la realidad, las bestias feroces abundan y hay innumerables reinos secretos y mazmorras. Para resistir la invasión de bestias feroces, todos cambiarán de trabajo y mejorarán como locos. El día de su cambio de trabajo, Lu Fan se convirtió en una profesión oculta: Maestro Dragón. Pero debido a que los dragones son demasiado poderosos, es imposible que alguien los dome, por lo que el maestro Dragón se considera la profesión más inútil. Afortunadamente, despertó el sistema del súper mapa del tesoro. Cuando Lu Fan llevó a su dragón a barrer todo, el mundo entero tembló.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-21T15:54:13+00:00",
@@ -232042,7 +232042,8 @@
           "message_id": 7116,
           "name": "343",
           "size": 19595109,
-          "telegram_link": "https://t.me/manhuasgratis/7116"
+          "telegram_link": "https://t.me/manhuasgratis/7116",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/overgeared/7116_%5B%23343%5D%20%20%20Overgeared.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T163812Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2948b7295ce1cfd3d91a5ccec58ab8960e06df0ca8dfe37570d424b093d8fc04"
         },
         {
           "channel_id": -1003003829878,
@@ -232057,13 +232058,14 @@
           "message_id": 7117,
           "name": "344",
           "size": 21173926,
-          "telegram_link": "https://t.me/manhuasgratis/7117"
+          "telegram_link": "https://t.me/manhuasgratis/7117",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/overgeared/7117_%5B%23344%5D%20%20%20Overgeared.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T163827Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a56222d4605e85f0cc4928b30214ba1142a1c32105fcc16f5481a448e022d257"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Shin Youngwoo [Nombre de usuario: Greed] El mayor juego de realidad virtual del mundo; Tanto en la realidad como en el juego, la desgracia siempre le ha perseguido... Hasta que, en medio de una búsqueda, encuentra por casualidad un billete de lotería en el juego: el 'Libro Raro de Pagma'. Cambió de clase y se convirtió en la única clase legendaria que es la más fuerte entre más de 2.000 millones de usuarios.\n-\"¡¿Cómo sigues vivo...?!\"\n-\"Bueno, no es nada especial...\"",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-21T16:03:49+00:00",
