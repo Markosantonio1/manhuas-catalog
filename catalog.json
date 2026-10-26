@@ -1399,7 +1399,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1587,23 +1587,6 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30e54fcbd68063c069d58dedd85b355339adb8d7cc178fde13b4f0224bab4aba",
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4010,7 +3993,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4147,23 +4130,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fddc4b3f49705a5a32abe372628bd901cbb030cb4cb017da39465f18cb62d548",
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -226480,10 +226446,10 @@
       ],
       "hashtag": "#Odisea_en_la_Mazmorra",
       "id": "odisea_en_la_mazmorra",
-      "latest_chapter": 173,
+      "latest_chapter": 174,
       "library_count": 7,
       "name": "Odisea en la Mazmorra",
-      "package_count": 26,
+      "package_count": 27,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -227047,6 +227013,21 @@
           "name": "173",
           "size": 7754378,
           "telegram_link": "https://t.me/manhuasgratis/5721"
+        },
+        {
+          "name": "174",
+          "first": 174,
+          "last": 174,
+          "channel_id": -1003003829878,
+          "message_id": 7120,
+          "filename": "[174] Odisea en la Mazmorra.pdf",
+          "size": 10911802,
+          "date": "2026-10-26T20:18:22+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7120",
+          "download_ready": false,
+          "chapters": [
+            174
+          ]
         }
       ],
       "rating": 0,
@@ -318030,6 +318011,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-26T15:14:12.417976+00:00",
+  "updated_at": "2026-10-26T20:20:37.289935+00:00",
   "version": 3
 }
