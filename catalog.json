@@ -4146,10 +4146,10 @@
       ],
       "hashtag": "#The_Disciple_of_Lich",
       "id": "the_disciple_of_lich",
-      "latest_chapter": 4,
+      "latest_chapter": 7,
       "library_count": 1,
       "name": "The Disciple of Lich",
-      "package_count": 4,
+      "package_count": 7,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4218,6 +4218,57 @@
           "name": "Volumen 4",
           "size": 19909475,
           "telegram_link": "https://t.me/c/-1004334091126/367"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            5
+          ],
+          "date": "2026-10-26T14:51:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Becoming a Spanish Magnate - C001-100 [RNCALATION].pdf",
+          "first": 5,
+          "is_novel_volume": true,
+          "last": 5,
+          "message_id": 372,
+          "name": "Volumen 5",
+          "size": 3577118,
+          "telegram_link": "https://t.me/c/-1004334091126/372"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            6
+          ],
+          "date": "2026-10-26T14:51:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Becoming a Spanish Magnate - C101-200 [RNCALATION].pdf",
+          "first": 6,
+          "is_novel_volume": true,
+          "last": 6,
+          "message_id": 373,
+          "name": "Volumen 6",
+          "size": 3668754,
+          "telegram_link": "https://t.me/c/-1004334091126/373"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            7
+          ],
+          "date": "2026-10-26T14:51:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Becoming a Spanish Magnate - C201-291 [RNCALATION].pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 374,
+          "name": "Volumen 7",
+          "size": 3216475,
+          "telegram_link": "https://t.me/c/-1004334091126/374"
         }
       ],
       "rating": 4,
@@ -19837,6 +19888,752 @@
       "rating_count": 0,
       "synopsis": "Cheon Seo-woo', que mata personas a pedido. Ese día también, justo cuando estaban a punto de retirarse del área de trabajo donde habían matado al objetivo, recogieron al hombre 'Jihan' con quien el objetivo había estado jugando.07/07 Sin censura",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-26T14:44:21+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/acampando_en_otro_mundo_buscandole_el_sazon_a_la_vida.jpg",
+      "cover_message_id": 2108,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2108",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Isekai",
+        "Comedia",
+        "Recuerdos de la vida"
+      ],
+      "hashtag": "#Acampando_En_Otro_Mundo_Buscandole_El_Sazon_A_La_Vida",
+      "id": "acampando_en_otro_mundo_buscandole_el_sazon_a_la_vida",
+      "latest_chapter": 118,
+      "library_count": 0,
+      "name": "Acampando En Otro Mundo Buscandole El Sazon A La Vida",
+      "package_count": 43,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Acampando En Otro Mundo.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 7037,
+          "name": "1-10",
+          "size": 78580136,
+          "telegram_link": "https://t.me/manhuasgratis/7037"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Acampando En Otro Mundo.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 7038,
+          "name": "11-20",
+          "size": 76981439,
+          "telegram_link": "https://t.me/manhuasgratis/7038"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   Acampando En Otro Mundo.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 7039,
+          "name": "21-30",
+          "size": 74173020,
+          "telegram_link": "https://t.me/manhuasgratis/7039"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#31-40]   Acampando En Otro Mundo.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 7040,
+          "name": "31-40",
+          "size": 71075871,
+          "telegram_link": "https://t.me/manhuasgratis/7040"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#41-50]   Acampando En Otro Mundo.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 7041,
+          "name": "41-50",
+          "size": 73620515,
+          "telegram_link": "https://t.me/manhuasgratis/7041"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#51-60]   Acampando En Otro Mundo.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 7042,
+          "name": "51-60",
+          "size": 75112583,
+          "telegram_link": "https://t.me/manhuasgratis/7042"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#61-70]   Acampando En Otro Mundo.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 7043,
+          "name": "61-70",
+          "size": 72800767,
+          "telegram_link": "https://t.me/manhuasgratis/7043"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#71-77]   Acampando En Otro Mundo.pdf",
+          "first": 71,
+          "last": 77,
+          "message_id": 7044,
+          "name": "71-77",
+          "size": 46776826,
+          "telegram_link": "https://t.me/manhuasgratis/7044"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            78
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#78]   Acampando En Otro Mundo.pdf",
+          "first": 78,
+          "last": 78,
+          "message_id": 7045,
+          "name": "78",
+          "size": 6732946,
+          "telegram_link": "https://t.me/manhuasgratis/7045"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            79
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#79]   Acampando En Otro Mundo.pdf",
+          "first": 79,
+          "last": 79,
+          "message_id": 7046,
+          "name": "79",
+          "size": 8282159,
+          "telegram_link": "https://t.me/manhuasgratis/7046"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            80
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#80]   Acampando En Otro Mundo.pdf",
+          "first": 80,
+          "last": 80,
+          "message_id": 7047,
+          "name": "80",
+          "size": 8432442,
+          "telegram_link": "https://t.me/manhuasgratis/7047"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#81]   Acampando En Otro Mundo.pdf",
+          "first": 81,
+          "last": 81,
+          "message_id": 7048,
+          "name": "81",
+          "size": 8085607,
+          "telegram_link": "https://t.me/manhuasgratis/7048"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            82
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#82]   Acampando En Otro Mundo.pdf",
+          "first": 82,
+          "last": 82,
+          "message_id": 7049,
+          "name": "82",
+          "size": 7746796,
+          "telegram_link": "https://t.me/manhuasgratis/7049"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            83
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#83]   Acampando En Otro Mundo.pdf",
+          "first": 83,
+          "last": 83,
+          "message_id": 7050,
+          "name": "83",
+          "size": 6841008,
+          "telegram_link": "https://t.me/manhuasgratis/7050"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            84
+          ],
+          "date": "2026-10-26T14:44:21+00:00",
+          "download_ready": true,
+          "filename": "[#84]   Acampando En Otro Mundo.pdf",
+          "first": 84,
+          "last": 84,
+          "message_id": 7051,
+          "name": "84",
+          "size": 7288249,
+          "telegram_link": "https://t.me/manhuasgratis/7051"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            85,
+            86
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#85-86]   Acampando En Otro Mundo.pdf",
+          "first": 85,
+          "last": 86,
+          "message_id": 7052,
+          "name": "85-86",
+          "size": 14349815,
+          "telegram_link": "https://t.me/manhuasgratis/7052"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            87,
+            88
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#87-88]   Acampando En Otro Mundo.pdf",
+          "first": 87,
+          "last": 88,
+          "message_id": 7053,
+          "name": "87-88",
+          "size": 12728782,
+          "telegram_link": "https://t.me/manhuasgratis/7053"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            89
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#89]   Acampando En Otro Mundo.pdf",
+          "first": 89,
+          "last": 89,
+          "message_id": 7054,
+          "name": "89",
+          "size": 7004457,
+          "telegram_link": "https://t.me/manhuasgratis/7054"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            90
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#90]   Acampando en otro Mundo.pdf",
+          "first": 90,
+          "last": 90,
+          "message_id": 7055,
+          "name": "90",
+          "size": 7677735,
+          "telegram_link": "https://t.me/manhuasgratis/7055"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#91]   Acampando en otro Mundo.pdf",
+          "first": 91,
+          "last": 91,
+          "message_id": 7056,
+          "name": "91",
+          "size": 16871103,
+          "telegram_link": "https://t.me/manhuasgratis/7056"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            92
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#92]   Acampando en otro Mundo.pdf",
+          "first": 92,
+          "last": 92,
+          "message_id": 7057,
+          "name": "92",
+          "size": 8030727,
+          "telegram_link": "https://t.me/manhuasgratis/7057"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            93
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#93]   Acampando en otro Mundo.pdf",
+          "first": 93,
+          "last": 93,
+          "message_id": 7058,
+          "name": "93",
+          "size": 7623395,
+          "telegram_link": "https://t.me/manhuasgratis/7058"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            94
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#94]   Acampando en Otro Mundo.pdf",
+          "first": 94,
+          "last": 94,
+          "message_id": 7059,
+          "name": "94",
+          "size": 9825909,
+          "telegram_link": "https://t.me/manhuasgratis/7059"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            95
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#95]   Acampando En Otro Mundo.pdf",
+          "first": 95,
+          "last": 95,
+          "message_id": 7060,
+          "name": "95",
+          "size": 12944659,
+          "telegram_link": "https://t.me/manhuasgratis/7060"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            96
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#96]   Acampando En Otro Mundo.pdf",
+          "first": 96,
+          "last": 96,
+          "message_id": 7061,
+          "name": "96",
+          "size": 9707296,
+          "telegram_link": "https://t.me/manhuasgratis/7061"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            97
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#97]   Acampando En Otro Mundo.pdf",
+          "first": 97,
+          "last": 97,
+          "message_id": 7062,
+          "name": "97",
+          "size": 11359048,
+          "telegram_link": "https://t.me/manhuasgratis/7062"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            98
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#98]   Acampando En Otro Mundo.pdf",
+          "first": 98,
+          "last": 98,
+          "message_id": 7063,
+          "name": "98",
+          "size": 7479427,
+          "telegram_link": "https://t.me/manhuasgratis/7063"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            99
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#99]   Acampando En Otro Mundo.pdf",
+          "first": 99,
+          "last": 99,
+          "message_id": 7064,
+          "name": "99",
+          "size": 9773327,
+          "telegram_link": "https://t.me/manhuasgratis/7064"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            100
+          ],
+          "date": "2026-10-26T14:44:22+00:00",
+          "download_ready": true,
+          "filename": "[#100]   Acampando En Otro Mundo.pdf",
+          "first": 100,
+          "last": 100,
+          "message_id": 7065,
+          "name": "100",
+          "size": 9940790,
+          "telegram_link": "https://t.me/manhuasgratis/7065"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#101]   Acampando En Otro Mundo.pdf",
+          "first": 101,
+          "last": 101,
+          "message_id": 7066,
+          "name": "101",
+          "size": 9005110,
+          "telegram_link": "https://t.me/manhuasgratis/7066"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            102
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#102]   Acampando En Otro Mundo.pdf",
+          "first": 102,
+          "last": 102,
+          "message_id": 7067,
+          "name": "102",
+          "size": 9251998,
+          "telegram_link": "https://t.me/manhuasgratis/7067"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            103
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#103]   Acampando En Otro Mundo.pdf",
+          "first": 103,
+          "last": 103,
+          "message_id": 7068,
+          "name": "103",
+          "size": 8730152,
+          "telegram_link": "https://t.me/manhuasgratis/7068"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            104
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#104]   Acampando En Otro Mundo.pdf",
+          "first": 104,
+          "last": 104,
+          "message_id": 7069,
+          "name": "104",
+          "size": 8908543,
+          "telegram_link": "https://t.me/manhuasgratis/7069"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            105
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#105]   Acampando En Otro Mundo.pdf",
+          "first": 105,
+          "last": 105,
+          "message_id": 7070,
+          "name": "105",
+          "size": 7974673,
+          "telegram_link": "https://t.me/manhuasgratis/7070"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            106
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#106]   Acampando En Otro Mundo.pdf",
+          "first": 106,
+          "last": 106,
+          "message_id": 7071,
+          "name": "106",
+          "size": 9540572,
+          "telegram_link": "https://t.me/manhuasgratis/7071"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            107
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#107]   Acampando En Otro Mundo.pdf",
+          "first": 107,
+          "last": 107,
+          "message_id": 7072,
+          "name": "107",
+          "size": 8269308,
+          "telegram_link": "https://t.me/manhuasgratis/7072"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            108
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#108-108.5]   Acampando En Otro Mundo.pdf",
+          "first": 108,
+          "last": 108,
+          "message_id": 7073,
+          "name": "108",
+          "size": 9083133,
+          "telegram_link": "https://t.me/manhuasgratis/7073"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            109,
+            110
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#109-110]   Acampando En Otro Mundo.pdf",
+          "first": 109,
+          "last": 110,
+          "message_id": 7074,
+          "name": "109-110",
+          "size": 17900086,
+          "telegram_link": "https://t.me/manhuasgratis/7074"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#111-112]   Acampando En Otro Mundo.pdf",
+          "first": 111,
+          "last": 112,
+          "message_id": 7075,
+          "name": "111-112",
+          "size": 19198562,
+          "telegram_link": "https://t.me/manhuasgratis/7075"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            113,
+            114,
+            115
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#113-115]   Acampando En Otro Mundo.pdf",
+          "first": 113,
+          "last": 115,
+          "message_id": 7076,
+          "name": "113-115",
+          "size": 23893332,
+          "telegram_link": "https://t.me/manhuasgratis/7076"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            116
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#116]   Acampando En Otro Mundo.pdf",
+          "first": 116,
+          "last": 116,
+          "message_id": 7077,
+          "name": "116",
+          "size": 8354699,
+          "telegram_link": "https://t.me/manhuasgratis/7077"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            117
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#117]   Acampando En Otro Mundo.pdf",
+          "first": 117,
+          "last": 117,
+          "message_id": 7078,
+          "name": "117",
+          "size": 8752993,
+          "telegram_link": "https://t.me/manhuasgratis/7078"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            118
+          ],
+          "date": "2026-10-26T14:44:23+00:00",
+          "download_ready": true,
+          "filename": "[#118]   Acampando En Otro Mundo.pdf",
+          "first": 118,
+          "last": 118,
+          "message_id": 7079,
+          "name": "118",
+          "size": 13976291,
+          "telegram_link": "https://t.me/manhuasgratis/7079"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "El chef estrella, KangHyun, se escondió en un campo tranquilo después de perder el sentido del gusto, donde encontró un camino a otro mundo en la casa de su abuelo. Como de todos modos estaba huyendo, planeaba disfrutar de una vida relajante en el campamento, pero... ¡la gente en el otro mundo sigue interesándose en KangHyun! ¿KangHyun realmente podrá sanar al experimentar una vida lenta?",
+      "visible": false
     },
     {
       "added_at": "2026-10-24T13:26:11+00:00",
@@ -115044,6 +115841,545 @@
       "visible": true
     },
     {
+      "added_at": "2026-10-26T14:40:20+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/empiezo_con_13_rasgos_ocultos.jpg",
+      "cover_message_id": 2106,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2106",
+      "genres": [
+        "Artes_Marciales",
+        "Isekai",
+        "Acción",
+        "Aventura"
+      ],
+      "hashtag": "#Empiezo_Con_13_Rasgos_Ocultos",
+      "id": "empiezo_con_13_rasgos_ocultos",
+      "latest_chapter": 52,
+      "library_count": 0,
+      "name": "Empiezo Con 13 Rasgos Ocultos",
+      "package_count": 33,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-26T14:40:20+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 7003,
+          "name": "1-10",
+          "size": 159975483,
+          "telegram_link": "https://t.me/manhuasgratis/7003"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-26T14:40:20+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 7004,
+          "name": "11-20",
+          "size": 144243880,
+          "telegram_link": "https://t.me/manhuasgratis/7004"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21
+          ],
+          "date": "2026-10-26T14:40:20+00:00",
+          "download_ready": true,
+          "filename": "[#21]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 21,
+          "last": 21,
+          "message_id": 7005,
+          "name": "21",
+          "size": 15029590,
+          "telegram_link": "https://t.me/manhuasgratis/7005"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            22
+          ],
+          "date": "2026-10-26T14:40:20+00:00",
+          "download_ready": true,
+          "filename": "[#22]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 22,
+          "last": 22,
+          "message_id": 7006,
+          "name": "22",
+          "size": 14342787,
+          "telegram_link": "https://t.me/manhuasgratis/7006"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            23
+          ],
+          "date": "2026-10-26T14:40:20+00:00",
+          "download_ready": true,
+          "filename": "[#23]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 23,
+          "last": 23,
+          "message_id": 7007,
+          "name": "23",
+          "size": 13468698,
+          "telegram_link": "https://t.me/manhuasgratis/7007"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            24
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#24]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 24,
+          "last": 24,
+          "message_id": 7008,
+          "name": "24",
+          "size": 11525649,
+          "telegram_link": "https://t.me/manhuasgratis/7008"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            25
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#25]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 25,
+          "last": 25,
+          "message_id": 7009,
+          "name": "25",
+          "size": 13296203,
+          "telegram_link": "https://t.me/manhuasgratis/7009"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            26
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#26]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 7010,
+          "name": "26",
+          "size": 14479234,
+          "telegram_link": "https://t.me/manhuasgratis/7010"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            27
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#27]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 27,
+          "last": 27,
+          "message_id": 7011,
+          "name": "27",
+          "size": 14727470,
+          "telegram_link": "https://t.me/manhuasgratis/7011"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            28
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#28]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 7012,
+          "name": "28",
+          "size": 14363912,
+          "telegram_link": "https://t.me/manhuasgratis/7012"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29,
+            30
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#29-30]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 29,
+          "last": 30,
+          "message_id": 7013,
+          "name": "29-30",
+          "size": 23382459,
+          "telegram_link": "https://t.me/manhuasgratis/7013"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#31]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 31,
+          "last": 31,
+          "message_id": 7014,
+          "name": "31",
+          "size": 14510206,
+          "telegram_link": "https://t.me/manhuasgratis/7014"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            32
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#32]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 32,
+          "last": 32,
+          "message_id": 7015,
+          "name": "32",
+          "size": 12531832,
+          "telegram_link": "https://t.me/manhuasgratis/7015"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            33
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#33]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 33,
+          "last": 33,
+          "message_id": 7016,
+          "name": "33",
+          "size": 12191721,
+          "telegram_link": "https://t.me/manhuasgratis/7016"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            34
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#34]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 34,
+          "last": 34,
+          "message_id": 7017,
+          "name": "34",
+          "size": 12549491,
+          "telegram_link": "https://t.me/manhuasgratis/7017"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            35
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#35]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 35,
+          "last": 35,
+          "message_id": 7018,
+          "name": "35",
+          "size": 13665810,
+          "telegram_link": "https://t.me/manhuasgratis/7018"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            36
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#36]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 36,
+          "last": 36,
+          "message_id": 7019,
+          "name": "36",
+          "size": 12191152,
+          "telegram_link": "https://t.me/manhuasgratis/7019"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            37
+          ],
+          "date": "2026-10-26T14:40:21+00:00",
+          "download_ready": true,
+          "filename": "[#37]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 37,
+          "last": 37,
+          "message_id": 7020,
+          "name": "37",
+          "size": 11163238,
+          "telegram_link": "https://t.me/manhuasgratis/7020"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            38
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#38]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 38,
+          "last": 38,
+          "message_id": 7021,
+          "name": "38",
+          "size": 13669721,
+          "telegram_link": "https://t.me/manhuasgratis/7021"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            39
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#39]   Empiezo con 13 Rasgos Ocultos.pdf",
+          "first": 39,
+          "last": 39,
+          "message_id": 7022,
+          "name": "39",
+          "size": 11242165,
+          "telegram_link": "https://t.me/manhuasgratis/7022"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            40
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#40]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 40,
+          "last": 40,
+          "message_id": 7023,
+          "name": "40",
+          "size": 12563073,
+          "telegram_link": "https://t.me/manhuasgratis/7023"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#41]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 41,
+          "last": 41,
+          "message_id": 7024,
+          "name": "41",
+          "size": 10888015,
+          "telegram_link": "https://t.me/manhuasgratis/7024"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            42
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#42]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 42,
+          "last": 42,
+          "message_id": 7025,
+          "name": "42",
+          "size": 14348923,
+          "telegram_link": "https://t.me/manhuasgratis/7025"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            43
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#43]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 7026,
+          "name": "43",
+          "size": 11622132,
+          "telegram_link": "https://t.me/manhuasgratis/7026"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            44
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#44]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 44,
+          "last": 44,
+          "message_id": 7027,
+          "name": "44",
+          "size": 14000111,
+          "telegram_link": "https://t.me/manhuasgratis/7027"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            45
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#45]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 45,
+          "last": 45,
+          "message_id": 7028,
+          "name": "45",
+          "size": 12410926,
+          "telegram_link": "https://t.me/manhuasgratis/7028"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            46
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#46]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 46,
+          "last": 46,
+          "message_id": 7029,
+          "name": "46",
+          "size": 12286507,
+          "telegram_link": "https://t.me/manhuasgratis/7029"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            47
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#47]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 47,
+          "last": 47,
+          "message_id": 7030,
+          "name": "47",
+          "size": 11151983,
+          "telegram_link": "https://t.me/manhuasgratis/7030"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            48
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#48]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 48,
+          "last": 48,
+          "message_id": 7031,
+          "name": "48",
+          "size": 12679552,
+          "telegram_link": "https://t.me/manhuasgratis/7031"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            49
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#49]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 49,
+          "last": 49,
+          "message_id": 7032,
+          "name": "49",
+          "size": 13105927,
+          "telegram_link": "https://t.me/manhuasgratis/7032"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            50
+          ],
+          "date": "2026-10-26T14:40:22+00:00",
+          "download_ready": true,
+          "filename": "[#50]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 50,
+          "last": 50,
+          "message_id": 7033,
+          "name": "50",
+          "size": 13403711,
+          "telegram_link": "https://t.me/manhuasgratis/7033"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51
+          ],
+          "date": "2026-10-26T14:40:23+00:00",
+          "download_ready": true,
+          "filename": "[#51]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 7034,
+          "name": "51",
+          "size": 20549268,
+          "telegram_link": "https://t.me/manhuasgratis/7034"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            52
+          ],
+          "date": "2026-10-26T14:40:23+00:00",
+          "download_ready": true,
+          "filename": "[#52]   Empiezo Con 13 Rasgos Ocultos.pdf",
+          "first": 52,
+          "last": 52,
+          "message_id": 7035,
+          "name": "52",
+          "size": 18469299,
+          "telegram_link": "https://t.me/manhuasgratis/7035"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Un mundo donde el juego y la realidad se vuelven uno. La historia de un hombre que comienza con 13 rasgos ocultos.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-23T01:21:11+00:00",
       "aliases": [
         "In This Life I Must Be Snow White"
@@ -189176,6 +190512,1221 @@
       "visible": true
     },
     {
+      "added_at": "2026-08-14T02:26:30+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/maestro_dragon_la_profesion_mas_inutil.jpg",
+      "cover_message_id": 2104,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2104",
+      "genres": [
+        "Apocalipsis",
+        "Drama",
+        "Magia",
+        "Fantasía",
+        "Acción",
+        "Aventura"
+      ],
+      "hashtag": "#Maestro_Dragón_la_Profesión_más_Inútil",
+      "id": "maestro_dragon_la_profesion_mas_inutil",
+      "latest_chapter": 272,
+      "library_count": 0,
+      "name": "Maestro Dragón la Profesión más Inútil",
+      "package_count": 59,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 6952,
+          "name": "1-10",
+          "size": 77984004,
+          "telegram_link": "https://t.me/manhuasgratis/6952"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 6953,
+          "name": "11-20",
+          "size": 69177020,
+          "telegram_link": "https://t.me/manhuasgratis/6953"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 6954,
+          "name": "21-30",
+          "size": 71580086,
+          "telegram_link": "https://t.me/manhuasgratis/6954"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#31-40]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 6955,
+          "name": "31-40",
+          "size": 82664440,
+          "telegram_link": "https://t.me/manhuasgratis/6955"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#41-50]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 6956,
+          "name": "41-50",
+          "size": 146046055,
+          "telegram_link": "https://t.me/manhuasgratis/6956"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#51-60]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 6957,
+          "name": "51-60",
+          "size": 66646140,
+          "telegram_link": "https://t.me/manhuasgratis/6957"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#61-70]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 6958,
+          "name": "61-70",
+          "size": 88199491,
+          "telegram_link": "https://t.me/manhuasgratis/6958"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#71-80]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 6959,
+          "name": "71-80",
+          "size": 110605557,
+          "telegram_link": "https://t.me/manhuasgratis/6959"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#81-90]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 6960,
+          "name": "81-90",
+          "size": 115835517,
+          "telegram_link": "https://t.me/manhuasgratis/6960"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-26T14:34:35+00:00",
+          "download_ready": true,
+          "filename": "[#91-100]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 6961,
+          "name": "91-100",
+          "size": 96912014,
+          "telegram_link": "https://t.me/manhuasgratis/6961"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "101_110 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 1103,
+          "name": "101-110",
+          "size": 70554656,
+          "telegram_link": "https://t.me/manhuasgratis/1103"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "111_120 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 1104,
+          "name": "111-120",
+          "size": 67377812,
+          "telegram_link": "https://t.me/manhuasgratis/1104"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "121_130 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 1105,
+          "name": "121-130",
+          "size": 65305180,
+          "telegram_link": "https://t.me/manhuasgratis/1105"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "131_140 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 1106,
+          "name": "131-140",
+          "size": 68521580,
+          "telegram_link": "https://t.me/manhuasgratis/1106"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#141-143]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 141,
+          "last": 143,
+          "message_id": 6966,
+          "name": "141-143",
+          "size": 19976122,
+          "telegram_link": "https://t.me/manhuasgratis/6966"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "141_150 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 1107,
+          "name": "141-150",
+          "size": 60010976,
+          "telegram_link": "https://t.me/manhuasgratis/1107"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            144,
+            145,
+            146
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#144-146]   Maestro Dragón la Profesión más Inútil.pdf",
+          "first": 144,
+          "last": 146,
+          "message_id": 6967,
+          "name": "144-146",
+          "size": 16604021,
+          "telegram_link": "https://t.me/manhuasgratis/6967"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#147-150]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 147,
+          "last": 150,
+          "message_id": 6968,
+          "name": "147-150",
+          "size": 23507153,
+          "telegram_link": "https://t.me/manhuasgratis/6968"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#151-153]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 151,
+          "last": 153,
+          "message_id": 6969,
+          "name": "151-153",
+          "size": 17323485,
+          "telegram_link": "https://t.me/manhuasgratis/6969"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "151_160 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 1108,
+          "name": "151-160",
+          "size": 63817415,
+          "telegram_link": "https://t.me/manhuasgratis/1108"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#154-160]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 154,
+          "last": 160,
+          "message_id": 6970,
+          "name": "154-160",
+          "size": 40519018,
+          "telegram_link": "https://t.me/manhuasgratis/6970"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#161]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 161,
+          "last": 161,
+          "message_id": 6971,
+          "name": "161",
+          "size": 6970179,
+          "telegram_link": "https://t.me/manhuasgratis/6971"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "161_170 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 1109,
+          "name": "161-170",
+          "size": 69922333,
+          "telegram_link": "https://t.me/manhuasgratis/1109"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            162,
+            163
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#162-163]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 162,
+          "last": 163,
+          "message_id": 6972,
+          "name": "162-163",
+          "size": 13759955,
+          "telegram_link": "https://t.me/manhuasgratis/6972"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            164
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#164]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 164,
+          "last": 164,
+          "message_id": 6973,
+          "name": "164",
+          "size": 6742208,
+          "telegram_link": "https://t.me/manhuasgratis/6973"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#165-170]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 165,
+          "last": 170,
+          "message_id": 6974,
+          "name": "165-170",
+          "size": 48185009,
+          "telegram_link": "https://t.me/manhuasgratis/6974"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177
+          ],
+          "date": "2026-10-26T14:34:36+00:00",
+          "download_ready": true,
+          "filename": "[#171-177]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 171,
+          "last": 177,
+          "message_id": 6975,
+          "name": "171-177",
+          "size": 43219748,
+          "telegram_link": "https://t.me/manhuasgratis/6975"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "171_180 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 1110,
+          "name": "171-180",
+          "size": 67745318,
+          "telegram_link": "https://t.me/manhuasgratis/1110"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            178,
+            179,
+            180
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#178-180]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 178,
+          "last": 180,
+          "message_id": 6976,
+          "name": "178-180",
+          "size": 27054785,
+          "telegram_link": "https://t.me/manhuasgratis/6976"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#181-185]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 181,
+          "last": 185,
+          "message_id": 6977,
+          "name": "181-185",
+          "size": 33070924,
+          "telegram_link": "https://t.me/manhuasgratis/6977"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "181_190 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 1111,
+          "name": "181-190",
+          "size": 66653538,
+          "telegram_link": "https://t.me/manhuasgratis/1111"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#186-190]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 186,
+          "last": 190,
+          "message_id": 6978,
+          "name": "186-190",
+          "size": 59970955,
+          "telegram_link": "https://t.me/manhuasgratis/6978"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#191-197]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 191,
+          "last": 197,
+          "message_id": 6979,
+          "name": "191-197",
+          "size": 83903245,
+          "telegram_link": "https://t.me/manhuasgratis/6979"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "191_200 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 1112,
+          "name": "191-200",
+          "size": 69621194,
+          "telegram_link": "https://t.me/manhuasgratis/1112"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            198,
+            199,
+            200
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#198-200]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 198,
+          "last": 200,
+          "message_id": 6980,
+          "name": "198-200",
+          "size": 38684936,
+          "telegram_link": "https://t.me/manhuasgratis/6980"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "201_210 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 1113,
+          "name": "201-210",
+          "size": 65771274,
+          "telegram_link": "https://t.me/manhuasgratis/1113"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#211-218]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 211,
+          "last": 218,
+          "message_id": 6982,
+          "name": "211-218",
+          "size": 47418926,
+          "telegram_link": "https://t.me/manhuasgratis/6982"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "211_220 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 1114,
+          "name": "211-220",
+          "size": 64859597,
+          "telegram_link": "https://t.me/manhuasgratis/1114"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            219,
+            220
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#219-220]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 219,
+          "last": 220,
+          "message_id": 6983,
+          "name": "219-220",
+          "size": 25980952,
+          "telegram_link": "https://t.me/manhuasgratis/6983"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#221]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 221,
+          "last": 221,
+          "message_id": 6984,
+          "name": "221",
+          "size": 14763915,
+          "telegram_link": "https://t.me/manhuasgratis/6984"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "221_230 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 1115,
+          "name": "221-230",
+          "size": 84917743,
+          "telegram_link": "https://t.me/manhuasgratis/1115"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#222-230]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 222,
+          "last": 230,
+          "message_id": 6985,
+          "name": "222-230",
+          "size": 115260341,
+          "telegram_link": "https://t.me/manhuasgratis/6985"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#231-234]   Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 231,
+          "last": 234,
+          "message_id": 6986,
+          "name": "231-234",
+          "size": 59115011,
+          "telegram_link": "https://t.me/manhuasgratis/6986"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-08-14T02:26:30+00:00",
+          "download_ready": true,
+          "filename": "231_240 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 1116,
+          "name": "231-240",
+          "size": 86092651,
+          "telegram_link": "https://t.me/manhuasgratis/1116"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            235,
+            236,
+            237,
+            238
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#235-238]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 235,
+          "last": 238,
+          "message_id": 6987,
+          "name": "235-238",
+          "size": 50088835,
+          "telegram_link": "https://t.me/manhuasgratis/6987"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            239,
+            240
+          ],
+          "date": "2026-10-26T14:34:37+00:00",
+          "download_ready": true,
+          "filename": "[#239-240]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 239,
+          "last": 240,
+          "message_id": 6988,
+          "name": "239-240",
+          "size": 16275331,
+          "telegram_link": "https://t.me/manhuasgratis/6988"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244
+          ],
+          "date": "2026-08-14T02:26:31+00:00",
+          "download_ready": true,
+          "filename": "241_244 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 241,
+          "last": 244,
+          "message_id": 1117,
+          "name": "241-244",
+          "size": 33980511,
+          "telegram_link": "https://t.me/manhuasgratis/1117"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            245,
+            246
+          ],
+          "date": "2026-08-14T02:26:31+00:00",
+          "download_ready": true,
+          "filename": "245_246 Maestro Dragón La Profesión más Inútil.pdf",
+          "first": 245,
+          "last": 246,
+          "message_id": 1118,
+          "name": "245-246",
+          "size": 24452666,
+          "telegram_link": "https://t.me/manhuasgratis/1118"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            247,
+            248
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#247-248]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 247,
+          "last": 248,
+          "message_id": 6991,
+          "name": "247-248",
+          "size": 24834321,
+          "telegram_link": "https://t.me/manhuasgratis/6991"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            249,
+            250
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#249-250]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 249,
+          "last": 250,
+          "message_id": 6992,
+          "name": "249-250",
+          "size": 25092077,
+          "telegram_link": "https://t.me/manhuasgratis/6992"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251,
+            252
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#251-252]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 251,
+          "last": 252,
+          "message_id": 6993,
+          "name": "251-252",
+          "size": 23454710,
+          "telegram_link": "https://t.me/manhuasgratis/6993"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            253,
+            254,
+            255,
+            256,
+            257,
+            258
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#253-258]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 253,
+          "last": 258,
+          "message_id": 6994,
+          "name": "253-258",
+          "size": 76360245,
+          "telegram_link": "https://t.me/manhuasgratis/6994"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            259,
+            260
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#259-260]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 259,
+          "last": 260,
+          "message_id": 6995,
+          "name": "259-260",
+          "size": 25933402,
+          "telegram_link": "https://t.me/manhuasgratis/6995"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261,
+            262
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#261-262]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 261,
+          "last": 262,
+          "message_id": 6996,
+          "name": "261-262",
+          "size": 27724714,
+          "telegram_link": "https://t.me/manhuasgratis/6996"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            263,
+            264
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#263-264]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 263,
+          "last": 264,
+          "message_id": 6997,
+          "name": "263-264",
+          "size": 28146498,
+          "telegram_link": "https://t.me/manhuasgratis/6997"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            265,
+            266
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#265-266]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 265,
+          "last": 266,
+          "message_id": 6998,
+          "name": "265-266",
+          "size": 22534408,
+          "telegram_link": "https://t.me/manhuasgratis/6998"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            267,
+            268,
+            269,
+            270
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#267-270]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 267,
+          "last": 270,
+          "message_id": 6999,
+          "name": "267-270",
+          "size": 82333357,
+          "telegram_link": "https://t.me/manhuasgratis/6999"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            271
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#271]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 271,
+          "last": 271,
+          "message_id": 7000,
+          "name": "271",
+          "size": 20284585,
+          "telegram_link": "https://t.me/manhuasgratis/7000"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            272
+          ],
+          "date": "2026-10-26T14:34:38+00:00",
+          "download_ready": true,
+          "filename": "[#272]   Maestro Dragón La Profesión más Inutil.pdf",
+          "first": 272,
+          "last": 272,
+          "message_id": 7001,
+          "name": "272",
+          "size": 17989963,
+          "telegram_link": "https://t.me/manhuasgratis/7001"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "El juego se combina con la realidad, las bestias feroces abundan y hay innumerables reinos secretos y mazmorras. Para resistir la invasión de bestias feroces, todos cambiarán de trabajo y mejorarán como locos. El día de su cambio de trabajo, Lu Fan se convirtió en una profesión oculta: Maestro Dragón. Pero debido a que los dragones son demasiado poderosos, es imposible que alguien los dome, por lo que el maestro Dragón se considera la profesión más inútil. Afortunadamente, despertó el sistema del súper mapa del tesoro. Cuando Lu Fan llevó a su dragón a barrer todo, el mundo entero tembló.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-21T15:54:13+00:00",
       "aliases": [
         "Demon Queen Mage"
@@ -228426,6 +230977,897 @@
       "rating_count": 0,
       "synopsis": "Cuando la arquitecta Jay se embarca en unas vacaciones Solá en España, puede parecer que está huyendo de su pasado, lejos de su abusivo exnovio que estaba controlando su vida.Para Jay, sin embargo,representa un nuevo capítulo a medida que aprende a valerse por si misma gradualmente....",
       "visible": true
+    },
+    {
+      "added_at": "2026-10-26T14:52:24+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/overgeared.jpg",
+      "cover_message_id": 2110,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2110",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Romance",
+        "Recuerdos de la vida",
+        "virtual",
+        "Magia",
+        "Sistema"
+      ],
+      "hashtag": "#Overgeared",
+      "id": "overgeared",
+      "latest_chapter": 344,
+      "library_count": 0,
+      "name": "Overgeared",
+      "package_count": 37,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Overgeared.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 7081,
+          "name": "1-10",
+          "size": 66242150,
+          "telegram_link": "https://t.me/manhuasgratis/7081"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Overgeared.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 7082,
+          "name": "11-20",
+          "size": 75048310,
+          "telegram_link": "https://t.me/manhuasgratis/7082"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   Overgeared.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 7083,
+          "name": "21-30",
+          "size": 115153222,
+          "telegram_link": "https://t.me/manhuasgratis/7083"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#31-40]   Overgeared.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 7084,
+          "name": "31-40",
+          "size": 115335944,
+          "telegram_link": "https://t.me/manhuasgratis/7084"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#41-50]   Overgeared.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 7085,
+          "name": "41-50",
+          "size": 132963077,
+          "telegram_link": "https://t.me/manhuasgratis/7085"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#51-60]   Overgeared.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 7086,
+          "name": "51-60",
+          "size": 107779180,
+          "telegram_link": "https://t.me/manhuasgratis/7086"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#61-70]   Overgeared.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 7087,
+          "name": "61-70",
+          "size": 118187602,
+          "telegram_link": "https://t.me/manhuasgratis/7087"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-10-26T14:52:24+00:00",
+          "download_ready": true,
+          "filename": "[#71-80]   Overgeared.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 7088,
+          "name": "71-80",
+          "size": 121956934,
+          "telegram_link": "https://t.me/manhuasgratis/7088"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#81-90]   Overgeared.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 7089,
+          "name": "81-90",
+          "size": 128857407,
+          "telegram_link": "https://t.me/manhuasgratis/7089"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#91-100]   Overgeared.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 7090,
+          "name": "91-100",
+          "size": 137209927,
+          "telegram_link": "https://t.me/manhuasgratis/7090"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#101-110]   Overgeared.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 7091,
+          "name": "101-110",
+          "size": 137683112,
+          "telegram_link": "https://t.me/manhuasgratis/7091"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#111-120]   Overgeared.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 7092,
+          "name": "111-120",
+          "size": 126573036,
+          "telegram_link": "https://t.me/manhuasgratis/7092"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#121-130]   Overgeared.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 7093,
+          "name": "121-130",
+          "size": 144350602,
+          "telegram_link": "https://t.me/manhuasgratis/7093"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#131-140]   Overgeared.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 7094,
+          "name": "131-140",
+          "size": 145260841,
+          "telegram_link": "https://t.me/manhuasgratis/7094"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#141-150]   Overgeared.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 7095,
+          "name": "141-150",
+          "size": 144646914,
+          "telegram_link": "https://t.me/manhuasgratis/7095"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#151-160]   Overgeared.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 7096,
+          "name": "151-160",
+          "size": 140364258,
+          "telegram_link": "https://t.me/manhuasgratis/7096"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#161-170]   Overgeared.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 7097,
+          "name": "161-170",
+          "size": 161647484,
+          "telegram_link": "https://t.me/manhuasgratis/7097"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#171-180]   Overgeared.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 7098,
+          "name": "171-180",
+          "size": 143511192,
+          "telegram_link": "https://t.me/manhuasgratis/7098"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#181-190]   Overgeared.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 7099,
+          "name": "181-190",
+          "size": 141648234,
+          "telegram_link": "https://t.me/manhuasgratis/7099"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#191-200]   Overgeared.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 7100,
+          "name": "191-200",
+          "size": 152849676,
+          "telegram_link": "https://t.me/manhuasgratis/7100"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#201-210]   Overgeared.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 7101,
+          "name": "201-210",
+          "size": 173280134,
+          "telegram_link": "https://t.me/manhuasgratis/7101"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-10-26T14:52:25+00:00",
+          "download_ready": true,
+          "filename": "[#211-220]   Overgeared.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 7102,
+          "name": "211-220",
+          "size": 173776090,
+          "telegram_link": "https://t.me/manhuasgratis/7102"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#221-230]   Overgeared.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 7103,
+          "name": "221-230",
+          "size": 177340077,
+          "telegram_link": "https://t.me/manhuasgratis/7103"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#231-240]   Overgeared.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 7104,
+          "name": "231-240",
+          "size": 179285171,
+          "telegram_link": "https://t.me/manhuasgratis/7104"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#241-250]   Overgeared.pdf",
+          "first": 241,
+          "last": 250,
+          "message_id": 7105,
+          "name": "241-250",
+          "size": 162892666,
+          "telegram_link": "https://t.me/manhuasgratis/7105"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#251-260]   Overgeared.pdf",
+          "first": 251,
+          "last": 260,
+          "message_id": 7106,
+          "name": "251-260",
+          "size": 157843055,
+          "telegram_link": "https://t.me/manhuasgratis/7106"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#261-270]   Overgeared.pdf",
+          "first": 261,
+          "last": 270,
+          "message_id": 7107,
+          "name": "261-270",
+          "size": 167665109,
+          "telegram_link": "https://t.me/manhuasgratis/7107"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#271-280]   Overgeared.pdf",
+          "first": 271,
+          "last": 280,
+          "message_id": 7108,
+          "name": "271-280",
+          "size": 210601151,
+          "telegram_link": "https://t.me/manhuasgratis/7108"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#281-290]   Overgeared.pdf",
+          "first": 281,
+          "last": 290,
+          "message_id": 7109,
+          "name": "281-290",
+          "size": 179896500,
+          "telegram_link": "https://t.me/manhuasgratis/7109"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#291-300]   Overgeared.pdf",
+          "first": 291,
+          "last": 300,
+          "message_id": 7110,
+          "name": "291-300",
+          "size": 175297283,
+          "telegram_link": "https://t.me/manhuasgratis/7110"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#301-310]   Overgeared.pdf",
+          "first": 301,
+          "last": 310,
+          "message_id": 7111,
+          "name": "301-310",
+          "size": 156828210,
+          "telegram_link": "https://t.me/manhuasgratis/7111"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#311-320]   Overgeared.pdf",
+          "first": 311,
+          "last": 320,
+          "message_id": 7112,
+          "name": "311-320",
+          "size": 164339787,
+          "telegram_link": "https://t.me/manhuasgratis/7112"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#321-330]   Overgeared.pdf",
+          "first": 321,
+          "last": 330,
+          "message_id": 7113,
+          "name": "321-330",
+          "size": 155837111,
+          "telegram_link": "https://t.me/manhuasgratis/7113"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#331-340]   Overgeared.pdf",
+          "first": 331,
+          "last": 340,
+          "message_id": 7114,
+          "name": "331-340",
+          "size": 137334752,
+          "telegram_link": "https://t.me/manhuasgratis/7114"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            341,
+            342
+          ],
+          "date": "2026-10-26T14:52:26+00:00",
+          "download_ready": true,
+          "filename": "[#341-342]   Overgeared.pdf",
+          "first": 341,
+          "last": 342,
+          "message_id": 7115,
+          "name": "341-342",
+          "size": 24796879,
+          "telegram_link": "https://t.me/manhuasgratis/7115"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            343
+          ],
+          "date": "2026-10-26T14:52:27+00:00",
+          "download_ready": true,
+          "filename": "[#343]   Overgeared.pdf",
+          "first": 343,
+          "last": 343,
+          "message_id": 7116,
+          "name": "343",
+          "size": 19595109,
+          "telegram_link": "https://t.me/manhuasgratis/7116"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            344
+          ],
+          "date": "2026-10-26T14:52:27+00:00",
+          "download_ready": true,
+          "filename": "[#344]   Overgeared.pdf",
+          "first": 344,
+          "last": 344,
+          "message_id": 7117,
+          "name": "344",
+          "size": 21173926,
+          "telegram_link": "https://t.me/manhuasgratis/7117"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Shin Youngwoo [Nombre de usuario: Greed] El mayor juego de realidad virtual del mundo; Tanto en la realidad como en el juego, la desgracia siempre le ha perseguido... Hasta que, en medio de una búsqueda, encuentra por casualidad un billete de lotería en el juego: el 'Libro Raro de Pagma'. Cambió de clase y se convirtió en la única clase legendaria que es la más fuerte entre más de 2.000 millones de usuarios.\n-\"¡¿Cómo sigues vivo...?!\"\n-\"Bueno, no es nada especial...\"",
+      "visible": false
     },
     {
       "added_at": "2026-10-21T16:03:49+00:00",
@@ -279884,14 +283326,14 @@
           ],
           "date": "2026-10-26T04:17:35+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/6948_%E2%94%82166%E2%94%82Sobreviviendo%20Al%20Juego%20Siendo%20Un%20B%C3%A1rbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T123531Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=16bc9e1f981a6c15b0db7c17324bd795a8f255e30110945bd87dbf0c24d12fc6",
           "filename": "│166│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
           "first": 166,
           "last": 166,
           "message_id": 6948,
           "name": "166",
           "size": 11297749,
-          "telegram_link": "https://t.me/manhuasgratis/6948",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/6948_%E2%94%82166%E2%94%82Sobreviviendo%20Al%20Juego%20Siendo%20Un%20B%C3%A1rbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T123531Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=16bc9e1f981a6c15b0db7c17324bd795a8f255e30110945bd87dbf0c24d12fc6"
+          "telegram_link": "https://t.me/manhuasgratis/6948"
         }
       ],
       "rating": 4.67,
@@ -314390,6 +317832,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-26T12:29:49.236687+00:00",
+  "updated_at": "2026-10-26T15:02:01.758732+00:00",
   "version": 3
 }
