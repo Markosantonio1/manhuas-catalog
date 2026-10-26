@@ -44,9 +44,6 @@ GITHUB_BRANCH = "main"
 SCAN_WAIT = 0.15
 MAX_CHAPTER = 5000
 
-# Cuántos mensajes de margen hacia atrás escanear (por si hay albums partidos)
-SCAN_MARGIN = 100
-
 TRIGGER_UPLOADER = os.getenv("TRIGGER_UPLOADER", "1") == "1"
 MAX_PACKAGES_UPLOAD = int(os.getenv("MAX_PACKAGES_UPLOAD", "100"))
 
@@ -223,18 +220,8 @@ def save_catalog(catalog: dict) -> None:
     print(f"✓ Catálogo guardado ({CATALOG_FILE.stat().st_size} bytes)")
 
 
-def compute_min_message_id(items: list) -> int:
-    max_id = 0
-    for item in items:
-        for p in item.get("packages", []):
-            mid = p.get("message_id")
-            if isinstance(mid, int) and mid > max_id:
-                max_id = mid
-    return max(0, max_id - SCAN_MARGIN)
-
-
 # ============================================================
-# ESCANEO — solo mensajes nuevos
+# ESCANEO — CANAL COMPLETO
 # ============================================================
 
 def build_series_key_map(catalog: dict) -> dict:
@@ -248,29 +235,29 @@ def build_series_key_map(catalog: dict) -> dict:
     return result
 
 
-async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict:
-    """Escanea el canal principal y devuelve {hashtag_key: [msg, ...]} solo con
-    mensajes NO existentes en el catálogo."""
+async def scan_main_channel_new(client, selected_keys: set) -> dict:
+    """Escanea TODO el canal principal buscando PDFs que pertenezcan a las series."""
     result = defaultdict(list)
     processed_groups = set()
 
     messages = []
     grouped = defaultdict(list)
 
-    print(f"  → Iterando canal principal desde msg_id > {min_id}...")
+    print(f"  → Iterando canal principal COMPLETO...")
     count = 0
     async for message in client.iter_messages(
         MAIN_CHANNEL_ID,
         limit=None,
-        min_id=min_id,
         wait_time=SCAN_WAIT,
     ):
         count += 1
+        if count % 1000 == 0:
+            print(f"    ... {count} mensajes leídos")
         messages.append(message)
         gid = getattr(message, "grouped_id", None)
         if gid:
             grouped[int(gid)].append(message)
-    print(f"  → {count} mensajes nuevos leídos")
+    print(f"  → {count} mensajes leídos en total")
 
     # 1) Albums con hashtag
     for gid, members in grouped.items():
@@ -304,28 +291,79 @@ async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict
     return result
 
 
-async def scan_novels_channel_new(client, selected_keys: set, min_id: int) -> dict:
-    """Igual pero para el canal de novelas."""
+async def scan_novels_channel_new(client, selected_keys: set) -> dict:
+    """Escanea TODO el canal de novelas (con trucos de asociación)."""
     result = defaultdict(list)
     messages = []
 
-    print(f"  → Iterando canal de novelas desde msg_id > {min_id}...")
+    print(f"  → Iterando canal de novelas COMPLETO...")
+    count = 0
     async for msg in client.iter_messages(
         NOVELS_CHANNEL_ID,
         limit=None,
-        min_id=min_id,
         wait_time=SCAN_WAIT,
     ):
+        count += 1
+        if count % 1000 == 0:
+            print(f"    ... {count} mensajes leídos")
         messages.append(msg)
-    print(f"  → {len(messages)} mensajes nuevos leídos")
+    print(f"  → {count} mensajes leídos en total")
+    
+    messages.sort(key=lambda m: int(m.id))
 
+    # 1. Truco: Buscar hashtags en los álbumes
+    hashtags_by_group = {}
     for msg in messages:
+        gid = getattr(msg, "grouped_id", None)
+        if not gid: continue
+        tags = extract_hashtags(getattr(msg, "raw_text", "") or "")
+        if tags:
+            bucket = hashtags_by_group.setdefault(int(gid), set())
+            for t in tags:
+                k = hashtag_key(t)
+                if k in selected_keys:
+                    bucket.add(k)
+
+    # 2. Truco: Rastrear las portadas (imágenes con hashtag)
+    cover_positions = []
+    for idx, msg in enumerate(messages):
+        if getattr(msg, "photo", None):
+            tags = extract_hashtags(getattr(msg, "raw_text", "") or "")
+            for t in tags:
+                k = hashtag_key(t)
+                if k in selected_keys:
+                    cover_positions.append((idx, k))
+
+    # 3. Asociar los PDFs
+    for idx, msg in enumerate(messages):
         if not is_pdf_message(msg):
             continue
-        tags = extract_hashtags(getattr(msg, "raw_text", "") or "")
-        matching = [hashtag_key(t) for t in tags if hashtag_key(t) in selected_keys]
-        for k in matching:
-            result[k].append(msg)
+
+        # a) Buscar hashtag propio
+        text = getattr(msg, "raw_text", "") or ""
+        tags = extract_hashtags(text)
+        matching_set = {hashtag_key(t) for t in tags if hashtag_key(t) in selected_keys}
+
+        # b) Buscar hashtag del álbum
+        gid = getattr(msg, "grouped_id", None)
+        if gid:
+            matching_set.update(hashtags_by_group.get(int(gid), set()))
+
+        if matching_set:
+            for k in matching_set:
+                result[k].append(msg)
+            continue
+
+        # c) Truco final: Asociarlo a la última portada que se vio
+        best_idx = -1
+        best_key = None
+        for cover_idx, cover_key in cover_positions:
+            if cover_idx < idx and cover_idx > best_idx:
+                best_idx = cover_idx
+                best_key = cover_key
+
+        if best_key is not None:
+            result[best_key].append(msg)
 
     return result
 
@@ -408,6 +446,15 @@ def git_commit_and_push(mensaje: str) -> bool:
         )
         if c.returncode != 0:
             print(f"  ⚠ commit rc={c.returncode}: {c.stdout[:200]}")
+
+        # 🛡️ FIX: Traer los cambios remotos antes de subir para evitar conflictos
+        pr = subprocess.run(
+            ["git", "pull", "origin", "main", "-X", "ours", "--no-rebase"],
+            check=False, capture_output=True, text=True,
+        )
+        if pr.returncode != 0:
+            print(f"  ⚠ pull rc={pr.returncode}: {pr.stderr[:300]}")
+            return False
 
         p = subprocess.run(
             ["git", "push"],
@@ -510,9 +557,8 @@ async def main():
     try:
         # ---- MANHUAS ----
         if manhua_keys:
-            min_id = compute_min_message_id(catalog.get("series", []))
             print(f"\n--- Canal principal (manhuas) ---")
-            new_msgs = await scan_main_channel_new(client, manhua_keys, min_id)
+            new_msgs = await scan_main_channel_new(client, manhua_keys)
 
             for hkey, series in key_map["series"].items():
                 existing = {
@@ -542,9 +588,8 @@ async def main():
 
         # ---- NOVELAS ----
         if novel_keys:
-            min_id = compute_min_message_id(catalog.get("novels", []))
             print(f"\n--- Canal de novelas ---")
-            new_msgs = await scan_novels_channel_new(client, novel_keys, min_id)
+            new_msgs = await scan_novels_channel_new(client, novel_keys)
 
             for hkey, novel in key_map["novels"].items():
                 existing = {
