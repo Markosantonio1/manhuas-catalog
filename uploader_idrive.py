@@ -428,11 +428,22 @@ async def download_media_with_retry(client, message_id, local_path, channel):
     for attempt in range(1, 4):
         try:
             print(f"    ↓ Intento {attempt}/3...")
-
             message = await client.get_messages(channel, ids=message_id)
 
-            if not message or not message.file:
-                print(f"    ⚠ Mensaje {message_id} sin archivo")
+            if not message:
+                print(f"    ⚠ Mensaje {message_id} no encontrado en el canal")
+                return False
+
+            if not getattr(message, "media", None) and getattr(message, "grouped_id", None):
+                print(f"    ↻ Mensaje {message_id} es parte de un álbum. Buscando álbum...")
+                album_messages = await client.get_messages(channel, ids=message.grouped_id)
+                for msg in album_messages:
+                    if msg.id == message_id:
+                        message = msg
+                        break
+
+            if not getattr(message, "media", None):
+                print(f"    ⚠ Mensaje {message_id} sin archivo (media) o fue borrado")
                 return False
 
             if local_path.exists():
@@ -456,7 +467,6 @@ async def download_media_with_retry(client, message_id, local_path, channel):
                 await asyncio.sleep(5)
             else:
                 return False
-
     return False
 
 
