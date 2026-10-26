@@ -215,24 +215,17 @@ def save_catalog(catalog: dict) -> None:
 
 
 def compute_last_msg_id(items: list, channel_id: int) -> int:
-    """
-    Calcula el ID del último mensaje procesado en un canal específico.
-    Filtra por channel_id para no confundirse con IDs de otros canales.
-    """
     max_id = 0
     for item in items:
         for p in item.get("packages", []):
-            # Solo miramos mensajes de este canal
             if p.get("channel_id") == channel_id:
                 mid = p.get("message_id")
                 if isinstance(mid, int) and mid > max_id:
                     max_id = mid
-    # Restamos un margen para evitar saltarnos mensajes por desorden
     return max(0, max_id - SCAN_MARGIN)
 
 
 def build_series_key_map(catalog: dict) -> dict:
-    """Devuelve {hashtag_key: series_dict} para manhuas y novelas."""
     result = {"series": {}, "novels": {}}
     for lst_key in ("series", "novels"):
         for item in catalog.get(lst_key, []):
@@ -247,20 +240,15 @@ def build_series_key_map(catalog: dict) -> dict:
 # ============================================================
 
 async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict:
-    """Escanea el canal principal desde el último ID en adelante."""
     result = defaultdict(list)
     processed_groups = set()
-
     messages = []
     grouped = defaultdict(list)
 
     print(f"  → Iterando canal principal desde msg_id > {min_id}...")
     count = 0
     async for message in client.iter_messages(
-        MAIN_CHANNEL_ID,
-        limit=None,
-        min_id=min_id,
-        wait_time=SCAN_WAIT,
+        MAIN_CHANNEL_ID, limit=None, min_id=min_id, wait_time=SCAN_WAIT,
     ):
         count += 1
         messages.append(message)
@@ -270,11 +258,9 @@ async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict
     
     print(f"  → {count} mensajes nuevos leídos")
 
-    # 1) Albums con hashtag
     for gid, members in grouped.items():
         pdf_members = [m for m in members if is_pdf_message(m)]
-        if not pdf_members:
-            continue
+        if not pdf_members: continue
         group_tags = set()
         for m in members:
             for tag in extract_hashtags(getattr(m, "raw_text", "") or ""):
@@ -287,13 +273,10 @@ async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict
                 for k in group_tags:
                     result[k].append(m)
 
-    # 2) PDFs individuales con hashtag
     for m in messages:
-        if not is_pdf_message(m):
-            continue
+        if not is_pdf_message(m): continue
         gid = getattr(m, "grouped_id", None)
-        if gid and int(gid) in processed_groups:
-            continue
+        if gid and int(gid) in processed_groups: continue
         for tag in extract_hashtags(getattr(m, "raw_text", "") or ""):
             k = hashtag_key(tag)
             if k in selected_keys:
@@ -303,23 +286,18 @@ async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict
 
 
 async def scan_novels_channel_new(client, selected_keys: set, min_id: int) -> dict:
-    """Escanea el canal de novelas desde el último ID en adelante."""
     result = defaultdict(list)
     messages = []
 
     print(f"  → Iterando canal de novelas desde msg_id > {min_id}...")
     async for msg in client.iter_messages(
-        NOVELS_CHANNEL_ID,
-        limit=None,
-        min_id=min_id,
-        wait_time=SCAN_WAIT,
+        NOVELS_CHANNEL_ID, limit=None, min_id=min_id, wait_time=SCAN_WAIT,
     ):
         messages.append(msg)
     
     print(f"  → {len(messages)} mensajes nuevos leídos")
     messages.sort(key=lambda m: int(m.id))
 
-    # 1. Truco: Buscar hashtags en los álbumes
     hashtags_by_group = {}
     for msg in messages:
         gid = getattr(msg, "grouped_id", None)
@@ -332,7 +310,6 @@ async def scan_novels_channel_new(client, selected_keys: set, min_id: int) -> di
                 if k in selected_keys:
                     bucket.add(k)
 
-    # 2. Truco: Rastrear las portadas (imágenes con hashtag)
     cover_positions = []
     for idx, msg in enumerate(messages):
         if getattr(msg, "photo", None):
@@ -342,17 +319,13 @@ async def scan_novels_channel_new(client, selected_keys: set, min_id: int) -> di
                 if k in selected_keys:
                     cover_positions.append((idx, k))
 
-    # 3. Asociar los PDFs
     for idx, msg in enumerate(messages):
-        if not is_pdf_message(msg):
-            continue
+        if not is_pdf_message(msg): continue
 
-        # a) Buscar hashtag propio
         text = getattr(msg, "raw_text", "") or ""
         tags = extract_hashtags(text)
         matching_set = {hashtag_key(t) for t in tags if hashtag_key(t) in selected_keys}
 
-        # b) Buscar hashtag del álbum
         gid = getattr(msg, "grouped_id", None)
         if gid:
             matching_set.update(hashtags_by_group.get(int(gid), set()))
@@ -362,7 +335,6 @@ async def scan_novels_channel_new(client, selected_keys: set, min_id: int) -> di
                 result[k].append(msg)
             continue
 
-        # c) Truco final: Asociarlo a la última portada que se vio
         best_idx = -1
         best_key = None
         for cover_idx, cover_key in cover_positions:
@@ -390,16 +362,12 @@ def build_manhua_package(msg) -> Optional[dict]:
     first, last = chapter_range
     return {
         "name": str(first) if first == last else f"{first}-{last}",
-        "first": first,
-        "last": last,
-        "channel_id": MAIN_CHANNEL_ID,
-        "message_id": message_id,
-        "filename": filename,
-        "size": int(getattr(msg.file, "size", 0) or 0),
+        "first": first, "last": last,
+        "channel_id": MAIN_CHANNEL_ID, "message_id": message_id,
+        "filename": filename, "size": int(getattr(msg.file, "size", 0) or 0),
         "date": msg.date.isoformat() if getattr(msg, "date", None) else None,
         "telegram_link": telegram_link(MAIN_CHANNEL_ID, message_id, MAIN_CHANNEL_USERNAME),
-        "download_ready": False,
-        "chapters": list(range(first, last + 1)),
+        "download_ready": False, "chapters": list(range(first, last + 1)),
     }
 
 
@@ -412,16 +380,11 @@ def build_novel_package(msg) -> Optional[dict]:
     
     return {
         "name": f"Volumen {volume_number}",
-        "first": volume_number,
-        "last": volume_number,
-        "channel_id": NOVELS_CHANNEL_ID,
-        "message_id": message_id,
-        "filename": filename,
-        "size": size,
-        "date": date,
+        "first": volume_number, "last": volume_number,
+        "channel_id": NOVELS_CHANNEL_ID, "message_id": message_id,
+        "filename": filename, "size": size, "date": date,
         "telegram_link": telegram_link(NOVELS_CHANNEL_ID, message_id, None),
-        "download_ready": False,
-        "chapters": [volume_number],
+        "download_ready": False, "chapters": [volume_number],
         "is_novel_volume": True,
     }
 
@@ -432,36 +395,19 @@ def build_novel_package(msg) -> Optional[dict]:
 
 def git_commit_and_push(mensaje: str) -> bool:
     try:
-        subprocess.run(
-            ["git", "config", "user.name", "github-actions[bot]"],
-            check=False, capture_output=True,
-        )
-        subprocess.run(
-            ["git", "config", "user.email",
-             "github-actions[bot]@users.noreply.github.com"],
-            check=False, capture_output=True,
-        )
-        subprocess.run(["git", "add", "catalog.json"],
-                       check=False, capture_output=True)
-        c = subprocess.run(
-            ["git", "commit", "-m", mensaje, "--allow-empty"],
-            check=False, capture_output=True, text=True,
-        )
+        subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=False, capture_output=True)
+        subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=False, capture_output=True)
+        subprocess.run(["git", "add", "catalog.json"], check=False, capture_output=True)
+        c = subprocess.run(["git", "commit", "-m", mensaje, "--allow-empty"], check=False, capture_output=True, text=True)
         if c.returncode != 0:
             print(f"  ⚠ commit rc={c.returncode}: {c.stdout[:200]}")
 
-        pr = subprocess.run(
-            ["git", "pull", "origin", "main", "-X", "ours", "--no-rebase"],
-            check=False, capture_output=True, text=True,
-        )
+        pr = subprocess.run(["git", "pull", "origin", "main", "-X", "ours", "--no-rebase"], check=False, capture_output=True, text=True)
         if pr.returncode != 0:
             print(f"  ⚠ pull rc={pr.returncode}: {pr.stderr[:300]}")
             return False
 
-        p = subprocess.run(
-            ["git", "push"],
-            check=False, capture_output=True, text=True,
-        )
+        p = subprocess.run(["git", "push"], check=False, capture_output=True, text=True)
         if p.returncode != 0:
             print(f"  ⚠ push rc={p.returncode}: {p.stderr[:300]}")
             return False
@@ -476,19 +422,9 @@ def trigger_uploader_workflow() -> bool:
         print("  ⚠ Sin GITHUB_TOKEN, no se dispara uploader")
         return False
 
-    url = (
-        f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}"
-        f"/actions/workflows/uploader_idrive.yml/dispatches"
-    )
-    headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-    }
-    payload = {
-        "ref": GITHUB_BRANCH,
-        "inputs": {"max_packages": str(MAX_PACKAGES_UPLOAD)},
-    }
+    url = f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}/actions/workflows/uploader_idrive.yml/dispatches"
+    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
+    payload = {"ref": GITHUB_BRANCH, "inputs": {"max_packages": str(MAX_PACKAGES_UPLOAD)}}
     try:
         r = requests.post(url, headers=headers, json=payload, timeout=30)
         if r.status_code == 204:
@@ -522,15 +458,11 @@ async def main():
         sys.exit(1)
 
     catalog = load_catalog()
-    print(f"✓ Catálogo cargado: {len(catalog.get('series', []))} series, "
-          f"{len(catalog.get('novels', []))} novelas")
+    print(f"✓ Catálogo cargado: {len(catalog.get('series', []))} series, {len(catalog.get('novels', []))} novelas")
 
     key_map = build_series_key_map(catalog)
     manhua_keys = set(key_map["series"].keys())
     novel_keys = set(key_map["novels"].keys())
-
-    print(f"  → Manhuas a vigilar: {len(manhua_keys)}")
-    print(f"  → Novelas a vigilar: {len(novel_keys)}")
 
     if not manhua_keys and not novel_keys:
         print("Nada que escanear. Saliendo.")
@@ -539,8 +471,7 @@ async def main():
         return
 
     client = TelegramClient(
-        StringSession(SESSION_STR),
-        API_ID, API_HASH,
+        StringSession(SESSION_STR), API_ID, API_HASH,
         connection_retries=5, retry_delay=3, timeout=60, request_retries=5,
     )
     await client.start()
@@ -557,74 +488,100 @@ async def main():
     try:
         # ---- MANHUAS ----
         if manhua_keys:
-            # Calcular último ID SOLO de manhuas en el canal principal
             min_id = compute_last_msg_id(catalog.get("series", []), MAIN_CHANNEL_ID)
             print(f"\n--- Canal principal (manhuas) ---")
             new_msgs = await scan_main_channel_new(client, manhua_keys, min_id)
 
             for hkey, series in key_map["series"].items():
-                existing = {
-                    p.get("message_id")
-                    for p in series.get("packages", [])
-                    if isinstance(p.get("message_id"), int)
-                }
+                existing_ids = {p.get("message_id") for p in series.get("packages", []) if isinstance(p.get("message_id"), int)}
+                # 🛡️ FIX: Guardamos también los rangos de capítulos que ya existen
+                existing_ranges = {(p.get("first"), p.get("last")) for p in series.get("packages", []) if p.get("first") is not None}
+                
                 for msg in new_msgs.get(hkey, []):
-                    if int(msg.id) in existing:
+                    if int(msg.id) in existing_ids:
                         continue
                     pkg = build_manhua_package(msg)
                     if pkg:
+                        # 🛡️ FIX: Si el número de capítulo ya existe, lo ignoramos
+                        if (pkg["first"], pkg["last"]) in existing_ranges:
+                            print(f"    ⚠ Ignorado (ya existe): {series.get('name')} → {pkg['name']}")
+                            continue
+                            
                         series.setdefault("packages", []).append(pkg)
-                        existing.add(pkg["message_id"])
+                        existing_ids.add(pkg["message_id"])
+                        existing_ranges.add((pkg["first"], pkg["last"]))
                         changes_manhua += 1
                         changes += 1
                         print(f"  + {series.get('name')} → {pkg['name']}")
 
                 if changes_manhua > 0:
-                    series["packages"].sort(
-                        key=lambda p: (p["first"], p["last"], p["message_id"])
-                    )
+                    series["packages"].sort(key=lambda p: (p["first"], p["last"], p["message_id"]))
                     series["package_count"] = len(series["packages"])
-                    series["latest_chapter"] = max(
-                        (p["last"] for p in series["packages"]), default=0,
-                    )
+                    series["latest_chapter"] = max((p["last"] for p in series["packages"]), default=0)
+                    
+                # 🛡️ FIX: Limpiamos los duplicados actuales (se queda con el que tiene URL)
+                unique_pkgs = {}
+                for p in series.get("packages", []):
+                    rng = (p.get("first"), p.get("last"))
+                    if rng not in unique_pkgs:
+                        unique_pkgs[rng] = p
+                    else:
+                        if p.get("download_url") and not unique_pkgs[rng].get("download_url"):
+                            unique_pkgs[rng] = p
+                series["packages"] = list(unique_pkgs.values())
+                series["packages"].sort(key=lambda p: (p["first"], p["last"], p["message_id"]))
+                series["package_count"] = len(series["packages"])
 
         # ---- NOVELAS ----
         if novel_keys:
-            # Calcular último ID SOLO de novelas en el canal de novelas
             min_id = compute_last_msg_id(catalog.get("novels", []), NOVELS_CHANNEL_ID)
             print(f"\n--- Canal de novelas ---")
             new_msgs = await scan_novels_channel_new(client, novel_keys, min_id)
 
             for hkey, novel in key_map["novels"].items():
-                existing = {
-                    p.get("message_id")
-                    for p in novel.get("packages", [])
-                    if isinstance(p.get("message_id"), int)
-                }
+                existing_ids = {p.get("message_id") for p in novel.get("packages", []) if isinstance(p.get("message_id"), int)}
+                existing_ranges = {(p.get("first"), p.get("last")) for p in novel.get("packages", []) if p.get("first") is not None}
+                
                 for msg in new_msgs.get(hkey, []):
-                    if int(msg.id) in existing:
+                    if int(msg.id) in existing_ids:
                         continue
                     pkg = build_novel_package(msg)
                     if pkg:
+                        if (pkg["first"], pkg["last"]) in existing_ranges:
+                            print(f"    ⚠ Ignorado (ya existe): {novel.get('name')} → {pkg['name']}")
+                            continue
+                            
                         novel.setdefault("packages", []).append(pkg)
-                        existing.add(pkg["message_id"])
+                        existing_ids.add(pkg["message_id"])
+                        existing_ranges.add((pkg["first"], pkg["last"]))
                         changes_novel += 1
                         changes += 1
                         print(f"  + {novel.get('name')} → {pkg['name']}")
 
                 if changes_novel > 0:
-                    novel["packages"].sort(
-                        key=lambda p: (p["first"], p["last"], p["message_id"])
-                    )
+                    novel["packages"].sort(key=lambda p: (p["first"], p["last"], p["message_id"]))
                     novel["package_count"] = len(novel["packages"])
                     novel["latest_chapter"] = len(novel["packages"])
+                    
+                # 🛡️ FIX: Limpiamos los duplicados actuales en novelas también
+                unique_pkgs = {}
+                for p in novel.get("packages", []):
+                    rng = (p.get("first"), p.get("last"))
+                    if rng not in unique_pkgs:
+                        unique_pkgs[rng] = p
+                    else:
+                        if p.get("download_url") and not unique_pkgs[rng].get("download_url"):
+                            unique_pkgs[rng] = p
+                novel["packages"] = list(unique_pkgs.values())
+                novel["packages"].sort(key=lambda p: (p["first"], p["last"], p["message_id"]))
+                novel["package_count"] = len(novel["packages"])
+                
     finally:
         try:
             await client.disconnect()
         except Exception:
             pass
 
-    # ---- RESULTADO ----
     print()
     print("=" * 60)
     print(f"Capítulos nuevos (manhuas): {changes_manhua}")
@@ -641,9 +598,7 @@ async def main():
     catalog["updated_at"] = datetime.now(timezone.utc).isoformat()
     save_catalog(catalog)
 
-    if git_commit_and_push(
-        f"Catálogo: +{changes} capítulos/volúmenes nuevos"
-    ):
+    if git_commit_and_push(f"Catálogo: +{changes} capítulos/volúmenes nuevos"):
         print("✓ Commit subido a GitHub")
     else:
         print("⚠ No se pudo subir el commit")
