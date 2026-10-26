@@ -20464,7 +20464,7 @@
       "latest_chapter": 751,
       "library_count": 2,
       "name": "Against The Gods",
-      "package_count": 43,
+      "package_count": 42,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -21846,22 +21846,6 @@
           "name": "751",
           "size": 6001047,
           "telegram_link": "https://t.me/manhuasgratis/5822"
-        },
-        {
-          "name": "751",
-          "first": 751,
-          "last": 751,
-          "channel_id": -1003003829878,
-          "message_id": 5849,
-          "filename": "751 Against The Gods.pdf",
-          "size": 6001047,
-          "date": "2026-10-18T20:13:17+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5849",
-          "download_ready": false,
-          "chapters": [
-            751
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/against_the_gods/5849_751%20Against%20The%20Gods.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ccd85eca7483739d3955f40302c13babc52c07aa7a05ea416081ca1339ca87cd"
         }
       ],
       "rating": 0,
@@ -24437,19 +24421,19 @@
           "telegram_link": "https://t.me/manhuasgratis/5874"
         },
         {
-          "name": "112",
-          "first": 112,
-          "last": 112,
           "channel_id": -1003003829878,
-          "message_id": 6942,
-          "filename": "[#112]   Amigo de la Infancia del Zenith.pdf",
-          "size": 21985757,
-          "date": "2026-10-26T04:17:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6942",
-          "download_ready": false,
           "chapters": [
             112
-          ]
+          ],
+          "date": "2026-10-26T04:17:19+00:00",
+          "download_ready": true,
+          "filename": "[#112]   Amigo de la Infancia del Zenith.pdf",
+          "first": 112,
+          "last": 112,
+          "message_id": 6942,
+          "name": "112",
+          "size": 21985757,
+          "telegram_link": "https://t.me/manhuasgratis/6942"
         }
       ],
       "rating": 5,
@@ -40668,7 +40652,7 @@
       "latest_chapter": 112,
       "library_count": 3,
       "name": "Caballero En Eterna Regresión",
-      "package_count": 50,
+      "package_count": 48,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -41501,38 +41485,6 @@
           "name": "112",
           "size": 13564491,
           "telegram_link": "https://t.me/manhuasgratis/6787"
-        },
-        {
-          "name": "112",
-          "first": 112,
-          "last": 112,
-          "channel_id": -1003003829878,
-          "message_id": 6788,
-          "filename": "[#112.5]   Caballero En Eterna Regresión.pdf",
-          "size": 1350116,
-          "date": "2026-10-23T23:15:17+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6788",
-          "download_ready": false,
-          "chapters": [
-            112
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6788_%5B%23112.5%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f46a35c258db5a83b5a072c1d32de5cb32fd1a08e52e23e2b814495429f2dbd7"
-        },
-        {
-          "name": "112",
-          "first": 112,
-          "last": 112,
-          "channel_id": -1003003829878,
-          "message_id": 6789,
-          "filename": "[#112.5-112.7]   Caballero En Eterna Regresión.pdf",
-          "size": 21657221,
-          "date": "2026-10-23T23:15:17+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6789",
-          "download_ready": false,
-          "chapters": [
-            112
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/caballero_en_eterna_regresion/6789_%5B%23112.5-112.7%5D%20%20%20Caballero%20En%20Eterna%20Regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6dcb014f34cd964261049b05d601758b4205419f6a9f979ae0be626663f87b7"
         }
       ],
       "rating": 5,
@@ -43497,7 +43449,7 @@
       "latest_chapter": 138,
       "library_count": 4,
       "name": "Cazador de Gachas de Clase SSS",
-      "package_count": 63,
+      "package_count": 61,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -43820,21 +43772,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6430"
         },
         {
-          "name": "80",
-          "first": 80,
-          "last": 80,
-          "channel_id": -1003003829878,
-          "message_id": 6431,
-          "filename": "│80.5│Cazador de Gachas de Clase SSS.pdf",
-          "size": 463968,
-          "date": "2026-10-21T12:57:57+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6431",
-          "download_ready": false,
-          "chapters": [
-            80
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             81
@@ -44093,21 +44030,6 @@
           "name": "100",
           "size": 9759740,
           "telegram_link": "https://t.me/manhuasgratis/6447"
-        },
-        {
-          "name": "100",
-          "first": 100,
-          "last": 100,
-          "channel_id": -1003003829878,
-          "message_id": 6448,
-          "filename": "❮100.5❯ ℡Cazador De Gachas De Clase SSS.pdf",
-          "size": 460882,
-          "date": "2026-10-21T12:57:58+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6448",
-          "download_ready": false,
-          "chapters": [
-            100
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -44608,7 +44530,7 @@
       "latest_chapter": 157,
       "library_count": 8,
       "name": "Cazador Suicida De Clase SSS",
-      "package_count": 22,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -45000,22 +44922,6 @@
           "name": "151",
           "size": 6254264,
           "telegram_link": "https://t.me/manhuasgratis/451"
-        },
-        {
-          "name": "151",
-          "first": 151,
-          "last": 151,
-          "channel_id": -1003003829878,
-          "message_id": 6046,
-          "filename": "[151] Cazador Suicida De Clase SSS.pdf",
-          "size": 13522762,
-          "date": "2026-10-20T12:35:30+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6046",
-          "download_ready": false,
-          "chapters": [
-            151
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/cazador_suicida_de_clase_sss/6046_%5B151%5D%20Cazador%20Suicida%20De%20Clase%20SSS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f0220b3b34c6c3bc5ebb0f8a00d0b6c8ecbc6867c894533eede38fa8d425675"
         },
         {
           "channel_id": -1003003829878,
@@ -71713,7 +71619,7 @@
       "latest_chapter": 149,
       "library_count": 4,
       "name": "El Asesino Que Retornó Como El Hijo Del Duque",
-      "package_count": 53,
+      "package_count": 52,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -71969,22 +71875,6 @@
           "name": "81-90",
           "size": 72686688,
           "telegram_link": "https://t.me/manhuasgratis/1527"
-        },
-        {
-          "name": "85",
-          "first": 85,
-          "last": 85,
-          "channel_id": -1003003829878,
-          "message_id": 4185,
-          "filename": "85 El Regreso del Caballero de la Muerte.pdf",
-          "size": 10870464,
-          "date": "2026-08-31T16:42:00+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4185",
-          "download_ready": false,
-          "chapters": [
-            85
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_asesino_que_retorno_como_el_hijo_del_duque/4185_85%20El%20Regreso%20del%20Caballero%20de%20la%20Muerte.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=42e260887f7c8ca2eb6ecb890472eb9d1d69cf9b8f2a8ab3422f36f7ee62185a"
         },
         {
           "channel_id": -1003003829878,
@@ -74218,19 +74108,19 @@
           "telegram_link": "https://t.me/manhuasgratis/5876"
         },
         {
-          "name": "67",
-          "first": 67,
-          "last": 67,
           "channel_id": -1003003829878,
-          "message_id": 6943,
-          "filename": "[#67]   El Chico Problemático de la Torre Mágica.pdf",
-          "size": 24849540,
-          "date": "2026-10-26T04:17:22+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6943",
-          "download_ready": false,
           "chapters": [
             67
-          ]
+          ],
+          "date": "2026-10-26T04:17:22+00:00",
+          "download_ready": true,
+          "filename": "[#67]   El Chico Problemático de la Torre Mágica.pdf",
+          "first": 67,
+          "last": 67,
+          "message_id": 6943,
+          "name": "67",
+          "size": 24849540,
+          "telegram_link": "https://t.me/manhuasgratis/6943"
         }
       ],
       "rating": 5,
@@ -86857,7 +86747,7 @@
       "latest_chapter": 218,
       "library_count": 13,
       "name": "El Hijo Menor del Maestro de la Espada",
-      "package_count": 37,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -87458,22 +87348,6 @@
           "name": "207",
           "size": 9322446,
           "telegram_link": "https://t.me/manhuasgratis/1342"
-        },
-        {
-          "name": "207",
-          "first": 207,
-          "last": 207,
-          "channel_id": -1003003829878,
-          "message_id": 2020,
-          "filename": "[#207]   El Hijo Menor del Maestro de la Espada.pdf",
-          "size": 10030880,
-          "date": "2026-08-21T19:20:52+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2020",
-          "download_ready": false,
-          "chapters": [
-            207
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_hijo_menor_del_maestro_de_la_espada/2020_%5B%23207%5D%20%20%20El%20Hijo%20Menor%20del%20Maestro%20de%20la%20Espada.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=200379eccd14c5546628ba6cfe56066845b351f53f7f0cf13d6b5cbe0bebd91b"
         },
         {
           "channel_id": -1003003829878,
@@ -93355,7 +93229,7 @@
       "latest_chapter": 223,
       "library_count": 6,
       "name": "El Mejor Ingeniero del Mundo",
-      "package_count": 24,
+      "package_count": 23,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -93881,32 +93755,6 @@
           "name": "201-210",
           "size": 81836321,
           "telegram_link": "https://t.me/manhuasgratis/282"
-        },
-        {
-          "name": "211-222",
-          "first": 211,
-          "last": 222,
-          "channel_id": -1003003829878,
-          "message_id": 283,
-          "filename": "211_222 El Mejor Ingeniero del Mundo.pdf",
-          "size": 84237148,
-          "date": "2026-01-27T11:46:42+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/283",
-          "download_ready": false,
-          "chapters": [
-            211,
-            212,
-            213,
-            214,
-            215,
-            216,
-            217,
-            218,
-            219,
-            220,
-            221,
-            222
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -96588,7 +96436,7 @@
       "latest_chapter": 80,
       "library_count": 4,
       "name": "El Perro Loco De La Mansión Del Duque",
-      "package_count": 51,
+      "package_count": 49,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -97141,38 +96989,6 @@
           "name": "59",
           "size": 8686354,
           "telegram_link": "https://t.me/manhuasgratis/758"
-        },
-        {
-          "name": "59",
-          "first": 59,
-          "last": 59,
-          "channel_id": -1003003829878,
-          "message_id": 764,
-          "filename": "[#59]   El Perro Loco de la Mansión del Duque.pdf",
-          "size": 8686354,
-          "date": "2026-08-13T19:34:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/764",
-          "download_ready": false,
-          "chapters": [
-            59
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/764_%5B%2359%5D%20%20%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d7fadf51e77de69be6c31b6009d16bd9f018f88ec44f8994596699c7d9734059"
-        },
-        {
-          "name": "59",
-          "first": 59,
-          "last": 59,
-          "channel_id": -1003003829878,
-          "message_id": 769,
-          "filename": "59 El Perro Loco de la Mansión del Duque.pdf",
-          "size": 8031802,
-          "date": "2026-08-13T19:35:06+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/769",
-          "download_ready": false,
-          "chapters": [
-            59
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_perro_loco_de_la_mansion_del_duque/769_59%20El%20Perro%20Loco%20de%20la%20Mansi%C3%B3n%20del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=67aa3b9230d6538103765114ceaa4538e3c41834e578f69a49e119557e1acea1"
         },
         {
           "channel_id": -1003003829878,
@@ -98267,14 +98083,14 @@
           ],
           "date": "2026-10-26T01:37:22+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6916_%5B%2301-10%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5999fdcb9f3f8296f12c3714c881416da7b87ff94fb891cea3653e6eabf346f1",
           "filename": "[#01-10]   El Prodigioso Caballero Oscuro.pdf",
           "first": 1,
           "last": 10,
           "message_id": 6916,
           "name": "1-10",
           "size": 100386733,
-          "telegram_link": "https://t.me/manhuasgratis/6916",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6916_%5B%2301-10%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5999fdcb9f3f8296f12c3714c881416da7b87ff94fb891cea3653e6eabf346f1"
+          "telegram_link": "https://t.me/manhuasgratis/6916"
         },
         {
           "channel_id": -1003003829878,
@@ -98292,14 +98108,14 @@
           ],
           "date": "2026-10-26T01:37:22+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6917_%5B%2311-20%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e078e5316c44b8e1fa7b5113cff76bb32bc800fabb83e1f02158a3791026fdeb",
           "filename": "[#11-20]   El Prodigioso Caballero Oscuro.pdf",
           "first": 11,
           "last": 20,
           "message_id": 6917,
           "name": "11-20",
           "size": 98029313,
-          "telegram_link": "https://t.me/manhuasgratis/6917",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6917_%5B%2311-20%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e078e5316c44b8e1fa7b5113cff76bb32bc800fabb83e1f02158a3791026fdeb"
+          "telegram_link": "https://t.me/manhuasgratis/6917"
         },
         {
           "channel_id": -1003003829878,
@@ -98317,14 +98133,14 @@
           ],
           "date": "2026-10-26T01:37:22+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6918_%5B%2321-30%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41ac98fa5b39b931bb86a5af96c02b2fa3474cf0f9037a4ab0c4caf7f23de594",
           "filename": "[#21-30]   El Prodigioso Caballero Oscuro.pdf",
           "first": 21,
           "last": 30,
           "message_id": 6918,
           "name": "21-30",
           "size": 93476406,
-          "telegram_link": "https://t.me/manhuasgratis/6918",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6918_%5B%2321-30%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41ac98fa5b39b931bb86a5af96c02b2fa3474cf0f9037a4ab0c4caf7f23de594"
+          "telegram_link": "https://t.me/manhuasgratis/6918"
         },
         {
           "channel_id": -1003003829878,
@@ -98342,14 +98158,14 @@
           ],
           "date": "2026-10-26T01:37:22+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6919_%5B%2331-40%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5dec13d765e334f8b4830093c09ecc78d75e06b34c16f0a0dc81b5fffb445117",
           "filename": "[#31-40]   El Prodigioso Caballero Oscuro.pdf",
           "first": 31,
           "last": 40,
           "message_id": 6919,
           "name": "31-40",
           "size": 81999274,
-          "telegram_link": "https://t.me/manhuasgratis/6919",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6919_%5B%2331-40%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5dec13d765e334f8b4830093c09ecc78d75e06b34c16f0a0dc81b5fffb445117"
+          "telegram_link": "https://t.me/manhuasgratis/6919"
         },
         {
           "channel_id": -1003003829878,
@@ -98367,14 +98183,14 @@
           ],
           "date": "2026-10-26T01:37:22+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6920_%5B%2341-50%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b51b87f02de44e094edd947b8a392492720260046dfc18c7b6730ec52b3553b2",
           "filename": "[#41-50]   El Prodigioso Caballero Oscuro.pdf",
           "first": 41,
           "last": 50,
           "message_id": 6920,
           "name": "41-50",
           "size": 84271527,
-          "telegram_link": "https://t.me/manhuasgratis/6920",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6920_%5B%2341-50%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b51b87f02de44e094edd947b8a392492720260046dfc18c7b6730ec52b3553b2"
+          "telegram_link": "https://t.me/manhuasgratis/6920"
         },
         {
           "channel_id": -1003003829878,
@@ -98392,14 +98208,14 @@
           ],
           "date": "2026-10-26T01:37:22+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6921_%5B%2351-60%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fc05a5c85cb93a0b75d01662b5bdc161a5e4e8930684c070d80085f17d573bf",
           "filename": "[#51-60]   El Prodigioso Caballero Oscuro.pdf",
           "first": 51,
           "last": 60,
           "message_id": 6921,
           "name": "51-60",
           "size": 105659367,
-          "telegram_link": "https://t.me/manhuasgratis/6921",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6921_%5B%2351-60%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fc05a5c85cb93a0b75d01662b5bdc161a5e4e8930684c070d80085f17d573bf"
+          "telegram_link": "https://t.me/manhuasgratis/6921"
         },
         {
           "channel_id": -1003003829878,
@@ -98417,14 +98233,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6922_%5B%2361-70%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f782f59cfe3beb0c9f5e8a7d953079b4b384c2f360e8757878acfe7ccb8b8fb",
           "filename": "[#61-70]   El Prodigioso Caballero Oscuro.pdf",
           "first": 61,
           "last": 70,
           "message_id": 6922,
           "name": "61-70",
           "size": 96656554,
-          "telegram_link": "https://t.me/manhuasgratis/6922",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6922_%5B%2361-70%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f782f59cfe3beb0c9f5e8a7d953079b4b384c2f360e8757878acfe7ccb8b8fb"
+          "telegram_link": "https://t.me/manhuasgratis/6922"
         },
         {
           "channel_id": -1003003829878,
@@ -98442,14 +98258,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6923_%5B%2371-80%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d80a0387f64a753f030cde5b635131dbabefa8253db63e618ff45a6712417cf4",
           "filename": "[#71-80]   El Prodigioso Caballero Oscuro.pdf",
           "first": 71,
           "last": 80,
           "message_id": 6923,
           "name": "71-80",
           "size": 81414198,
-          "telegram_link": "https://t.me/manhuasgratis/6923",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6923_%5B%2371-80%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d80a0387f64a753f030cde5b635131dbabefa8253db63e618ff45a6712417cf4"
+          "telegram_link": "https://t.me/manhuasgratis/6923"
         },
         {
           "channel_id": -1003003829878,
@@ -98467,14 +98283,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6924_%5B%2381-90%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92ae2564e28bf5762f3cfee8c716eda2cb35dce278b7f76d58a444a26a0b8b6b",
           "filename": "[#81-90]   El Prodigioso Caballero Oscuro.pdf",
           "first": 81,
           "last": 90,
           "message_id": 6924,
           "name": "81-90",
           "size": 89173720,
-          "telegram_link": "https://t.me/manhuasgratis/6924",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6924_%5B%2381-90%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92ae2564e28bf5762f3cfee8c716eda2cb35dce278b7f76d58a444a26a0b8b6b"
+          "telegram_link": "https://t.me/manhuasgratis/6924"
         },
         {
           "channel_id": -1003003829878,
@@ -98492,14 +98308,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6925_%5B%2391-100%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d151b37bff5ba9c3f9d8aa91a6ba0b597cb5fde226245dd1bfab64b447dcc310",
           "filename": "[#91-100]   El Prodigioso Caballero Oscuro.pdf",
           "first": 91,
           "last": 100,
           "message_id": 6925,
           "name": "91-100",
           "size": 80840386,
-          "telegram_link": "https://t.me/manhuasgratis/6925",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6925_%5B%2391-100%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d151b37bff5ba9c3f9d8aa91a6ba0b597cb5fde226245dd1bfab64b447dcc310"
+          "telegram_link": "https://t.me/manhuasgratis/6925"
         },
         {
           "channel_id": -1003003829878,
@@ -98517,14 +98333,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6926_%5B%23101-110%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad4c10a8d5b609a234ee14b8b00a5449710eb6085de80ebbb129e87bdba11387",
           "filename": "[#101-110]   El Prodigioso Caballero Oscuro.pdf",
           "first": 101,
           "last": 110,
           "message_id": 6926,
           "name": "101-110",
           "size": 90610367,
-          "telegram_link": "https://t.me/manhuasgratis/6926",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6926_%5B%23101-110%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad4c10a8d5b609a234ee14b8b00a5449710eb6085de80ebbb129e87bdba11387"
+          "telegram_link": "https://t.me/manhuasgratis/6926"
         },
         {
           "channel_id": -1003003829878,
@@ -98542,14 +98358,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6927_%5B%23111-120%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=104d74a6b156f659efc1781fa398dc1fbbc41b36293e3c28fe0cb9cf63c512b3",
           "filename": "[#111-120]   El Prodigioso Caballero Oscuro.pdf",
           "first": 111,
           "last": 120,
           "message_id": 6927,
           "name": "111-120",
           "size": 91901243,
-          "telegram_link": "https://t.me/manhuasgratis/6927",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6927_%5B%23111-120%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=104d74a6b156f659efc1781fa398dc1fbbc41b36293e3c28fe0cb9cf63c512b3"
+          "telegram_link": "https://t.me/manhuasgratis/6927"
         },
         {
           "channel_id": -1003003829878,
@@ -98567,14 +98383,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6928_%5B%23121-130%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=636a2718c6c0279231fc1290232b9791bf479c7e201adb8d020efd4441976b80",
           "filename": "[#121-130]   El Prodigioso Caballero Oscuro.pdf",
           "first": 121,
           "last": 130,
           "message_id": 6928,
           "name": "121-130",
           "size": 92219762,
-          "telegram_link": "https://t.me/manhuasgratis/6928",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6928_%5B%23121-130%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=636a2718c6c0279231fc1290232b9791bf479c7e201adb8d020efd4441976b80"
+          "telegram_link": "https://t.me/manhuasgratis/6928"
         },
         {
           "channel_id": -1003003829878,
@@ -98592,14 +98408,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6929_%5B%23131-140%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed24751847ba921ef4fddc0d75e0ff100937376c77db8631b3e60271288c350d",
           "filename": "[#131-140]   El Prodigioso Caballero Oscuro.pdf",
           "first": 131,
           "last": 140,
           "message_id": 6929,
           "name": "131-140",
           "size": 114762962,
-          "telegram_link": "https://t.me/manhuasgratis/6929",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6929_%5B%23131-140%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed24751847ba921ef4fddc0d75e0ff100937376c77db8631b3e60271288c350d"
+          "telegram_link": "https://t.me/manhuasgratis/6929"
         },
         {
           "channel_id": -1003003829878,
@@ -98609,14 +98425,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6930_%5B%23141-142%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9a76871525a03c13b1e1c110b0eb75b32881ea7629674ed685252d2ec5d154b1",
           "filename": "[#141-142]   El Prodigioso Caballero Oscuro.pdf",
           "first": 141,
           "last": 142,
           "message_id": 6930,
           "name": "141-142",
           "size": 27010356,
-          "telegram_link": "https://t.me/manhuasgratis/6930",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6930_%5B%23141-142%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9a76871525a03c13b1e1c110b0eb75b32881ea7629674ed685252d2ec5d154b1"
+          "telegram_link": "https://t.me/manhuasgratis/6930"
         },
         {
           "channel_id": -1003003829878,
@@ -98625,14 +98441,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6931_%5B%23143%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=68643062e6e71559ad62c773b270a4f0651f503dc49c85bf382eef6600c6deac",
           "filename": "[#143]   El Prodigioso Caballero Oscuro.pdf",
           "first": 143,
           "last": 143,
           "message_id": 6931,
           "name": "143",
           "size": 12976807,
-          "telegram_link": "https://t.me/manhuasgratis/6931",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6931_%5B%23143%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=68643062e6e71559ad62c773b270a4f0651f503dc49c85bf382eef6600c6deac"
+          "telegram_link": "https://t.me/manhuasgratis/6931"
         },
         {
           "channel_id": -1003003829878,
@@ -98641,14 +98457,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6932_%5B%23144%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fe9d601d664505379553aff2d45c356e473ab9ce99f8e9dc94eea3601d74341",
           "filename": "[#144]   El Prodigioso Caballero Oscuro.pdf",
           "first": 144,
           "last": 144,
           "message_id": 6932,
           "name": "144",
           "size": 15026108,
-          "telegram_link": "https://t.me/manhuasgratis/6932",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6932_%5B%23144%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fe9d601d664505379553aff2d45c356e473ab9ce99f8e9dc94eea3601d74341"
+          "telegram_link": "https://t.me/manhuasgratis/6932"
         },
         {
           "channel_id": -1003003829878,
@@ -98657,14 +98473,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6933_%5B%23145%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e761e144a6ca036f6f4d831f54b63e33715e6797106c6ff5f0a6760f188111bb",
           "filename": "[#145]   El Prodigioso Caballero Oscuro.pdf",
           "first": 145,
           "last": 145,
           "message_id": 6933,
           "name": "145",
           "size": 13967741,
-          "telegram_link": "https://t.me/manhuasgratis/6933",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6933_%5B%23145%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e761e144a6ca036f6f4d831f54b63e33715e6797106c6ff5f0a6760f188111bb"
+          "telegram_link": "https://t.me/manhuasgratis/6933"
         },
         {
           "channel_id": -1003003829878,
@@ -98673,14 +98489,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6934_%5B%23146%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4316484cff95ab5524c831b03a11817ad40e396ff20affb5816b05f92b21f359",
           "filename": "[#146]   El Prodigioso Caballero Oscuro.pdf",
           "first": 146,
           "last": 146,
           "message_id": 6934,
           "name": "146",
           "size": 14584998,
-          "telegram_link": "https://t.me/manhuasgratis/6934",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6934_%5B%23146%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4316484cff95ab5524c831b03a11817ad40e396ff20affb5816b05f92b21f359"
+          "telegram_link": "https://t.me/manhuasgratis/6934"
         },
         {
           "channel_id": -1003003829878,
@@ -98689,14 +98505,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6935_%5B%23147%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4ff01e782f6283ada5c5847ddece6cda615eda6011137c588846dae31f5c213e",
           "filename": "[#147]   El Prodigioso Caballero Oscuro.pdf",
           "first": 147,
           "last": 147,
           "message_id": 6935,
           "name": "147",
           "size": 12989671,
-          "telegram_link": "https://t.me/manhuasgratis/6935",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6935_%5B%23147%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4ff01e782f6283ada5c5847ddece6cda615eda6011137c588846dae31f5c213e"
+          "telegram_link": "https://t.me/manhuasgratis/6935"
         },
         {
           "channel_id": -1003003829878,
@@ -98705,14 +98521,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6936_%5B%23148%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=48ea4b5c6cb505407ace259b8a4ea5e51583155429a556d928565101afb0ec91",
           "filename": "[#148]   El Prodigioso Caballero Oscuro.pdf",
           "first": 148,
           "last": 148,
           "message_id": 6936,
           "name": "148",
           "size": 15142044,
-          "telegram_link": "https://t.me/manhuasgratis/6936",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6936_%5B%23148%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=48ea4b5c6cb505407ace259b8a4ea5e51583155429a556d928565101afb0ec91"
+          "telegram_link": "https://t.me/manhuasgratis/6936"
         },
         {
           "channel_id": -1003003829878,
@@ -98721,14 +98537,14 @@
           ],
           "date": "2026-10-26T01:37:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6937_%5B%23149%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e6d5c145acb2e347450cd2261571eaca6416aa4efa4d5a92761411b48e25955e",
           "filename": "[#149]   El Prodigioso Caballero Oscuro.pdf",
           "first": 149,
           "last": 149,
           "message_id": 6937,
           "name": "149",
           "size": 13657736,
-          "telegram_link": "https://t.me/manhuasgratis/6937",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6937_%5B%23149%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e6d5c145acb2e347450cd2261571eaca6416aa4efa4d5a92761411b48e25955e"
+          "telegram_link": "https://t.me/manhuasgratis/6937"
         },
         {
           "channel_id": -1003003829878,
@@ -98737,14 +98553,14 @@
           ],
           "date": "2026-10-26T01:37:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6938_%5B%23150%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8e73a3b08284d517c9c2a291997e6fa0769de7bf87d13070094db0cc09ea1939",
           "filename": "[#150]   El Prodigioso Caballero Oscuro.pdf",
           "first": 150,
           "last": 150,
           "message_id": 6938,
           "name": "150",
           "size": 14825721,
-          "telegram_link": "https://t.me/manhuasgratis/6938",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6938_%5B%23150%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8e73a3b08284d517c9c2a291997e6fa0769de7bf87d13070094db0cc09ea1939"
+          "telegram_link": "https://t.me/manhuasgratis/6938"
         },
         {
           "channel_id": -1003003829878,
@@ -98753,14 +98569,14 @@
           ],
           "date": "2026-10-26T01:37:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6939_%5B%23151%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0cd9cec7d924f9cb425a6f8e30618fc23fbb7e1caebeb67d7f4dbe8b59a606c5",
           "filename": "[#151]   El Prodigioso Caballero Oscuro.pdf",
           "first": 151,
           "last": 151,
           "message_id": 6939,
           "name": "151",
           "size": 15597733,
-          "telegram_link": "https://t.me/manhuasgratis/6939",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6939_%5B%23151%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T082921Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0cd9cec7d924f9cb425a6f8e30618fc23fbb7e1caebeb67d7f4dbe8b59a606c5"
+          "telegram_link": "https://t.me/manhuasgratis/6939"
         }
       ],
       "rating": 0,
@@ -99532,7 +99348,7 @@
       "latest_chapter": 128,
       "library_count": 5,
       "name": "El Príncipe Heredero Que Vende Medicina",
-      "package_count": 50,
+      "package_count": 48,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -100122,23 +99938,6 @@
           "telegram_link": "https://t.me/manhuasgratis/783"
         },
         {
-          "name": "106-107",
-          "first": 106,
-          "last": 107,
-          "channel_id": -1003003829878,
-          "message_id": 784,
-          "filename": "[106-107] El príncipe heredero que vende medicina.pdf",
-          "size": 22635374,
-          "date": "2026-08-13T19:36:51+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/784",
-          "download_ready": false,
-          "chapters": [
-            106,
-            107
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_principe_heredero_que_vende_medicina/784_%5B106-107%5D%20El%20pr%C3%ADncipe%20heredero%20que%20vende%20medicina.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed8425b59186b7ac9d24f6f6f4aa9531a2c25b3da4ecf945323956980f2a0645"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             108
@@ -100170,23 +99969,6 @@
           "name": "109-110",
           "size": 20044427,
           "telegram_link": "https://t.me/manhuasgratis/786"
-        },
-        {
-          "name": "109-110",
-          "first": 109,
-          "last": 110,
-          "channel_id": -1003003829878,
-          "message_id": 787,
-          "filename": "[109-110] El príncipe heredero que vende medicina.pdf",
-          "size": 20044427,
-          "date": "2026-08-13T19:37:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/787",
-          "download_ready": false,
-          "chapters": [
-            109,
-            110
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_principe_heredero_que_vende_medicina/787_%5B109-110%5D%20El%20pr%C3%ADncipe%20heredero%20que%20vende%20medicina.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=38d666e1cfbec1dc5119158e79677501cc2f466d9c7fab716864ad884e643e01"
         },
         {
           "channel_id": -1003003829878,
@@ -101626,10 +101408,10 @@
       ],
       "hashtag": "#El_Regreso_Del_Caballero_De_La_Muerte",
       "id": "el_regreso_del_caballero_de_la_muerte",
-      "latest_chapter": 142,
+      "latest_chapter": 92,
       "library_count": 2,
       "name": "El Regreso Del Caballero De La Muerte",
-      "package_count": 57,
+      "package_count": 56,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -102562,21 +102344,6 @@
           "name": "92",
           "size": 13557096,
           "telegram_link": "https://t.me/manhuasgratis/6076"
-        },
-        {
-          "name": "142",
-          "first": 142,
-          "last": 142,
-          "channel_id": -1003003829878,
-          "message_id": 4184,
-          "filename": "142 • El Asesino que Retornó Como el Hijo del Duque.pdf",
-          "size": 6978993,
-          "date": "2026-08-31T16:42:00+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4184",
-          "download_ready": false,
-          "chapters": [
-            142
-          ]
         }
       ],
       "rating": 0,
@@ -107814,7 +107581,7 @@
       "latest_chapter": 20,
       "library_count": 1,
       "name": "El Septimo Principe Quiere Escapar",
-      "package_count": 3,
+      "package_count": 2,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -107865,30 +107632,6 @@
           "name": "11-20",
           "size": 74997355,
           "telegram_link": "https://t.me/manhuasgratis/4494"
-        },
-        {
-          "name": "11-20",
-          "first": 11,
-          "last": 20,
-          "channel_id": -1003003829878,
-          "message_id": 6886,
-          "filename": "11-20 El Séptimo Príncipe Quiere Escapar -.-.pdf",
-          "size": 74997355,
-          "date": "2026-10-24T13:56:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6886",
-          "download_ready": false,
-          "chapters": [
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ]
         }
       ],
       "rating": 0,
@@ -111799,7 +111542,7 @@
       "latest_chapter": 120,
       "library_count": 3,
       "name": "El Último Aventurero",
-      "package_count": 28,
+      "package_count": 25,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -112234,40 +111977,6 @@
           "telegram_link": "https://t.me/manhuasgratis/802"
         },
         {
-          "name": "114-115",
-          "first": 114,
-          "last": 115,
-          "channel_id": -1003003829878,
-          "message_id": 803,
-          "filename": "│114-115│El Último Aventurero.pdf",
-          "size": 14541054,
-          "date": "2026-08-13T19:38:51+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/803",
-          "download_ready": false,
-          "chapters": [
-            114,
-            115
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ultimo_aventurero/803_%E2%94%82114-115%E2%94%82El%20%C3%9Altimo%20Aventurero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=380a37767be601256b8a8d76db9f8f1dd28d8db180f2f7940271087a9887de70"
-        },
-        {
-          "name": "114-115",
-          "first": 114,
-          "last": 115,
-          "channel_id": -1003003829878,
-          "message_id": 804,
-          "filename": "│114-115│El Último Aventurero.pdf",
-          "size": 14541054,
-          "date": "2026-08-13T19:38:58+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/804",
-          "download_ready": false,
-          "chapters": [
-            114,
-            115
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ultimo_aventurero/804_%E2%94%82114-115%E2%94%82El%20%C3%9Altimo%20Aventurero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c05d408ea8c52cf5b1219fa285f037fe8ed7b77a7ed5192791d0a189905021be"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             116
@@ -112331,23 +112040,6 @@
           "name": "119-120",
           "size": 17251893,
           "telegram_link": "https://t.me/manhuasgratis/808"
-        },
-        {
-          "name": "119-120",
-          "first": 119,
-          "last": 120,
-          "channel_id": -1003003829878,
-          "message_id": 809,
-          "filename": "[119-120] El Último Aventurero.pdf",
-          "size": 17251893,
-          "date": "2026-08-13T19:39:27+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/809",
-          "download_ready": false,
-          "chapters": [
-            119,
-            120
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ultimo_aventurero/809_%5B119-120%5D%20El%20%C3%9Altimo%20Aventurero.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f70883bfaeeb8a3fe38f62ca5bdefb2f53218854baaeaf73404bb51fe4c0b305"
         }
       ],
       "rating": 0,
@@ -117814,7 +117506,7 @@
       "latest_chapter": 41,
       "library_count": 5,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 22,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -117842,31 +117534,6 @@
           "telegram_link": "https://t.me/manhuasgratis/2032"
         },
         {
-          "name": "1-10",
-          "first": 1,
-          "last": 10,
-          "channel_id": -1003003829878,
-          "message_id": 4408,
-          "filename": "[#01-10]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 175971088,
-          "date": "2026-09-11T16:59:48+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4408",
-          "download_ready": false,
-          "chapters": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4408_%5B%2301-10%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d8b1e3d3b52115fca12dc1cdefca7ff922478b1af31d5764fcefc19a1f8f88d6"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             11,
@@ -117892,31 +117559,6 @@
           "telegram_link": "https://t.me/manhuasgratis/2033"
         },
         {
-          "name": "11-20",
-          "first": 11,
-          "last": 20,
-          "channel_id": -1003003829878,
-          "message_id": 4409,
-          "filename": "[#11-20]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 168803321,
-          "date": "2026-09-11T16:59:48+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4409",
-          "download_ready": false,
-          "chapters": [
-            11,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4409_%5B%2311-20%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=822df23cd176635386bab941efd89a72f4e73415fdbea566be8cf1b5abe0c67a"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             21,
@@ -117936,27 +117578,6 @@
           "name": "21-26",
           "size": 97252505,
           "telegram_link": "https://t.me/manhuasgratis/2034"
-        },
-        {
-          "name": "21-26",
-          "first": 21,
-          "last": 26,
-          "channel_id": -1003003829878,
-          "message_id": 4410,
-          "filename": "[#21-26]   Esclavo Corporativo en una Historia de Fantasmas .pdf",
-          "size": 97252505,
-          "date": "2026-09-11T16:59:48+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4410",
-          "download_ready": false,
-          "chapters": [
-            21,
-            22,
-            23,
-            24,
-            25,
-            26
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4410_%5B%2321-26%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0fcd106f05ea9e1a076e501ad11051cb0f58f99b6f6fe2ccd184b25d5a0af71c"
         },
         {
           "channel_id": -1003003829878,
@@ -118136,22 +117757,6 @@
           "telegram_link": "https://t.me/manhuasgratis/4814"
         },
         {
-          "name": "38",
-          "first": 38,
-          "last": 38,
-          "channel_id": -1003003829878,
-          "message_id": 4815,
-          "filename": "[#38]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 11535775,
-          "date": "2026-10-03T04:10:50+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/4815",
-          "download_ready": false,
-          "chapters": [
-            38
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/4815_%5B%2338%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02aa1321f4af0019fba8f67e97efb992b5b6c624a533245e623fdc70e6278203"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             39
@@ -118182,22 +117787,6 @@
           "name": "40",
           "size": 14112602,
           "telegram_link": "https://t.me/manhuasgratis/5628"
-        },
-        {
-          "name": "40",
-          "first": 40,
-          "last": 40,
-          "channel_id": -1003003829878,
-          "message_id": 5629,
-          "filename": "[#40]   Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 14112602,
-          "date": "2026-10-17T04:11:46+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5629",
-          "download_ready": false,
-          "chapters": [
-            40
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/5629_%5B%2340%5D%20%20%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6fb9ba511ce894422dfd87c8311f289c256fb608eb07b7db39fb930d11f22c8d"
         },
         {
           "channel_id": -1003003829878,
@@ -119016,7 +118605,7 @@
       "latest_chapter": 203,
       "library_count": 7,
       "name": "Estandar de la reencarnacion",
-      "package_count": 72,
+      "package_count": 71,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -119639,22 +119228,6 @@
           "name": "157",
           "size": 9109833,
           "telegram_link": "https://t.me/manhuasgratis/2518"
-        },
-        {
-          "name": "157",
-          "first": 157,
-          "last": 157,
-          "channel_id": -1003003829878,
-          "message_id": 2519,
-          "filename": "[#157]   Estandar De La Reencarnación.pdf",
-          "size": 8831240,
-          "date": "2026-08-22T13:32:42+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2519",
-          "download_ready": false,
-          "chapters": [
-            157
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/estandar_de_la_reencarnacion/2519_%5B%23157%5D%20%20%20Estandar%20De%20La%20Reencarnaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=27dc92b779adab2d0f13096c33851cc3942f81916eb5ba0de7e16c0bb7571f34"
         },
         {
           "channel_id": -1003003829878,
@@ -134068,19 +133641,19 @@
           "telegram_link": "https://t.me/manhuasgratis/5868"
         },
         {
-          "name": "26",
-          "first": 26,
-          "last": 26,
           "channel_id": -1003003829878,
-          "message_id": 6944,
-          "filename": "[#26]   Haciéndome Rico con la Caza Automática.pdf",
-          "size": 21019058,
-          "date": "2026-10-26T04:17:24+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6944",
-          "download_ready": false,
           "chapters": [
             26
-          ]
+          ],
+          "date": "2026-10-26T04:17:24+00:00",
+          "download_ready": true,
+          "filename": "[#26]   Haciéndome Rico con la Caza Automática.pdf",
+          "first": 26,
+          "last": 26,
+          "message_id": 6944,
+          "name": "26",
+          "size": 21019058,
+          "telegram_link": "https://t.me/manhuasgratis/6944"
         }
       ],
       "rating": 5,
@@ -143485,36 +143058,36 @@
           "telegram_link": "https://t.me/manhuasgratis/4885"
         },
         {
-          "name": "79-80",
-          "first": 79,
-          "last": 80,
           "channel_id": -1003003829878,
-          "message_id": 6945,
-          "filename": "[#79-80]   Invocador de Demonios, Yo Soy el Abismo.pdf",
-          "size": 27507026,
-          "date": "2026-10-26T04:17:27+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6945",
-          "download_ready": false,
           "chapters": [
             79,
             80
-          ]
+          ],
+          "date": "2026-10-26T04:17:27+00:00",
+          "download_ready": true,
+          "filename": "[#79-80]   Invocador de Demonios, Yo Soy el Abismo.pdf",
+          "first": 79,
+          "last": 80,
+          "message_id": 6945,
+          "name": "79-80",
+          "size": 27507026,
+          "telegram_link": "https://t.me/manhuasgratis/6945"
         },
         {
-          "name": "81-82",
-          "first": 81,
-          "last": 82,
           "channel_id": -1003003829878,
-          "message_id": 6946,
-          "filename": "[#81-82]   Invocador de Demonios, Yo Soy el Abismo.pdf",
-          "size": 24856938,
-          "date": "2026-10-26T04:17:28+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6946",
-          "download_ready": false,
           "chapters": [
             81,
             82
-          ]
+          ],
+          "date": "2026-10-26T04:17:28+00:00",
+          "download_ready": true,
+          "filename": "[#81-82]   Invocador de Demonios, Yo Soy el Abismo.pdf",
+          "first": 81,
+          "last": 82,
+          "message_id": 6946,
+          "name": "81-82",
+          "size": 24856938,
+          "telegram_link": "https://t.me/manhuasgratis/6946"
         }
       ],
       "rating": 5,
@@ -147141,7 +146714,7 @@
       "latest_chapter": 226,
       "library_count": 4,
       "name": "Jungle Juice",
-      "package_count": 44,
+      "package_count": 43,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -147622,23 +147195,6 @@
           "telegram_link": "https://t.me/manhuasgratis/3618"
         },
         {
-          "name": "152-153",
-          "first": 152,
-          "last": 153,
-          "channel_id": -1003003829878,
-          "message_id": 3621,
-          "filename": "┇152-153┇Jungle Juice.pdf",
-          "size": 32409018,
-          "date": "2026-08-26T14:26:01+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/3621",
-          "download_ready": false,
-          "chapters": [
-            152,
-            153
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/jungle_juice/3621_%E2%94%87152-153%E2%94%87Jungle%20Juice.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e77e516206aef468d8167d0755bd98342fd7869feaac58703241e46f1e4f852"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             154
@@ -148021,19 +147577,19 @@
           "telegram_link": "https://t.me/manhuasgratis/5869"
         },
         {
-          "name": "226",
-          "first": 226,
-          "last": 226,
           "channel_id": -1003003829878,
-          "message_id": 6947,
-          "filename": "│226│Jungle Juice.pdf",
-          "size": 11300502,
-          "date": "2026-10-26T04:17:31+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6947",
-          "download_ready": false,
           "chapters": [
             226
-          ]
+          ],
+          "date": "2026-10-26T04:17:31+00:00",
+          "download_ready": true,
+          "filename": "│226│Jungle Juice.pdf",
+          "first": 226,
+          "last": 226,
+          "message_id": 6947,
+          "name": "226",
+          "size": 11300502,
+          "telegram_link": "https://t.me/manhuasgratis/6947"
         }
       ],
       "rating": 5,
@@ -205837,7 +205393,7 @@
       "latest_chapter": 237,
       "library_count": 4,
       "name": "Mi papá es demasiado fuerte",
-      "package_count": 16,
+      "package_count": 15,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -206219,47 +205775,6 @@
           "name": "121-146",
           "size": 237237557,
           "telegram_link": "https://t.me/manhuasgratis/101"
-        },
-        {
-          "name": "121-146",
-          "first": 121,
-          "last": 146,
-          "channel_id": -1003003829878,
-          "message_id": 328,
-          "filename": "121-146 Mi papá es demasiado fuerte -.-.pdf",
-          "size": 237237557,
-          "date": "2026-02-08T17:35:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/328",
-          "download_ready": false,
-          "chapters": [
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
-            127,
-            128,
-            129,
-            130,
-            131,
-            132,
-            133,
-            134,
-            135,
-            136,
-            137,
-            138,
-            139,
-            140,
-            141,
-            142,
-            143,
-            144,
-            145,
-            146
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/mi_papa_es_demasiado_fuerte/328_121-146%20Mi%20pap%C3%A1%20es%20demasiado%20fuerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=11f3a924bcfb84d32aa3d8a0df80a009ef92b0e70c14423b85e9f2c370f89015"
         },
         {
           "channel_id": -1003003829878,
@@ -211127,7 +210642,7 @@
       "latest_chapter": 250,
       "library_count": 2,
       "name": "Murim Login",
-      "package_count": 31,
+      "package_count": 26,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -211700,24 +211215,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6863"
         },
         {
-          "name": "237-240",
-          "first": 237,
-          "last": 240,
-          "channel_id": -1003003829878,
-          "message_id": 6891,
-          "filename": "237-240 Murim Login -.-.pdf",
-          "size": 46850595,
-          "date": "2026-10-24T13:56:50+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6891",
-          "download_ready": false,
-          "chapters": [
-            237,
-            238,
-            239,
-            240
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             241,
@@ -211733,22 +211230,6 @@
           "name": "241-242",
           "size": 21192505,
           "telegram_link": "https://t.me/manhuasgratis/6864"
-        },
-        {
-          "name": "241-242",
-          "first": 241,
-          "last": 242,
-          "channel_id": -1003003829878,
-          "message_id": 6900,
-          "filename": "241-242 Murim Login -.-.pdf",
-          "size": 21192505,
-          "date": "2026-10-24T20:17:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6900",
-          "download_ready": false,
-          "chapters": [
-            241,
-            242
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -211770,24 +211251,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6865"
         },
         {
-          "name": "243-246",
-          "first": 243,
-          "last": 246,
-          "channel_id": -1003003829878,
-          "message_id": 6906,
-          "filename": "243-246 Murim login -.-.pdf",
-          "size": 45522514,
-          "date": "2026-10-25T04:17:38+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6906",
-          "download_ready": false,
-          "chapters": [
-            243,
-            244,
-            245,
-            246
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             247,
@@ -211805,22 +211268,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6866"
         },
         {
-          "name": "247-248",
-          "first": 247,
-          "last": 248,
-          "channel_id": -1003003829878,
-          "message_id": 6908,
-          "filename": "247-248 Murim login -.-.pdf",
-          "size": 18929383,
-          "date": "2026-10-25T12:18:20+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6908",
-          "download_ready": false,
-          "chapters": [
-            247,
-            248
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             249,
@@ -211836,22 +211283,6 @@
           "name": "249-250",
           "size": 17176764,
           "telegram_link": "https://t.me/manhuasgratis/6867"
-        },
-        {
-          "name": "249-250",
-          "first": 249,
-          "last": 250,
-          "channel_id": -1003003829878,
-          "message_id": 6912,
-          "filename": "249-250 Murim login -.-.pdf",
-          "size": 17176764,
-          "date": "2026-10-25T20:17:40+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6912",
-          "download_ready": false,
-          "chapters": [
-            249,
-            250
-          ]
         }
       ],
       "rating": 4,
@@ -219447,7 +218878,7 @@
       "latest_chapter": 127,
       "library_count": 5,
       "name": "No Soy Esa Clase De Talento",
-      "package_count": 25,
+      "package_count": 24,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -219901,29 +219332,6 @@
           "name": "111-118",
           "size": 54643388,
           "telegram_link": "https://t.me/manhuasgratis/5544"
-        },
-        {
-          "name": "111-118",
-          "first": 111,
-          "last": 118,
-          "channel_id": -1003003829878,
-          "message_id": 5558,
-          "filename": "[✦ 111-118] No Soy Esa Clase De Talento🏮JMX.pdf",
-          "size": 54643388,
-          "date": "2026-10-14T20:12:37+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5558",
-          "download_ready": false,
-          "chapters": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116,
-            117,
-            118
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_soy_esa_clase_de_talento/5558_%5B%E2%9C%A6%20111-118%5D%20No%20Soy%20Esa%20Clase%20De%20Talento%F0%9F%8F%AEJMX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c85a0e0b0811bc0e179b5614ec7b0ab82cdc682d52eac50aa28af237142f8d30"
         },
         {
           "channel_id": -1003003829878,
@@ -226511,7 +225919,7 @@
       "latest_chapter": 308,
       "library_count": 3,
       "name": "One Punch Man",
-      "package_count": 93,
+      "package_count": 80,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -226592,22 +226000,6 @@
           "name": "30",
           "size": 82060250,
           "telegram_link": "https://t.me/manhuasgratis/6121"
-        },
-        {
-          "name": "30",
-          "first": 30,
-          "last": 30,
-          "channel_id": -1003003829878,
-          "message_id": 6156,
-          "filename": "│Extras Tomo 30│One Punch Man.pdf",
-          "size": 2909710,
-          "date": "2026-10-20T22:28:17+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6156",
-          "download_ready": false,
-          "chapters": [
-            30
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6156_%E2%94%82Extras%20Tomo%2030%E2%94%82One%20Punch%20Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2229a78f7cb060bc118d57036adfd965bf2b1786dc179cc75e6280b03c1f78ba"
         },
         {
           "channel_id": -1003003829878,
@@ -226996,22 +226388,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6155"
         },
         {
-          "name": "248",
-          "first": 248,
-          "last": 248,
-          "channel_id": -1003003829878,
-          "message_id": 6167,
-          "filename": "│248│One Punch Man.pdf",
-          "size": 12028058,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6167",
-          "download_ready": false,
-          "chapters": [
-            248
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6167_%E2%94%82248%E2%94%82One%20Punch%20Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d447ff3feee3786a105b13a4360ccbb930b94bf3a5d43f2290f1465dbb51f5c7"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             249
@@ -227026,22 +226402,6 @@
           "name": "249",
           "size": 9469734,
           "telegram_link": "https://t.me/manhuasgratis/6157"
-        },
-        {
-          "name": "249",
-          "first": 249,
-          "last": 249,
-          "channel_id": -1003003829878,
-          "message_id": 6168,
-          "filename": "│249│One Punch Man.pdf",
-          "size": 8920606,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6168",
-          "download_ready": false,
-          "chapters": [
-            249
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6168_%E2%94%82249%E2%94%82One%20Punch%20Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=be6f42c0919ad3ed9c241052a43d4f73f609f37bf79b9c3baa9288e1ed21d2e8"
         },
         {
           "channel_id": -1003003829878,
@@ -227060,22 +226420,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6158"
         },
         {
-          "name": "250",
-          "first": 250,
-          "last": 250,
-          "channel_id": -1003003829878,
-          "message_id": 6169,
-          "filename": "(250) One Punch Man.pdf",
-          "size": 9837640,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6169",
-          "download_ready": false,
-          "chapters": [
-            250
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6169_%28250%29%20One%20Punch%20Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ca9a6014d2aae2d1533d1b8b9ebd9b1291e9ae446fbb581ac891c65f6d076461"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             251
@@ -227090,22 +226434,6 @@
           "name": "251",
           "size": 14527820,
           "telegram_link": "https://t.me/manhuasgratis/6159"
-        },
-        {
-          "name": "251",
-          "first": 251,
-          "last": 251,
-          "channel_id": -1003003829878,
-          "message_id": 6170,
-          "filename": "│251│One Punch Man.pdf",
-          "size": 5557044,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6170",
-          "download_ready": false,
-          "chapters": [
-            251
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6170_%E2%94%82251%E2%94%82One%20Punch%20Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f24f9378b237a8c8cadf5590d27677636899b6406632bbad2232f25987af067"
         },
         {
           "channel_id": -1003003829878,
@@ -227124,22 +226452,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6160"
         },
         {
-          "name": "252",
-          "first": 252,
-          "last": 252,
-          "channel_id": -1003003829878,
-          "message_id": 6171,
-          "filename": "▎252 ▎One Punch-Man.pdf",
-          "size": 9442760,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6171",
-          "download_ready": false,
-          "chapters": [
-            252
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6171_%E2%96%8E252%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=099be04edbdb2dd796587be65822e923962c817dbbc600088254dfa9d1003117"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             253
@@ -227154,22 +226466,6 @@
           "name": "253",
           "size": 10881503,
           "telegram_link": "https://t.me/manhuasgratis/6161"
-        },
-        {
-          "name": "253",
-          "first": 253,
-          "last": 253,
-          "channel_id": -1003003829878,
-          "message_id": 6172,
-          "filename": "▎253 ▎One Punch-Man.pdf",
-          "size": 10881503,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6172",
-          "download_ready": false,
-          "chapters": [
-            253
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6172_%E2%96%8E253%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=01122fd7749d679351f4ccac36365cc5ca2388aa1a0239e0216a107c3365fd07"
         },
         {
           "channel_id": -1003003829878,
@@ -227188,22 +226484,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6162"
         },
         {
-          "name": "254",
-          "first": 254,
-          "last": 254,
-          "channel_id": -1003003829878,
-          "message_id": 6173,
-          "filename": "▎254 ▎One Punch-Man.pdf",
-          "size": 12591622,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6173",
-          "download_ready": false,
-          "chapters": [
-            254
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6173_%E2%96%8E254%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bb440c1459d51de36807bcc65918874b5a23475f729a8b7ede32c274cbe13ffe"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             255
@@ -227218,22 +226498,6 @@
           "name": "255",
           "size": 13212593,
           "telegram_link": "https://t.me/manhuasgratis/6163"
-        },
-        {
-          "name": "255",
-          "first": 255,
-          "last": 255,
-          "channel_id": -1003003829878,
-          "message_id": 6174,
-          "filename": "▎255 ▎One Punch-Man.pdf",
-          "size": 13212593,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6174",
-          "download_ready": false,
-          "chapters": [
-            255
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6174_%E2%96%8E255%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4509a93ce018f2f11d9b228ab0c363e187093eba1de5fe5d7013dbe3a41f98dd"
         },
         {
           "channel_id": -1003003829878,
@@ -227252,22 +226516,6 @@
           "telegram_link": "https://t.me/manhuasgratis/6164"
         },
         {
-          "name": "256",
-          "first": 256,
-          "last": 256,
-          "channel_id": -1003003829878,
-          "message_id": 6175,
-          "filename": "▎256 ▎One Punch-Man.pdf",
-          "size": 11531366,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6175",
-          "download_ready": false,
-          "chapters": [
-            256
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6175_%E2%96%8E256%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b20f7f9d034ee55da4fe813a473114d63808bb5c59fc5d8a365a4a39f6b148b7"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             257
@@ -227282,54 +226530,6 @@
           "name": "257",
           "size": 13478980,
           "telegram_link": "https://t.me/manhuasgratis/6165"
-        },
-        {
-          "name": "257",
-          "first": 257,
-          "last": 257,
-          "channel_id": -1003003829878,
-          "message_id": 6166,
-          "filename": "▎257.5 ▎One Punch-Man.pdf",
-          "size": 10391759,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6166",
-          "download_ready": false,
-          "chapters": [
-            257
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6166_%E2%96%8E257.5%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a3f7f10e2dd7e9e1272a6df5dba0647c484fba5ca0415f58a987278c762ba00"
-        },
-        {
-          "name": "257",
-          "first": 257,
-          "last": 257,
-          "channel_id": -1003003829878,
-          "message_id": 6176,
-          "filename": "▎257 ▎One Punch-Man.pdf",
-          "size": 13478980,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6176",
-          "download_ready": false,
-          "chapters": [
-            257
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6176_%E2%96%8E257%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5b03c7dd0f98b19cb3ea508e8984a80aca854dc339ebda39a0f152908592eeb"
-        },
-        {
-          "name": "257",
-          "first": 257,
-          "last": 257,
-          "channel_id": -1003003829878,
-          "message_id": 6177,
-          "filename": "▎257.5 ▎One Punch-Man.pdf",
-          "size": 10391759,
-          "date": "2026-10-20T22:28:19+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6177",
-          "download_ready": false,
-          "chapters": [
-            257
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6177_%E2%96%8E257.5%20%E2%96%8EOne%20Punch-Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43a1e4df8d5664c23e7fe633a3fb75a0e36bd8d8a5d11a39b7de7c34cf6f1276"
         },
         {
           "channel_id": -1003003829878,
@@ -274792,7 +273992,7 @@
       "latest_chapter": 356,
       "library_count": 4,
       "name": "Subiendo De Nivel 10000 Años En El Futuro",
-      "package_count": 115,
+      "package_count": 103,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -276307,21 +275507,6 @@
           "telegram_link": "https://t.me/manhuasgratis/1011"
         },
         {
-          "name": "327",
-          "first": 327,
-          "last": 327,
-          "channel_id": -1003003829878,
-          "message_id": 2028,
-          "filename": "[327] Iniciando sesión en 10,000 años en el futuro.pdf",
-          "size": 11372588,
-          "date": "2026-08-21T19:21:11+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2028",
-          "download_ready": false,
-          "chapters": [
-            327
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             328
@@ -276336,21 +275521,6 @@
           "name": "328",
           "size": 11139864,
           "telegram_link": "https://t.me/manhuasgratis/1012"
-        },
-        {
-          "name": "328",
-          "first": 328,
-          "last": 328,
-          "channel_id": -1003003829878,
-          "message_id": 2742,
-          "filename": "328 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 11139864,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2742",
-          "download_ready": false,
-          "chapters": [
-            328
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -276369,21 +275539,6 @@
           "telegram_link": "https://t.me/manhuasgratis/1013"
         },
         {
-          "name": "329",
-          "first": 329,
-          "last": 329,
-          "channel_id": -1003003829878,
-          "message_id": 2743,
-          "filename": "329 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 9910551,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2743",
-          "download_ready": false,
-          "chapters": [
-            329
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             330
@@ -276398,21 +275553,6 @@
           "name": "330",
           "size": 11423625,
           "telegram_link": "https://t.me/manhuasgratis/1014"
-        },
-        {
-          "name": "330",
-          "first": 330,
-          "last": 330,
-          "channel_id": -1003003829878,
-          "message_id": 2744,
-          "filename": "330 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 11423625,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2744",
-          "download_ready": false,
-          "chapters": [
-            330
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -276431,21 +275571,6 @@
           "telegram_link": "https://t.me/manhuasgratis/1015"
         },
         {
-          "name": "331",
-          "first": 331,
-          "last": 331,
-          "channel_id": -1003003829878,
-          "message_id": 2745,
-          "filename": "331 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 10037623,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2745",
-          "download_ready": false,
-          "chapters": [
-            331
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             332
@@ -276460,21 +275585,6 @@
           "name": "332",
           "size": 10391652,
           "telegram_link": "https://t.me/manhuasgratis/1016"
-        },
-        {
-          "name": "332",
-          "first": 332,
-          "last": 332,
-          "channel_id": -1003003829878,
-          "message_id": 2746,
-          "filename": "332 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 10391652,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2746",
-          "download_ready": false,
-          "chapters": [
-            332
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -276493,21 +275603,6 @@
           "telegram_link": "https://t.me/manhuasgratis/1017"
         },
         {
-          "name": "333",
-          "first": 333,
-          "last": 333,
-          "channel_id": -1003003829878,
-          "message_id": 2747,
-          "filename": "333 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 10187224,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2747",
-          "download_ready": false,
-          "chapters": [
-            333
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             334
@@ -276522,21 +275617,6 @@
           "name": "334",
           "size": 9574524,
           "telegram_link": "https://t.me/manhuasgratis/1018"
-        },
-        {
-          "name": "334",
-          "first": 334,
-          "last": 334,
-          "channel_id": -1003003829878,
-          "message_id": 2748,
-          "filename": "334 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 9574524,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2748",
-          "download_ready": false,
-          "chapters": [
-            334
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -276555,21 +275635,6 @@
           "telegram_link": "https://t.me/manhuasgratis/1019"
         },
         {
-          "name": "335",
-          "first": 335,
-          "last": 335,
-          "channel_id": -1003003829878,
-          "message_id": 2749,
-          "filename": "335 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 11460631,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2749",
-          "download_ready": false,
-          "chapters": [
-            335
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             336
@@ -276584,21 +275649,6 @@
           "name": "336",
           "size": 9609534,
           "telegram_link": "https://t.me/manhuasgratis/1020"
-        },
-        {
-          "name": "336",
-          "first": 336,
-          "last": 336,
-          "channel_id": -1003003829878,
-          "message_id": 2750,
-          "filename": "336 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 9609534,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2750",
-          "download_ready": false,
-          "chapters": [
-            336
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -276617,21 +275667,6 @@
           "telegram_link": "https://t.me/manhuasgratis/1021"
         },
         {
-          "name": "337",
-          "first": 337,
-          "last": 337,
-          "channel_id": -1003003829878,
-          "message_id": 2751,
-          "filename": "337 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 8250085,
-          "date": "2026-08-23T21:33:08+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2751",
-          "download_ready": false,
-          "chapters": [
-            337
-          ]
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             338
@@ -276646,21 +275681,6 @@
           "name": "338",
           "size": 10120355,
           "telegram_link": "https://t.me/manhuasgratis/1022"
-        },
-        {
-          "name": "338",
-          "first": 338,
-          "last": 338,
-          "channel_id": -1003003829878,
-          "message_id": 2752,
-          "filename": "338 Subiendo de Nivel 10.000 años en el futuro.pdf",
-          "size": 10120355,
-          "date": "2026-08-23T21:33:09+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/2752",
-          "download_ready": false,
-          "chapters": [
-            338
-          ]
         },
         {
           "channel_id": -1003003829878,
@@ -280068,7 +279088,7 @@
       "latest_chapter": 166,
       "library_count": 9,
       "name": "Surviving The Game as a Barbarian",
-      "package_count": 42,
+      "package_count": 41,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -280628,22 +279648,6 @@
           "telegram_link": "https://t.me/manhuasgratis/3672"
         },
         {
-          "name": "152",
-          "first": 152,
-          "last": 152,
-          "channel_id": -1003003829878,
-          "message_id": 3673,
-          "filename": "│152.5│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
-          "size": 6824462,
-          "date": "2026-08-27T13:11:21+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/3673",
-          "download_ready": false,
-          "chapters": [
-            152
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/3673_%E2%94%82152.5%E2%94%82Sobreviviendo%20Al%20Juego%20Siendo%20Un%20B%C3%A1rbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=19de6c16f213ca2947217c661b7ddbf5bfe48e2913d7dd1f6a9ed461b4d37148"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             153
@@ -280852,19 +279856,19 @@
           "telegram_link": "https://t.me/manhuasgratis/5871"
         },
         {
-          "name": "166",
-          "first": 166,
-          "last": 166,
           "channel_id": -1003003829878,
-          "message_id": 6948,
-          "filename": "│166│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
-          "size": 11297749,
-          "date": "2026-10-26T04:17:35+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/6948",
-          "download_ready": false,
           "chapters": [
             166
-          ]
+          ],
+          "date": "2026-10-26T04:17:35+00:00",
+          "download_ready": true,
+          "filename": "│166│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
+          "first": 166,
+          "last": 166,
+          "message_id": 6948,
+          "name": "166",
+          "size": 11297749,
+          "telegram_link": "https://t.me/manhuasgratis/6948"
         }
       ],
       "rating": 4.67,
@@ -284267,7 +283271,7 @@
       "latest_chapter": 570,
       "library_count": 7,
       "name": "The Ancient Sovereign of Eternity",
-      "package_count": 136,
+      "package_count": 129,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -285432,22 +284436,6 @@
           "telegram_link": "https://t.me/manhuasgratis/5039"
         },
         {
-          "name": "384",
-          "first": 384,
-          "last": 384,
-          "channel_id": -1003003829878,
-          "message_id": 5044,
-          "filename": "▎384 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 12036779,
-          "date": "2026-10-07T12:23:20+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5044",
-          "download_ready": false,
-          "chapters": [
-            384
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5044_%E2%96%8E384%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ac06fd6a0fdc8d089622cf66643ce08308660a0d0e000e3b1301c7b434c66748"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             385
@@ -285464,22 +284452,6 @@
           "telegram_link": "https://t.me/manhuasgratis/5040"
         },
         {
-          "name": "385",
-          "first": 385,
-          "last": 385,
-          "channel_id": -1003003829878,
-          "message_id": 5045,
-          "filename": "▎385 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 13658531,
-          "date": "2026-10-07T12:23:20+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5045",
-          "download_ready": false,
-          "chapters": [
-            385
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5045_%E2%96%8E385%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=27aa0de5fdb4ba6b6c8739e1d142e771b1d8f7441783f753fb2444ceb28bf55f"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             386
@@ -285494,22 +284466,6 @@
           "name": "386",
           "size": 16154226,
           "telegram_link": "https://t.me/manhuasgratis/5041"
-        },
-        {
-          "name": "386",
-          "first": 386,
-          "last": 386,
-          "channel_id": -1003003829878,
-          "message_id": 5046,
-          "filename": "▎386 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 16154226,
-          "date": "2026-10-07T12:23:21+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5046",
-          "download_ready": false,
-          "chapters": [
-            386
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5046_%E2%96%8E386%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=22f7b6036dac973f5e486e661181e70ab4264f0be3cab35c6e0d1a044635a776"
         },
         {
           "channel_id": -1003003829878,
@@ -285529,23 +284485,6 @@
           "telegram_link": "https://t.me/manhuasgratis/5042"
         },
         {
-          "name": "387-388",
-          "first": 387,
-          "last": 388,
-          "channel_id": -1003003829878,
-          "message_id": 5047,
-          "filename": "▎387-388 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 25156481,
-          "date": "2026-10-07T12:23:21+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5047",
-          "download_ready": false,
-          "chapters": [
-            387,
-            388
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5047_%E2%96%8E387-388%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=669d5d0c46fbb935a0824d16d87ac85fb11365afb8355abab0aed57dd3d267a1"
-        },
-        {
           "channel_id": -1003003829878,
           "chapters": [
             389
@@ -285560,22 +284499,6 @@
           "name": "389",
           "size": 12337394,
           "telegram_link": "https://t.me/manhuasgratis/5043"
-        },
-        {
-          "name": "389",
-          "first": 389,
-          "last": 389,
-          "channel_id": -1003003829878,
-          "message_id": 5048,
-          "filename": "▎389 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 12337394,
-          "date": "2026-10-07T12:23:22+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5048",
-          "download_ready": false,
-          "chapters": [
-            389
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5048_%E2%96%8E389%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5636a8cee08bd8b4d7d7a673336a0a6bf2de8ca9880e590d22d4b69557c888c4"
         },
         {
           "channel_id": -1003003829878,
@@ -285998,22 +284921,6 @@
           "name": "436",
           "size": 12652738,
           "telegram_link": "https://t.me/manhuasgratis/5073"
-        },
-        {
-          "name": "436",
-          "first": 436,
-          "last": 436,
-          "channel_id": -1003003829878,
-          "message_id": 5074,
-          "filename": "▎436.2 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 9204469,
-          "date": "2026-10-07T12:23:23+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5074",
-          "download_ready": false,
-          "chapters": [
-            436
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5074_%E2%96%8E436.2%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1e01b69a56da3110caa29c57deef288b8ba6429b4fa8ab11488c05d08e463da"
         },
         {
           "channel_id": -1003003829878,
@@ -286703,22 +285610,6 @@
           "name": "540",
           "size": 16209862,
           "telegram_link": "https://t.me/manhuasgratis/5113"
-        },
-        {
-          "name": "540",
-          "first": 540,
-          "last": 540,
-          "channel_id": -1003003829878,
-          "message_id": 5114,
-          "filename": "▎540 ▎The Ancient Sovereign Of Eternity.pdf",
-          "size": 16209862,
-          "date": "2026-10-07T12:24:28+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/5114",
-          "download_ready": false,
-          "chapters": [
-            540
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_ancient_sovereign_of_eternity/5114_%E2%96%8E540%20%E2%96%8EThe%20Ancient%20Sovereign%20Of%20Eternity.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T120213Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=be004e62e15bc47d58fde3701a88602a9f512e6df8699517632f9b49d873a8c9"
         },
         {
           "channel_id": -1003003829878,
@@ -315476,6 +314367,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-26T12:01:27.407369+00:00",
+  "updated_at": "2026-10-26T11:55:50.318362+00:00",
   "version": 3
 }
