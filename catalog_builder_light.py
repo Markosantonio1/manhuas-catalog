@@ -43,6 +43,7 @@ GITHUB_BRANCH = "main"
 
 SCAN_WAIT = 0.15
 MAX_CHAPTER = 5000
+SCAN_MARGIN = 100 # Margen de seguridad
 
 TRIGGER_UPLOADER = os.getenv("TRIGGER_UPLOADER", "1") == "1"
 MAX_PACKAGES_UPLOAD = int(os.getenv("MAX_PACKAGES_UPLOAD", "100"))
@@ -61,7 +62,7 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
 
 
 # ============================================================
-# UTILIDADES (copiadas de todo.py)
+# UTILIDADES
 # ============================================================
 
 def normalize_hashtag(value: str) -> str:
@@ -115,28 +116,22 @@ def extract_chapter_range(filename: str) -> Optional[tuple]:
     text = normalize_filename(filename)
     text = re.sub(r"\.[^.]+$", "", text)
     
-    # 🛡️ LIMPIEZA PROFUNDA
     text = re.sub(r'[\{\}\[\]\(\)]', ' ', text)
     text = re.sub(r'[^\w\s\.\-_~]', '-', text)
-    text = re.sub(r'\b\d{1,3}(?:[.,]\d{3})+\b', ' ', text) # Evitar años
+    text = re.sub(r'\b\d{1,3}(?:[.,]\d{3})+\b', ' ', text) 
     text = re.sub(r'-{2,}', '-', text)
     text = re.sub(r'\s+', ' ', text).strip()
 
     candidates = []
-    # 🛡️ FIX: Añadido soporte para _al_, " al ", etc.
     for match in re.finditer(
         r"(?<![\d.])(\d{1,4}(?:\.\d+)?)\s*(?:[-_~]{1,3}|[-\s_~]*al[-\s_~]*)\s*(\d{1,4}(?:\.\d+)?)(?![\d.])", 
         text, flags=re.IGNORECASE
     ):
         first, last = int(float(match.group(1))), int(float(match.group(2)))
-        if not valid_chapter(first) or not valid_chapter(last):
-            continue
-        if last < first:
-            continue
-        if likely_year(first) and likely_year(last):
-            continue
-        if last - first + 1 > MAX_CHAPTER:
-            continue
+        if not valid_chapter(first) or not valid_chapter(last): continue
+        if last < first: continue
+        if likely_year(first) and likely_year(last): continue
+        if last - first + 1 > MAX_CHAPTER: continue
         start = match.start()
         prefix = text[max(0, start - 15):start]
         score = 100
@@ -153,8 +148,7 @@ def extract_chapter_range(filename: str) -> Optional[tuple]:
     candidates = []
     for match in re.finditer(r"(?<![\d.])(\d{1,4}(?:\.\d+)?)(?![\d.])", text):
         value = int(float(match.group(1)))
-        if not valid_chapter(value) or likely_year(value):
-            continue
+        if not valid_chapter(value) or likely_year(value): continue
         start = match.start()
         prefix = text[max(0, start - 15):start]
         score = 20
@@ -202,7 +196,7 @@ def detect_volume_number(filename: str, default: int) -> int:
 
 
 # ============================================================
-# CATÁLOGO
+# CATÁLOGO Y CÁLCULO DEL ÚLTIMO ID
 # ============================================================
 
 def load_catalog() -> dict:
@@ -220,9 +214,22 @@ def save_catalog(catalog: dict) -> None:
     print(f"✓ Catálogo guardado ({CATALOG_FILE.stat().st_size} bytes)")
 
 
-# ============================================================
-# ESCANEO — CANAL COMPLETO
-# ============================================================
+def compute_last_msg_id(items: list, channel_id: int) -> int:
+    """
+    Calcula el ID del último mensaje procesado en un canal específico.
+    Filtra por channel_id para no confundirse con IDs de otros canales.
+    """
+    max_id = 0
+    for item in items:
+        for p in item.get("packages", []):
+            # Solo miramos mensajes de este canal
+            if p.get("channel_id") == channel_id:
+                mid = p.get("message_id")
+                if isinstance(mid, int) and mid > max_id:
+                    max_id = mid
+    # Restamos un margen para evitar saltarnos mensajes por desorden
+    return max(0, max_id - SCAN_MARGIN)
+
 
 def build_series_key_map(catalog: dict) -> dict:
     """Devuelve {hashtag_key: series_dict} para manhuas y novelas."""
@@ -235,29 +242,33 @@ def build_series_key_map(catalog: dict) -> dict:
     return result
 
 
-async def scan_main_channel_new(client, selected_keys: set) -> dict:
-    """Escanea TODO el canal principal buscando PDFs que pertenezcan a las series."""
+# ============================================================
+# ESCANEO — SOLO MENSAJES NUEVOS
+# ============================================================
+
+async def scan_main_channel_new(client, selected_keys: set, min_id: int) -> dict:
+    """Escanea el canal principal desde el último ID en adelante."""
     result = defaultdict(list)
     processed_groups = set()
 
     messages = []
     grouped = defaultdict(list)
 
-    print(f"  → Iterando canal principal COMPLETO...")
+    print(f"  → Iterando canal principal desde msg_id > {min_id}...")
     count = 0
     async for message in client.iter_messages(
         MAIN_CHANNEL_ID,
         limit=None,
+        min_id=min_id,
         wait_time=SCAN_WAIT,
     ):
         count += 1
-        if count % 1000 == 0:
-            print(f"    ... {count} mensajes leídos")
         messages.append(message)
         gid = getattr(message, "grouped_id", None)
         if gid:
             grouped[int(gid)].append(message)
-    print(f"  → {count} mensajes leídos en total")
+    
+    print(f"  → {count} mensajes nuevos leídos")
 
     # 1) Albums con hashtag
     for gid, members in grouped.items():
@@ -291,24 +302,21 @@ async def scan_main_channel_new(client, selected_keys: set) -> dict:
     return result
 
 
-async def scan_novels_channel_new(client, selected_keys: set) -> dict:
-    """Escanea TODO el canal de novelas (con trucos de asociación)."""
+async def scan_novels_channel_new(client, selected_keys: set, min_id: int) -> dict:
+    """Escanea el canal de novelas desde el último ID en adelante."""
     result = defaultdict(list)
     messages = []
 
-    print(f"  → Iterando canal de novelas COMPLETO...")
-    count = 0
+    print(f"  → Iterando canal de novelas desde msg_id > {min_id}...")
     async for msg in client.iter_messages(
         NOVELS_CHANNEL_ID,
         limit=None,
+        min_id=min_id,
         wait_time=SCAN_WAIT,
     ):
-        count += 1
-        if count % 1000 == 0:
-            print(f"    ... {count} mensajes leídos")
         messages.append(msg)
-    print(f"  → {count} mensajes leídos en total")
     
+    print(f"  → {len(messages)} mensajes nuevos leídos")
     messages.sort(key=lambda m: int(m.id))
 
     # 1. Truco: Buscar hashtags en los álbumes
@@ -396,15 +404,10 @@ def build_manhua_package(msg) -> Optional[dict]:
 
 
 def build_novel_package(msg) -> Optional[dict]:
-    """
-    Crea el paquete de la novela SIN descargarla.
-    El uploader_idrive.yml se encargará de bajarla de Telegram y subirla a IDrive.
-    """
     message_id = int(msg.id)
     filename = (getattr(msg.file, "name", None) or f"volumen_{message_id}.pdf").strip()
     size = int(getattr(msg.file, "size", 0) or 0)
     date = msg.date.isoformat() if getattr(msg, "date", None) else None
-
     volume_number = detect_volume_number(filename, message_id)
     
     return {
@@ -447,7 +450,6 @@ def git_commit_and_push(mensaje: str) -> bool:
         if c.returncode != 0:
             print(f"  ⚠ commit rc={c.returncode}: {c.stdout[:200]}")
 
-        # 🛡️ FIX: Traer los cambios remotos antes de subir para evitar conflictos
         pr = subprocess.run(
             ["git", "pull", "origin", "main", "-X", "ours", "--no-rebase"],
             check=False, capture_output=True, text=True,
@@ -523,7 +525,6 @@ async def main():
     print(f"✓ Catálogo cargado: {len(catalog.get('series', []))} series, "
           f"{len(catalog.get('novels', []))} novelas")
 
-    # Mapa hashtag_key → series/novel
     key_map = build_series_key_map(catalog)
     manhua_keys = set(key_map["series"].keys())
     novel_keys = set(key_map["novels"].keys())
@@ -537,7 +538,6 @@ async def main():
         set_github_output("changes", "0")
         return
 
-    # Cliente Telegram
     client = TelegramClient(
         StringSession(SESSION_STR),
         API_ID, API_HASH,
@@ -557,8 +557,10 @@ async def main():
     try:
         # ---- MANHUAS ----
         if manhua_keys:
+            # Calcular último ID SOLO de manhuas en el canal principal
+            min_id = compute_last_msg_id(catalog.get("series", []), MAIN_CHANNEL_ID)
             print(f"\n--- Canal principal (manhuas) ---")
-            new_msgs = await scan_main_channel_new(client, manhua_keys)
+            new_msgs = await scan_main_channel_new(client, manhua_keys, min_id)
 
             for hkey, series in key_map["series"].items():
                 existing = {
@@ -588,8 +590,10 @@ async def main():
 
         # ---- NOVELAS ----
         if novel_keys:
+            # Calcular último ID SOLO de novelas en el canal de novelas
+            min_id = compute_last_msg_id(catalog.get("novels", []), NOVELS_CHANNEL_ID)
             print(f"\n--- Canal de novelas ---")
-            new_msgs = await scan_novels_channel_new(client, novel_keys)
+            new_msgs = await scan_novels_channel_new(client, novel_keys, min_id)
 
             for hkey, novel in key_map["novels"].items():
                 existing = {
