@@ -148040,10 +148040,11 @@
           "size": 11300502,
           "date": "2026-10-26T04:17:31+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6947",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             226
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/jungle_juice/6947_%E2%94%82226%E2%94%82Jungle%20Juice.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T121834Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9731e3c5cc02693c90c2efe30846d748d539469a0fc1ad646a3d6b00445ee7d4"
         }
       ],
       "rating": 5,
@@ -211719,13 +211720,14 @@
           "size": 46850595,
           "date": "2026-10-24T13:56:50+00:00",
           "telegram_link": "https://t.me/manhuasgratis/6891",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             237,
             238,
             239,
             240
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/6891_237-240%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T121915Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d1c6b7214563a20c9ea7d8524a47f09f5237b3340b338d79ece81d32237dc627"
         },
         {
           "channel_id": -1003003829878,
