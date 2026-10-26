@@ -214673,10 +214673,10 @@
       ],
       "hashtag": "#Nigromante_la_Llegada_del_Desastre",
       "id": "nigromante_la_llegada_del_desastre",
-      "latest_chapter": 315,
+      "latest_chapter": 316,
       "library_count": 13,
       "name": "Nigromante la Llegada del Desastre",
-      "package_count": 49,
+      "package_count": 50,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -215727,6 +215727,21 @@
           "name": "314-315",
           "size": 14347126,
           "telegram_link": "https://t.me/manhuasgratis/6083"
+        },
+        {
+          "name": "316",
+          "first": 316,
+          "last": 316,
+          "channel_id": -1003003829878,
+          "message_id": 6950,
+          "filename": "[316] Nigromante la Llegada, del Desastre.pdf",
+          "size": 9203505,
+          "date": "2026-10-26T12:19:23+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6950",
+          "download_ready": false,
+          "chapters": [
+            316
+          ]
         }
       ],
       "rating": 5,
@@ -315488,6 +315503,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-26T12:01:27.407369+00:00",
+  "updated_at": "2026-10-26T12:20:46.509587+00:00",
   "version": 3
 }
