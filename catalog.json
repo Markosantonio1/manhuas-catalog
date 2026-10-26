@@ -98497,7 +98497,8 @@
           "message_id": 6936,
           "name": "148",
           "size": 15142044,
-          "telegram_link": "https://t.me/manhuasgratis/6936"
+          "telegram_link": "https://t.me/manhuasgratis/6936",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6936_%5B%23148%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T032712Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=415d6b7fb036897f800bac417198ea3ac3ced0f475e6652c668ea6fae585171c"
         },
         {
           "channel_id": -1003003829878,
@@ -98512,7 +98513,8 @@
           "message_id": 6937,
           "name": "149",
           "size": 13657736,
-          "telegram_link": "https://t.me/manhuasgratis/6937"
+          "telegram_link": "https://t.me/manhuasgratis/6937",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6937_%5B%23149%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T032725Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13d561cd4ee4aabacdb5327a89275a81ee0592d889527c17d97b0b37768bf356"
         },
         {
           "channel_id": -1003003829878,
@@ -98527,7 +98529,8 @@
           "message_id": 6938,
           "name": "150",
           "size": 14825721,
-          "telegram_link": "https://t.me/manhuasgratis/6938"
+          "telegram_link": "https://t.me/manhuasgratis/6938",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6938_%5B%23150%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T032739Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=04e2234f8019fdc1a7fc70061eb59e478aa11354c5af06f61dc84997aa69c434"
         },
         {
           "channel_id": -1003003829878,
@@ -98542,13 +98545,14 @@
           "message_id": 6939,
           "name": "151",
           "size": 15597733,
-          "telegram_link": "https://t.me/manhuasgratis/6939"
+          "telegram_link": "https://t.me/manhuasgratis/6939",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/6939_%5B%23151%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261026%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261026T032754Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b10c1ccf5caa1b4d3c90432c1488b7c7728d6a000d31c4ef07dcc31582ff53f6"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Fantasy RPG 'Inner Lunatic', que es conocido por su extrema dificultad. Para Yu-chan, que tenía una enfermedad terminal a una edad temprana, este juego era todo para él, y ahora se ha convertido en una cruel realidad. De ahora en adelante, Yu-chan debe sobrevivir en este mundo como Knox von Reinharbour, el villano más grande de la Parte 1 y un límite de tiempo. ¿Podrá llegar sano y salvo al final de la historia?",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-08-21T23:56:36+00:00",
