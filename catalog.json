@@ -1399,7 +1399,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1587,6 +1587,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T034624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5455d383a3d7a45cde0d245c89ff2bda090eb5b774812bee60151f9adf5ad9c",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -3993,7 +4010,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4130,6 +4147,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T034624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=df416d75bad6f4aedf389d4a8baf876fc251f2d706b9bb484bc10ea94c3bb87d",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -72768,10 +72802,10 @@
       ],
       "hashtag": "#El_Asesino_Pietro",
       "id": "el_asesino_pietro",
-      "latest_chapter": 154,
+      "latest_chapter": 153,
       "library_count": 5,
       "name": "El Asesino Pietro",
-      "package_count": 28,
+      "package_count": 27,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -73330,21 +73364,6 @@
           "name": "153",
           "size": 21707651,
           "telegram_link": "https://t.me/manhuasgratis/6365"
-        },
-        {
-          "name": "154",
-          "first": 154,
-          "last": 154,
-          "channel_id": -1003003829878,
-          "message_id": 7121,
-          "filename": "154︱Pedro, el Asesino ✗.pdf",
-          "size": 14404578,
-          "date": "2026-10-27T04:18:23+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7121",
-          "download_ready": false,
-          "chapters": [
-            154
-          ]
         }
       ],
       "rating": 5,
@@ -73838,10 +73857,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Retornó_Como_El_Hijo_Del_Duque",
       "id": "el_asesino_que_retorno_como_el_hijo_del_duque",
-      "latest_chapter": 150,
+      "latest_chapter": 149,
       "library_count": 4,
       "name": "El Asesino Que Retornó Como El Hijo Del Duque",
-      "package_count": 53,
+      "package_count": 52,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -74772,21 +74791,6 @@
           "name": "149",
           "size": 8140533,
           "telegram_link": "https://t.me/manhuasgratis/6044"
-        },
-        {
-          "name": "150",
-          "first": 150,
-          "last": 150,
-          "channel_id": -1003003829878,
-          "message_id": 7122,
-          "filename": "150 • El Asesino que Retornó Como el Hijo del Duque.pdf",
-          "size": 8461027,
-          "date": "2026-10-27T04:18:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7122",
-          "download_ready": false,
-          "chapters": [
-            150
-          ]
         }
       ],
       "rating": 0,
@@ -130479,7 +130483,8 @@
           "message_id": 9667,
           "name": "152-160",
           "size": 64040112,
-          "telegram_link": "https://t.me/manhuasgratis/9667"
+          "telegram_link": "https://t.me/manhuasgratis/9667",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fist_demon_of_mount_hua/9667_152-160%20Fist%20demon%20of%20mount%20hua.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T052757Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d035c08df5d541aed7e6d507c0bba94215a33013c5aa853969bea6a7011e1759"
         },
         {
           "channel_id": -1004367557958,
@@ -130504,7 +130509,8 @@
           "message_id": 9668,
           "name": "161-171",
           "size": 86565050,
-          "telegram_link": "https://t.me/manhuasgratis/9668"
+          "telegram_link": "https://t.me/manhuasgratis/9668",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fist_demon_of_mount_hua/9668_161-171%20Fist%20demon%20of%20mount%20hua.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T052843Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e91d0054ef09ac535e5e139b0c4e5c24a49efb80d3719156eaa391e64125054"
         },
         {
           "channel_id": -1004367557958,
@@ -130529,7 +130535,8 @@
           "message_id": 9669,
           "name": "172-182",
           "size": 82869015,
-          "telegram_link": "https://t.me/manhuasgratis/9669"
+          "telegram_link": "https://t.me/manhuasgratis/9669",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/fist_demon_of_mount_hua/9669_172-182%20Fin%20Fist%20demon%20of%20mount%20hua.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T052927Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6592022ebf6828b341c054299868850c83c68543fbd9f53c869c1220dedd96f9"
         }
       ],
       "rating": 0,
@@ -135924,7 +135931,8 @@
           "message_id": 9627,
           "name": "1-10",
           "size": 101896821,
-          "telegram_link": "https://t.me/manhuasgratis/9627"
+          "telegram_link": "https://t.me/manhuasgratis/9627",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guerrero_genio_recolector_de_cadaveres/9627_%5B%2301-10%5D%20%E2%80%A2%20Guerrero%20Genio%20Recolector%20De%20Cad%C3%A1veres.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053019Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37c051a57780d598144040f7e46abdd4882786200f3fccb73bf55c9fbaf11822"
         },
         {
           "channel_id": -1004367557958,
@@ -135948,7 +135956,8 @@
           "message_id": 9628,
           "name": "11-20",
           "size": 107254187,
-          "telegram_link": "https://t.me/manhuasgratis/9628"
+          "telegram_link": "https://t.me/manhuasgratis/9628",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guerrero_genio_recolector_de_cadaveres/9628_%5B%2311-20%5D%20%E2%80%A2%20Guerrero%20Genio%20Recolector%20De%20Cad%C3%A1veres.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053100Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a572ab6fd220ef6a5c6f3acb184b2bf8106866476e55f3f4bc0045c5836c0df9"
         },
         {
           "channel_id": -1004367557958,
@@ -135972,7 +135981,8 @@
           "message_id": 9629,
           "name": "21-30",
           "size": 95438965,
-          "telegram_link": "https://t.me/manhuasgratis/9629"
+          "telegram_link": "https://t.me/manhuasgratis/9629",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guerrero_genio_recolector_de_cadaveres/9629_21-30%20Guerrero%20genio%20recolector%20de%20cad%C3%A1veres.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053149Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b424aaa26c15af3074ff6e90d5c1f4e47d3bbddc478c27a01de57dc69b986a73"
         },
         {
           "channel_id": -1004367557958,
@@ -135994,7 +136004,8 @@
           "message_id": 9630,
           "name": "31-38",
           "size": 82783595,
-          "telegram_link": "https://t.me/manhuasgratis/9630"
+          "telegram_link": "https://t.me/manhuasgratis/9630",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guerrero_genio_recolector_de_cadaveres/9630_31-38%E2%94%82Guerrero%20genio%20recolector%20de%20cad%C3%A1veres.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053233Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=91eb8348cc7cfb951fb6a030ef514ff39e1b2944355ea962069d08155315175e"
         },
         {
           "channel_id": -1004367557958,
@@ -136013,7 +136024,8 @@
           "message_id": 9631,
           "name": "39-43",
           "size": 47760523,
-          "telegram_link": "https://t.me/manhuasgratis/9631"
+          "telegram_link": "https://t.me/manhuasgratis/9631",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guerrero_genio_recolector_de_cadaveres/9631_39-43%E2%94%82Guerrero%20genio%20recolector%20de%20cad%C3%A1veres.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053259Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce61e92acc69b7571e15084f7c0cd608937cc165107e21bbfe324cb42d3c06ac"
         },
         {
           "channel_id": -1004367557958,
@@ -136033,7 +136045,8 @@
           "message_id": 9632,
           "name": "44-49",
           "size": 65567388,
-          "telegram_link": "https://t.me/manhuasgratis/9632"
+          "telegram_link": "https://t.me/manhuasgratis/9632",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guerrero_genio_recolector_de_cadaveres/9632_%E2%94%8244-49%E2%94%82Guerrero%20Genio%20Recolector%20De%20Cad%C3%A1veres.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053334Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c93cd636f42163b95e271e3bc5871b2958d83ede0b7ee87491e339cc8c04cd07"
         }
       ],
       "rating": 0,
@@ -159370,7 +159383,8 @@
           "message_id": 9459,
           "name": "1-10",
           "size": 70487032,
-          "telegram_link": "https://t.me/manhuasgratis/9459"
+          "telegram_link": "https://t.me/manhuasgratis/9459",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_bebe_santa_quiere_destruir_el_mundo/9459_%5B%2301-10%5D%20%E2%80%A2%20%C2%A1La%20Beb%C3%A9%20Santa%20Quiere%20Destruir%20El%20Mundo%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T053412Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17f76d2e6facdbc1f62bdae3032c55a8c8d3da80b4b4aa22227f254aed2ea02b"
         },
         {
           "channel_id": -1004367557958,
@@ -284237,10 +284251,10 @@
       ],
       "hashtag": "#Soldado_Esqueleto",
       "id": "soldado_esqueleto",
-      "latest_chapter": 394,
+      "latest_chapter": 390,
       "library_count": 6,
       "name": "Soldado Esqueleto",
-      "package_count": 66,
+      "package_count": 65,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -285606,24 +285620,6 @@
           "name": "390",
           "size": 9582132,
           "telegram_link": "https://t.me/manhuasgratis/4637"
-        },
-        {
-          "name": "391-394",
-          "first": 391,
-          "last": 394,
-          "channel_id": -1003003829878,
-          "message_id": 7124,
-          "filename": "[#391-394]   Soldado Esqueleto.pdf",
-          "size": 74796964,
-          "date": "2026-10-27T04:18:31+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7124",
-          "download_ready": false,
-          "chapters": [
-            391,
-            392,
-            393,
-            394
-          ]
         }
       ],
       "rating": 0,
@@ -310222,10 +310218,10 @@
       ],
       "hashtag": "#The_Novels_Extra",
       "id": "the_novels_extra",
-      "latest_chapter": 177,
+      "latest_chapter": 176,
       "library_count": 9,
       "name": "The Novels Extra",
-      "package_count": 55,
+      "package_count": 54,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -311212,21 +311208,6 @@
           "name": "176",
           "size": 10010578,
           "telegram_link": "https://t.me/manhuasgratis/6621"
-        },
-        {
-          "name": "177",
-          "first": 177,
-          "last": 177,
-          "channel_id": -1003003829878,
-          "message_id": 7125,
-          "filename": "177 • El Extra de la Novela (Remake).pdf",
-          "size": 9426954,
-          "date": "2026-10-27T04:18:33+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7125",
-          "download_ready": false,
-          "chapters": [
-            177
-          ]
         }
       ],
       "rating": 5,
@@ -334999,6 +334980,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-27T05:20:58.236152+00:00",
+  "updated_at": "2026-10-27T03:40:08.565694+00:00",
   "version": 3
 }
