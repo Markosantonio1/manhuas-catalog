@@ -1399,7 +1399,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1587,6 +1587,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T034624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5455d383a3d7a45cde0d245c89ff2bda090eb5b774812bee60151f9adf5ad9c",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -3993,7 +4010,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4130,6 +4147,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T034624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=df416d75bad6f4aedf389d4a8baf876fc251f2d706b9bb484bc10ea94c3bb87d",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -72768,10 +72802,10 @@
       ],
       "hashtag": "#El_Asesino_Pietro",
       "id": "el_asesino_pietro",
-      "latest_chapter": 154,
+      "latest_chapter": 153,
       "library_count": 5,
       "name": "El Asesino Pietro",
-      "package_count": 28,
+      "package_count": 27,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -73330,21 +73364,6 @@
           "name": "153",
           "size": 21707651,
           "telegram_link": "https://t.me/manhuasgratis/6365"
-        },
-        {
-          "name": "154",
-          "first": 154,
-          "last": 154,
-          "channel_id": -1003003829878,
-          "message_id": 7121,
-          "filename": "154︱Pedro, el Asesino ✗.pdf",
-          "size": 14404578,
-          "date": "2026-10-27T04:18:23+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7121",
-          "download_ready": false,
-          "chapters": [
-            154
-          ]
         }
       ],
       "rating": 5,
@@ -73838,10 +73857,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Retornó_Como_El_Hijo_Del_Duque",
       "id": "el_asesino_que_retorno_como_el_hijo_del_duque",
-      "latest_chapter": 150,
+      "latest_chapter": 149,
       "library_count": 4,
       "name": "El Asesino Que Retornó Como El Hijo Del Duque",
-      "package_count": 53,
+      "package_count": 52,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -74772,21 +74791,6 @@
           "name": "149",
           "size": 8140533,
           "telegram_link": "https://t.me/manhuasgratis/6044"
-        },
-        {
-          "name": "150",
-          "first": 150,
-          "last": 150,
-          "channel_id": -1003003829878,
-          "message_id": 7122,
-          "filename": "150 • El Asesino que Retornó Como el Hijo del Duque.pdf",
-          "size": 8461027,
-          "date": "2026-10-27T04:18:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7122",
-          "download_ready": false,
-          "chapters": [
-            150
-          ]
         }
       ],
       "rating": 0,
@@ -225956,7 +225960,8 @@
           "message_id": 9733,
           "name": "11-20",
           "size": 49730494,
-          "telegram_link": "https://t.me/manhuasgratis/9733"
+          "telegram_link": "https://t.me/manhuasgratis/9733",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9733_011%20-%20020%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092154Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0f197b5b00a6a2967d528493cdfa80c2420856f0eb7442d92d62e04ee3d85b08"
         },
         {
           "channel_id": -1004367557958,
@@ -225980,7 +225985,8 @@
           "message_id": 9734,
           "name": "21-30",
           "size": 45991251,
-          "telegram_link": "https://t.me/manhuasgratis/9734"
+          "telegram_link": "https://t.me/manhuasgratis/9734",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9734_021%20-%20030%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092217Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c758cdf31d8c3211fc5ebff289a0cb56c7877b8a93b67f97d8521d324189efa"
         },
         {
           "channel_id": -1004367557958,
@@ -226004,7 +226010,8 @@
           "message_id": 9735,
           "name": "31-40",
           "size": 46419674,
-          "telegram_link": "https://t.me/manhuasgratis/9735"
+          "telegram_link": "https://t.me/manhuasgratis/9735",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9735_031%20-%20040%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=297b40ca682b8491a8bbe915945dd5f96c6e8263d8b22d570db012dd722dfb00"
         },
         {
           "channel_id": -1004367557958,
@@ -226028,7 +226035,8 @@
           "message_id": 9736,
           "name": "41-50",
           "size": 52217504,
-          "telegram_link": "https://t.me/manhuasgratis/9736"
+          "telegram_link": "https://t.me/manhuasgratis/9736",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9736_041%20-%20050%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b8233b6cf9f6d5308f9a4461afb0b487ffb2f7f49440292ef45cdaa6f55b2c5"
         },
         {
           "channel_id": -1004367557958,
@@ -226052,7 +226060,8 @@
           "message_id": 9737,
           "name": "51-60",
           "size": 69632350,
-          "telegram_link": "https://t.me/manhuasgratis/9737"
+          "telegram_link": "https://t.me/manhuasgratis/9737",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9737_051%20-%20060%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092351Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=625f93cda024390917fa7448b961aa1b013ef1d94ebea44a012a2864cd30f02b"
         },
         {
           "channel_id": -1004367557958,
@@ -226076,7 +226085,8 @@
           "message_id": 9742,
           "name": "61-70",
           "size": 49199867,
-          "telegram_link": "https://t.me/manhuasgratis/9742"
+          "telegram_link": "https://t.me/manhuasgratis/9742",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9742_61-70%20Mi%20comida%20parece%20ser%20muy%20linda%20%5B%CE%B1%E2%88%82%D0%BC%CE%B9%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092416Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=181cfb2927002e78c4777056fd1461ac86e936c409a78ed2e85d0414accf67f6"
         },
         {
           "channel_id": -1004367557958,
@@ -226100,7 +226110,8 @@
           "message_id": 9738,
           "name": "71-80",
           "size": 63715043,
-          "telegram_link": "https://t.me/manhuasgratis/9738"
+          "telegram_link": "https://t.me/manhuasgratis/9738",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9738_071%20-%20080%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092448Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f34d74ee23a592238a781229b77e504c32cbea955e0c484c0a2dbfa64e8d74ee"
         },
         {
           "channel_id": -1004367557958,
@@ -226124,7 +226135,8 @@
           "message_id": 9739,
           "name": "81-90",
           "size": 119362381,
-          "telegram_link": "https://t.me/manhuasgratis/9739"
+          "telegram_link": "https://t.me/manhuasgratis/9739",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9739_81%20-%2090.%20%20My%20Food%20Seems%20To%20Be%20Very%20Cute.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d41cb1f5d7e2b0289e4dde8d484c4bcacd77f975f001a52d44bbe0f3f6b45e1"
         },
         {
           "channel_id": -1004367557958,
@@ -226148,7 +226160,8 @@
           "message_id": 9740,
           "name": "91-100",
           "size": 66066209,
-          "telegram_link": "https://t.me/manhuasgratis/9740"
+          "telegram_link": "https://t.me/manhuasgratis/9740",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9740_91%20-%20100.%20my%20food%20seems%20to%20be%20V%20C%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092558Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=604a3bd47066e41928a120a4b70d0dad4a0242a841ebe3cffdaa1050ed4fad74"
         },
         {
           "channel_id": -1004367557958,
@@ -226172,7 +226185,8 @@
           "message_id": 9741,
           "name": "101-110",
           "size": 34990264,
-          "telegram_link": "https://t.me/manhuasgratis/9741"
+          "telegram_link": "https://t.me/manhuasgratis/9741",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/my_food_seems_to_be_very_cute/9741_101-110%20MI%20COMIDA%20PARECE%20SER%20MUY%20LINDA%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T092618Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=471afeaf7800cce787bb13460f381960eaffb44d951566d66fb7598c9a39ed13"
         },
         {
           "channel_id": -1004367557958,
@@ -284497,10 +284511,10 @@
       ],
       "hashtag": "#Soldado_Esqueleto",
       "id": "soldado_esqueleto",
-      "latest_chapter": 394,
+      "latest_chapter": 390,
       "library_count": 6,
       "name": "Soldado Esqueleto",
-      "package_count": 66,
+      "package_count": 65,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -285866,24 +285880,6 @@
           "name": "390",
           "size": 9582132,
           "telegram_link": "https://t.me/manhuasgratis/4637"
-        },
-        {
-          "name": "391-394",
-          "first": 391,
-          "last": 394,
-          "channel_id": -1003003829878,
-          "message_id": 7124,
-          "filename": "[#391-394]   Soldado Esqueleto.pdf",
-          "size": 74796964,
-          "date": "2026-10-27T04:18:31+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7124",
-          "download_ready": false,
-          "chapters": [
-            391,
-            392,
-            393,
-            394
-          ]
         }
       ],
       "rating": 0,
@@ -310482,10 +310478,10 @@
       ],
       "hashtag": "#The_Novels_Extra",
       "id": "the_novels_extra",
-      "latest_chapter": 177,
+      "latest_chapter": 176,
       "library_count": 9,
       "name": "The Novels Extra",
-      "package_count": 55,
+      "package_count": 54,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -311472,21 +311468,6 @@
           "name": "176",
           "size": 10010578,
           "telegram_link": "https://t.me/manhuasgratis/6621"
-        },
-        {
-          "name": "177",
-          "first": 177,
-          "last": 177,
-          "channel_id": -1003003829878,
-          "message_id": 7125,
-          "filename": "177 • El Extra de la Novela (Remake).pdf",
-          "size": 9426954,
-          "date": "2026-10-27T04:18:33+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7125",
-          "download_ready": false,
-          "chapters": [
-            177
-          ]
         }
       ],
       "rating": 5,
@@ -335259,6 +335240,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-27T09:20:51.294433+00:00",
+  "updated_at": "2026-10-27T03:40:08.565694+00:00",
   "version": 3
 }
