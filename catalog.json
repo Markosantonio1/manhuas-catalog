@@ -1399,7 +1399,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1587,23 +1587,6 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T034624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5455d383a3d7a45cde0d245c89ff2bda090eb5b774812bee60151f9adf5ad9c",
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4010,7 +3993,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4147,23 +4130,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": false,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T034624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=df416d75bad6f4aedf389d4a8baf876fc251f2d706b9bb484bc10ea94c3bb87d",
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -72802,10 +72768,10 @@
       ],
       "hashtag": "#El_Asesino_Pietro",
       "id": "el_asesino_pietro",
-      "latest_chapter": 153,
+      "latest_chapter": 154,
       "library_count": 5,
       "name": "El Asesino Pietro",
-      "package_count": 27,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -73364,6 +73330,21 @@
           "name": "153",
           "size": 21707651,
           "telegram_link": "https://t.me/manhuasgratis/6365"
+        },
+        {
+          "name": "154",
+          "first": 154,
+          "last": 154,
+          "channel_id": -1003003829878,
+          "message_id": 7121,
+          "filename": "154︱Pedro, el Asesino ✗.pdf",
+          "size": 14404578,
+          "date": "2026-10-27T04:18:23+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7121",
+          "download_ready": false,
+          "chapters": [
+            154
+          ]
         }
       ],
       "rating": 5,
@@ -73857,10 +73838,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Retornó_Como_El_Hijo_Del_Duque",
       "id": "el_asesino_que_retorno_como_el_hijo_del_duque",
-      "latest_chapter": 149,
+      "latest_chapter": 150,
       "library_count": 4,
       "name": "El Asesino Que Retornó Como El Hijo Del Duque",
-      "package_count": 52,
+      "package_count": 53,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -74791,6 +74772,21 @@
           "name": "149",
           "size": 8140533,
           "telegram_link": "https://t.me/manhuasgratis/6044"
+        },
+        {
+          "name": "150",
+          "first": 150,
+          "last": 150,
+          "channel_id": -1003003829878,
+          "message_id": 7122,
+          "filename": "150 • El Asesino que Retornó Como el Hijo del Duque.pdf",
+          "size": 8461027,
+          "date": "2026-10-27T04:18:25+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7122",
+          "download_ready": false,
+          "chapters": [
+            150
+          ]
         }
       ],
       "rating": 0,
@@ -79840,10 +79836,10 @@
       ],
       "hashtag": "#El_Dios_Marcial_que_Regresó_al_nivel_2",
       "id": "el_dios_marcial_que_regreso_al_nivel_2",
-      "latest_chapter": 130,
+      "latest_chapter": 132,
       "library_count": 6,
       "name": "El Dios Marcial que Regresó al nivel 2",
-      "package_count": 37,
+      "package_count": 38,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -80529,6 +80525,22 @@
           "name": "129-130",
           "size": 17641104,
           "telegram_link": "https://t.me/manhuasgratis/5877"
+        },
+        {
+          "name": "131-132",
+          "first": 131,
+          "last": 132,
+          "channel_id": -1003003829878,
+          "message_id": 7126,
+          "filename": "131-132 El Dios Marcial Regresa Al Nivel 2 -.-.pdf",
+          "size": 16230102,
+          "date": "2026-10-27T12:18:31+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7126",
+          "download_ready": false,
+          "chapters": [
+            131,
+            132
+          ]
         }
       ],
       "rating": 5,
@@ -95240,10 +95252,10 @@
       ],
       "hashtag": "#El_Mago_Pastor",
       "id": "el_mago_pastor",
-      "latest_chapter": 41,
+      "latest_chapter": 42,
       "library_count": 7,
       "name": "El Mago Pastor",
-      "package_count": 21,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -95600,6 +95612,21 @@
           "name": "41",
           "size": 15435982,
           "telegram_link": "https://t.me/manhuasgratis/6057"
+        },
+        {
+          "name": "42",
+          "first": 42,
+          "last": 42,
+          "channel_id": -1003003829878,
+          "message_id": 7127,
+          "filename": "[42] El Mago Pastor.pdf",
+          "size": 16127794,
+          "date": "2026-10-27T12:18:32+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7127",
+          "download_ready": false,
+          "chapters": [
+            42
+          ]
         }
       ],
       "rating": 4,
@@ -284665,10 +284692,10 @@
       ],
       "hashtag": "#Soldado_Esqueleto",
       "id": "soldado_esqueleto",
-      "latest_chapter": 390,
+      "latest_chapter": 394,
       "library_count": 6,
       "name": "Soldado Esqueleto",
-      "package_count": 65,
+      "package_count": 66,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -286034,6 +286061,24 @@
           "name": "390",
           "size": 9582132,
           "telegram_link": "https://t.me/manhuasgratis/4637"
+        },
+        {
+          "name": "391-394",
+          "first": 391,
+          "last": 394,
+          "channel_id": -1003003829878,
+          "message_id": 7124,
+          "filename": "[#391-394]   Soldado Esqueleto.pdf",
+          "size": 74796964,
+          "date": "2026-10-27T04:18:31+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7124",
+          "download_ready": false,
+          "chapters": [
+            391,
+            392,
+            393,
+            394
+          ]
         }
       ],
       "rating": 0,
@@ -300813,10 +300858,10 @@
       ],
       "hashtag": "#Tales_of_Demons_and_Gods",
       "id": "tales_of_demons_and_gods",
-      "latest_chapter": 529,
+      "latest_chapter": 535,
       "library_count": 6,
       "name": "Tales of Demons and Gods",
-      "package_count": 51,
+      "package_count": 52,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -302111,6 +302156,26 @@
           "name": "526-529",
           "size": 20368297,
           "telegram_link": "https://t.me/manhuasgratis/5779"
+        },
+        {
+          "name": "530-535",
+          "first": 530,
+          "last": 535,
+          "channel_id": -1003003829878,
+          "message_id": 7128,
+          "filename": "530-535 Tales of Demons and Gods -.-.pdf",
+          "size": 32104500,
+          "date": "2026-10-27T12:18:34+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7128",
+          "download_ready": false,
+          "chapters": [
+            530,
+            531,
+            532,
+            533,
+            534,
+            535
+          ]
         }
       ],
       "rating": 0,
@@ -310632,10 +310697,10 @@
       ],
       "hashtag": "#The_Novels_Extra",
       "id": "the_novels_extra",
-      "latest_chapter": 176,
+      "latest_chapter": 177,
       "library_count": 9,
       "name": "The Novels Extra",
-      "package_count": 54,
+      "package_count": 55,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -311622,6 +311687,21 @@
           "name": "176",
           "size": 10010578,
           "telegram_link": "https://t.me/manhuasgratis/6621"
+        },
+        {
+          "name": "177",
+          "first": 177,
+          "last": 177,
+          "channel_id": -1003003829878,
+          "message_id": 7125,
+          "filename": "177 • El Extra de la Novela (Remake).pdf",
+          "size": 9426954,
+          "date": "2026-10-27T04:18:33+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7125",
+          "download_ready": false,
+          "chapters": [
+            177
+          ]
         }
       ],
       "rating": 5,
@@ -335394,6 +335474,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-27T03:40:08.565694+00:00",
+  "updated_at": "2026-10-27T12:20:40.968138+00:00",
   "version": 3
 }
