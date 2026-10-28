@@ -361149,7 +361149,8 @@
           "message_id": 10140,
           "name": "106",
           "size": 11441049,
-          "telegram_link": "https://t.me/manhuasgratis/10140"
+          "telegram_link": "https://t.me/manhuasgratis/10140",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/zombis_gang/10140_%28106%29%20Zombis%20Gang.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T162051Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=51f94a54d3efbbbafa12da260f8ec8df5eec72a011fe6e055a8b329ffb73277a"
         },
         {
           "channel_id": -1004367557958,
@@ -361164,7 +361165,8 @@
           "message_id": 10141,
           "name": "107",
           "size": 11404099,
-          "telegram_link": "https://t.me/manhuasgratis/10141"
+          "telegram_link": "https://t.me/manhuasgratis/10141",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/zombis_gang/10141_%28107%29%20Zombis%20Gang.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T162111Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b435b3570ab7a6aac2d7c46124a5085fab3a035ceed72eb98aa1071ca3342cae"
         },
         {
           "channel_id": -1004367557958,
@@ -361179,7 +361181,8 @@
           "message_id": 10142,
           "name": "108",
           "size": 12745891,
-          "telegram_link": "https://t.me/manhuasgratis/10142"
+          "telegram_link": "https://t.me/manhuasgratis/10142",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/zombis_gang/10142_%28108%29%20Zombis%20Gang.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T162140Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb28133c9df13c5e4d5b31110cf38644d191d4efd08e076a55430d3dff11f6be"
         },
         {
           "channel_id": -1004367557958,
@@ -361194,13 +361197,14 @@
           "message_id": 10143,
           "name": "109",
           "size": 11466959,
-          "telegram_link": "https://t.me/manhuasgratis/10143"
+          "telegram_link": "https://t.me/manhuasgratis/10143",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/zombis_gang/10143_%28109%29%20Zombis%20Gang.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T162210Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65df5528e639f535349edaa797f1f59a8e86844ce7d13b22c12f78cd4305bb51"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "En un mundo en el que todos luchan por vivir, Mirae, el único chico que desea la muerte. Un día, un escuadrón de la muerte aparece frente a él y le ofrece una propuesta. ‘Te mataré, reconstruyamos juntos la sociedad humana’ Para morir, tienes que salvar a todos.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-27T17:43:54+00:00",
