@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T172013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80d14992028108639bb435e3f83e72b41218f88910717ffc71da625437965bd4",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4002,7 +4019,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4139,6 +4156,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T172013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=691a58fab168b4bf51663f1e03c3b39f0da06c04a41f56f3fd0fb74cfbb42aba",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -73663,10 +73697,10 @@
       ],
       "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "id": "dominio_absoluto_del_nivel_0",
-      "latest_chapter": 55,
+      "latest_chapter": 54,
       "library_count": 20,
       "name": "Dominio Absoluto del Nivel 0",
-      "package_count": 23,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -74051,21 +74085,6 @@
           "name": "54",
           "size": 6534826,
           "telegram_link": "https://t.me/manhuasgratis/6903"
-        },
-        {
-          "name": "55",
-          "first": 55,
-          "last": 55,
-          "channel_id": -1003003829878,
-          "message_id": 7133,
-          "filename": "55 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 5775648,
-          "date": "2026-10-28T04:18:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7133",
-          "download_ready": false,
-          "chapters": [
-            55
-          ]
         }
       ],
       "rating": 4,
@@ -102290,10 +102309,10 @@
       ],
       "hashtag": "#El_Mago_Infinito",
       "id": "el_mago_infinito",
-      "latest_chapter": 192,
+      "latest_chapter": 191,
       "library_count": 5,
       "name": "El Mago Infinito",
-      "package_count": 69,
+      "package_count": 68,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -103507,21 +103526,6 @@
           "name": "191",
           "size": 12034516,
           "telegram_link": "https://t.me/manhuasgratis/6068"
-        },
-        {
-          "name": "192",
-          "first": 192,
-          "last": 192,
-          "channel_id": -1003003829878,
-          "message_id": 7135,
-          "filename": "[#192]   Mago Infinito.pdf",
-          "size": 22978757,
-          "date": "2026-10-28T04:18:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7135",
-          "download_ready": false,
-          "chapters": [
-            192
-          ]
         }
       ],
       "rating": 5,
@@ -105623,10 +105627,10 @@
       ],
       "hashtag": "#El_Mundo_Después_Del_Fin",
       "id": "el_mundo_despues_del_fin",
-      "latest_chapter": 258,
+      "latest_chapter": 257,
       "library_count": 6,
       "name": "El Mundo Después Del Fin",
-      "package_count": 77,
+      "package_count": 76,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -107025,21 +107029,6 @@
           "name": "257",
           "size": 10758672,
           "telegram_link": "https://t.me/manhuasgratis/6221"
-        },
-        {
-          "name": "258",
-          "first": 258,
-          "last": 258,
-          "channel_id": -1003003829878,
-          "message_id": 7136,
-          "filename": "[258] El Mundo Despues Del Fin.pdf",
-          "size": 9567530,
-          "date": "2026-10-28T04:18:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7136",
-          "download_ready": false,
-          "chapters": [
-            258
-          ]
         }
       ],
       "rating": 5,
@@ -111372,10 +111361,10 @@
       ],
       "hashtag": "#El_Príncipe_Heredero_Que_Vende_Medicina",
       "id": "el_principe_heredero_que_vende_medicina",
-      "latest_chapter": 129,
+      "latest_chapter": 128,
       "library_count": 5,
       "name": "El Príncipe Heredero Que Vende Medicina",
-      "package_count": 49,
+      "package_count": 48,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -112224,21 +112213,6 @@
           "name": "127-128",
           "size": 33573215,
           "telegram_link": "https://t.me/manhuasgratis/6628"
-        },
-        {
-          "name": "129",
-          "first": 129,
-          "last": 129,
-          "channel_id": -1003003829878,
-          "message_id": 7137,
-          "filename": "[#129]   El Príncipe Heredero que Vende Medicina.pdf",
-          "size": 18613061,
-          "date": "2026-10-28T04:18:41+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7137",
-          "download_ready": false,
-          "chapters": [
-            129
-          ]
         }
       ],
       "rating": 5,
@@ -248358,7 +248332,8 @@
           "message_id": 10773,
           "name": "71-80",
           "size": 82611601,
-          "telegram_link": "https://t.me/manhuasgratis/10773"
+          "telegram_link": "https://t.me/manhuasgratis/10773",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_confio_en_mi_hermana_gemela/10773_71-80%E2%94%82%E2%9E%A2%20No%20Conf%C3%ADo%20En%20Mi%20Hermana%20Gemela.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T062609Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad2b3439b519887ed66009c193ff4015c09f9cf316472e1b7a6fa50086f94432"
         },
         {
           "channel_id": -1004367557958,
@@ -248383,7 +248358,8 @@
           "message_id": 10774,
           "name": "81-91",
           "size": 83110080,
-          "telegram_link": "https://t.me/manhuasgratis/10774"
+          "telegram_link": "https://t.me/manhuasgratis/10774",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_confio_en_mi_hermana_gemela/10774_81-91%E2%94%82%E2%9E%A2%20No%20Conf%C3%ADo%20En%20Mi%20Hermana%20Gemela.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T062903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd45c37642b3f140f4799bc64101f65895799a89a1da676e61a50e0a088334ea"
         },
         {
           "channel_id": -1004367557958,
@@ -248406,7 +248382,8 @@
           "message_id": 10775,
           "name": "92-100",
           "size": 51577762,
-          "telegram_link": "https://t.me/manhuasgratis/10775"
+          "telegram_link": "https://t.me/manhuasgratis/10775",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_confio_en_mi_hermana_gemela/10775_92-100%E2%94%82%E2%9E%A2%20No%20Conf%C3%ADo%20En%20Mi%20Hermana%20Gemela.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T063042Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7366927402ef2998f504cf4c14c889e320f2025c8fd17d1942075d56ee24976f"
         }
       ],
       "rating": 0,
@@ -252331,7 +252308,8 @@
           "message_id": 10231,
           "name": "1-10",
           "size": 75247714,
-          "telegram_link": "https://t.me/manhuasgratis/10231"
+          "telegram_link": "https://t.me/manhuasgratis/10231",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_subestimes_al_esposo_conejo/10231_01-10%20%E2%94%8A%E2%9D%A5%C2%A1No%20Subestimes%20Al%20Esposo%20Conejo%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T063320Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b40f59f0f117e512f2a174dca3c50648d82f46f40bb7b1163e5d0345210d89bf"
         },
         {
           "channel_id": -1004367557958,
@@ -252355,7 +252333,8 @@
           "message_id": 10232,
           "name": "11-20",
           "size": 96195816,
-          "telegram_link": "https://t.me/manhuasgratis/10232"
+          "telegram_link": "https://t.me/manhuasgratis/10232",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_subestimes_al_esposo_conejo/10232_11-20%20%E2%98%86%20%C2%A1No%20Subestimes%20Al%20Esposo%20Conejo%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T071025Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7d51c670a534cd75014e497fe69c23cb4d96ca88942212957b0cb336d6ee5c2b"
         },
         {
           "channel_id": -1004367557958,
@@ -252378,7 +252357,8 @@
           "message_id": 10233,
           "name": "21-29",
           "size": 79373154,
-          "telegram_link": "https://t.me/manhuasgratis/10233"
+          "telegram_link": "https://t.me/manhuasgratis/10233",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_subestimes_al_esposo_conejo/10233_21-29%20%E2%98%86%20%C2%A1No%20Subestimes%20Al%20Esposo%20Conejo%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T071326Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47b0661f90df12e7514e0ddb07e8d3cafb8e9dfdf297a19ddd5a6e09fd9b00bf"
         },
         {
           "channel_id": -1004367557958,
@@ -252393,7 +252373,8 @@
           "message_id": 10234,
           "name": "30",
           "size": 9613165,
-          "telegram_link": "https://t.me/manhuasgratis/10234"
+          "telegram_link": "https://t.me/manhuasgratis/10234",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/no_subestimes_al_esposo_conejo/10234_30%20%E2%9D%A5%C2%A1No%20Subestimes%20Al%20Esposo%20Conejo%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T071349Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92de4ffd561b37ac6b95f6c1bdb9b943ed8c64af5ae6cf19b297b5482d7c6203"
         }
       ],
       "rating": 0,
@@ -256769,7 +256750,8 @@
           "message_id": 10491,
           "name": "1-10",
           "size": 16631135,
-          "telegram_link": "https://t.me/manhuasgratis/10491"
+          "telegram_link": "https://t.me/manhuasgratis/10491",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nuestra_relacion_es/10491_01-10%20Nuestra%20Relaci%C3%B3n%20Es....pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T071421Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f3b6eec1d950a693e827946826dcd4edcf90b306761cd99d6e22e293b8902a7"
         },
         {
           "channel_id": -1004367557958,
@@ -256793,7 +256775,8 @@
           "message_id": 10492,
           "name": "11-20",
           "size": 21159587,
-          "telegram_link": "https://t.me/manhuasgratis/10492"
+          "telegram_link": "https://t.me/manhuasgratis/10492",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nuestra_relacion_es/10492_11-20%20Nuestra%20Relaci%C3%B3n%20Es....pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T071509Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=149d3fc1666f092ac2c8dacf1edfb09c2d0191411a4a9f0969911807a2697230"
         },
         {
           "channel_id": -1004367557958,
@@ -256817,7 +256800,8 @@
           "message_id": 10493,
           "name": "21-30",
           "size": 18890639,
-          "telegram_link": "https://t.me/manhuasgratis/10493"
+          "telegram_link": "https://t.me/manhuasgratis/10493",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nuestra_relacion_es/10493_21-30%20Nuestra%20Relaci%C3%B3n%20Es....pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T071545Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f157ec77523da085141a3f4185179bbfe7a2e882859a78c62abd5fd24e0d53c3"
         },
         {
           "channel_id": -1004367557958,
@@ -362167,6 +362151,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-28T06:20:32.704764+00:00",
+  "updated_at": "2026-10-28T00:20:52.700017+00:00",
   "version": 3
 }
