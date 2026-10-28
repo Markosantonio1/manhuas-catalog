@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T172013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80d14992028108639bb435e3f83e72b41218f88910717ffc71da625437965bd4",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4002,7 +4019,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4139,6 +4156,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T172013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=691a58fab168b4bf51663f1e03c3b39f0da06c04a41f56f3fd0fb74cfbb42aba",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -73663,10 +73697,10 @@
       ],
       "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "id": "dominio_absoluto_del_nivel_0",
-      "latest_chapter": 55,
+      "latest_chapter": 54,
       "library_count": 20,
       "name": "Dominio Absoluto del Nivel 0",
-      "package_count": 23,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -74051,21 +74085,6 @@
           "name": "54",
           "size": 6534826,
           "telegram_link": "https://t.me/manhuasgratis/6903"
-        },
-        {
-          "name": "55",
-          "first": 55,
-          "last": 55,
-          "channel_id": -1003003829878,
-          "message_id": 7133,
-          "filename": "55 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 5775648,
-          "date": "2026-10-28T04:18:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7133",
-          "download_ready": false,
-          "chapters": [
-            55
-          ]
         }
       ],
       "rating": 4,
@@ -102290,10 +102309,10 @@
       ],
       "hashtag": "#El_Mago_Infinito",
       "id": "el_mago_infinito",
-      "latest_chapter": 192,
+      "latest_chapter": 191,
       "library_count": 5,
       "name": "El Mago Infinito",
-      "package_count": 69,
+      "package_count": 68,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -103507,21 +103526,6 @@
           "name": "191",
           "size": 12034516,
           "telegram_link": "https://t.me/manhuasgratis/6068"
-        },
-        {
-          "name": "192",
-          "first": 192,
-          "last": 192,
-          "channel_id": -1003003829878,
-          "message_id": 7135,
-          "filename": "[#192]   Mago Infinito.pdf",
-          "size": 22978757,
-          "date": "2026-10-28T04:18:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7135",
-          "download_ready": false,
-          "chapters": [
-            192
-          ]
         }
       ],
       "rating": 5,
@@ -105623,10 +105627,10 @@
       ],
       "hashtag": "#El_Mundo_Después_Del_Fin",
       "id": "el_mundo_despues_del_fin",
-      "latest_chapter": 258,
+      "latest_chapter": 257,
       "library_count": 6,
       "name": "El Mundo Después Del Fin",
-      "package_count": 77,
+      "package_count": 76,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -107025,21 +107029,6 @@
           "name": "257",
           "size": 10758672,
           "telegram_link": "https://t.me/manhuasgratis/6221"
-        },
-        {
-          "name": "258",
-          "first": 258,
-          "last": 258,
-          "channel_id": -1003003829878,
-          "message_id": 7136,
-          "filename": "[258] El Mundo Despues Del Fin.pdf",
-          "size": 9567530,
-          "date": "2026-10-28T04:18:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7136",
-          "download_ready": false,
-          "chapters": [
-            258
-          ]
         }
       ],
       "rating": 5,
@@ -111372,10 +111361,10 @@
       ],
       "hashtag": "#El_Príncipe_Heredero_Que_Vende_Medicina",
       "id": "el_principe_heredero_que_vende_medicina",
-      "latest_chapter": 129,
+      "latest_chapter": 128,
       "library_count": 5,
       "name": "El Príncipe Heredero Que Vende Medicina",
-      "package_count": 49,
+      "package_count": 48,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -112224,21 +112213,6 @@
           "name": "127-128",
           "size": 33573215,
           "telegram_link": "https://t.me/manhuasgratis/6628"
-        },
-        {
-          "name": "129",
-          "first": 129,
-          "last": 129,
-          "channel_id": -1003003829878,
-          "message_id": 7137,
-          "filename": "[#129]   El Príncipe Heredero que Vende Medicina.pdf",
-          "size": 18613061,
-          "date": "2026-10-28T04:18:41+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7137",
-          "download_ready": false,
-          "chapters": [
-            129
-          ]
         }
       ],
       "rating": 5,
@@ -359689,7 +359663,8 @@
           "message_id": 10540,
           "name": "51-60",
           "size": 68892897,
-          "telegram_link": "https://t.me/manhuasgratis/10540"
+          "telegram_link": "https://t.me/manhuasgratis/10540",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10540_%E3%80%8C51-60%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T123255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=61fe7c99386b3deb307a78175159b927c9f4af2ec746653904d27a035119eca5"
         },
         {
           "channel_id": -1004367557958,
@@ -359713,7 +359688,8 @@
           "message_id": 10541,
           "name": "61-70",
           "size": 66941605,
-          "telegram_link": "https://t.me/manhuasgratis/10541"
+          "telegram_link": "https://t.me/manhuasgratis/10541",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10541_%E3%80%8C61-70%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T123507Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=261d3e61f05975056aadf780010ad83dcc21de364367d8285e19384b8eb2880a"
         },
         {
           "channel_id": -1004367557958,
@@ -359737,7 +359713,8 @@
           "message_id": 10542,
           "name": "71-80",
           "size": 64734320,
-          "telegram_link": "https://t.me/manhuasgratis/10542"
+          "telegram_link": "https://t.me/manhuasgratis/10542",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10542_%E3%80%8C71-80%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T123728Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d47edace2eb3905cd46f3de100c0f9d53f3da3abd46ecd0c445a8906a9c90f41"
         },
         {
           "channel_id": -1004367557958,
@@ -359761,7 +359738,8 @@
           "message_id": 10543,
           "name": "81-90",
           "size": 62293816,
-          "telegram_link": "https://t.me/manhuasgratis/10543"
+          "telegram_link": "https://t.me/manhuasgratis/10543",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10543_%E3%80%8C81-90%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T123937Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b50474bf84c444ba10b90625795457666f55865e158675594a42c50df57602d1"
         },
         {
           "channel_id": -1004367557958,
@@ -359785,7 +359763,8 @@
           "message_id": 10544,
           "name": "91-100",
           "size": 61153316,
-          "telegram_link": "https://t.me/manhuasgratis/10544"
+          "telegram_link": "https://t.me/manhuasgratis/10544",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10544_%E3%80%8C91-100%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T124134Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=62afc7e2b3599718ac6029a0ffd35d7bc0386b1df99a29a569b78aefe300a30b"
         },
         {
           "channel_id": -1004367557958,
@@ -359809,7 +359788,8 @@
           "message_id": 10545,
           "name": "101-110",
           "size": 89173222,
-          "telegram_link": "https://t.me/manhuasgratis/10545"
+          "telegram_link": "https://t.me/manhuasgratis/10545",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10545_%E3%80%8C101-110%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T124443Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=680af737cedc899afab9e11660461bcdc5a923d8e965fcd392767ff295f126d5"
         },
         {
           "channel_id": -1004367557958,
@@ -359833,7 +359813,8 @@
           "message_id": 10546,
           "name": "111-120",
           "size": 78532230,
-          "telegram_link": "https://t.me/manhuasgratis/10546"
+          "telegram_link": "https://t.me/manhuasgratis/10546",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10546_%E3%80%8C111-120%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T124723Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ccf74217568908fc810ab2120a5e99fe7821a35ab1ca603b4d0686ad27a652b"
         },
         {
           "channel_id": -1004367557958,
@@ -359855,7 +359836,8 @@
           "message_id": 10547,
           "name": "121-128",
           "size": 54368118,
-          "telegram_link": "https://t.me/manhuasgratis/10547"
+          "telegram_link": "https://t.me/manhuasgratis/10547",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10547_%E3%80%8C121-128%E3%80%8DYo%20No%20Era%20Cenicienta%28%20Fin%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T124914Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c6e4d82682368ac6493b0a663324d1e44d0fd9637994f03e0e5196c9923492e"
         },
         {
           "channel_id": -1004367557958,
@@ -359881,7 +359863,8 @@
           "message_id": 10548,
           "name": "129-140",
           "size": 95972210,
-          "telegram_link": "https://t.me/manhuasgratis/10548"
+          "telegram_link": "https://t.me/manhuasgratis/10548",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10548_%E3%80%8C129-140%20SS%E3%80%8DYo%20No%20Era%20Cenicienta.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T125234Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c359b4d498307efe62375dfa5475b50b2fe6e56cb8c16293751871fd4bffbf5"
         },
         {
           "channel_id": -1004367557958,
@@ -359900,7 +359883,8 @@
           "message_id": 10549,
           "name": "141-145",
           "size": 42824811,
-          "telegram_link": "https://t.me/manhuasgratis/10549"
+          "telegram_link": "https://t.me/manhuasgratis/10549",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/yo_no_era_cenicienta/10549_%E3%80%8C141-145%20SS%E3%80%8DYo%20No%20Era%20Cenicienta%20%28FIN%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T125356Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c868dab48bcb75097347b2e0b0511eff8f6acce437a21481dad1355152da646"
         }
       ],
       "rating": 0,
@@ -362376,6 +362360,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-28T12:21:16.345637+00:00",
+  "updated_at": "2026-10-28T00:20:52.700017+00:00",
   "version": 3
 }
