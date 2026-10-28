@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T172013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80d14992028108639bb435e3f83e72b41218f88910717ffc71da625437965bd4",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4002,7 +4019,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4139,6 +4156,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261027%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261027T172013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=691a58fab168b4bf51663f1e03c3b39f0da06c04a41f56f3fd0fb74cfbb42aba",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -73663,10 +73697,10 @@
       ],
       "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "id": "dominio_absoluto_del_nivel_0",
-      "latest_chapter": 55,
+      "latest_chapter": 54,
       "library_count": 20,
       "name": "Dominio Absoluto del Nivel 0",
-      "package_count": 23,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -74051,21 +74085,6 @@
           "name": "54",
           "size": 6534826,
           "telegram_link": "https://t.me/manhuasgratis/6903"
-        },
-        {
-          "name": "55",
-          "first": 55,
-          "last": 55,
-          "channel_id": -1003003829878,
-          "message_id": 7133,
-          "filename": "55 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 5775648,
-          "date": "2026-10-28T04:18:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7133",
-          "download_ready": false,
-          "chapters": [
-            55
-          ]
         }
       ],
       "rating": 4,
@@ -102290,10 +102309,10 @@
       ],
       "hashtag": "#El_Mago_Infinito",
       "id": "el_mago_infinito",
-      "latest_chapter": 192,
+      "latest_chapter": 191,
       "library_count": 5,
       "name": "El Mago Infinito",
-      "package_count": 69,
+      "package_count": 68,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -103507,21 +103526,6 @@
           "name": "191",
           "size": 12034516,
           "telegram_link": "https://t.me/manhuasgratis/6068"
-        },
-        {
-          "name": "192",
-          "first": 192,
-          "last": 192,
-          "channel_id": -1003003829878,
-          "message_id": 7135,
-          "filename": "[#192]   Mago Infinito.pdf",
-          "size": 22978757,
-          "date": "2026-10-28T04:18:36+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7135",
-          "download_ready": false,
-          "chapters": [
-            192
-          ]
         }
       ],
       "rating": 5,
@@ -105623,10 +105627,10 @@
       ],
       "hashtag": "#El_Mundo_Después_Del_Fin",
       "id": "el_mundo_despues_del_fin",
-      "latest_chapter": 258,
+      "latest_chapter": 257,
       "library_count": 6,
       "name": "El Mundo Después Del Fin",
-      "package_count": 77,
+      "package_count": 76,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -107025,21 +107029,6 @@
           "name": "257",
           "size": 10758672,
           "telegram_link": "https://t.me/manhuasgratis/6221"
-        },
-        {
-          "name": "258",
-          "first": 258,
-          "last": 258,
-          "channel_id": -1003003829878,
-          "message_id": 7136,
-          "filename": "[258] El Mundo Despues Del Fin.pdf",
-          "size": 9567530,
-          "date": "2026-10-28T04:18:39+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7136",
-          "download_ready": false,
-          "chapters": [
-            258
-          ]
         }
       ],
       "rating": 5,
@@ -111372,10 +111361,10 @@
       ],
       "hashtag": "#El_Príncipe_Heredero_Que_Vende_Medicina",
       "id": "el_principe_heredero_que_vende_medicina",
-      "latest_chapter": 129,
+      "latest_chapter": 128,
       "library_count": 5,
       "name": "El Príncipe Heredero Que Vende Medicina",
-      "package_count": 49,
+      "package_count": 48,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -112224,21 +112213,6 @@
           "name": "127-128",
           "size": 33573215,
           "telegram_link": "https://t.me/manhuasgratis/6628"
-        },
-        {
-          "name": "129",
-          "first": 129,
-          "last": 129,
-          "channel_id": -1003003829878,
-          "message_id": 7137,
-          "filename": "[#129]   El Príncipe Heredero que Vende Medicina.pdf",
-          "size": 18613061,
-          "date": "2026-10-28T04:18:41+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7137",
-          "download_ready": false,
-          "chapters": [
-            129
-          ]
         }
       ],
       "rating": 5,
@@ -266641,7 +266615,8 @@
           "message_id": 10325,
           "name": "11-20",
           "size": 58462384,
-          "telegram_link": "https://t.me/manhuasgratis/10325"
+          "telegram_link": "https://t.me/manhuasgratis/10325",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10325_011-020%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T072602Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=42fb1f078338aa8a6027b900cab1eff68b0b04ddcbf04dbcbd6b1f52a7dc4c8b"
         },
         {
           "channel_id": -1004367557958,
@@ -266665,7 +266640,8 @@
           "message_id": 10326,
           "name": "21-30",
           "size": 63561759,
-          "telegram_link": "https://t.me/manhuasgratis/10326"
+          "telegram_link": "https://t.me/manhuasgratis/10326",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10326_021-030%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T072811Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=defcc0478f6f0a97f907d9101ec36a8dad48f48adf6e9075902cc25408b66c11"
         },
         {
           "channel_id": -1004367557958,
@@ -266689,7 +266665,8 @@
           "message_id": 10327,
           "name": "31-40",
           "size": 66289659,
-          "telegram_link": "https://t.me/manhuasgratis/10327"
+          "telegram_link": "https://t.me/manhuasgratis/10327",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10327_031-040%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073032Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e322eb64c1e205bd4353d540930510f81d2e8dff4c1b36a165075e1f74e8f0ec"
         },
         {
           "channel_id": -1004367557958,
@@ -266713,7 +266690,8 @@
           "message_id": 10328,
           "name": "41-50",
           "size": 64412676,
-          "telegram_link": "https://t.me/manhuasgratis/10328"
+          "telegram_link": "https://t.me/manhuasgratis/10328",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10328_041-050%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70c6ac213a84ab495cf4f579b2185dc29103489e48cbed795b67d1db081f9444"
         },
         {
           "channel_id": -1004367557958,
@@ -266737,7 +266715,8 @@
           "message_id": 10329,
           "name": "51-60",
           "size": 64797402,
-          "telegram_link": "https://t.me/manhuasgratis/10329"
+          "telegram_link": "https://t.me/manhuasgratis/10329",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10329_051-060%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073452Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8fb0860c38ff2a04ff2a4f47062312599f4f913f0be4bf4941758c69cfa032b"
         },
         {
           "channel_id": -1004367557958,
@@ -266761,7 +266740,8 @@
           "message_id": 10330,
           "name": "61-70",
           "size": 66303099,
-          "telegram_link": "https://t.me/manhuasgratis/10330"
+          "telegram_link": "https://t.me/manhuasgratis/10330",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10330_061-070%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073715Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d1354f1414499db3e8170800cbbfb5205e4e91623bcae0e14c69730db6241f4"
         },
         {
           "channel_id": -1004367557958,
@@ -266785,7 +266765,8 @@
           "message_id": 10331,
           "name": "71-80",
           "size": 68281722,
-          "telegram_link": "https://t.me/manhuasgratis/10331"
+          "telegram_link": "https://t.me/manhuasgratis/10331",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10331_071--080%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073926Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2deb00a7b42f0a2ed76375e5a8c064ab4a9215b47d851e4c2afcbcd7b4ccad6a"
         },
         {
           "channel_id": -1004367557958,
@@ -266809,7 +266790,8 @@
           "message_id": 10332,
           "name": "81-90",
           "size": 64295651,
-          "telegram_link": "https://t.me/manhuasgratis/10332"
+          "telegram_link": "https://t.me/manhuasgratis/10332",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10332_081-090%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T074147Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f6b565e691a63ccfcdf06d8ccf199d79493e9a4619b49863b47b80e1e352caa4"
         },
         {
           "channel_id": -1004367557958,
@@ -266833,7 +266815,8 @@
           "message_id": 10333,
           "name": "91-100",
           "size": 69818424,
-          "telegram_link": "https://t.me/manhuasgratis/10333"
+          "telegram_link": "https://t.me/manhuasgratis/10333",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10333_091-100%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T074401Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=562dd1c4851b627abac3c81dff775858bb4d3ff889023f138b8979db3f061a60"
         },
         {
           "channel_id": -1004367557958,
@@ -266857,7 +266840,8 @@
           "message_id": 10334,
           "name": "101-110",
           "size": 75660307,
-          "telegram_link": "https://t.me/manhuasgratis/10334"
+          "telegram_link": "https://t.me/manhuasgratis/10334",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paramiamorabandonado/10334_101-110%20Para%20Mi%20Amor%20Abandonado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261028%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T074639Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c2a54767e4c5e94f11bb5cae6551ddff0b61281437982109dd0d8756230e4aba"
         },
         {
           "channel_id": -1004367557958,
@@ -362187,6 +362171,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-28T07:20:33.330300+00:00",
+  "updated_at": "2026-10-28T00:20:52.700017+00:00",
   "version": 3
 }
