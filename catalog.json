@@ -112394,10 +112394,10 @@
       ],
       "hashtag": "#El_Psicópata_del_Murim",
       "id": "el_psicopata_del_murim",
-      "latest_chapter": 48,
+      "latest_chapter": 49,
       "library_count": 3,
       "name": "El Psicópata del Murim",
-      "package_count": 18,
+      "package_count": 19,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -112716,6 +112716,21 @@
           "name": "48",
           "size": 11770183,
           "telegram_link": "https://t.me/manhuasgratis/6606"
+        },
+        {
+          "name": "49",
+          "first": 49,
+          "last": 49,
+          "channel_id": -1003003829878,
+          "message_id": 7144,
+          "filename": "[49] El Psicópata del Murim.pdf",
+          "size": 10475038,
+          "date": "2026-10-29T12:18:26+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7144",
+          "download_ready": false,
+          "chapters": [
+            49
+          ]
         }
       ],
       "rating": 5,
@@ -113486,10 +113501,10 @@
       ],
       "hashtag": "#El_Regreso_Del_Caballero_De_La_Muerte",
       "id": "el_regreso_del_caballero_de_la_muerte",
-      "latest_chapter": 92,
+      "latest_chapter": 94,
       "library_count": 2,
       "name": "El Regreso Del Caballero De La Muerte",
-      "package_count": 56,
+      "package_count": 57,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -114422,6 +114437,22 @@
           "name": "92",
           "size": 13557096,
           "telegram_link": "https://t.me/manhuasgratis/6076"
+        },
+        {
+          "name": "93-94",
+          "first": 93,
+          "last": 94,
+          "channel_id": -1003003829878,
+          "message_id": 7145,
+          "filename": "[93-94] El Regreso del Caballero de la Muerte Clase.pdf",
+          "size": 20399276,
+          "date": "2026-10-29T12:18:28+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7145",
+          "download_ready": false,
+          "chapters": [
+            93,
+            94
+          ]
         }
       ],
       "rating": 0,
@@ -115236,10 +115267,10 @@
       ],
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
-      "latest_chapter": 193,
+      "latest_chapter": 194,
       "library_count": 11,
       "name": "El Regreso del Héroe de Clase Desastre",
-      "package_count": 56,
+      "package_count": 57,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -116273,6 +116304,21 @@
           "name": "193",
           "size": 14797152,
           "telegram_link": "https://t.me/manhuasgratis/6607"
+        },
+        {
+          "name": "194",
+          "first": 194,
+          "last": 194,
+          "channel_id": -1003003829878,
+          "message_id": 7146,
+          "filename": "[#194]   El Regreso del Héroe de Clase Desastre.pdf",
+          "size": 20105296,
+          "date": "2026-10-29T12:18:31+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7146",
+          "download_ready": false,
+          "chapters": [
+            194
+          ]
         }
       ],
       "rating": 5,
@@ -246466,10 +246512,10 @@
       ],
       "hashtag": "#Nigromante_la_Llegada_del_Desastre",
       "id": "nigromante_la_llegada_del_desastre",
-      "latest_chapter": 316,
+      "latest_chapter": 317,
       "library_count": 13,
       "name": "Nigromante la Llegada del Desastre",
-      "package_count": 50,
+      "package_count": 51,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -247536,6 +247582,21 @@
           "name": "316",
           "size": 9203505,
           "telegram_link": "https://t.me/manhuasgratis/6950"
+        },
+        {
+          "name": "317",
+          "first": 317,
+          "last": 317,
+          "channel_id": -1003003829878,
+          "message_id": 7147,
+          "filename": "[317] Nigromante la Llegada, del Desastre.pdf",
+          "size": 9090263,
+          "date": "2026-10-29T12:18:33+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7147",
+          "download_ready": false,
+          "chapters": [
+            317
+          ]
         }
       ],
       "rating": 5,
@@ -362497,6 +362558,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-28T21:20:37.184970+00:00",
+  "updated_at": "2026-10-29T12:20:35.857437+00:00",
   "version": 3
 }
