@@ -198894,10 +198894,10 @@
       ],
       "hashtag": "#La_Vida_Después_de_la_Muerte",
       "id": "la_vida_despues_de_la_muerte",
-      "latest_chapter": 259,
+      "latest_chapter": 260,
       "library_count": 15,
       "name": "La Vida Después de la Muerte",
-      "package_count": 55,
+      "package_count": 56,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -199990,6 +199990,21 @@
           "name": "259",
           "size": 9321521,
           "telegram_link": "https://t.me/manhuasgratis/6630"
+        },
+        {
+          "name": "260",
+          "first": 260,
+          "last": 260,
+          "channel_id": -1003003829878,
+          "message_id": 7148,
+          "filename": "260 La vida después de la muerte -.-.pdf",
+          "size": 8683999,
+          "date": "2026-10-29T20:19:27+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7148",
+          "download_ready": false,
+          "chapters": [
+            260
+          ]
         }
       ],
       "rating": 4,
@@ -351951,10 +351966,10 @@
       ],
       "hashtag": "#Villano_Antihéroe",
       "id": "villano_antiheroe",
-      "latest_chapter": 256,
+      "latest_chapter": 258,
       "library_count": 3,
       "name": "Villano Antihéroe",
-      "package_count": 61,
+      "package_count": 62,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -353126,6 +353141,22 @@
           "name": "256",
           "size": 16423945,
           "telegram_link": "https://t.me/manhuasgratis/5873"
+        },
+        {
+          "name": "257-258",
+          "first": 257,
+          "last": 258,
+          "channel_id": -1003003829878,
+          "message_id": 7149,
+          "filename": "[257-258] Villain to Kill.pdf",
+          "size": 20038058,
+          "date": "2026-10-29T20:19:30+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7149",
+          "download_ready": false,
+          "chapters": [
+            257,
+            258
+          ]
         }
       ],
       "rating": 5,
@@ -353314,10 +353345,10 @@
       ],
       "hashtag": "#Viviendo_como_un_Lord_Vampiro",
       "id": "viviendo_como_un_lord_vampiro",
-      "latest_chapter": 66,
+      "latest_chapter": 67,
       "library_count": 9,
       "name": "Viviendo como un Lord Vampiro",
-      "package_count": 20,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -353684,6 +353715,21 @@
           "name": "66",
           "size": 13261360,
           "telegram_link": "https://t.me/manhuasgratis/6624"
+        },
+        {
+          "name": "67",
+          "first": 67,
+          "last": 67,
+          "channel_id": -1003003829878,
+          "message_id": 7150,
+          "filename": "[67] Viviendo Como Un Lord Vampiro.pdf",
+          "size": 14485588,
+          "date": "2026-10-29T20:19:33+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7150",
+          "download_ready": false,
+          "chapters": [
+            67
+          ]
         }
       ],
       "rating": 5,
@@ -362562,6 +362608,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-29T12:20:35.857437+00:00",
+  "updated_at": "2026-10-29T20:20:34.143681+00:00",
   "version": 3
 }
