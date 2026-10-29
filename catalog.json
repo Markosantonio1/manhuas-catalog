@@ -200001,10 +200001,11 @@
           "size": 8683999,
           "date": "2026-10-29T20:19:27+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7148",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             260
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_vida_despues_de_la_muerte/7148_260%20La%20vida%20despu%C3%A9s%20de%20la%20muerte%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261029%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T202133Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5df0a1707bcca99d3b57a9847626e2302a7415715d0f376adcbe8cbc2b2f5e12"
         }
       ],
       "rating": 4,
@@ -353152,11 +353153,12 @@
           "size": 20038058,
           "date": "2026-10-29T20:19:30+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7149",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             257,
             258
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/villano_antiheroe/7149_%5B257-258%5D%20Villain%20to%20Kill.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261029%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T202208Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eae8de897a310f6fa59607b60bb88624c58aa0f2e07c22d432015928854b883e"
         }
       ],
       "rating": 5,
@@ -353726,10 +353728,11 @@
           "size": 14485588,
           "date": "2026-10-29T20:19:33+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7150",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             67
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/viviendo_como_un_lord_vampiro/7150_%5B67%5D%20Viviendo%20Como%20Un%20Lord%20Vampiro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261029%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T202239Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0b7e6857d76e6977eb99e8399aff621ce7cfebf4629094f5b044c9a1f746d21"
         }
       ],
       "rating": 5,
