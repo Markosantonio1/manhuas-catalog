@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,23 +1596,6 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261029%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T204525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5373635c73c9533ba43f78bb41ab80b61991f4347bf9760a1d3a72be285101e6",
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4019,7 +4002,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4156,23 +4139,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": false,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261029%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T204525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43154cf7e229dcfdab2c123debdb4e83c498036fbc2c0832bed6fcfae460e5ee",
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -34722,10 +34688,10 @@
       ],
       "hashtag": "#Archimago_tracendiendo_a_travez",
       "id": "archimago_tracendiendo_a_travez",
-      "latest_chapter": 218,
+      "latest_chapter": 219,
       "library_count": 9,
       "name": "Archimago tracendiendo a travez",
-      "package_count": 75,
+      "package_count": 76,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -36039,6 +36005,21 @@
           "name": "218",
           "size": 17442499,
           "telegram_link": "https://t.me/manhuasgratis/6868"
+        },
+        {
+          "name": "219",
+          "first": 219,
+          "last": 219,
+          "channel_id": -1003003829878,
+          "message_id": 7152,
+          "filename": "[#219]   Archimago Trascendiendo A Través.pdf",
+          "size": 17184217,
+          "date": "2026-10-30T04:17:46+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7152",
+          "download_ready": false,
+          "chapters": [
+            219
+          ]
         }
       ],
       "rating": 4,
@@ -36348,10 +36329,10 @@
       ],
       "hashtag": "#Asesino_Divino_Yo_Soy_la_Sombra",
       "id": "asesino_divino_yo_soy_la_sombra",
-      "latest_chapter": 151,
+      "latest_chapter": 152,
       "library_count": 2,
       "name": "Asesino Divino Yo Soy la Sombra",
-      "package_count": 42,
+      "package_count": 43,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -37088,6 +37069,21 @@
           "name": "150-151",
           "size": 18225041,
           "telegram_link": "https://t.me/manhuasgratis/6615"
+        },
+        {
+          "name": "152",
+          "first": 152,
+          "last": 152,
+          "channel_id": -1003003829878,
+          "message_id": 7153,
+          "filename": "152 • Asesino Divino, Yo Soy la Sombra.pdf",
+          "size": 6254309,
+          "date": "2026-10-30T04:17:48+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7153",
+          "download_ready": false,
+          "chapters": [
+            152
+          ]
         }
       ],
       "rating": 0,
@@ -82224,10 +82220,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Reencarnó_Como_Un_Genio_Espadachín",
       "id": "el_asesino_que_reencarno_como_un_genio_espadachin",
-      "latest_chapter": 98,
+      "latest_chapter": 99,
       "library_count": 4,
       "name": "El Asesino Que Reencarnó Como Un Genio Espadachín",
-      "package_count": 23,
+      "package_count": 24,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -82672,6 +82668,21 @@
           "name": "98",
           "size": 26252170,
           "telegram_link": "https://t.me/manhuasgratis/6626"
+        },
+        {
+          "name": "99",
+          "first": 99,
+          "last": 99,
+          "channel_id": -1003003829878,
+          "message_id": 7155,
+          "filename": "[#99]   El Asesino Que Reencarnó Como Un Genio.pdf",
+          "size": 24593206,
+          "date": "2026-10-30T04:17:52+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7155",
+          "download_ready": false,
+          "chapters": [
+            99
+          ]
         }
       ],
       "rating": 5,
@@ -99935,10 +99946,10 @@
       ],
       "hashtag": "#El_Hijo_Menor_del_Renombrado_Clan_Mágico",
       "id": "el_hijo_menor_del_renombrado_clan_magico",
-      "latest_chapter": 140,
+      "latest_chapter": 141,
       "library_count": 4,
       "name": "El Hijo Menor del Renombrado Clan Mágico",
-      "package_count": 34,
+      "package_count": 35,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -100592,6 +100603,21 @@
           "name": "140",
           "size": 16440906,
           "telegram_link": "https://t.me/manhuasgratis/6909"
+        },
+        {
+          "name": "141",
+          "first": 141,
+          "last": 141,
+          "channel_id": -1003003829878,
+          "message_id": 7156,
+          "filename": "[#141]   El Hijo Menor Del Renombrado Clan Mágico.pdf",
+          "size": 14904718,
+          "date": "2026-10-30T04:17:54+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7156",
+          "download_ready": false,
+          "chapters": [
+            141
+          ]
         }
       ],
       "rating": 0,
@@ -121570,10 +121596,10 @@
       ],
       "hashtag": "#El_Rey_Demonio_Abrumado_por_Héroes",
       "id": "el_rey_demonio_abrumado_por_heroes",
-      "latest_chapter": 53,
+      "latest_chapter": 54,
       "library_count": 5,
       "name": "El Rey Demonio Abrumado por Héroes",
-      "package_count": 21,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -121942,6 +121968,21 @@
           "name": "53",
           "size": 14231338,
           "telegram_link": "https://t.me/manhuasgratis/6632"
+        },
+        {
+          "name": "54",
+          "first": 54,
+          "last": 54,
+          "channel_id": -1003003829878,
+          "message_id": 7157,
+          "filename": "[#54]   El Rey Demonio Abrumado Por Heroes.pdf",
+          "size": 22148708,
+          "date": "2026-10-30T04:17:57+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7157",
+          "download_ready": false,
+          "chapters": [
+            54
+          ]
         }
       ],
       "rating": 4,
@@ -136038,10 +136079,10 @@
       ],
       "hashtag": "#Esclavo_de_las_sombras",
       "id": "esclavo_de_las_sombras",
-      "latest_chapter": 14,
+      "latest_chapter": 15,
       "library_count": 9,
       "name": "Esclavo de las sombras",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -136206,6 +136247,21 @@
           "name": "14",
           "size": 12450565,
           "telegram_link": "https://t.me/manhuasgratis/6617"
+        },
+        {
+          "name": "15",
+          "first": 15,
+          "last": 15,
+          "channel_id": -1003003829878,
+          "message_id": 7158,
+          "filename": "[15] Esclavo De Las Sombras.pdf",
+          "size": 11630299,
+          "date": "2026-10-30T04:18:00+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7158",
+          "download_ready": false,
+          "chapters": [
+            15
+          ]
         }
       ],
       "rating": 4,
@@ -147820,10 +147876,10 @@
       ],
       "hashtag": "#Genio_Espadachín_De_La_Academia",
       "id": "genio_espadachin_de_la_academia",
-      "latest_chapter": 159,
+      "latest_chapter": 160,
       "library_count": 11,
       "name": "Genio Espadachín De La Academia",
-      "package_count": 36,
+      "package_count": 37,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -148523,6 +148579,21 @@
           "name": "159",
           "size": 9566533,
           "telegram_link": "https://t.me/manhuasgratis/5866"
+        },
+        {
+          "name": "160",
+          "first": 160,
+          "last": 160,
+          "channel_id": -1003003829878,
+          "message_id": 7159,
+          "filename": "160 • Genio Espadachín De La Academia.pdf",
+          "size": 9616784,
+          "date": "2026-10-30T04:18:03+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7159",
+          "download_ready": false,
+          "chapters": [
+            160
+          ]
         }
       ],
       "rating": 5,
@@ -259822,10 +259893,10 @@
       ],
       "hashtag": "#Novato_De_Nivel_Máximo",
       "id": "novato_de_nivel_maximo",
-      "latest_chapter": 282,
+      "latest_chapter": 283,
       "library_count": 7,
       "name": "Novato De Nivel Máximo",
-      "package_count": 59,
+      "package_count": 60,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -261000,6 +261071,21 @@
           "name": "282",
           "size": 19467819,
           "telegram_link": "https://t.me/manhuasgratis/6892"
+        },
+        {
+          "name": "283",
+          "first": 283,
+          "last": 283,
+          "channel_id": -1003003829878,
+          "message_id": 7160,
+          "filename": "[#283]   Novato Solo A Nivel Máximo.pdf",
+          "size": 21446101,
+          "date": "2026-10-30T04:18:05+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7160",
+          "download_ready": false,
+          "chapters": [
+            283
+          ]
         }
       ],
       "rating": 5,
@@ -268132,10 +268218,10 @@
       ],
       "hashtag": "#Overgeared",
       "id": "overgeared",
-      "latest_chapter": 344,
+      "latest_chapter": 345,
       "library_count": 0,
       "name": "Overgeared",
-      "package_count": 37,
+      "package_count": 38,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -269035,6 +269121,21 @@
           "name": "344",
           "size": 21173926,
           "telegram_link": "https://t.me/manhuasgratis/7117"
+        },
+        {
+          "name": "345",
+          "first": 345,
+          "last": 345,
+          "channel_id": -1003003829878,
+          "message_id": 7161,
+          "filename": "[345]   Overgeared.pdf",
+          "size": 20575143,
+          "date": "2026-10-30T04:18:08+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7161",
+          "download_ready": false,
+          "chapters": [
+            345
+          ]
         }
       ],
       "rating": 0,
@@ -315066,10 +315167,10 @@
       ],
       "hashtag": "#Soy_el_Dios_de_los_Goblins",
       "id": "soy_el_dios_de_los_goblins",
-      "latest_chapter": 128,
+      "latest_chapter": 129,
       "library_count": 13,
       "name": "Soy el Dios de los Goblins",
-      "package_count": 75,
+      "package_count": 76,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -316323,6 +316424,21 @@
           "name": "128",
           "size": 10430430,
           "telegram_link": "https://t.me/manhuasgratis/6633"
+        },
+        {
+          "name": "129",
+          "first": 129,
+          "last": 129,
+          "channel_id": -1003003829878,
+          "message_id": 7162,
+          "filename": "[129] Soy el Dios de los Goblins.pdf",
+          "size": 9481677,
+          "date": "2026-10-30T04:18:09+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7162",
+          "download_ready": false,
+          "chapters": [
+            129
+          ]
         }
       ],
       "rating": 2,
@@ -369325,6 +369441,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-29T20:37:02.042609+00:00",
+  "updated_at": "2026-10-30T04:20:31.245201+00:00",
   "version": 3
 }
