@@ -100767,11 +100767,12 @@
           "size": 14936278,
           "date": "2026-10-30T20:18:27+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7165",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             233,
             234
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_hijo_menor_de_un_conglomerado/7165_233-234%20El%20hijo%20menor%20de%20un%20conglomerado%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261030%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261030T202117Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=94ac20dc1c00086507d52b4d9ac3186ec97531c0a94a65d6fb6559102bc4a06f"
         }
       ],
       "rating": 5,
