@@ -153578,11 +153578,12 @@
           "size": 26351426,
           "date": "2026-10-30T12:18:28+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7163",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             49,
             50
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre/7163_%5B49-50%5D%20Gu%C3%ADa%20de%20Estrategia%20de%20un%20Cobarde%20para%20Conquistar.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261030%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261030T200609Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=692bd895238517f02ac94c6003cf6e963d8945f3dc9d18436ad00bc41eb30398"
         }
       ],
       "rating": 5,
@@ -283570,10 +283571,11 @@
           "size": 11144381,
           "date": "2026-10-30T12:18:29+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7164",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             91
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/que_abundante_cosecha_senor_demonio/7164_%5B91%5D%20%C2%A1Que%20abundante%20cosecha%2C%20se%C3%B1or%20demonio%21.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261030%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261030T200622Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ac4e9242d1638e5eaad6c0375bb921eba522b817edf11d939c613378eea7ed7b"
         }
       ],
       "rating": 0,
