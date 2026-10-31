@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0db348c0315dce37ba0781d67dc52947b1e204dd1fee5975e3cd132e6992ac41",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4002,7 +4019,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4139,6 +4156,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8509a77152099ed2bc2b6158288d315806ed934a366fffe253a207e07c18cca5",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -142467,10 +142501,10 @@
       ],
       "hashtag": "#Esclavo_Corporativo_en_una_Historia_de_Fantasmas",
       "id": "esclavo_corporativo_en_una_historia_de_fantasmas",
-      "latest_chapter": 42,
+      "latest_chapter": 41,
       "library_count": 5,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 18,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -142767,21 +142801,6 @@
           "name": "41",
           "size": 13515129,
           "telegram_link": "https://t.me/manhuasgratis/6887"
-        },
-        {
-          "name": "42",
-          "first": 42,
-          "last": 42,
-          "channel_id": -1003003829878,
-          "message_id": 7224,
-          "filename": "[42] Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 10129483,
-          "date": "2026-10-31T04:34:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7224",
-          "download_ready": false,
-          "chapters": [
-            42
-          ]
         }
       ],
       "rating": 4.6,
@@ -290859,7 +290878,8 @@
           "message_id": 11639,
           "name": "421-440",
           "size": 115518514,
-          "telegram_link": "https://t.me/manhuasgratis/11639"
+          "telegram_link": "https://t.me/manhuasgratis/11639",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11639_%28421-440%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T082745Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2dd3dd0cff0a3ca38feced577bc54f9538e4420b5f561b3f9ea929a72d09dcd0"
         },
         {
           "channel_id": -1004367557958,
@@ -290893,7 +290913,8 @@
           "message_id": 11640,
           "name": "441-460",
           "size": 113610359,
-          "telegram_link": "https://t.me/manhuasgratis/11640"
+          "telegram_link": "https://t.me/manhuasgratis/11640",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11640_%28441-460%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T082832Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6de034be3ae0a273e82ee6041314a30b48c73bdf9aa6896f73d1c40dbdac17ae"
         },
         {
           "channel_id": -1004367557958,
@@ -290927,7 +290948,8 @@
           "message_id": 11641,
           "name": "461-480",
           "size": 110979929,
-          "telegram_link": "https://t.me/manhuasgratis/11641"
+          "telegram_link": "https://t.me/manhuasgratis/11641",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11641_%28461-480%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T082920Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fecc5fd1140b5338336dac6592ef10a5c54c5cd49102e66f469f60318b921bdd"
         },
         {
           "channel_id": -1004367557958,
@@ -290961,7 +290983,8 @@
           "message_id": 11642,
           "name": "481-500",
           "size": 111089642,
-          "telegram_link": "https://t.me/manhuasgratis/11642"
+          "telegram_link": "https://t.me/manhuasgratis/11642",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11642_%28481-500%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083006Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec3d89f2e4cb39006a267c7804b706f5c9e0064040e6917919a5dde99ab61e98"
         },
         {
           "channel_id": -1004367557958,
@@ -290995,7 +291018,8 @@
           "message_id": 11643,
           "name": "501-520",
           "size": 129300901,
-          "telegram_link": "https://t.me/manhuasgratis/11643"
+          "telegram_link": "https://t.me/manhuasgratis/11643",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11643_%28501-520%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083100Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f64b1fe8e6a111930b6a9e88882358f6ea7290b45968c7985d3f9c7a3e2816f9"
         },
         {
           "channel_id": -1004367557958,
@@ -291029,7 +291053,8 @@
           "message_id": 11644,
           "name": "521-540",
           "size": 115101562,
-          "telegram_link": "https://t.me/manhuasgratis/11644"
+          "telegram_link": "https://t.me/manhuasgratis/11644",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11644_%28521-540%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083148Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1273da6651d5863d187d3c853e0d37a74d6635956ec52b08bb02bb444793a009"
         },
         {
           "channel_id": -1004367557958,
@@ -291063,7 +291088,8 @@
           "message_id": 11645,
           "name": "541-560",
           "size": 120479749,
-          "telegram_link": "https://t.me/manhuasgratis/11645"
+          "telegram_link": "https://t.me/manhuasgratis/11645",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11645_%28541-560%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083240Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f1ae887af67ef30df854836c11367881af79d5dce440ca637353c5bb3006814"
         },
         {
           "channel_id": -1004367557958,
@@ -291097,7 +291123,8 @@
           "message_id": 11646,
           "name": "561-580",
           "size": 129241684,
-          "telegram_link": "https://t.me/manhuasgratis/11646"
+          "telegram_link": "https://t.me/manhuasgratis/11646",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11646_%28561-580%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083334Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b84a78324a90cc7bb5bf5c514d5b29b81cc6826fb1f96754ab0a80bfd4e5f3ae"
         },
         {
           "channel_id": -1004367557958,
@@ -291131,7 +291158,8 @@
           "message_id": 11647,
           "name": "581-600",
           "size": 139668011,
-          "telegram_link": "https://t.me/manhuasgratis/11647"
+          "telegram_link": "https://t.me/manhuasgratis/11647",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11647_%28581-600%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083429Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f82dbf92dfda1c9fa32ba468ad412f63188f948d47fcb423c9db69597d39bbde"
         },
         {
           "channel_id": -1004367557958,
@@ -291165,7 +291193,8 @@
           "message_id": 11648,
           "name": "601-620",
           "size": 151158484,
-          "telegram_link": "https://t.me/manhuasgratis/11648"
+          "telegram_link": "https://t.me/manhuasgratis/11648",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/periodo_glaciar_construi_un_refugio_apocaliptico/11648_%28601-620%29%20Periodo%20glaciar%20constru%C3%AD%20un%20refugio%20apocal%C3%ADptico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T083528Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36bfe401d840d494ce43df812fd8f1f660543766013158f3f88847fdd9ba9511"
         },
         {
           "channel_id": -1004367557958,
@@ -381557,10 +381586,10 @@
       ],
       "hashtag": "#Voy_a_Aniquilar_Esta_Tierra",
       "id": "voy_a_aniquilar_esta_tierra",
-      "latest_chapter": 100,
+      "latest_chapter": 99,
       "library_count": 1,
       "name": "Voy a Aniquilar Esta Tierra",
-      "package_count": 37,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -382201,21 +382230,6 @@
           "name": "99",
           "size": 12578094,
           "telegram_link": "https://t.me/manhuasgratis/6896"
-        },
-        {
-          "name": "100",
-          "first": 100,
-          "last": 100,
-          "channel_id": -1003003829878,
-          "message_id": 7225,
-          "filename": "[100] Voy a Aniquilar Esta Tierra.pdf",
-          "size": 11607459,
-          "date": "2026-10-31T04:34:15+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7225",
-          "download_ready": false,
-          "chapters": [
-            100
-          ]
         }
       ],
       "rating": 0,
@@ -391426,6 +391440,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-31T08:20:30.685422+00:00",
+  "updated_at": "2026-10-31T03:21:39.949493+00:00",
   "version": 3
 }
