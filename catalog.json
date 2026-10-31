@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0db348c0315dce37ba0781d67dc52947b1e204dd1fee5975e3cd132e6992ac41",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4002,7 +4019,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4139,6 +4156,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8509a77152099ed2bc2b6158288d315806ed934a366fffe253a207e07c18cca5",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -142467,10 +142501,10 @@
       ],
       "hashtag": "#Esclavo_Corporativo_en_una_Historia_de_Fantasmas",
       "id": "esclavo_corporativo_en_una_historia_de_fantasmas",
-      "latest_chapter": 42,
+      "latest_chapter": 41,
       "library_count": 5,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 18,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -142767,21 +142801,6 @@
           "name": "41",
           "size": 13515129,
           "telegram_link": "https://t.me/manhuasgratis/6887"
-        },
-        {
-          "name": "42",
-          "first": 42,
-          "last": 42,
-          "channel_id": -1003003829878,
-          "message_id": 7224,
-          "filename": "[42] Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 10129483,
-          "date": "2026-10-31T04:34:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7224",
-          "download_ready": false,
-          "chapters": [
-            42
-          ]
         }
       ],
       "rating": 4.6,
@@ -241895,7 +241914,8 @@
           "message_id": 11666,
           "name": "31-40",
           "size": 91522076,
-          "telegram_link": "https://t.me/manhuasgratis/11666"
+          "telegram_link": "https://t.me/manhuasgratis/11666",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11666_%E2%96%8E31-40%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T062648Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9aa078431b66b050c2910de3de7645aeda729f2136a6a4e080b3070a26ea510"
         },
         {
           "channel_id": -1004367557958,
@@ -241919,7 +241939,8 @@
           "message_id": 11667,
           "name": "41-50",
           "size": 92575020,
-          "telegram_link": "https://t.me/manhuasgratis/11667"
+          "telegram_link": "https://t.me/manhuasgratis/11667",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11667_%E2%96%8E41-50%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T062759Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5f53587b0e2ba6e46c88c1581702d4b7aa9083523ef2b53b00d9e7d4ca784ef"
         },
         {
           "channel_id": -1004367557958,
@@ -241943,7 +241964,8 @@
           "message_id": 11668,
           "name": "51-60",
           "size": 86457035,
-          "telegram_link": "https://t.me/manhuasgratis/11668"
+          "telegram_link": "https://t.me/manhuasgratis/11668",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11668_%E2%96%8E51-60%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T062905Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e7b4e63960958b3bad68402993c81b43e4c01cde87cf91d4ff70fa392983df17"
         },
         {
           "channel_id": -1004367557958,
@@ -241967,7 +241989,8 @@
           "message_id": 11669,
           "name": "61-70",
           "size": 84809293,
-          "telegram_link": "https://t.me/manhuasgratis/11669"
+          "telegram_link": "https://t.me/manhuasgratis/11669",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11669_%E2%96%8E61-70%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d86c190170936313c09aaae1f5f9ff64340165dbc3d9a2161a82d7a97c76bb46"
         },
         {
           "channel_id": -1004367557958,
@@ -241991,7 +242014,8 @@
           "message_id": 11670,
           "name": "71-80",
           "size": 86239919,
-          "telegram_link": "https://t.me/manhuasgratis/11670"
+          "telegram_link": "https://t.me/manhuasgratis/11670",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11670_%E2%96%8E71-80%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063113Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc96d8e65395844777c6c24fa4ecbc6ec1711b4943eccf54fa36425b8f6acbb7"
         },
         {
           "channel_id": -1004367557958,
@@ -242015,7 +242039,8 @@
           "message_id": 11671,
           "name": "81-90",
           "size": 79112003,
-          "telegram_link": "https://t.me/manhuasgratis/11671"
+          "telegram_link": "https://t.me/manhuasgratis/11671",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11671_%E2%96%8E81-90%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063212Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=038f1658a79b7afd4750670091a3864e0f50e052d154ccd2a88c91d6b15cd42b"
         },
         {
           "channel_id": -1004367557958,
@@ -242039,7 +242064,8 @@
           "message_id": 11672,
           "name": "91-100",
           "size": 84674090,
-          "telegram_link": "https://t.me/manhuasgratis/11672"
+          "telegram_link": "https://t.me/manhuasgratis/11672",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11672_%E2%96%8E91-100%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7a005180da777ec2dae690a6fc7ed3d866408a76435a60a05a70747dff99c7aa"
         },
         {
           "channel_id": -1004367557958,
@@ -242058,7 +242084,8 @@
           "message_id": 11673,
           "name": "101-105",
           "size": 43783824,
-          "telegram_link": "https://t.me/manhuasgratis/11673"
+          "telegram_link": "https://t.me/manhuasgratis/11673",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11673_%E2%96%8E101-105%20%E2%96%8EMe%20convert%C3%AD%20en%20el%20villano%20de%20mi%20videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063352Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=890c954074072ca692f476ee77470112a7db46850fff4cca54f75379bf0cea58"
         },
         {
           "channel_id": -1004367557958,
@@ -242082,7 +242109,8 @@
           "message_id": 11674,
           "name": "106-115",
           "size": 68597797,
-          "telegram_link": "https://t.me/manhuasgratis/11674"
+          "telegram_link": "https://t.me/manhuasgratis/11674",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11674_%E2%96%8E106-115%20%E2%96%8EMe%20Convert%C3%AD%20En%20El%20Villano%20De%20Mi%20Videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063444Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=81d396201c2d93406ac548c72971773fb57d2f834c6ecf8d04840ba84d3536ba"
         },
         {
           "channel_id": -1004367557958,
@@ -242099,7 +242127,8 @@
           "message_id": 11675,
           "name": "116-118",
           "size": 16502119,
-          "telegram_link": "https://t.me/manhuasgratis/11675"
+          "telegram_link": "https://t.me/manhuasgratis/11675",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_converti_en_el_villano_de_mi_videojuego/11675_%E2%96%8E116-118%20%E2%96%8EMe%20Convert%C3%AD%20En%20El%20Villano%20De%20Mi%20Videojuego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T063500Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea7175df0fc8c0f4cf1a904eede5ee475147dde505809776d023025998d6e636"
         },
         {
           "channel_id": -1004367557958,
@@ -381387,10 +381416,10 @@
       ],
       "hashtag": "#Voy_a_Aniquilar_Esta_Tierra",
       "id": "voy_a_aniquilar_esta_tierra",
-      "latest_chapter": 100,
+      "latest_chapter": 99,
       "library_count": 1,
       "name": "Voy a Aniquilar Esta Tierra",
-      "package_count": 37,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -382031,21 +382060,6 @@
           "name": "99",
           "size": 12578094,
           "telegram_link": "https://t.me/manhuasgratis/6896"
-        },
-        {
-          "name": "100",
-          "first": 100,
-          "last": 100,
-          "channel_id": -1003003829878,
-          "message_id": 7225,
-          "filename": "[100] Voy a Aniquilar Esta Tierra.pdf",
-          "size": 11607459,
-          "date": "2026-10-31T04:34:15+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7225",
-          "download_ready": false,
-          "chapters": [
-            100
-          ]
         }
       ],
       "rating": 0,
@@ -391256,6 +391270,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-31T06:20:34.762458+00:00",
+  "updated_at": "2026-10-31T03:21:39.949493+00:00",
   "version": 3
 }
