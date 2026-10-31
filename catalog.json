@@ -142778,10 +142778,11 @@
           "size": 10129483,
           "date": "2026-10-31T04:34:13+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7224",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             42
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/7224_%5B42%5D%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T102126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d40cf05ee99c862dfb68272d85d5efcd17746609518c00aeb439b8fd083e73b"
         }
       ],
       "rating": 4.6,
@@ -382300,10 +382301,11 @@
           "size": 11607459,
           "date": "2026-10-31T04:34:15+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7225",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             100
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/voy_a_aniquilar_esta_tierra/7225_%5B100%5D%20Voy%20a%20Aniquilar%20Esta%20Tierra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T102139Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f51ff922d1a59174e5345edef4843789f23f0894a3664fc746ecd5bf78eac259"
         }
       ],
       "rating": 0,
