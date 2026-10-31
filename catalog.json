@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0db348c0315dce37ba0781d67dc52947b1e204dd1fee5975e3cd132e6992ac41",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4002,7 +4019,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4139,6 +4156,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8509a77152099ed2bc2b6158288d315806ed934a366fffe253a207e07c18cca5",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -142467,10 +142501,10 @@
       ],
       "hashtag": "#Esclavo_Corporativo_en_una_Historia_de_Fantasmas",
       "id": "esclavo_corporativo_en_una_historia_de_fantasmas",
-      "latest_chapter": 42,
+      "latest_chapter": 41,
       "library_count": 5,
       "name": "Esclavo Corporativo en una Historia de Fantasmas",
-      "package_count": 18,
+      "package_count": 17,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -142767,21 +142801,6 @@
           "name": "41",
           "size": 13515129,
           "telegram_link": "https://t.me/manhuasgratis/6887"
-        },
-        {
-          "name": "42",
-          "first": 42,
-          "last": 42,
-          "channel_id": -1003003829878,
-          "message_id": 7224,
-          "filename": "[42] Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 10129483,
-          "date": "2026-10-31T04:34:13+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7224",
-          "download_ready": false,
-          "chapters": [
-            42
-          ]
         }
       ],
       "rating": 4.6,
@@ -191900,7 +191919,8 @@
           "message_id": 11801,
           "name": "181-190",
           "size": 75505708,
-          "telegram_link": "https://t.me/manhuasgratis/11801"
+          "telegram_link": "https://t.me/manhuasgratis/11801",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11801_181-190%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T052806Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=57caed6f6c57a434cfcddd7fb9eb81c843f8444bb03a6d9998f6a0b55fc71d32"
         },
         {
           "channel_id": -1004367557958,
@@ -191924,7 +191944,8 @@
           "message_id": 11802,
           "name": "191-200",
           "size": 59054985,
-          "telegram_link": "https://t.me/manhuasgratis/11802"
+          "telegram_link": "https://t.me/manhuasgratis/11802",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11802_191-200%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T052843Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea306524b05de36893e968ad127c60c786e01f0640e8ec24e76ed1f5b23358d4"
         },
         {
           "channel_id": -1004367557958,
@@ -191948,7 +191969,8 @@
           "message_id": 11803,
           "name": "201-210",
           "size": 68104270,
-          "telegram_link": "https://t.me/manhuasgratis/11803"
+          "telegram_link": "https://t.me/manhuasgratis/11803",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11803_201-210%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T052926Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=162b89f0f2ba2e9dc411e0608110019aa5d4b1894fb0ed8de04e4ca4a55b5f75"
         },
         {
           "channel_id": -1004367557958,
@@ -191972,7 +191994,8 @@
           "message_id": 11804,
           "name": "211-220",
           "size": 73611337,
-          "telegram_link": "https://t.me/manhuasgratis/11804"
+          "telegram_link": "https://t.me/manhuasgratis/11804",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11804_211-220%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053010Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fa40ca8423d0c45a8fc419e2bf0eb536bf00b26948dd853e55f7ef074d464d81"
         },
         {
           "channel_id": -1004367557958,
@@ -191996,7 +192019,8 @@
           "message_id": 11805,
           "name": "221-230",
           "size": 70300235,
-          "telegram_link": "https://t.me/manhuasgratis/11805"
+          "telegram_link": "https://t.me/manhuasgratis/11805",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11805_221-230%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053054Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9bfb33400a86fb60794279c61a251a62645a97d62decfb70242c60d99e153b89"
         },
         {
           "channel_id": -1004367557958,
@@ -192020,7 +192044,8 @@
           "message_id": 11806,
           "name": "231-240",
           "size": 66650972,
-          "telegram_link": "https://t.me/manhuasgratis/11806"
+          "telegram_link": "https://t.me/manhuasgratis/11806",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11806_231-240%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053136Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=023aba5345c6329fd3c44d7a793aa659faeb57a07c1908414210b8db44875fdb"
         },
         {
           "channel_id": -1004367557958,
@@ -192041,7 +192066,8 @@
           "message_id": 11807,
           "name": "241-247",
           "size": 61973523,
-          "telegram_link": "https://t.me/manhuasgratis/11807"
+          "telegram_link": "https://t.me/manhuasgratis/11807",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_emperatriz_divorciada/11807_241-247%20%E2%80%A2%20LA%20EMPERATRIZ%20DIVORCIADA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43157b1f0cad9567c380c4855458d9542d45d77cc51a0fab4005e2e63c9bf6b9"
         }
       ],
       "rating": 0,
@@ -193143,7 +193169,8 @@
           "message_id": 11916,
           "name": "1-10",
           "size": 299210474,
-          "telegram_link": "https://t.me/manhuasgratis/11916"
+          "telegram_link": "https://t.me/manhuasgratis/11916",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_falsa_santa_desea_escapar_adult/11916_%5B1-10%5D%20La%20Falsa%20Santa%20Desea%20Escapar%20%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053412Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=538cbefb66ab835588ac2333b3ac302d45b0e2510af963d13f7656e67760953f"
         },
         {
           "channel_id": -1004367557958,
@@ -193167,7 +193194,8 @@
           "message_id": 11917,
           "name": "11-20",
           "size": 252964659,
-          "telegram_link": "https://t.me/manhuasgratis/11917"
+          "telegram_link": "https://t.me/manhuasgratis/11917",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_falsa_santa_desea_escapar_adult/11917_%5B11-20%5D%20La%20Falsa%20Santa%20Desea%20Escapar%20%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053551Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5554c31968817a4caee4d14beb1fb5f7ec4a36cefe7e67dbff0b8b6c781deee"
         },
         {
           "channel_id": -1004367557958,
@@ -193191,7 +193219,8 @@
           "message_id": 11918,
           "name": "21-30",
           "size": 261914498,
-          "telegram_link": "https://t.me/manhuasgratis/11918"
+          "telegram_link": "https://t.me/manhuasgratis/11918",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_falsa_santa_desea_escapar_adult/11918_%5B21-30%5D%20La%20%20Falsa%20Santa%20Desea%20Escapar%20%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T053735Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=532c3994a8b6bc7d0186cf69b4bcb277cd4d3f387d29cdc7dc8805961ed8e5f0"
         },
         {
           "channel_id": -1004367557958,
@@ -381308,10 +381337,10 @@
       ],
       "hashtag": "#Voy_a_Aniquilar_Esta_Tierra",
       "id": "voy_a_aniquilar_esta_tierra",
-      "latest_chapter": 100,
+      "latest_chapter": 99,
       "library_count": 1,
       "name": "Voy a Aniquilar Esta Tierra",
-      "package_count": 37,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -381952,21 +381981,6 @@
           "name": "99",
           "size": 12578094,
           "telegram_link": "https://t.me/manhuasgratis/6896"
-        },
-        {
-          "name": "100",
-          "first": 100,
-          "last": 100,
-          "channel_id": -1003003829878,
-          "message_id": 7225,
-          "filename": "[100] Voy a Aniquilar Esta Tierra.pdf",
-          "size": 11607459,
-          "date": "2026-10-31T04:34:15+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7225",
-          "download_ready": false,
-          "chapters": [
-            100
-          ]
         }
       ],
       "rating": 0,
@@ -391177,6 +391191,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-10-31T05:20:33.821669+00:00",
+  "updated_at": "2026-10-31T03:21:39.949493+00:00",
   "version": 3
 }
