@@ -1604,7 +1604,7 @@
           ],
           "date": "2026-10-12T20:15:29+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0db348c0315dce37ba0781d67dc52947b1e204dd1fee5975e3cd132e6992ac41",
           "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
           "first": 11,
           "is_novel_volume": true,
@@ -4164,7 +4164,7 @@
           ],
           "date": "2026-10-03T23:48:24+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8509a77152099ed2bc2b6158288d315806ed934a366fffe253a207e07c18cca5",
           "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
           "first": 8,
           "is_novel_volume": true,
@@ -65548,7 +65548,8 @@
           "message_id": 242,
           "name": "40",
           "size": 5665580,
-          "telegram_link": "https://t.me/manhuasgratis/242"
+          "telegram_link": "https://t.me/manhuasgratis/242",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/como_se_jubila_un_nigromante_catastrofico/242_40%20C%C3%B3mo%20se%20Jubila%20un%20Nigromante%20Catastr%C3%B3fico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cae5eade27e7ed662f27d15711ccae2ec29df2b7da3bec08acf5db448702d6dc"
         },
         {
           "channel_id": -1003003829878,
@@ -65563,7 +65564,8 @@
           "message_id": 243,
           "name": "41",
           "size": 9472529,
-          "telegram_link": "https://t.me/manhuasgratis/243"
+          "telegram_link": "https://t.me/manhuasgratis/243",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/como_se_jubila_un_nigromante_catastrofico/243_41%20C%C3%B3mo%20se%20Jubila%20un%20Nigromante%20Catastr%C3%B3fico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cf497113552b5c46a9838fa527cc8cda17f9e180df3070a2cb6d8ab4e02b7fd6"
         },
         {
           "channel_id": -1003003829878,
@@ -65578,7 +65580,8 @@
           "message_id": 244,
           "name": "42",
           "size": 5478305,
-          "telegram_link": "https://t.me/manhuasgratis/244"
+          "telegram_link": "https://t.me/manhuasgratis/244",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/como_se_jubila_un_nigromante_catastrofico/244_42%20C%C3%B3mo%20se%20Jubila%20un%20Nigromante%20Catastr%C3%B3fico.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261031%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261031T002015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b680cc513aa868c4661eac8028d8ef34b306409f8b917d87ff9b30c19a64eae"
         },
         {
           "channel_id": -1003003829878,
