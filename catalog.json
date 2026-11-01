@@ -2316,8 +2316,8 @@
             1
           ],
           "date": "2026-11-01T01:46:12+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/lord_of_the_mysteries/377_Lord%20of%20the%20Mysteries%20-%20C0001-0100%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b19f81dae5db6f8db0a51f53f0cd62ed50c4b7dc6511adb2da25824fb91d5729",
           "filename": "Lord of the Mysteries - C0001-0100 [SkyNovels].pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -2333,8 +2333,8 @@
             2
           ],
           "date": "2026-11-01T01:46:12+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/lord_of_the_mysteries/378_Lord%20of%20the%20Mysteries%20-%20C0101-0200%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104033Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0870c0592d3efcf9a0f000e3d440d753e0ce717a514dcfbfe0e7d63b67e5ea36",
           "filename": "Lord of the Mysteries - C0101-0200 [SkyNovels].pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -2350,8 +2350,8 @@
             3
           ],
           "date": "2026-11-01T01:46:12+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/lord_of_the_mysteries/379_Lord%20of%20the%20Mysteries%20-%20C0201-0300%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104039Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2556492c041fb352bafc4791d67d1162057ee1a22c0d47f3d55840a503966c91",
           "filename": "Lord of the Mysteries - C0201-0300 [SkyNovels].pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -2367,8 +2367,8 @@
             4
           ],
           "date": "2026-11-01T01:46:12+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/lord_of_the_mysteries/380_Lord%20of%20the%20Mysteries%20-%20C0301-0400%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104046Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6e96a18b490ff46c383f99873c211c3511667bc275438aac6c64ec689eefc8c0",
           "filename": "Lord of the Mysteries - C0301-0400 [SkyNovels].pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -2384,8 +2384,8 @@
             5
           ],
           "date": "2026-11-01T01:46:12+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/lord_of_the_mysteries/381_Lord%20of%20the%20Mysteries%20-%20C0401-0500%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104053Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0162bb0eb21707553d86a8eb3fa03eb2cc0b1fb39dcb35ec2d7ffe26971d307e",
           "filename": "Lord of the Mysteries - C0401-0500 [SkyNovels].pdf",
           "first": 5,
           "is_novel_volume": true,
@@ -2401,8 +2401,8 @@
             6
           ],
           "date": "2026-11-01T01:46:12+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/lord_of_the_mysteries/382_Lord%20of%20the%20Mysteries%20-%20C0501-0600%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104059Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=171954592db7fe4ce7436b239b8b9ec95d684763fe27f8e1aa3c789a589d441b",
           "filename": "Lord of the Mysteries - C0501-0600 [SkyNovels].pdf",
           "first": 6,
           "is_novel_volume": true,
@@ -395586,7 +395586,8 @@
           "message_id": 9479,
           "name": "1151-1266",
           "size": 4459768,
-          "telegram_link": "https://t.me/manhuasgratis/9479"
+          "telegram_link": "https://t.me/manhuasgratis/9479",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_el_y_el_adult/9479_Lord%20of%20the%20Mysteries%20-%20C1151-1266%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0acd28ba21666ab6feda8ace1f40d35b71525702269883bcd5396c483bd14dd7"
         },
         {
           "channel_id": -1004367557958,
@@ -395687,7 +395688,8 @@
           "message_id": 9480,
           "name": "1267-1353",
           "size": 3361948,
-          "telegram_link": "https://t.me/manhuasgratis/9480"
+          "telegram_link": "https://t.me/manhuasgratis/9480",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_el_y_el_adult/9480_Lord%20of%20the%20Mysteries%20-%20C1267-1353%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104007Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0537812a305a6b5bc8e073e440d501f2a4340145b34b0a56f84351675f27289d"
         },
         {
           "channel_id": -1004367557958,
@@ -395742,7 +395744,8 @@
           "message_id": 9481,
           "name": "1354-1394",
           "size": 1827000,
-          "telegram_link": "https://t.me/manhuasgratis/9481"
+          "telegram_link": "https://t.me/manhuasgratis/9481",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_el_y_el_adult/9481_Lord%20of%20the%20Mysteries%20-%20C1354-1394%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104012Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f9b8d055d6671d6f50252e81e081ec751c790b800e38705b9f213f20dddf2081"
         },
         {
           "channel_id": -1004367557958,
@@ -395794,7 +395797,8 @@
           "message_id": 9482,
           "name": "1395-1432",
           "size": 5235035,
-          "telegram_link": "https://t.me/manhuasgratis/9482"
+          "telegram_link": "https://t.me/manhuasgratis/9482",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_el_y_el_adult/9482_Lord%20of%20the%20Mysteries%20-%20C1395-1432%20%5BSkyNovels%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T104020Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13a9d26257f754ca4647d6d5747831f267d010cb61fad1a619b3e5a5e90dced3"
         }
       ],
       "rating": 0,
