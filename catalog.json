@@ -104612,10 +104612,11 @@
           "size": 17769096,
           "date": "2026-11-01T05:18:21+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7292",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             110
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_heroe_de_nivel_legendario_prodigio_de_la_academia/7292_%5B110%5D%20El%20Heroe%20de%20Nivel%20Legendario%20Prodigio%20de%20la%20Academia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T052139Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc842d17cb75f4864efd3316aecb9f49d64686e92b8943d8072ea6f468123534"
         }
       ],
       "rating": 4.6,
