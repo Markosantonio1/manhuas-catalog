@@ -1,8 +1,40 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T20:32:20.151819+00:00",
-  "total_comments": 1,
+  "updated_at": "2026-11-01T09:34:14.703341+00:00",
+  "total_comments": 5,
   "series": {
+    "odisea_en_la_mazmorra": [
+      {
+        "id": "c1dbad93-58d1-48e6-84f9-699ba1be12f9",
+        "user_name": "Sunny",
+        "text": "No quiero emocionarme pero apenas revise las primeras 11 páginas y me da la sensación de que está bastante bien. Soy de los que leé de inicio a fin a pesar de que termine siendo malo solo porque ya empecé a leerlo, pero en las primeras páginas me transmitió muy buena sensación.",
+        "created_at": 1793490907864
+      }
+    ],
+    "surviving_the_game_as_a_barbarian": [
+      {
+        "id": "0b38449b-13d9-423c-8e37-8665b4acd668",
+        "user_name": "Lector 9E5F",
+        "text": "buenas serie, la recomiendo",
+        "created_at": 1793476438181
+      }
+    ],
+    "caballero_en_eterna_regresion": [
+      {
+        "id": "dcbffe7e-8e46-40ac-a049-e77f119d80f9",
+        "user_name": "Lector 14D5",
+        "text": "Qué ganas de leer la siguiente temporada!! Muy divertida.",
+        "created_at": 1793425190483
+      }
+    ],
+    "esclavo_de_las_sombras": [
+      {
+        "id": "170440c4-ed06-4ea1-969a-c8bbf16e43bc",
+        "user_name": "Kael",
+        "text": "un tipo mamado pero con defectos el pobre no tuvo elección",
+        "created_at": 1793423455162
+      }
+    ],
     "como_se_jubila_un_nigromante_catastrofico": [
       {
         "id": "31a009b4-837a-45f0-a6ab-e31cc684ad2e",
