@@ -103723,10 +103723,10 @@
       ],
       "hashtag": "#El_Heroe_De_Nivel_Legendario_Prodigio_De_La_Academia",
       "id": "el_heroe_de_nivel_legendario_prodigio_de_la_academia",
-      "latest_chapter": 109,
+      "latest_chapter": 110,
       "library_count": 8,
       "name": "El Heroe De Nivel Legendario Prodigio De La Academia",
-      "package_count": 51,
+      "package_count": 52,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -104601,6 +104601,21 @@
           "name": "109",
           "size": 16139246,
           "telegram_link": "https://t.me/manhuasgratis/6870"
+        },
+        {
+          "name": "110",
+          "first": 110,
+          "last": 110,
+          "channel_id": -1003003829878,
+          "message_id": 7292,
+          "filename": "[110] El Heroe de Nivel Legendario Prodigio de la Academia.pdf",
+          "size": 17769096,
+          "date": "2026-11-01T05:18:21+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7292",
+          "download_ready": false,
+          "chapters": [
+            110
+          ]
         }
       ],
       "rating": 4.6,
@@ -394408,6 +394423,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-01T02:20:34.794322+00:00",
+  "updated_at": "2026-11-01T05:20:38.017882+00:00",
   "version": 3
 }
