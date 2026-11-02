@@ -400530,11 +400530,12 @@
           "size": 27138896,
           "date": "2026-11-02T05:18:16+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7306",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             13,
             14
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_marine_espacial_con_una_ventana_de_estado/7306_13-14%20un%20marine%20espacial%20con%20una%20ventana%20de%20estado%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261102%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T053001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc9cf91f8c17dc5bb82179d19b1a7bb8a05f49ebb8c9b1470dc2af0349ea38d3"
         }
       ],
       "rating": 4.5,
