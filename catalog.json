@@ -128678,10 +128678,10 @@
       ],
       "hashtag": "#El_Mercenario_que_Reencarnó_Entré_Aristócratas",
       "id": "el_mercenario_que_reencarno_entre_aristocratas",
-      "latest_chapter": 53,
+      "latest_chapter": 54,
       "library_count": 3,
       "name": "El Mercenario que Reencarnó Entré Aristócratas",
-      "package_count": 20,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -129035,6 +129035,21 @@
           "name": "53",
           "size": 15800475,
           "telegram_link": "https://t.me/manhuasgratis/6627"
+        },
+        {
+          "name": "54",
+          "first": 54,
+          "last": 54,
+          "channel_id": -1003003829878,
+          "message_id": 7307,
+          "filename": "[54] El Mercenario que Reencarno entre Aristócratas.pdf",
+          "size": 11761423,
+          "date": "2026-11-02T13:18:31+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7307",
+          "download_ready": false,
+          "chapters": [
+            54
+          ]
         }
       ],
       "rating": 5,
@@ -422759,6 +422774,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-02T05:20:35.145259+00:00",
+  "updated_at": "2026-11-02T13:20:36.017709+00:00",
   "version": 3
 }
