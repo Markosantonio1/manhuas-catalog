@@ -129046,10 +129046,11 @@
           "size": 11761423,
           "date": "2026-11-02T13:18:31+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7307",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             54
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_mercenario_que_reencarno_entre_aristocratas/7307_%5B54%5D%20El%20Mercenario%20que%20Reencarno%20entre%20Arist%C3%B3cratas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261102%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261102T132143Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8c378516c838008be4c11bf9eeb38b1d034655aeb9f15dd74c549000956bf777"
         }
       ],
       "rating": 5,
