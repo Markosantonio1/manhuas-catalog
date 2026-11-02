@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,23 +1596,6 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T094119Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4953448d78c83558b6ba23a4cfc744ada04aa3d8beaf5aef6c51463543febdb4",
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4322,7 +4305,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4459,23 +4442,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261101%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261101T094119Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d23f604e826e5c85510ee045ba369a7793a96a82bc694873492aa8d1be44299c",
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -101215,10 +101181,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Retornó_Como_El_Hijo_Del_Duque",
       "id": "el_asesino_que_retorno_como_el_hijo_del_duque",
-      "latest_chapter": 150,
+      "latest_chapter": 151,
       "library_count": 4,
       "name": "El Asesino Que Retornó Como El Hijo Del Duque",
-      "package_count": 53,
+      "package_count": 54,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -102165,6 +102131,21 @@
           "name": "150",
           "size": 8461027,
           "telegram_link": "https://t.me/manhuasgratis/7122"
+        },
+        {
+          "name": "151",
+          "first": 151,
+          "last": 151,
+          "channel_id": -1003003829878,
+          "message_id": 7296,
+          "filename": "[#151]   El Asesino que Retornó como el Hijo del Duque.pdf",
+          "size": 16591831,
+          "date": "2026-11-01T21:17:56+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7296",
+          "download_ready": false,
+          "chapters": [
+            151
+          ]
         }
       ],
       "rating": 0,
@@ -103652,10 +103633,10 @@
       ],
       "hashtag": "#El_Chico_Problemático_de_la_Torre_Mágica",
       "id": "el_chico_problematico_de_la_torre_magica",
-      "latest_chapter": 67,
+      "latest_chapter": 68,
       "library_count": 3,
       "name": "El Chico Problemático de la Torre Mágica",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -103918,6 +103899,21 @@
           "name": "67",
           "size": 24849540,
           "telegram_link": "https://t.me/manhuasgratis/6943"
+        },
+        {
+          "name": "68",
+          "first": 68,
+          "last": 68,
+          "channel_id": -1003003829878,
+          "message_id": 7297,
+          "filename": "[#68]   El Chico Problemático de la Torre Mágica.pdf",
+          "size": 25019296,
+          "date": "2026-11-01T21:17:58+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7297",
+          "download_ready": false,
+          "chapters": [
+            68
+          ]
         }
       ],
       "rating": 5,
@@ -116586,10 +116582,10 @@
       ],
       "hashtag": "#El_Heroe_De_Nivel_Legendario_Prodigio_De_La_Academia",
       "id": "el_heroe_de_nivel_legendario_prodigio_de_la_academia",
-      "latest_chapter": 110,
+      "latest_chapter": 111,
       "library_count": 8,
       "name": "El Heroe De Nivel Legendario Prodigio De La Academia",
-      "package_count": 52,
+      "package_count": 53,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -117480,6 +117476,21 @@
           "name": "110",
           "size": 17769096,
           "telegram_link": "https://t.me/manhuasgratis/7292"
+        },
+        {
+          "name": "111",
+          "first": 111,
+          "last": 111,
+          "channel_id": -1003003829878,
+          "message_id": 7298,
+          "filename": "[#111]   El Héroe De Nivel Legendario Prodigio.pdf",
+          "size": 33851649,
+          "date": "2026-11-01T21:17:59+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7298",
+          "download_ready": false,
+          "chapters": [
+            111
+          ]
         }
       ],
       "rating": 4.6,
@@ -131839,10 +131850,10 @@
       ],
       "hashtag": "#El_Perro_Loco_De_La_Mansión_Del_Duque",
       "id": "el_perro_loco_de_la_mansion_del_duque",
-      "latest_chapter": 81,
+      "latest_chapter": 82,
       "library_count": 4,
       "name": "El Perro Loco De La Mansión Del Duque",
-      "package_count": 50,
+      "package_count": 51,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -132671,6 +132682,21 @@
           "name": "81",
           "size": 10372016,
           "telegram_link": "https://t.me/manhuasgratis/7140"
+        },
+        {
+          "name": "82",
+          "first": 82,
+          "last": 82,
+          "channel_id": -1003003829878,
+          "message_id": 7299,
+          "filename": "[82] El Perro Loco de la Mansión del Duque.pdf",
+          "size": 10927338,
+          "date": "2026-11-01T21:18:02+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7299",
+          "download_ready": false,
+          "chapters": [
+            82
+          ]
         }
       ],
       "rating": 4,
@@ -133219,10 +133245,10 @@
       ],
       "hashtag": "#El_Pintor_que_Dibuja_Mazmorras",
       "id": "el_pintor_que_dibuja_mazmorras",
-      "latest_chapter": 30,
+      "latest_chapter": 31,
       "library_count": 2,
       "name": "El Pintor que Dibuja Mazmorras",
-      "package_count": 14,
+      "package_count": 15,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -133463,6 +133489,21 @@
           "name": "30",
           "size": 27095658,
           "telegram_link": "https://t.me/manhuasgratis/6899"
+        },
+        {
+          "name": "31",
+          "first": 31,
+          "last": 31,
+          "channel_id": -1003003829878,
+          "message_id": 7300,
+          "filename": "[31] El Pintor que Dibuja Mazmorras.pdf",
+          "size": 14371990,
+          "date": "2026-11-01T21:18:05+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7300",
+          "download_ready": false,
+          "chapters": [
+            31
+          ]
         }
       ],
       "rating": 4,
@@ -133809,10 +133850,10 @@
       ],
       "hashtag": "#El_Prodigioso_Caballero_Oscuro_con_Tiempo_Limitado",
       "id": "el_prodigioso_caballero_oscuro_con_tiempo_limitado",
-      "latest_chapter": 151,
+      "latest_chapter": 152,
       "library_count": 0,
       "name": "El Prodigioso Caballero Oscuro con Tiempo Limitado",
-      "package_count": 24,
+      "package_count": 25,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -134324,6 +134365,21 @@
           "name": "151",
           "size": 15597733,
           "telegram_link": "https://t.me/manhuasgratis/6939"
+        },
+        {
+          "name": "152",
+          "first": 152,
+          "last": 152,
+          "channel_id": -1003003829878,
+          "message_id": 7301,
+          "filename": "[#152]   El Prodigioso Caballero Oscuro.pdf",
+          "size": 21554686,
+          "date": "2026-11-01T21:18:08+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7301",
+          "download_ready": false,
+          "chapters": [
+            152
+          ]
         }
       ],
       "rating": 0,
@@ -139174,10 +139230,10 @@
       ],
       "hashtag": "#El_Regreso_del_Espadachín_Oscuro",
       "id": "el_regreso_del_espadachin_oscuro",
-      "latest_chapter": 71,
+      "latest_chapter": 72,
       "library_count": 6,
       "name": "El Regreso del Espadachín Oscuro",
-      "package_count": 46,
+      "package_count": 47,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -139939,6 +139995,21 @@
           "name": "71",
           "size": 8986980,
           "telegram_link": "https://t.me/manhuasgratis/7141"
+        },
+        {
+          "name": "72",
+          "first": 72,
+          "last": 72,
+          "channel_id": -1003003829878,
+          "message_id": 7302,
+          "filename": "[#72]   El Regreso del Espadachín Oscuro.pdf",
+          "size": 13793534,
+          "date": "2026-11-01T21:18:10+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7302",
+          "download_ready": false,
+          "chapters": [
+            72
+          ]
         }
       ],
       "rating": 4.5,
@@ -233497,10 +233568,10 @@
       ],
       "hashtag": "#La_Venganza_del_Sabueso_de_Sangre_de_Hierro",
       "id": "la_venganza_del_sabueso_de_sangre_de_hierro",
-      "latest_chapter": 186,
+      "latest_chapter": 187,
       "library_count": 12,
       "name": "La Venganza del Sabueso de Sangre de Hierro",
-      "package_count": 57,
+      "package_count": 58,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -234542,6 +234613,21 @@
           "name": "186",
           "size": 16757379,
           "telegram_link": "https://t.me/manhuasgratis/6911"
+        },
+        {
+          "name": "187",
+          "first": 187,
+          "last": 187,
+          "channel_id": -1003003829878,
+          "message_id": 7303,
+          "filename": "[#187]   La Venganza del Sabueso de Sangre de Hierro.pdf",
+          "size": 15180285,
+          "date": "2026-11-01T21:18:12+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7303",
+          "download_ready": false,
+          "chapters": [
+            187
+          ]
         }
       ],
       "rating": 5,
@@ -254525,10 +254611,10 @@
       ],
       "hashtag": "#Mago_Prismatico_Genio",
       "id": "mago_prismatico_genio",
-      "latest_chapter": 99,
+      "latest_chapter": 100,
       "library_count": 8,
       "name": "Mago Prismatico Genio",
-      "package_count": 62,
+      "package_count": 63,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -255558,6 +255644,21 @@
           "name": "99",
           "size": 17083095,
           "telegram_link": "https://t.me/manhuasgratis/6905"
+        },
+        {
+          "name": "100",
+          "first": 100,
+          "last": 100,
+          "channel_id": -1003003829878,
+          "message_id": 7304,
+          "filename": "[#100]   Mago Prismático Genio.pdf",
+          "size": 19184429,
+          "date": "2026-11-01T21:18:13+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7304",
+          "download_ready": false,
+          "chapters": [
+            100
+          ]
         }
       ],
       "rating": 5,
@@ -422503,6 +422604,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-01T13:11:30.755822+00:00",
+  "updated_at": "2026-11-02T02:20:39.790737+00:00",
   "version": 3
 }
