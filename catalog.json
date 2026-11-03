@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T130024Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bd58ef19729d16d8d78781c0e97502975a9bd4677e5a1f0f0e13ed4b1a28bb9d",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4346,7 +4363,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4483,6 +4500,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T130024Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b58f8fc93c275ce8e0cc9a02ad2a7ec67612dae38d0e3c1d9a65fa93a47b0f29",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -122742,10 +122776,10 @@
       ],
       "hashtag": "#El_Joven_Heredero_de_la_Familia_de_Nigromantes",
       "id": "el_joven_heredero_de_la_familia_de_nigromantes",
-      "latest_chapter": 67,
+      "latest_chapter": 66,
       "library_count": 12,
       "name": "El Joven Heredero de la Familia de Nigromantes",
-      "package_count": 15,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -123022,21 +123056,6 @@
           "name": "65-66",
           "size": 17098446,
           "telegram_link": "https://t.me/manhuasgratis/4084"
-        },
-        {
-          "name": "67",
-          "first": 67,
-          "last": 67,
-          "channel_id": -1003003829878,
-          "message_id": 7577,
-          "filename": "[✦67] • El Joven Heredero Familia Nigromantes🏮JMX.pdf",
-          "size": 6384598,
-          "date": "2026-11-03T13:19:24+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7577",
-          "download_ready": false,
-          "chapters": [
-            67
-          ]
         }
       ],
       "rating": 5,
@@ -183710,10 +183729,10 @@
       ],
       "hashtag": "#Han_Pasado_30_Años_Desde_el_Prólogo",
       "id": "han_pasado_30_anos_desde_el_prologo",
-      "latest_chapter": 31,
+      "latest_chapter": 22,
       "library_count": 10,
       "name": "Han Pasado 30 Años Desde el Prólogo",
-      "package_count": 16,
+      "package_count": 15,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -183961,21 +183980,6 @@
           "name": "22",
           "size": 12592847,
           "telegram_link": "https://t.me/manhuasgratis/6910"
-        },
-        {
-          "name": "31",
-          "first": 31,
-          "last": 31,
-          "channel_id": -1003003829878,
-          "message_id": 7578,
-          "filename": "[✦ 31] • El Pintor Que Dibuja Mazmorras🏮JMX.pdf",
-          "size": 9720622,
-          "date": "2026-11-03T13:19:26+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7578",
-          "download_ready": false,
-          "chapters": [
-            31
-          ]
         }
       ],
       "rating": 5,
@@ -197529,10 +197533,10 @@
       ],
       "hashtag": "#Jungle_Juice",
       "id": "jungle_juice",
-      "latest_chapter": 227,
+      "latest_chapter": 226,
       "library_count": 4,
       "name": "Jungle Juice",
-      "package_count": 44,
+      "package_count": 43,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -198409,21 +198413,6 @@
           "name": "226",
           "size": 11300502,
           "telegram_link": "https://t.me/manhuasgratis/6947"
-        },
-        {
-          "name": "227",
-          "first": 227,
-          "last": 227,
-          "channel_id": -1003003829878,
-          "message_id": 7579,
-          "filename": "│227│Jungle Juice.pdf",
-          "size": 10396463,
-          "date": "2026-11-03T13:19:28+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7579",
-          "download_ready": false,
-          "chapters": [
-            227
-          ]
         }
       ],
       "rating": 5,
@@ -246072,7 +246061,7 @@
       "latest_chapter": 184,
       "library_count": 7,
       "name": "Leviathan",
-      "package_count": 20,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -246500,30 +246489,6 @@
           "telegram_link": "https://t.me/manhuasgratis/908"
         },
         {
-          "name": "171-180",
-          "first": 171,
-          "last": 180,
-          "channel_id": -1003003829878,
-          "message_id": 7612,
-          "filename": "│171-180│Leviathan.pdf",
-          "size": 100559961,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7612",
-          "download_ready": false,
-          "chapters": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180
-          ]
-        },
-        {
           "channel_id": -1004367557958,
           "chapters": [
             171,
@@ -246551,24 +246516,6 @@
           "name": "171-184",
           "size": 117916657,
           "telegram_link": "https://t.me/manhuasgratis/909"
-        },
-        {
-          "name": "181-184",
-          "first": 181,
-          "last": 184,
-          "channel_id": -1003003829878,
-          "message_id": 7613,
-          "filename": "│181-184 Fin│Leviathan.pdf",
-          "size": 36807628,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7613",
-          "download_ready": false,
-          "chapters": [
-            181,
-            182,
-            183,
-            184
-          ]
         }
       ],
       "rating": 5,
@@ -334292,7 +334239,8 @@
           "message_id": 7448,
           "name": "188",
           "size": 7808455,
-          "telegram_link": "https://t.me/manhuasgratis/7448"
+          "telegram_link": "https://t.me/manhuasgratis/7448",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7448_%5B%23188%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152128Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=25b99c8f4e4985d0c08555cb8f2caa140b5c6aa8ffe9725ce7cf9c4bf2b4a5c8"
         },
         {
           "channel_id": -1003003829878,
@@ -334308,7 +334256,8 @@
           "message_id": 7449,
           "name": "189-190",
           "size": 20937318,
-          "telegram_link": "https://t.me/manhuasgratis/7449"
+          "telegram_link": "https://t.me/manhuasgratis/7449",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7449_%5B%23189-190%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152228Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a2cc2a9894922212f4ab44611dd1c0cc674cc8fa8e1273e1077092ac69f1e7f3"
         },
         {
           "channel_id": -1003003829878,
@@ -334323,7 +334272,8 @@
           "message_id": 7450,
           "name": "191",
           "size": 11278266,
-          "telegram_link": "https://t.me/manhuasgratis/7450"
+          "telegram_link": "https://t.me/manhuasgratis/7450",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7450_%5B%23191%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152247Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4b98b55b350719a155110cd261e29efc548fa0a819c7be0153c2ac024f730dec"
         },
         {
           "channel_id": -1003003829878,
@@ -334339,7 +334289,8 @@
           "message_id": 7451,
           "name": "192-193",
           "size": 16589015,
-          "telegram_link": "https://t.me/manhuasgratis/7451"
+          "telegram_link": "https://t.me/manhuasgratis/7451",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7451_%5B%23192-193%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152333Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d59bb413123c7c80dd34566397cecba1142b5c299912251cdfb006dfa97d22f4"
         },
         {
           "channel_id": -1003003829878,
@@ -334356,7 +334307,8 @@
           "message_id": 7452,
           "name": "194-196",
           "size": 22837493,
-          "telegram_link": "https://t.me/manhuasgratis/7452"
+          "telegram_link": "https://t.me/manhuasgratis/7452",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7452_%5B%23194-196%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcab419b13d481dc060d140468f73f22175b6e10ea01d0d3d2575410a6671ef6"
         },
         {
           "channel_id": -1003003829878,
@@ -334373,7 +334325,8 @@
           "message_id": 7453,
           "name": "197-199",
           "size": 25341109,
-          "telegram_link": "https://t.me/manhuasgratis/7453"
+          "telegram_link": "https://t.me/manhuasgratis/7453",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7453_%5B%23197-199%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152528Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b56e9fe90d706a04e4e0a8fb4e1e1b4da26634a08fb7e6247cba8beab5319ffa"
         },
         {
           "channel_id": -1003003829878,
@@ -334388,7 +334341,8 @@
           "message_id": 7454,
           "name": "200",
           "size": 11113607,
-          "telegram_link": "https://t.me/manhuasgratis/7454"
+          "telegram_link": "https://t.me/manhuasgratis/7454",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7454_%5B%23200%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152559Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4c1d29dfafabf95087eecff807cc8612c7ad5ea7d8bc78b369d889e49545cf28"
         },
         {
           "channel_id": -1003003829878,
@@ -334411,7 +334365,8 @@
           "message_id": 7455,
           "name": "201-209",
           "size": 70433432,
-          "telegram_link": "https://t.me/manhuasgratis/7455"
+          "telegram_link": "https://t.me/manhuasgratis/7455",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7455_%5B%23201-209%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152853Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2122e17c09b1d67122efef04adfa59e2acfd5808ed0cf3a2c95f8cb567cbf4a"
         },
         {
           "channel_id": -1003003829878,
@@ -334426,7 +334381,8 @@
           "message_id": 7456,
           "name": "210",
           "size": 16359858,
-          "telegram_link": "https://t.me/manhuasgratis/7456"
+          "telegram_link": "https://t.me/manhuasgratis/7456",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7456_%5B%23210%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T152928Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=80a6cf69854568103759cf906fab48fcf1916275229c7577d7f5a698a0809186"
         },
         {
           "channel_id": -1003003829878,
@@ -334446,7 +334402,8 @@
           "message_id": 7457,
           "name": "211-216",
           "size": 84789301,
-          "telegram_link": "https://t.me/manhuasgratis/7457"
+          "telegram_link": "https://t.me/manhuasgratis/7457",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7457_%5B%23211-216%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T153257Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cdde9e9621e4f7d90374de4935f205c4c8a0d6cdecc394dfb8b48c0394bbf57d"
         },
         {
           "channel_id": -1003003829878,
@@ -427329,6 +427286,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T15:20:58.543843+00:00",
+  "updated_at": "2026-11-03T11:58:36.636714+00:00",
   "version": 3
 }
