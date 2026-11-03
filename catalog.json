@@ -4005,8 +4005,8 @@
             1
           ],
           "date": "2026-11-02T23:43:58+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/sorry_darling_but_you_wont_kill_me_again/395_Sorry%20Darling%2C%20but%20You%20Won%E2%80%99t%20Kill%20Me%20Again%21%20-%20Vol%2001.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=be8f80f20d39bb7b861f2f95fd47ec88e937a985fa043343b9cdc3134274c10c",
           "filename": "Sorry Darling, but You Won’t Kill Me Again! - Vol 01.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -4020,7 +4020,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "La joven reina Etoile lo pierde todo cuando su amado esposo, Isar, la traiciona en medio de una invasión enemiga. Pero, en lugar de morir, despierta cinco años en el pasado, con una segunda oportunidad para cambiar su destino, recuperar lo que le arrebataron y vengarse de quienes la traicionarán. Sin embargo, fuerzas oscuras conspiran contra ella, y pronto descubre que no es la única que recuerda su vida anterior. ¿Podrá Etoile reescribir su futuro y alcanzar la felicidad, o volverá a caer en la tragedia que una vez la consumió?",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:08:08+00:00",
@@ -290333,7 +290333,8 @@
           "message_id": 7259,
           "name": "221-230",
           "size": 88402260,
-          "telegram_link": "https://t.me/manhuasgratis/7259"
+          "telegram_link": "https://t.me/manhuasgratis/7259",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7259_221%20-%20230%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T035439Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7d0312217d77affb44854c00004a87e99bead6e301bad82ca3c93363524addc0"
         },
         {
           "channel_id": -1003003829878,
@@ -290357,7 +290358,8 @@
           "message_id": 7260,
           "name": "231-240",
           "size": 100940710,
-          "telegram_link": "https://t.me/manhuasgratis/7260"
+          "telegram_link": "https://t.me/manhuasgratis/7260",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7260_231%20-%20240%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T035851Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c95c7f5356b13c2dde9438d5db58a7213e471c6fcd2ce4d31d51f4462e723cd4"
         },
         {
           "channel_id": -1003003829878,
@@ -290381,7 +290383,8 @@
           "message_id": 7261,
           "name": "241-250",
           "size": 89771789,
-          "telegram_link": "https://t.me/manhuasgratis/7261"
+          "telegram_link": "https://t.me/manhuasgratis/7261",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7261_241%20-%20250%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040224Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b65cd80fca9fef0e3b9d431a8593c01ff1dc0a8cb7aa664d558c68333cbfb7b7"
         },
         {
           "channel_id": -1003003829878,
@@ -290405,7 +290408,8 @@
           "message_id": 7262,
           "name": "251-260",
           "size": 101581733,
-          "telegram_link": "https://t.me/manhuasgratis/7262"
+          "telegram_link": "https://t.me/manhuasgratis/7262",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7262_251%20-%20260%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040638Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=52e463e3dff66c6bf0e48788ac7765401b0b8fa0638dd708c4a3484aa5653b5a"
         },
         {
           "channel_id": -1003003829878,
@@ -290425,7 +290429,8 @@
           "message_id": 7263,
           "name": "261-266",
           "size": 54799755,
-          "telegram_link": "https://t.me/manhuasgratis/7263"
+          "telegram_link": "https://t.me/manhuasgratis/7263",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7263_261%20-%20266%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040847Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ebfecd115e89a6d63619ec52d9abf9ca60f0a071275c0658826eacaac9782f5c"
         },
         {
           "channel_id": -1003003829878,
