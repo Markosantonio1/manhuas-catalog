@@ -334578,7 +334578,8 @@
           "message_id": 7468,
           "name": "227",
           "size": 17267266,
-          "telegram_link": "https://t.me/manhuasgratis/7468"
+          "telegram_link": "https://t.me/manhuasgratis/7468",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7468_%5B%23227%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T154126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a602a7aaedb0629ebb4640564009ea4b7facb6abd2241c04cff7c74ed26a09dc"
         },
         {
           "channel_id": -1003003829878,
@@ -334593,13 +334594,14 @@
           "message_id": 7469,
           "name": "228",
           "size": 21462396,
-          "telegram_link": "https://t.me/manhuasgratis/7469"
+          "telegram_link": "https://t.me/manhuasgratis/7469",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7469_%5B%23228%5D%20%20%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T154216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcf4de0240bd62b0b586514f7d99c0ed70417ba6876a99a2837bd78d64009758"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Debido a la amenaza del matón de la escuela de conseguirle objetos raros en un juego de movil, Ha Do-wan, el desafortunado jugador de videojuegos, murió después de jugar dia y noche durante una semana. En el momento en que murió, fue revivido en su clase, una semana antes de morir… Todo seguia igual que aquel día. ¡Lo único que ha cambiado es la que flota delante de él! ¿Qué? ¡¿Utilizara las habilidades de los juegos que ha jugado hasta ahora para vencer al tipo que le hacia bulling?!.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-17T23:14:50+00:00",
