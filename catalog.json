@@ -44555,10 +44555,11 @@
           "size": 19420168,
           "date": "2026-11-03T05:18:56+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7573",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             220
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/archimago_tracendiendo_a_travez/7573_%5B%23220%5D%20%20%20Archimago%20Trascendiendo%20A%20Trav%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T052203Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=be29a2a09ddf963946161db5cb8eb69b677244f0c2b8836028df3242fd016060"
         }
       ],
       "rating": 4,
@@ -129020,10 +129021,11 @@
           "size": 14082200,
           "date": "2026-11-03T05:18:58+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7574",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             43
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_mago_pastor/7574_%5B43%5D%20El%20Mago%20Pastor.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T052249Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e2ae80f13cea20f42be49a0895b8456c53952d4f0471f4f2a02dcf9e5a9bc07"
         }
       ],
       "rating": 4,
