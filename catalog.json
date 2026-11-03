@@ -36176,10 +36176,10 @@
       ],
       "hashtag": "#Amigo_De_La_Infancia_Zenith",
       "id": "amigo_de_la_infancia_zenith",
-      "latest_chapter": 112,
+      "latest_chapter": 113,
       "library_count": 3,
       "name": "Amigo De La Infancia Zenith",
-      "package_count": 17,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -36547,6 +36547,21 @@
           "name": "112",
           "size": 21985757,
           "telegram_link": "https://t.me/manhuasgratis/6942"
+        },
+        {
+          "name": "113",
+          "first": 113,
+          "last": 113,
+          "channel_id": -1003003829878,
+          "message_id": 7643,
+          "filename": "113 Amigo De La Infancia Zenith -.-.pdf",
+          "size": 10269868,
+          "date": "2026-11-03T21:21:50+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7643",
+          "download_ready": false,
+          "chapters": [
+            113
+          ]
         }
       ],
       "rating": 5,
@@ -70434,10 +70449,10 @@
       ],
       "hashtag": "#Consegui_una_esposa_en_el_otro_mundo",
       "id": "consegui_una_esposa_en_el_otro_mundo",
-      "latest_chapter": 33,
+      "latest_chapter": 34,
       "library_count": 1,
       "name": "Consegui una esposa en el otro mundo",
-      "package_count": 19,
+      "package_count": 20,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -70756,6 +70771,21 @@
           "name": "33",
           "size": 9206791,
           "telegram_link": "https://t.me/manhuasgratis/7139"
+        },
+        {
+          "name": "34",
+          "first": 34,
+          "last": 34,
+          "channel_id": -1003003829878,
+          "message_id": 7644,
+          "filename": "34 Consegui una esposa en el otro mundo -.-.pdf",
+          "size": 7487578,
+          "date": "2026-11-03T21:21:52+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7644",
+          "download_ready": false,
+          "chapters": [
+            34
+          ]
         }
       ],
       "rating": 0,
@@ -153881,10 +153911,10 @@
       ],
       "hashtag": "#Eleceed",
       "id": "eleceed",
-      "latest_chapter": 424,
+      "latest_chapter": 425,
       "library_count": 0,
       "name": "Eleceed",
-      "package_count": 91,
+      "package_count": 92,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -155574,6 +155604,21 @@
           "name": "424",
           "size": 28451449,
           "telegram_link": "https://t.me/manhuasgratis/7572"
+        },
+        {
+          "name": "425",
+          "first": 425,
+          "last": 425,
+          "channel_id": -1003003829878,
+          "message_id": 7650,
+          "filename": "425 Eleceed -.-.pdf",
+          "size": 8946883,
+          "date": "2026-11-03T21:22:06+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7650",
+          "download_ready": false,
+          "chapters": [
+            425
+          ]
         }
       ],
       "rating": 0,
@@ -428103,6 +428148,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T18:21:28.661897+00:00",
+  "updated_at": "2026-11-03T21:25:19.998979+00:00",
   "version": 3
 }
