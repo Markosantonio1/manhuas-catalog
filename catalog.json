@@ -2,11 +2,11 @@
   "announcements": [
     {
       "allow_response": true,
-      "created_at": "2026-11-03T00:54:44.495644+00:00",
-      "expires_at": "2026-11-10T00:54:44.495644+00:00",
-      "id": "ann_1793667284",
-      "message": "Que les esta pareciendo la apk\r\npronto vendremos con mas mejoras",
-      "title": "Hola Usuarios"
+      "created_at": "2026-11-03T01:11:02.696070+00:00",
+      "expires_at": "2026-11-10T01:11:02.696070+00:00",
+      "id": "ann_1793668262",
+      "message": "en unos minutos",
+      "title": "capitulos faltantes de nano machine en proceso de subida"
     }
   ],
   "novels": [
@@ -289671,7 +289671,7 @@
       "latest_chapter": 335,
       "library_count": 0,
       "name": "Nano Machine",
-      "package_count": 47,
+      "package_count": 54,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -290172,6 +290172,170 @@
           "name": "191-200",
           "size": 98982876,
           "telegram_link": "https://t.me/manhuasgratis/7256"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "201 - 210 Nano Machine.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 7257,
+          "name": "201-210",
+          "size": 85458177,
+          "telegram_link": "https://t.me/manhuasgratis/7257"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "211 - 220 Nano Machine.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 7258,
+          "name": "211-220",
+          "size": 86594849,
+          "telegram_link": "https://t.me/manhuasgratis/7258"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "221 - 230 Nano Machine.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 7259,
+          "name": "221-230",
+          "size": 88402260,
+          "telegram_link": "https://t.me/manhuasgratis/7259"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "231 - 240 Nano Machine.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 7260,
+          "name": "231-240",
+          "size": 100940710,
+          "telegram_link": "https://t.me/manhuasgratis/7260"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "241 - 250 Nano Machine.pdf",
+          "first": 241,
+          "last": 250,
+          "message_id": 7261,
+          "name": "241-250",
+          "size": 89771789,
+          "telegram_link": "https://t.me/manhuasgratis/7261"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "251 - 260 Nano Machine.pdf",
+          "first": 251,
+          "last": 260,
+          "message_id": 7262,
+          "name": "251-260",
+          "size": 101581733,
+          "telegram_link": "https://t.me/manhuasgratis/7262"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266
+          ],
+          "date": "2026-10-31T22:11:46+00:00",
+          "download_ready": true,
+          "filename": "261 - 266 Nano Machine.pdf",
+          "first": 261,
+          "last": 266,
+          "message_id": 7263,
+          "name": "261-266",
+          "size": 54799755,
+          "telegram_link": "https://t.me/manhuasgratis/7263"
         },
         {
           "channel_id": -1003003829878,
@@ -424579,6 +424743,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T00:54:44.495644+00:00",
+  "updated_at": "2026-11-03T01:11:02.696070+00:00",
   "version": 3
 }
