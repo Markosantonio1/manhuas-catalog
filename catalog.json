@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T230322Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=482d3ed46a9f972e82e526cd071e8feb8839925a2dd0ec33f1538459fca5df7b",
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -3977,10 +3994,10 @@
       ],
       "hashtag": "#Sorry_Darling_but_You_Wont_Kill_Me_Again",
       "id": "sorry_darling_but_you_wont_kill_me_again",
-      "latest_chapter": 56,
+      "latest_chapter": 1,
       "library_count": 0,
       "name": "Sorry Darling but You Wont Kill Me Again",
-      "package_count": 56,
+      "package_count": 1,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -3998,886 +4015,6 @@
           "name": "Volumen 1",
           "size": 6741886,
           "telegram_link": "https://t.me/c/-1004334091126/395"
-        },
-        {
-          "name": "Volumen 2",
-          "first": 2,
-          "last": 2,
-          "channel_id": -1004334091126,
-          "message_id": 399,
-          "filename": "Rokujouma - Vol 02.pdf",
-          "size": 11253159,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/399",
-          "download_ready": false,
-          "chapters": [
-            2
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 3",
-          "first": 3,
-          "last": 3,
-          "channel_id": -1004334091126,
-          "message_id": 400,
-          "filename": "Rokujouma - Vol 03.pdf",
-          "size": 11969108,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/400",
-          "download_ready": false,
-          "chapters": [
-            3
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 4",
-          "first": 4,
-          "last": 4,
-          "channel_id": -1004334091126,
-          "message_id": 401,
-          "filename": "Rokujouma - Vol 04.pdf",
-          "size": 20362300,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/401",
-          "download_ready": false,
-          "chapters": [
-            4
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 5",
-          "first": 5,
-          "last": 5,
-          "channel_id": -1004334091126,
-          "message_id": 402,
-          "filename": "Rokujouma - Vol 05.pdf",
-          "size": 20988561,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/402",
-          "download_ready": false,
-          "chapters": [
-            5
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 6",
-          "first": 6,
-          "last": 6,
-          "channel_id": -1004334091126,
-          "message_id": 403,
-          "filename": "Rokujouma - Vol 06.pdf",
-          "size": 22787724,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/403",
-          "download_ready": false,
-          "chapters": [
-            6
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 7",
-          "first": 7,
-          "last": 7,
-          "channel_id": -1004334091126,
-          "message_id": 404,
-          "filename": "Rokujouma - Vol 07.pdf",
-          "size": 21746148,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/404",
-          "download_ready": false,
-          "chapters": [
-            7
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 8",
-          "first": 8,
-          "last": 8,
-          "channel_id": -1004334091126,
-          "message_id": 406,
-          "filename": "Rokujouma - Vol 08.pdf",
-          "size": 24112651,
-          "date": "2026-11-03T23:07:25+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/406",
-          "download_ready": false,
-          "chapters": [
-            8
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 9",
-          "first": 9,
-          "last": 9,
-          "channel_id": -1004334091126,
-          "message_id": 408,
-          "filename": "Rokujouma - Vol 09.pdf",
-          "size": 11990091,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/408",
-          "download_ready": false,
-          "chapters": [
-            9
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 10",
-          "first": 10,
-          "last": 10,
-          "channel_id": -1004334091126,
-          "message_id": 409,
-          "filename": "Rokujouma - Vol 10.pdf",
-          "size": 13673670,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/409",
-          "download_ready": false,
-          "chapters": [
-            10
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 11",
-          "first": 11,
-          "last": 11,
-          "channel_id": -1004334091126,
-          "message_id": 410,
-          "filename": "Rokujouma - Vol 11.pdf",
-          "size": 13810355,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/410",
-          "download_ready": false,
-          "chapters": [
-            11
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 12",
-          "first": 12,
-          "last": 12,
-          "channel_id": -1004334091126,
-          "message_id": 411,
-          "filename": "Rokujouma - Vol 12.pdf",
-          "size": 13986418,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/411",
-          "download_ready": false,
-          "chapters": [
-            12
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 13",
-          "first": 13,
-          "last": 13,
-          "channel_id": -1004334091126,
-          "message_id": 412,
-          "filename": "Rokujouma - Vol 13.pdf",
-          "size": 14664439,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/412",
-          "download_ready": false,
-          "chapters": [
-            13
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 14",
-          "first": 14,
-          "last": 14,
-          "channel_id": -1004334091126,
-          "message_id": 413,
-          "filename": "Rokujouma - Vol 14.pdf",
-          "size": 12446775,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/413",
-          "download_ready": false,
-          "chapters": [
-            14
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 15",
-          "first": 15,
-          "last": 15,
-          "channel_id": -1004334091126,
-          "message_id": 414,
-          "filename": "Rokujouma - Vol 15.pdf",
-          "size": 13068713,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/414",
-          "download_ready": false,
-          "chapters": [
-            15
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 16",
-          "first": 16,
-          "last": 16,
-          "channel_id": -1004334091126,
-          "message_id": 415,
-          "filename": "Rokujouma - Vol 16.pdf",
-          "size": 13841408,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/415",
-          "download_ready": false,
-          "chapters": [
-            16
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 17",
-          "first": 17,
-          "last": 17,
-          "channel_id": -1004334091126,
-          "message_id": 416,
-          "filename": "Rokujouma - Vol 17.pdf",
-          "size": 2137979,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/416",
-          "download_ready": false,
-          "chapters": [
-            17
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 18",
-          "first": 18,
-          "last": 18,
-          "channel_id": -1004334091126,
-          "message_id": 417,
-          "filename": "Rokujouma - Vol 18.pdf",
-          "size": 1985642,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/417",
-          "download_ready": false,
-          "chapters": [
-            18
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 19",
-          "first": 19,
-          "last": 19,
-          "channel_id": -1004334091126,
-          "message_id": 418,
-          "filename": "Rokujouma - Vol 19.pdf",
-          "size": 2333430,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/418",
-          "download_ready": false,
-          "chapters": [
-            19
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 20",
-          "first": 20,
-          "last": 20,
-          "channel_id": -1004334091126,
-          "message_id": 419,
-          "filename": "Rokujouma - Vol 20.pdf",
-          "size": 2115280,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/419",
-          "download_ready": false,
-          "chapters": [
-            20
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 21",
-          "first": 21,
-          "last": 21,
-          "channel_id": -1004334091126,
-          "message_id": 420,
-          "filename": "Rokujouma - Vol 21.pdf",
-          "size": 2067330,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/420",
-          "download_ready": false,
-          "chapters": [
-            21
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 22",
-          "first": 22,
-          "last": 22,
-          "channel_id": -1004334091126,
-          "message_id": 421,
-          "filename": "Rokujouma - Vol 22.pdf",
-          "size": 2449804,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/421",
-          "download_ready": false,
-          "chapters": [
-            22
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 23",
-          "first": 23,
-          "last": 23,
-          "channel_id": -1004334091126,
-          "message_id": 422,
-          "filename": "Rokujouma - Vol 23.pdf",
-          "size": 4571086,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/422",
-          "download_ready": false,
-          "chapters": [
-            23
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 24",
-          "first": 24,
-          "last": 24,
-          "channel_id": -1004334091126,
-          "message_id": 423,
-          "filename": "Rokujouma - Vol 24.pdf",
-          "size": 5156298,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/423",
-          "download_ready": false,
-          "chapters": [
-            24
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 25",
-          "first": 25,
-          "last": 25,
-          "channel_id": -1004334091126,
-          "message_id": 424,
-          "filename": "Rokujouma - Vol 25.pdf",
-          "size": 3530208,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/424",
-          "download_ready": false,
-          "chapters": [
-            25
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 26",
-          "first": 26,
-          "last": 26,
-          "channel_id": -1004334091126,
-          "message_id": 425,
-          "filename": "Rokujouma - Vol 26.pdf",
-          "size": 2514193,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/425",
-          "download_ready": false,
-          "chapters": [
-            26
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 27",
-          "first": 27,
-          "last": 27,
-          "channel_id": -1004334091126,
-          "message_id": 426,
-          "filename": "Rokujouma - Vol 27.pdf",
-          "size": 2339143,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/426",
-          "download_ready": false,
-          "chapters": [
-            27
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 28",
-          "first": 28,
-          "last": 28,
-          "channel_id": -1004334091126,
-          "message_id": 427,
-          "filename": "Rokujouma - Vol 28.pdf",
-          "size": 2736047,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/427",
-          "download_ready": false,
-          "chapters": [
-            28
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 29",
-          "first": 29,
-          "last": 29,
-          "channel_id": -1004334091126,
-          "message_id": 428,
-          "filename": "Rokujouma - Vol 29.pdf",
-          "size": 4668227,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/428",
-          "download_ready": false,
-          "chapters": [
-            29
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 30",
-          "first": 30,
-          "last": 30,
-          "channel_id": -1004334091126,
-          "message_id": 429,
-          "filename": "Rokujouma - Vol 30.pdf",
-          "size": 5797191,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/429",
-          "download_ready": false,
-          "chapters": [
-            30
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 31",
-          "first": 31,
-          "last": 31,
-          "channel_id": -1004334091126,
-          "message_id": 430,
-          "filename": "Rokujouma - Vol 31.pdf",
-          "size": 8238249,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/430",
-          "download_ready": false,
-          "chapters": [
-            31
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 32",
-          "first": 32,
-          "last": 32,
-          "channel_id": -1004334091126,
-          "message_id": 431,
-          "filename": "Rokujouma - Vol 32.pdf",
-          "size": 6061320,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/431",
-          "download_ready": false,
-          "chapters": [
-            32
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 33",
-          "first": 33,
-          "last": 33,
-          "channel_id": -1004334091126,
-          "message_id": 432,
-          "filename": "Rokujouma - Vol 33.pdf",
-          "size": 6673071,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/432",
-          "download_ready": false,
-          "chapters": [
-            33
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 34",
-          "first": 34,
-          "last": 34,
-          "channel_id": -1004334091126,
-          "message_id": 433,
-          "filename": "Rokujouma - Vol 34.pdf",
-          "size": 5815149,
-          "date": "2026-11-03T23:07:26+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/433",
-          "download_ready": false,
-          "chapters": [
-            34
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 455",
-          "first": 455,
-          "last": 455,
-          "channel_id": -1004334091126,
-          "message_id": 455,
-          "filename": "[Se actualizará después].pdf",
-          "size": 1821835,
-          "date": "2026-11-03T23:11:36+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/455",
-          "download_ready": false,
-          "chapters": [
-            455
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 456",
-          "first": 456,
-          "last": 456,
-          "channel_id": -1004334091126,
-          "message_id": 456,
-          "filename": "[Se actualizará después].pdf",
-          "size": 1821835,
-          "date": "2026-11-03T23:11:36+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/456",
-          "download_ready": false,
-          "chapters": [
-            456
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 457",
-          "first": 457,
-          "last": 457,
-          "channel_id": -1004334091126,
-          "message_id": 457,
-          "filename": "[Se actualizará después].pdf",
-          "size": 1821835,
-          "date": "2026-11-03T23:11:36+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/457",
-          "download_ready": false,
-          "chapters": [
-            457
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 460",
-          "first": 460,
-          "last": 460,
-          "channel_id": -1004334091126,
-          "message_id": 460,
-          "filename": "Genius Swordsman - C0001 - 0100.pdf",
-          "size": 3741865,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/460",
-          "download_ready": false,
-          "chapters": [
-            460
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 461",
-          "first": 461,
-          "last": 461,
-          "channel_id": -1004334091126,
-          "message_id": 461,
-          "filename": "Genius Swordsman - C0101 - 0200.pdf",
-          "size": 4507090,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/461",
-          "download_ready": false,
-          "chapters": [
-            461
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 462",
-          "first": 462,
-          "last": 462,
-          "channel_id": -1004334091126,
-          "message_id": 462,
-          "filename": "Genius Swordsman - C0201 - 0260.pdf",
-          "size": 3036718,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/462",
-          "download_ready": false,
-          "chapters": [
-            462
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 463",
-          "first": 463,
-          "last": 463,
-          "channel_id": -1004334091126,
-          "message_id": 463,
-          "filename": "Genius Swordsman - C0261 - 0300.pdf",
-          "size": 3261225,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/463",
-          "download_ready": false,
-          "chapters": [
-            463
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 464",
-          "first": 464,
-          "last": 464,
-          "channel_id": -1004334091126,
-          "message_id": 464,
-          "filename": "Genius Swordsman - C0301 - 0350.pdf",
-          "size": 3587390,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/464",
-          "download_ready": false,
-          "chapters": [
-            464
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 465",
-          "first": 465,
-          "last": 465,
-          "channel_id": -1004334091126,
-          "message_id": 465,
-          "filename": "Genius Swordsman - C0351 - 0400.pdf",
-          "size": 3610192,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/465",
-          "download_ready": false,
-          "chapters": [
-            465
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 466",
-          "first": 466,
-          "last": 466,
-          "channel_id": -1004334091126,
-          "message_id": 466,
-          "filename": "Genius Swordsman - C0401 - 0450.pdf",
-          "size": 3760158,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/466",
-          "download_ready": false,
-          "chapters": [
-            466
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 467",
-          "first": 467,
-          "last": 467,
-          "channel_id": -1004334091126,
-          "message_id": 467,
-          "filename": "Genius Swordsman - C0451 - 0500.pdf",
-          "size": 3997270,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/467",
-          "download_ready": false,
-          "chapters": [
-            467
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 468",
-          "first": 468,
-          "last": 468,
-          "channel_id": -1004334091126,
-          "message_id": 468,
-          "filename": "Genius Swordsman - C0501 - 0550.pdf",
-          "size": 3795110,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/468",
-          "download_ready": false,
-          "chapters": [
-            468
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 469",
-          "first": 469,
-          "last": 469,
-          "channel_id": -1004334091126,
-          "message_id": 469,
-          "filename": "Genius Swordsman - C0551 - 0600.pdf",
-          "size": 4074675,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/469",
-          "download_ready": false,
-          "chapters": [
-            469
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 470",
-          "first": 470,
-          "last": 470,
-          "channel_id": -1004334091126,
-          "message_id": 470,
-          "filename": "Genius Swordsman - C0601 - 0650.pdf",
-          "size": 4037056,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/470",
-          "download_ready": false,
-          "chapters": [
-            470
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 471",
-          "first": 471,
-          "last": 471,
-          "channel_id": -1004334091126,
-          "message_id": 471,
-          "filename": "Genius Swordsman - C0651 - 0700.pdf",
-          "size": 3954391,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/471",
-          "download_ready": false,
-          "chapters": [
-            471
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 472",
-          "first": 472,
-          "last": 472,
-          "channel_id": -1004334091126,
-          "message_id": 472,
-          "filename": "Genius Swordsman - C0701 - 0750.pdf",
-          "size": 3777491,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/472",
-          "download_ready": false,
-          "chapters": [
-            472
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 473",
-          "first": 473,
-          "last": 473,
-          "channel_id": -1004334091126,
-          "message_id": 473,
-          "filename": "Genius Swordsman - C0751 - 0800.pdf",
-          "size": 2595456,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/473",
-          "download_ready": false,
-          "chapters": [
-            473
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 474",
-          "first": 474,
-          "last": 474,
-          "channel_id": -1004334091126,
-          "message_id": 474,
-          "filename": "Genius Swordsman - C0801 - 0850.pdf",
-          "size": 2503346,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/474",
-          "download_ready": false,
-          "chapters": [
-            474
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 475",
-          "first": 475,
-          "last": 475,
-          "channel_id": -1004334091126,
-          "message_id": 475,
-          "filename": "Genius Swordsman - C0851 - 0900.pdf",
-          "size": 2476697,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/475",
-          "download_ready": false,
-          "chapters": [
-            475
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 476",
-          "first": 476,
-          "last": 476,
-          "channel_id": -1004334091126,
-          "message_id": 476,
-          "filename": "Genius Swordsman - C0900 - 0950.pdf",
-          "size": 2499729,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/476",
-          "download_ready": false,
-          "chapters": [
-            476
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 477",
-          "first": 477,
-          "last": 477,
-          "channel_id": -1004334091126,
-          "message_id": 477,
-          "filename": "Genius Swordsman - C0951 - 1000.pdf",
-          "size": 2552165,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/477",
-          "download_ready": false,
-          "chapters": [
-            477
-          ],
-          "is_novel_volume": true
-        },
-        {
-          "name": "Volumen 478",
-          "first": 478,
-          "last": 478,
-          "channel_id": -1004334091126,
-          "message_id": 478,
-          "filename": "Genius Swordsman - C1001 - 1050.pdf",
-          "size": 2543221,
-          "date": "2026-11-03T23:14:10+00:00",
-          "telegram_link": "https://t.me/c/-1004334091126/478",
-          "download_ready": false,
-          "chapters": [
-            478
-          ],
-          "is_novel_volume": true
         }
       ],
       "rating": 0,
@@ -5226,7 +4363,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -5363,6 +4500,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T230322Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5864bc41c85bf886b50d78068d80590f5b5103fa3da09e608fea137cabfc1f90",
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -125934,7 +125088,8 @@
           "message_id": 1580,
           "name": "186",
           "size": 6797617,
-          "telegram_link": "https://t.me/manhuasgratis/1580"
+          "telegram_link": "https://t.me/manhuasgratis/1580",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1580_%E2%94%82186%E2%94%82El%20Jugador%20que%20no%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232304Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5febb8c99e9238282381bffa261dcad7e39dcee75bd951c746b04e4470bd963e"
         },
         {
           "channel_id": -1003003829878,
@@ -125949,7 +125104,8 @@
           "message_id": 1582,
           "name": "188",
           "size": 8579599,
-          "telegram_link": "https://t.me/manhuasgratis/1582"
+          "telegram_link": "https://t.me/manhuasgratis/1582",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1582_%E2%96%8E188%20%E2%96%8EEl%20Jugador%20Que%20No%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232314Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2e29ff9e5459c3c5d85490e4f1c4cc82c0820aa94a58268053d60a52517c8648"
         },
         {
           "channel_id": -1003003829878,
@@ -125965,7 +125121,8 @@
           "message_id": 1584,
           "name": "188-189",
           "size": 12392712,
-          "telegram_link": "https://t.me/manhuasgratis/1584"
+          "telegram_link": "https://t.me/manhuasgratis/1584",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1584_188_189%20El%20jugador%20que%20no%20puede%20subir%20de%20nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232327Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=46d92a31b4312455548245c7863c6e30db7a085da0743118d4eff6e5d0a9d996"
         },
         {
           "channel_id": -1003003829878,
@@ -125980,7 +125137,8 @@
           "message_id": 1586,
           "name": "190",
           "size": 8483125,
-          "telegram_link": "https://t.me/manhuasgratis/1586"
+          "telegram_link": "https://t.me/manhuasgratis/1586",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1586_%E2%96%8E190%20%E2%96%8EEl%20Jugador%20Que%20No%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232337Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e169562b0ef4a5f649fcf9a7b545efb167d0f82966933aaad62afa2baa876d32"
         },
         {
           "channel_id": -1003003829878,
@@ -125995,7 +125153,8 @@
           "message_id": 1588,
           "name": "191",
           "size": 7467678,
-          "telegram_link": "https://t.me/manhuasgratis/1588"
+          "telegram_link": "https://t.me/manhuasgratis/1588",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1588_%E2%94%82191%E2%94%82El%20Jugador%20que%20no%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232347Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6c4dbe5de0dbf9658d29237f420af6841a28a78952ddf10d63da8754b720f3e"
         },
         {
           "channel_id": -1003003829878,
@@ -126010,7 +125169,8 @@
           "message_id": 1590,
           "name": "192",
           "size": 8500474,
-          "telegram_link": "https://t.me/manhuasgratis/1590"
+          "telegram_link": "https://t.me/manhuasgratis/1590",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1590_%E2%96%8E192%20%E2%96%8EEl%20Jugador%20Que%20No%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=15d582ba3ab3cc2c7f035eec23fe9a331fdcadf5c1e671e82292085796a1f85f"
         },
         {
           "channel_id": -1003003829878,
@@ -126025,7 +125185,8 @@
           "message_id": 1592,
           "name": "193",
           "size": 7370066,
-          "telegram_link": "https://t.me/manhuasgratis/1592"
+          "telegram_link": "https://t.me/manhuasgratis/1592",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1592_%E2%94%82193%E2%94%82El%20Jugador%20que%20no%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232409Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dacbb9f58e95b8278d577add02b36a803426868cdbe329d7c56dcd14a433f30c"
         },
         {
           "channel_id": -1003003829878,
@@ -126040,7 +125201,8 @@
           "message_id": 1594,
           "name": "194",
           "size": 8397427,
-          "telegram_link": "https://t.me/manhuasgratis/1594"
+          "telegram_link": "https://t.me/manhuasgratis/1594",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1594_%E2%96%8E194%20%E2%96%8EEl%20Jugador%20Que%20No%20Puede%20Subir%20de%20Nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232419Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=66af5862eb682bc1ae12fc563cdf94a9fa135e5a9c1cac8a6ae6039a1510c278"
         },
         {
           "channel_id": -1003003829878,
@@ -126055,7 +125217,8 @@
           "message_id": 1596,
           "name": "195",
           "size": 7507510,
-          "telegram_link": "https://t.me/manhuasgratis/1596"
+          "telegram_link": "https://t.me/manhuasgratis/1596",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1596_195%20El%20jugador%20que%20no%20puede%20subir%20de%20nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232429Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=22abd0d02ee44a647cd5a7b38a3353f2ffbc665d7007deffcff4f042ea320365"
         },
         {
           "channel_id": -1003003829878,
@@ -126070,7 +125233,8 @@
           "message_id": 1598,
           "name": "196",
           "size": 7019302,
-          "telegram_link": "https://t.me/manhuasgratis/1598"
+          "telegram_link": "https://t.me/manhuasgratis/1598",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/1598_196%20El%20jugador%20que%20no%20puede%20subir%20de%20nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T232438Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f23e5b72d5eab53b97fadd5c50a10798703fe3d7c07ea393dd97918ad1fc46da"
         },
         {
           "channel_id": -1003003829878,
@@ -248628,7 +247792,7 @@
       "latest_chapter": 184,
       "library_count": 7,
       "name": "Leviathan",
-      "package_count": 20,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -249056,30 +248220,6 @@
           "telegram_link": "https://t.me/manhuasgratis/908"
         },
         {
-          "name": "171-180",
-          "first": 171,
-          "last": 180,
-          "channel_id": -1003003829878,
-          "message_id": 7612,
-          "filename": "│171-180│Leviathan.pdf",
-          "size": 100559961,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7612",
-          "download_ready": false,
-          "chapters": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180
-          ]
-        },
-        {
           "channel_id": -1004367557958,
           "chapters": [
             171,
@@ -249107,24 +248247,6 @@
           "name": "171-184",
           "size": 117916657,
           "telegram_link": "https://t.me/manhuasgratis/909"
-        },
-        {
-          "name": "181-184",
-          "first": 181,
-          "last": 184,
-          "channel_id": -1003003829878,
-          "message_id": 7613,
-          "filename": "│181-184 Fin│Leviathan.pdf",
-          "size": 36807628,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7613",
-          "download_ready": false,
-          "chapters": [
-            181,
-            182,
-            183,
-            184
-          ]
         }
       ],
       "rating": 5,
@@ -430240,6 +429362,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T23:20:42.654247+00:00",
+  "updated_at": "2026-11-03T22:47:56.080008+00:00",
   "version": 3
 }
