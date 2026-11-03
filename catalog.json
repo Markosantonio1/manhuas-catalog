@@ -1603,7 +1603,7 @@
             11
           ],
           "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T011903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d290232fd58cd13fecfd695db4003b2a13542c0f70f5cda1865dcb23d9302937",
           "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
           "first": 11,
@@ -4507,7 +4507,7 @@
             8
           ],
           "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": false,
+          "download_ready": true,
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T011903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b38290f169393c86537c5fc707c71775d878d8ad699217e609ba696a10d0e16",
           "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
           "first": 8,
@@ -50476,7 +50476,13 @@
     },
     {
       "added_at": "2026-11-01T12:22:59+00:00",
-      "aliases": [],
+      "aliases": [
+        "Black Clover",
+        "El Grimorio Oscuro",
+        "Suerte Oscura",
+        "El Trébol De La Oscuridad",
+        "Trébol Oscuro"
+      ],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/bc_01_07.jpg",
       "cover_message_id": 2662,
       "cover_telegram_link": "https://t.me/c/-1004187372773/2662",
@@ -124122,14 +124128,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7344_%5B%2301-10%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T012225Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c4b35c61da73e37346af82021ec3dff7d1d178ff34999d48fd8720e7a59e7cb",
           "filename": "[#01-10]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 1,
           "last": 10,
           "message_id": 7344,
           "name": "1-10",
           "size": 79089119,
-          "telegram_link": "https://t.me/manhuasgratis/7344",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7344_%5B%2301-10%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T012225Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c4b35c61da73e37346af82021ec3dff7d1d178ff34999d48fd8720e7a59e7cb"
+          "telegram_link": "https://t.me/manhuasgratis/7344"
         },
         {
           "channel_id": -1003003829878,
@@ -124147,14 +124153,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7345_%5B%2311-20%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T012521Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=816412797763becb241237b3cfef386c2dc3418997f233a6c76b377db9ff2e6d",
           "filename": "[#11-20]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 11,
           "last": 20,
           "message_id": 7345,
           "name": "11-20",
           "size": 72514398,
-          "telegram_link": "https://t.me/manhuasgratis/7345",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7345_%5B%2311-20%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T012521Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=816412797763becb241237b3cfef386c2dc3418997f233a6c76b377db9ff2e6d"
+          "telegram_link": "https://t.me/manhuasgratis/7345"
         },
         {
           "channel_id": -1003003829878,
@@ -124172,14 +124178,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7346_%5B%2321-30%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T012835Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6dc07039cb3872d72fd630e53a6fd473aa25e53980255a4a5ba779cbea915b5",
           "filename": "[#21-30]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 21,
           "last": 30,
           "message_id": 7346,
           "name": "21-30",
           "size": 82530124,
-          "telegram_link": "https://t.me/manhuasgratis/7346",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7346_%5B%2321-30%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T012835Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6dc07039cb3872d72fd630e53a6fd473aa25e53980255a4a5ba779cbea915b5"
+          "telegram_link": "https://t.me/manhuasgratis/7346"
         },
         {
           "channel_id": -1003003829878,
@@ -124197,14 +124203,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7347_%5B%2331-40%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T013254Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47c2fdeffdd5894dcb4fa094acba9ff063ad3922d3812414fb013a5dc7568aa9",
           "filename": "[#31-40]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 31,
           "last": 40,
           "message_id": 7347,
           "name": "31-40",
           "size": 103146250,
-          "telegram_link": "https://t.me/manhuasgratis/7347",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7347_%5B%2331-40%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T013254Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47c2fdeffdd5894dcb4fa094acba9ff063ad3922d3812414fb013a5dc7568aa9"
+          "telegram_link": "https://t.me/manhuasgratis/7347"
         },
         {
           "channel_id": -1003003829878,
@@ -124222,14 +124228,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7348_%5B%2341-50%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T013711Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=03627ccf8f0cac9dc184c9cd499e255e26c06977b1607ff4bf986d843ab112fc",
           "filename": "[#41-50]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 41,
           "last": 50,
           "message_id": 7348,
           "name": "41-50",
           "size": 105317957,
-          "telegram_link": "https://t.me/manhuasgratis/7348",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7348_%5B%2341-50%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T013711Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=03627ccf8f0cac9dc184c9cd499e255e26c06977b1607ff4bf986d843ab112fc"
+          "telegram_link": "https://t.me/manhuasgratis/7348"
         },
         {
           "channel_id": -1003003829878,
@@ -124247,14 +124253,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7349_%5B%2351-60%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T014141Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=379d66d246b9f7c8f26425b4d8fca381fa850f1926c59f08b27a27885ace9c3b",
           "filename": "[#51-60]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 51,
           "last": 60,
           "message_id": 7349,
           "name": "51-60",
           "size": 111923989,
-          "telegram_link": "https://t.me/manhuasgratis/7349",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7349_%5B%2351-60%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T014141Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=379d66d246b9f7c8f26425b4d8fca381fa850f1926c59f08b27a27885ace9c3b"
+          "telegram_link": "https://t.me/manhuasgratis/7349"
         },
         {
           "channel_id": -1003003829878,
@@ -124272,14 +124278,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7350_%5B%2361-70%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T014542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eac189f7784be548c73df02c802a9c6bfb6bf28f2a93e0942e1e1b78d30f6623",
           "filename": "[#61-70]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 61,
           "last": 70,
           "message_id": 7350,
           "name": "61-70",
           "size": 99627019,
-          "telegram_link": "https://t.me/manhuasgratis/7350",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7350_%5B%2361-70%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T014542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eac189f7784be548c73df02c802a9c6bfb6bf28f2a93e0942e1e1b78d30f6623"
+          "telegram_link": "https://t.me/manhuasgratis/7350"
         },
         {
           "channel_id": -1003003829878,
@@ -124297,14 +124303,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7351_%5B%2371-80%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T015014Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc467364407ce5e553c46628d63eb795bfab782026c5d232ad9d1355b9236a87",
           "filename": "[#71-80]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 71,
           "last": 80,
           "message_id": 7351,
           "name": "71-80",
           "size": 106360185,
-          "telegram_link": "https://t.me/manhuasgratis/7351",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7351_%5B%2371-80%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T015014Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc467364407ce5e553c46628d63eb795bfab782026c5d232ad9d1355b9236a87"
+          "telegram_link": "https://t.me/manhuasgratis/7351"
         },
         {
           "channel_id": -1003003829878,
@@ -124322,14 +124328,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7352_%5B%2381-90%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T015414Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1f4c21b85d2a4a7a4671f793a2dd8f155de99397578dca8fd489332f5eb1237",
           "filename": "[#81-90]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 81,
           "last": 90,
           "message_id": 7352,
           "name": "81-90",
           "size": 101795844,
-          "telegram_link": "https://t.me/manhuasgratis/7352",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7352_%5B%2381-90%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T015414Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1f4c21b85d2a4a7a4671f793a2dd8f155de99397578dca8fd489332f5eb1237"
+          "telegram_link": "https://t.me/manhuasgratis/7352"
         },
         {
           "channel_id": -1003003829878,
@@ -124347,14 +124353,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7353_%5B%2391-100%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T015813Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1f4d5242c4ec747153ee806c3d4637267c46d73435f1b30cd08d7912ed26945e",
           "filename": "[#91-100]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 91,
           "last": 100,
           "message_id": 7353,
           "name": "91-100",
           "size": 94561343,
-          "telegram_link": "https://t.me/manhuasgratis/7353",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7353_%5B%2391-100%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T015813Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1f4d5242c4ec747153ee806c3d4637267c46d73435f1b30cd08d7912ed26945e"
+          "telegram_link": "https://t.me/manhuasgratis/7353"
         },
         {
           "channel_id": -1003003829878,
@@ -124373,14 +124379,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7354_%5B%23101-111%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020231Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3e5e34ea610b1f38bfcacd324c9b6162b8776ca9fd12ed0e437e712923e9edb5",
           "filename": "[#101-111]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 101,
           "last": 111,
           "message_id": 7354,
           "name": "101-111",
           "size": 106349168,
-          "telegram_link": "https://t.me/manhuasgratis/7354",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7354_%5B%23101-111%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020231Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3e5e34ea610b1f38bfcacd324c9b6162b8776ca9fd12ed0e437e712923e9edb5"
+          "telegram_link": "https://t.me/manhuasgratis/7354"
         },
         {
           "channel_id": -1003003829878,
@@ -124389,14 +124395,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7355_%5B%23112%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020302Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b4900af967b07a3a2405ef9f455551b0a23cf0264221c412d219f7ab1d76c1a",
           "filename": "[#112]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 112,
           "last": 112,
           "message_id": 7355,
           "name": "112",
           "size": 12356948,
-          "telegram_link": "https://t.me/manhuasgratis/7355",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7355_%5B%23112%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020302Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b4900af967b07a3a2405ef9f455551b0a23cf0264221c412d219f7ab1d76c1a"
+          "telegram_link": "https://t.me/manhuasgratis/7355"
         },
         {
           "channel_id": -1003003829878,
@@ -124405,14 +124411,14 @@
           ],
           "date": "2026-11-03T00:15:55+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7356_%5B%23113%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020334Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29b6d02fc6e76dd2a67504342b4cdceaaeb3b067721b88ce4302718791c9b380",
           "filename": "[#113]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 113,
           "last": 113,
           "message_id": 7356,
           "name": "113",
           "size": 12659808,
-          "telegram_link": "https://t.me/manhuasgratis/7356",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7356_%5B%23113%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020334Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29b6d02fc6e76dd2a67504342b4cdceaaeb3b067721b88ce4302718791c9b380"
+          "telegram_link": "https://t.me/manhuasgratis/7356"
         },
         {
           "channel_id": -1003003829878,
@@ -124421,14 +124427,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7357_%5B%23114%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020405Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=187adb3118f29ac7c8516a6c0feb9be585df9572ab09692a143d17ad9535ba9a",
           "filename": "[#114]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 114,
           "last": 114,
           "message_id": 7357,
           "name": "114",
           "size": 12781137,
-          "telegram_link": "https://t.me/manhuasgratis/7357",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7357_%5B%23114%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020405Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=187adb3118f29ac7c8516a6c0feb9be585df9572ab09692a143d17ad9535ba9a"
+          "telegram_link": "https://t.me/manhuasgratis/7357"
         },
         {
           "channel_id": -1003003829878,
@@ -124438,14 +124444,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7358_%5B%23114-115%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020455Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2c7c7024e6c79ac5e6ef7e2408b1c336a40a4a3d453f0eca31ed823f77cf970",
           "filename": "[#114-115]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 114,
           "last": 115,
           "message_id": 7358,
           "name": "114-115",
           "size": 21510999,
-          "telegram_link": "https://t.me/manhuasgratis/7358",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7358_%5B%23114-115%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020455Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2c7c7024e6c79ac5e6ef7e2408b1c336a40a4a3d453f0eca31ed823f77cf970"
+          "telegram_link": "https://t.me/manhuasgratis/7358"
         },
         {
           "channel_id": -1003003829878,
@@ -124454,14 +124460,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7359_%5B%23116%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d1ddea38bcbcd15fc2dadaf42b33187678d252b8206f5b2d433752ad87ec3d59",
           "filename": "[#116]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 116,
           "last": 116,
           "message_id": 7359,
           "name": "116",
           "size": 11061547,
-          "telegram_link": "https://t.me/manhuasgratis/7359",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7359_%5B%23116%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d1ddea38bcbcd15fc2dadaf42b33187678d252b8206f5b2d433752ad87ec3d59"
+          "telegram_link": "https://t.me/manhuasgratis/7359"
         },
         {
           "channel_id": -1003003829878,
@@ -124470,14 +124476,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7360_%5B%23117%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020558Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb07f03096030aa47a062dfdfa70a496d635babf6ffc2092b1c2d275142c9026",
           "filename": "[#117]   El Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 117,
           "last": 117,
           "message_id": 7360,
           "name": "117",
           "size": 11970956,
-          "telegram_link": "https://t.me/manhuasgratis/7360",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7360_%5B%23117%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020558Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fb07f03096030aa47a062dfdfa70a496d635babf6ffc2092b1c2d275142c9026"
+          "telegram_link": "https://t.me/manhuasgratis/7360"
         },
         {
           "channel_id": -1003003829878,
@@ -124486,14 +124492,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7361_%5B%23118%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020625Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=69568fe4b9fc51cd63998cac0c9fd1992af74492feeb6831c5281d4f3a77af1b",
           "filename": "[#118]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 118,
           "last": 118,
           "message_id": 7361,
           "name": "118",
           "size": 10917311,
-          "telegram_link": "https://t.me/manhuasgratis/7361",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7361_%5B%23118%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020625Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=69568fe4b9fc51cd63998cac0c9fd1992af74492feeb6831c5281d4f3a77af1b"
+          "telegram_link": "https://t.me/manhuasgratis/7361"
         },
         {
           "channel_id": -1003003829878,
@@ -124502,14 +124508,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7362_%5B%23119%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020649Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b0a730273b0e7b1906058b89c69d35ef7c0d0c1830af95a4b328e573ca1de01f",
           "filename": "[#119]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 119,
           "last": 119,
           "message_id": 7362,
           "name": "119",
           "size": 12713660,
-          "telegram_link": "https://t.me/manhuasgratis/7362",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7362_%5B%23119%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020649Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b0a730273b0e7b1906058b89c69d35ef7c0d0c1830af95a4b328e573ca1de01f"
+          "telegram_link": "https://t.me/manhuasgratis/7362"
         },
         {
           "channel_id": -1003003829878,
@@ -124518,14 +124524,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7363_%5B%23120%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020720Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41b7107cb83705ff68772fdb999fc5eab98724ea0f42694a9d80b3c603d6262d",
           "filename": "[#120]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 120,
           "last": 120,
           "message_id": 7363,
           "name": "120",
           "size": 12924769,
-          "telegram_link": "https://t.me/manhuasgratis/7363",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7363_%5B%23120%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020720Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41b7107cb83705ff68772fdb999fc5eab98724ea0f42694a9d80b3c603d6262d"
+          "telegram_link": "https://t.me/manhuasgratis/7363"
         },
         {
           "channel_id": -1003003829878,
@@ -124534,14 +124540,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7364_%5B%23121%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020807Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f4923f3c1fcd344dd4d794eb1dcfe562456dc167d48855d1784f70cf9f54341",
           "filename": "[#121]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 121,
           "last": 121,
           "message_id": 7364,
           "name": "121",
           "size": 14299202,
-          "telegram_link": "https://t.me/manhuasgratis/7364",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7364_%5B%23121%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020807Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f4923f3c1fcd344dd4d794eb1dcfe562456dc167d48855d1784f70cf9f54341"
+          "telegram_link": "https://t.me/manhuasgratis/7364"
         },
         {
           "channel_id": -1003003829878,
@@ -124550,14 +124556,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7365_%5B%23122%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020825Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5151253e79689f6eb8d73a33417ec800292db86668818feeba26254ceabd5b02",
           "filename": "[#122]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 122,
           "last": 122,
           "message_id": 7365,
           "name": "122",
           "size": 11020123,
-          "telegram_link": "https://t.me/manhuasgratis/7365",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7365_%5B%23122%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020825Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5151253e79689f6eb8d73a33417ec800292db86668818feeba26254ceabd5b02"
+          "telegram_link": "https://t.me/manhuasgratis/7365"
         },
         {
           "channel_id": -1003003829878,
@@ -124566,14 +124572,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7366_%5B%23123%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020856Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2299d2189a29f228ea0a95e821c2689801d01077e3dac5f5bb599cd2d7c10b3a",
           "filename": "[#123]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 123,
           "last": 123,
           "message_id": 7366,
           "name": "123",
           "size": 11331794,
-          "telegram_link": "https://t.me/manhuasgratis/7366",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7366_%5B%23123%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020856Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2299d2189a29f228ea0a95e821c2689801d01077e3dac5f5bb599cd2d7c10b3a"
+          "telegram_link": "https://t.me/manhuasgratis/7366"
         },
         {
           "channel_id": -1003003829878,
@@ -124582,14 +124588,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7367_%5B%23124%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020927Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=257152e70b9346a0506c3c4de269986286edfbe16d2f1668b33a64a8669af06d",
           "filename": "[#124]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 124,
           "last": 124,
           "message_id": 7367,
           "name": "124",
           "size": 10992244,
-          "telegram_link": "https://t.me/manhuasgratis/7367",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7367_%5B%23124%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020927Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=257152e70b9346a0506c3c4de269986286edfbe16d2f1668b33a64a8669af06d"
+          "telegram_link": "https://t.me/manhuasgratis/7367"
         },
         {
           "channel_id": -1003003829878,
@@ -124598,14 +124604,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7368_%5B%23125%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020944Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8d43796ee299ef25f9e7b238348e5e208285e86868d20d8bd6300ff41c22566",
           "filename": "[#125]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 125,
           "last": 125,
           "message_id": 7368,
           "name": "125",
           "size": 8023624,
-          "telegram_link": "https://t.me/manhuasgratis/7368",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7368_%5B%23125%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T020944Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8d43796ee299ef25f9e7b238348e5e208285e86868d20d8bd6300ff41c22566"
+          "telegram_link": "https://t.me/manhuasgratis/7368"
         },
         {
           "channel_id": -1003003829878,
@@ -124614,14 +124620,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7369_%5B%23126%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02546ffaf28361622357d061bc6f1e52c37c06202d158631943356c51dd2ef2c",
           "filename": "[#126]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 126,
           "last": 126,
           "message_id": 7369,
           "name": "126",
           "size": 7774601,
-          "telegram_link": "https://t.me/manhuasgratis/7369",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7369_%5B%23126%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02546ffaf28361622357d061bc6f1e52c37c06202d158631943356c51dd2ef2c"
+          "telegram_link": "https://t.me/manhuasgratis/7369"
         },
         {
           "channel_id": -1003003829878,
@@ -124630,14 +124636,14 @@
           ],
           "date": "2026-11-03T00:15:56+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7370_%5B%23127%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1e688c083b426af9ba4b9d78ace55079bd47d7a0684a5b161cca0d295de860ba",
           "filename": "[#127]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 127,
           "last": 127,
           "message_id": 7370,
           "name": "127",
           "size": 6023914,
-          "telegram_link": "https://t.me/manhuasgratis/7370",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7370_%5B%23127%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1e688c083b426af9ba4b9d78ace55079bd47d7a0684a5b161cca0d295de860ba"
+          "telegram_link": "https://t.me/manhuasgratis/7370"
         },
         {
           "channel_id": -1003003829878,
@@ -124646,14 +124652,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7371_%5B%23128%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021047Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=55fad4c1eaf27c4d7fcb93298b6e68f059580a0ff66a5369f1322997229f675c",
           "filename": "[#128]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 128,
           "last": 128,
           "message_id": 7371,
           "name": "128",
           "size": 10021597,
-          "telegram_link": "https://t.me/manhuasgratis/7371",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7371_%5B%23128%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021047Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=55fad4c1eaf27c4d7fcb93298b6e68f059580a0ff66a5369f1322997229f675c"
+          "telegram_link": "https://t.me/manhuasgratis/7371"
         },
         {
           "channel_id": -1003003829878,
@@ -124662,14 +124668,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7372_%5B%23129%5D%20%20%20Jugador%20que%20Regreso%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021102Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=761aed5b458aed40f1c386fe97d4c95281053f715325941c3111198765d728f8",
           "filename": "[#129]   Jugador que Regreso 10.000 Años Después .pdf",
           "first": 129,
           "last": 129,
           "message_id": 7372,
           "name": "129",
           "size": 6817413,
-          "telegram_link": "https://t.me/manhuasgratis/7372",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7372_%5B%23129%5D%20%20%20Jugador%20que%20Regreso%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021102Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=761aed5b458aed40f1c386fe97d4c95281053f715325941c3111198765d728f8"
+          "telegram_link": "https://t.me/manhuasgratis/7372"
         },
         {
           "channel_id": -1003003829878,
@@ -124678,14 +124684,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7373_%5B%23130%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021118Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=04082a23044c33d05c2b82caa3bf6d5683c18397868c35c4eaf3b30da6cab66b",
           "filename": "[#130]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 130,
           "last": 130,
           "message_id": 7373,
           "name": "130",
           "size": 7054417,
-          "telegram_link": "https://t.me/manhuasgratis/7373",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7373_%5B%23130%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021118Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=04082a23044c33d05c2b82caa3bf6d5683c18397868c35c4eaf3b30da6cab66b"
+          "telegram_link": "https://t.me/manhuasgratis/7373"
         },
         {
           "channel_id": -1003003829878,
@@ -124694,14 +124700,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7374_%5B%23131%5D%20%20%20El%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e43bc3a75416c11c98c68a8e1b8b6ce1eb83e984ee9ce57fde92c3ee0ee32cf9",
           "filename": "[#131]   El Jugador que Regresó 10.000 Años Después .pdf",
           "first": 131,
           "last": 131,
           "message_id": 7374,
           "name": "131",
           "size": 8086645,
-          "telegram_link": "https://t.me/manhuasgratis/7374",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7374_%5B%23131%5D%20%20%20El%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e43bc3a75416c11c98c68a8e1b8b6ce1eb83e984ee9ce57fde92c3ee0ee32cf9"
+          "telegram_link": "https://t.me/manhuasgratis/7374"
         },
         {
           "channel_id": -1003003829878,
@@ -124710,14 +124716,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7375_%5B%23132%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despues.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021207Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1f23d6bb159e7a1c1145b998243708658c9bfc71875cc6f54bdb75d3d5a1ba2a",
           "filename": "[#132]   El Jugador Que Regresó 10000 Años Despues.pdf",
           "first": 132,
           "last": 132,
           "message_id": 7375,
           "name": "132",
           "size": 11075664,
-          "telegram_link": "https://t.me/manhuasgratis/7375",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7375_%5B%23132%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despues.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021207Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1f23d6bb159e7a1c1145b998243708658c9bfc71875cc6f54bdb75d3d5a1ba2a"
+          "telegram_link": "https://t.me/manhuasgratis/7375"
         },
         {
           "channel_id": -1003003829878,
@@ -124726,14 +124732,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7376_%5B%23133%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021224Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ca99885c4b4635d8a04f547c3444aaa2f5951c688eca24e87da9352a8913412",
           "filename": "[#133]   Jugador Que Regresó 10.000 Años Después.pdf",
           "first": 133,
           "last": 133,
           "message_id": 7376,
           "name": "133",
           "size": 8665037,
-          "telegram_link": "https://t.me/manhuasgratis/7376",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7376_%5B%23133%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021224Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ca99885c4b4635d8a04f547c3444aaa2f5951c688eca24e87da9352a8913412"
+          "telegram_link": "https://t.me/manhuasgratis/7376"
         },
         {
           "channel_id": -1003003829878,
@@ -124742,14 +124748,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7377_%5B%23134%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89e5379203bb52c9466b733823b99342e222fd1b17a1ccd7a8882fa6cc518a3e",
           "filename": "[#134]   Jugador que Regresó 10.000 Años Después.pdf",
           "first": 134,
           "last": 134,
           "message_id": 7377,
           "name": "134",
           "size": 8727358,
-          "telegram_link": "https://t.me/manhuasgratis/7377",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7377_%5B%23134%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021241Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89e5379203bb52c9466b733823b99342e222fd1b17a1ccd7a8882fa6cc518a3e"
+          "telegram_link": "https://t.me/manhuasgratis/7377"
         },
         {
           "channel_id": -1003003829878,
@@ -124758,14 +124764,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7378_%5B%23135%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021257Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ae73aa47644f033f441f0c8e978b1131378449153300c05c046f799962236aa6",
           "filename": "[#135]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 135,
           "last": 135,
           "message_id": 7378,
           "name": "135",
           "size": 6885224,
-          "telegram_link": "https://t.me/manhuasgratis/7378",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7378_%5B%23135%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021257Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ae73aa47644f033f441f0c8e978b1131378449153300c05c046f799962236aa6"
+          "telegram_link": "https://t.me/manhuasgratis/7378"
         },
         {
           "channel_id": -1003003829878,
@@ -124774,14 +124780,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7379_%5B%23136%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010%20000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021328Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e21f601d6ee937a78289c1897d2f7bb794c0a2ceb80b88d1afa34e86a802bd3",
           "filename": "[#136]   El Jugador Que Regresó 10 000 Años Después.pdf",
           "first": 136,
           "last": 136,
           "message_id": 7379,
           "name": "136",
           "size": 10739483,
-          "telegram_link": "https://t.me/manhuasgratis/7379",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7379_%5B%23136%5D%20%20%20El%20Jugador%20Que%20Regres%C3%B3%2010%20000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021328Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0e21f601d6ee937a78289c1897d2f7bb794c0a2ceb80b88d1afa34e86a802bd3"
+          "telegram_link": "https://t.me/manhuasgratis/7379"
         },
         {
           "channel_id": -1003003829878,
@@ -124790,14 +124796,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7380_%5B%23137%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021344Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f33e49813c628695c24e49a51e5cc8b4e75fa70741efd6cb5c5eabadcb4c7be8",
           "filename": "[#137]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 137,
           "last": 137,
           "message_id": 7380,
           "name": "137",
           "size": 7849795,
-          "telegram_link": "https://t.me/manhuasgratis/7380",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7380_%5B%23137%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021344Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f33e49813c628695c24e49a51e5cc8b4e75fa70741efd6cb5c5eabadcb4c7be8"
+          "telegram_link": "https://t.me/manhuasgratis/7380"
         },
         {
           "channel_id": -1003003829878,
@@ -124806,14 +124812,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7381_%5B%23138%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=28a93729b1e0a4ec7941da58770dff213bce456eb9df870eefe118670db58fdb",
           "filename": "[#138]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 138,
           "last": 138,
           "message_id": 7381,
           "name": "138",
           "size": 6779771,
-          "telegram_link": "https://t.me/manhuasgratis/7381",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7381_%5B%23138%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=28a93729b1e0a4ec7941da58770dff213bce456eb9df870eefe118670db58fdb"
+          "telegram_link": "https://t.me/manhuasgratis/7381"
         },
         {
           "channel_id": -1003003829878,
@@ -124822,14 +124828,14 @@
           ],
           "date": "2026-11-03T00:15:57+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7382_%5B%23139%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021431Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5adddc90d4c715b344e26c083bdf0a39997faf314c355047660c499fd4560a13",
           "filename": "[#139]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 139,
           "last": 139,
           "message_id": 7382,
           "name": "139",
           "size": 10201635,
-          "telegram_link": "https://t.me/manhuasgratis/7382",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7382_%5B%23139%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021431Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5adddc90d4c715b344e26c083bdf0a39997faf314c355047660c499fd4560a13"
+          "telegram_link": "https://t.me/manhuasgratis/7382"
         },
         {
           "channel_id": -1003003829878,
@@ -124838,14 +124844,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7383_%5B%23140%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021503Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c26b9908c5fbd340e42b19caa88e3d44d7222c58b7d16b216faa5aeb74b64dd",
           "filename": "[#140]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 140,
           "last": 140,
           "message_id": 7383,
           "name": "140",
           "size": 11877189,
-          "telegram_link": "https://t.me/manhuasgratis/7383",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7383_%5B%23140%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021503Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c26b9908c5fbd340e42b19caa88e3d44d7222c58b7d16b216faa5aeb74b64dd"
+          "telegram_link": "https://t.me/manhuasgratis/7383"
         },
         {
           "channel_id": -1003003829878,
@@ -124854,14 +124860,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7384_%5B%23141%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021534Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b9f612a10e5a323d3cad0f5d9698c4f17a4f1a6759c57afe9a54bc97093b526",
           "filename": "[#141]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 141,
           "last": 141,
           "message_id": 7384,
           "name": "141",
           "size": 12024691,
-          "telegram_link": "https://t.me/manhuasgratis/7384",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7384_%5B%23141%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021534Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0b9f612a10e5a323d3cad0f5d9698c4f17a4f1a6759c57afe9a54bc97093b526"
+          "telegram_link": "https://t.me/manhuasgratis/7384"
         },
         {
           "channel_id": -1003003829878,
@@ -124870,14 +124876,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7385_%5B%23142%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021553Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b71718dbc2607da1bad6fbe994b8a5df133ca20f2b500038e0b26e79b98c8801",
           "filename": "[#142]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 142,
           "last": 142,
           "message_id": 7385,
           "name": "142",
           "size": 12430941,
-          "telegram_link": "https://t.me/manhuasgratis/7385",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7385_%5B%23142%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021553Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b71718dbc2607da1bad6fbe994b8a5df133ca20f2b500038e0b26e79b98c8801"
+          "telegram_link": "https://t.me/manhuasgratis/7385"
         },
         {
           "channel_id": -1003003829878,
@@ -124886,14 +124892,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7386_%5B%23143%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021623Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5a4017b19f4b6a37b7cada7b19ca3f1e3870dff7c9ef4f5da93fec32152af33a",
           "filename": "[#143]   Jugador que Regresó 10.000 Años Después.pdf",
           "first": 143,
           "last": 143,
           "message_id": 7386,
           "name": "143",
           "size": 9622481,
-          "telegram_link": "https://t.me/manhuasgratis/7386",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7386_%5B%23143%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021623Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5a4017b19f4b6a37b7cada7b19ca3f1e3870dff7c9ef4f5da93fec32152af33a"
+          "telegram_link": "https://t.me/manhuasgratis/7386"
         },
         {
           "channel_id": -1003003829878,
@@ -124902,14 +124908,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7387_%5B%23144%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021642Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8a447ea03b5fb5e1b7dff1b941f29fab8b48f81a048781c7e5a72d05cea4a273",
           "filename": "[#144]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 144,
           "last": 144,
           "message_id": 7387,
           "name": "144",
           "size": 9863811,
-          "telegram_link": "https://t.me/manhuasgratis/7387",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7387_%5B%23144%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021642Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8a447ea03b5fb5e1b7dff1b941f29fab8b48f81a048781c7e5a72d05cea4a273"
+          "telegram_link": "https://t.me/manhuasgratis/7387"
         },
         {
           "channel_id": -1003003829878,
@@ -124918,14 +124924,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7388_%5B%23145%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021712Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf505a8cfc9232d7df5c73ece0afb5992d51afb496c46dc3e2bd587276c8a4f0",
           "filename": "[#145]   Jugador que Regresó 10.000 Años Después .pdf",
           "first": 145,
           "last": 145,
           "message_id": 7388,
           "name": "145",
           "size": 11581612,
-          "telegram_link": "https://t.me/manhuasgratis/7388",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7388_%5B%23145%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010.000%20A%C3%B1os%20Despu%C3%A9s%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021712Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf505a8cfc9232d7df5c73ece0afb5992d51afb496c46dc3e2bd587276c8a4f0"
+          "telegram_link": "https://t.me/manhuasgratis/7388"
         },
         {
           "channel_id": -1003003829878,
@@ -124934,14 +124940,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7389_%5B%23146%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021745Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=59577f3c6d8305eb194684a9d3e6adc2a4bae843c49d974f0c7ed2c62df9f88f",
           "filename": "[#146]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 146,
           "last": 146,
           "message_id": 7389,
           "name": "146",
           "size": 13761447,
-          "telegram_link": "https://t.me/manhuasgratis/7389",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7389_%5B%23146%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021745Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=59577f3c6d8305eb194684a9d3e6adc2a4bae843c49d974f0c7ed2c62df9f88f"
+          "telegram_link": "https://t.me/manhuasgratis/7389"
         },
         {
           "channel_id": -1003003829878,
@@ -124950,14 +124956,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7390_%5B%23147%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021815Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d42e6f191990b282d84f7cfc5a50ad18cbc196d7b9a6e5f7be401302b634b7b",
           "filename": "[#147]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 147,
           "last": 147,
           "message_id": 7390,
           "name": "147",
           "size": 11736214,
-          "telegram_link": "https://t.me/manhuasgratis/7390",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7390_%5B%23147%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021815Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d42e6f191990b282d84f7cfc5a50ad18cbc196d7b9a6e5f7be401302b634b7b"
+          "telegram_link": "https://t.me/manhuasgratis/7390"
         },
         {
           "channel_id": -1003003829878,
@@ -124966,14 +124972,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7391_%5B%23148%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021849Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe382826e5a4f4154ba835cbe415e565dd356f93bf88981d820897132a43d188",
           "filename": "[#148]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 148,
           "last": 148,
           "message_id": 7391,
           "name": "148",
           "size": 11347008,
-          "telegram_link": "https://t.me/manhuasgratis/7391",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7391_%5B%23148%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021849Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe382826e5a4f4154ba835cbe415e565dd356f93bf88981d820897132a43d188"
+          "telegram_link": "https://t.me/manhuasgratis/7391"
         },
         {
           "channel_id": -1003003829878,
@@ -124982,14 +124988,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7392_%5B%23149%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021920Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8663c86915655b944a1faba5008c91dc5e263b9b960e8c4b5b81f9575f36ced0",
           "filename": "[#149]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 149,
           "last": 149,
           "message_id": 7392,
           "name": "149",
           "size": 13640157,
-          "telegram_link": "https://t.me/manhuasgratis/7392",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7392_%5B%23149%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021920Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8663c86915655b944a1faba5008c91dc5e263b9b960e8c4b5b81f9575f36ced0"
+          "telegram_link": "https://t.me/manhuasgratis/7392"
         },
         {
           "channel_id": -1003003829878,
@@ -124998,14 +125004,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7393_%5B%23150%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021952Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b09c4957bb6ebea9c417b6b102a3b2c101302ef1ace3d85a8d1c6ff0282065a",
           "filename": "[#150]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 150,
           "last": 150,
           "message_id": 7393,
           "name": "150",
           "size": 12011400,
-          "telegram_link": "https://t.me/manhuasgratis/7393",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7393_%5B%23150%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T021952Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b09c4957bb6ebea9c417b6b102a3b2c101302ef1ace3d85a8d1c6ff0282065a"
+          "telegram_link": "https://t.me/manhuasgratis/7393"
         },
         {
           "channel_id": -1003003829878,
@@ -125014,14 +125020,14 @@
           ],
           "date": "2026-11-03T00:15:58+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7394_%5B%23151%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022023Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=99b8e8b187177ff5d68faf10b26e0dd1130e9f735dddecd58c7eb669c6004517",
           "filename": "[#151]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 151,
           "last": 151,
           "message_id": 7394,
           "name": "151",
           "size": 11899547,
-          "telegram_link": "https://t.me/manhuasgratis/7394",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7394_%5B%23151%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022023Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=99b8e8b187177ff5d68faf10b26e0dd1130e9f735dddecd58c7eb669c6004517"
+          "telegram_link": "https://t.me/manhuasgratis/7394"
         },
         {
           "channel_id": -1003003829878,
@@ -125030,14 +125036,14 @@
           ],
           "date": "2026-11-03T00:16:03+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7395_%5B%23152%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022042Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5562dbedf9cbbea0d2cb8338352d55d0930499ed7df0253ccc7c3608edac53e",
           "filename": "[#152]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 152,
           "last": 152,
           "message_id": 7395,
           "name": "152",
           "size": 10648437,
-          "telegram_link": "https://t.me/manhuasgratis/7395",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7395_%5B%23152%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022042Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5562dbedf9cbbea0d2cb8338352d55d0930499ed7df0253ccc7c3608edac53e"
+          "telegram_link": "https://t.me/manhuasgratis/7395"
         },
         {
           "channel_id": -1003003829878,
@@ -125046,14 +125052,14 @@
           ],
           "date": "2026-11-03T00:16:03+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7396_%5B%23153%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022113Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e8ba4e8ee115ac25f271ba8a0ab17275c47d0f68baa4a411ee1b74122b13ef47",
           "filename": "[#153]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 153,
           "last": 153,
           "message_id": 7396,
           "name": "153",
           "size": 10668829,
-          "telegram_link": "https://t.me/manhuasgratis/7396",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7396_%5B%23153%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022113Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e8ba4e8ee115ac25f271ba8a0ab17275c47d0f68baa4a411ee1b74122b13ef47"
+          "telegram_link": "https://t.me/manhuasgratis/7396"
         },
         {
           "channel_id": -1003003829878,
@@ -125062,14 +125068,14 @@
           ],
           "date": "2026-11-03T00:16:03+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7397_%5B%23154-154.5%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022143Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=037d718892ad3789de2b546d345c1f12a2cb98adde2679d52a75fbc9c0e23ed3",
           "filename": "[#154-154.5]   Jugador que Regresó 10000 Años Después.pdf",
           "first": 154,
           "last": 154,
           "message_id": 7397,
           "name": "154",
           "size": 11490220,
-          "telegram_link": "https://t.me/manhuasgratis/7397",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7397_%5B%23154-154.5%5D%20%20%20Jugador%20que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022143Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=037d718892ad3789de2b546d345c1f12a2cb98adde2679d52a75fbc9c0e23ed3"
+          "telegram_link": "https://t.me/manhuasgratis/7397"
         },
         {
           "channel_id": -1003003829878,
@@ -125079,14 +125085,14 @@
           ],
           "date": "2026-11-03T00:16:03+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7398_%5B%23155-156%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022233Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2250868ecd40522db66b52e86d624b5fbf6db7fdcdcafa67b680951fe7522cf6",
           "filename": "[#155-156]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 155,
           "last": 156,
           "message_id": 7398,
           "name": "155-156",
           "size": 20457042,
-          "telegram_link": "https://t.me/manhuasgratis/7398",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7398_%5B%23155-156%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022233Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2250868ecd40522db66b52e86d624b5fbf6db7fdcdcafa67b680951fe7522cf6"
+          "telegram_link": "https://t.me/manhuasgratis/7398"
         },
         {
           "channel_id": -1003003829878,
@@ -125095,14 +125101,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7399_%5B%23157%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022250Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=838678c43a90d8e4eed20a7c5c60c05f63d5ebbd7e86ff75990b244c7839f548",
           "filename": "[#157]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 157,
           "last": 157,
           "message_id": 7399,
           "name": "157",
           "size": 10099392,
-          "telegram_link": "https://t.me/manhuasgratis/7399",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7399_%5B%23157%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022250Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=838678c43a90d8e4eed20a7c5c60c05f63d5ebbd7e86ff75990b244c7839f548"
+          "telegram_link": "https://t.me/manhuasgratis/7399"
         },
         {
           "channel_id": -1003003829878,
@@ -125111,14 +125117,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7400_%5B%23158%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022320Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=69ef6ed3f20530c1f0fbb6040fc03b6836ba83baabb7f7066f4a7a53fd03a05f",
           "filename": "[#158]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 158,
           "last": 158,
           "message_id": 7400,
           "name": "158",
           "size": 9918815,
-          "telegram_link": "https://t.me/manhuasgratis/7400",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7400_%5B%23158%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022320Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=69ef6ed3f20530c1f0fbb6040fc03b6836ba83baabb7f7066f4a7a53fd03a05f"
+          "telegram_link": "https://t.me/manhuasgratis/7400"
         },
         {
           "channel_id": -1003003829878,
@@ -125127,14 +125133,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7401_%5B%23159%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022352Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4c998602ffe2ea21892cd3a5ed27b9a30c320314704831d97cd343864bb3f9d5",
           "filename": "[#159]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 159,
           "last": 159,
           "message_id": 7401,
           "name": "159",
           "size": 11754289,
-          "telegram_link": "https://t.me/manhuasgratis/7401",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7401_%5B%23159%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022352Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4c998602ffe2ea21892cd3a5ed27b9a30c320314704831d97cd343864bb3f9d5"
+          "telegram_link": "https://t.me/manhuasgratis/7401"
         },
         {
           "channel_id": -1003003829878,
@@ -125143,14 +125149,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7402_%5B%23160%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5747c3c26e6cc94de59d3320b0121998d6ed7f523ceb1231be55b62cb3d5df1",
           "filename": "[#160]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 160,
           "last": 160,
           "message_id": 7402,
           "name": "160",
           "size": 12149598,
-          "telegram_link": "https://t.me/manhuasgratis/7402",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7402_%5B%23160%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5747c3c26e6cc94de59d3320b0121998d6ed7f523ceb1231be55b62cb3d5df1"
+          "telegram_link": "https://t.me/manhuasgratis/7402"
         },
         {
           "channel_id": -1003003829878,
@@ -125159,14 +125165,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7403_%5B%23161%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022443Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=718a65e340d82e7d2dd6a0fd55fe197cf9ae4210d8bfb764f7fb5a8335ec110b",
           "filename": "[#161]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 161,
           "last": 161,
           "message_id": 7403,
           "name": "161",
           "size": 11654711,
-          "telegram_link": "https://t.me/manhuasgratis/7403",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7403_%5B%23161%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022443Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=718a65e340d82e7d2dd6a0fd55fe197cf9ae4210d8bfb764f7fb5a8335ec110b"
+          "telegram_link": "https://t.me/manhuasgratis/7403"
         },
         {
           "channel_id": -1003003829878,
@@ -125175,14 +125181,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7404_%5B%23162%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022516Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=882e3f2e1e1a4a1f6e9c84b5070ac75dd7e9ec8c943cfac2e5004e56f4106203",
           "filename": "[#162]   Jugador Que Regresó 10000 Años Después.pdf",
           "first": 162,
           "last": 162,
           "message_id": 7404,
           "name": "162",
           "size": 11203817,
-          "telegram_link": "https://t.me/manhuasgratis/7404",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7404_%5B%23162%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022516Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=882e3f2e1e1a4a1f6e9c84b5070ac75dd7e9ec8c943cfac2e5004e56f4106203"
+          "telegram_link": "https://t.me/manhuasgratis/7404"
         },
         {
           "channel_id": -1003003829878,
@@ -125191,14 +125197,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7405_%5B%23163%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022545Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93e387866a3481ae91b50d3b6470f3f6fba7273f8a75183b08d007cfa244cfd",
           "filename": "[#163]   Jugador Que Regresó 10000 Años Después.pdf",
           "first": 163,
           "last": 163,
           "message_id": 7405,
           "name": "163",
           "size": 10107685,
-          "telegram_link": "https://t.me/manhuasgratis/7405",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7405_%5B%23163%5D%20%20%20Jugador%20Que%20Regres%C3%B3%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022545Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93e387866a3481ae91b50d3b6470f3f6fba7273f8a75183b08d007cfa244cfd"
+          "telegram_link": "https://t.me/manhuasgratis/7405"
         },
         {
           "channel_id": -1003003829878,
@@ -125207,14 +125213,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7406_%5B%23164%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022621Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7003ca06539b8d8e82c9af99be0bc6cc3b7a7b2c1ae4b7e07a7cd1f1437074b1",
           "filename": "[#164]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 164,
           "last": 164,
           "message_id": 7406,
           "name": "164",
           "size": 17932640,
-          "telegram_link": "https://t.me/manhuasgratis/7406",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7406_%5B%23164%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022621Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7003ca06539b8d8e82c9af99be0bc6cc3b7a7b2c1ae4b7e07a7cd1f1437074b1"
+          "telegram_link": "https://t.me/manhuasgratis/7406"
         },
         {
           "channel_id": -1003003829878,
@@ -125223,14 +125229,14 @@
           ],
           "date": "2026-11-03T00:16:04+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7407_%5B%23165%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022706Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd6c62c6f1b0095c701bfc3ca08420ea1e05d7490bf31d2b78373191308a1f5e",
           "filename": "[#165]   Jugador Que Regreso 10000 Años Después.pdf",
           "first": 165,
           "last": 165,
           "message_id": 7407,
           "name": "165",
           "size": 14199144,
-          "telegram_link": "https://t.me/manhuasgratis/7407",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_regreso_10000_anos_despues/7407_%5B%23165%5D%20%20%20Jugador%20Que%20Regreso%2010000%20A%C3%B1os%20Despu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022706Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd6c62c6f1b0095c701bfc3ca08420ea1e05d7490bf31d2b78373191308a1f5e"
+          "telegram_link": "https://t.me/manhuasgratis/7407"
         }
       ],
       "rating": 0,
@@ -125273,14 +125279,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7319_%5B%2301-10%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89bd28daf378a07a3a273332d8c9b7001e1f41610bf549ea2980f8640f0fea19",
           "filename": "[#01-10]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 1,
           "last": 10,
           "message_id": 7319,
           "name": "1-10",
           "size": 64931884,
-          "telegram_link": "https://t.me/manhuasgratis/7319",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7319_%5B%2301-10%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T022935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89bd28daf378a07a3a273332d8c9b7001e1f41610bf549ea2980f8640f0fea19"
+          "telegram_link": "https://t.me/manhuasgratis/7319"
         },
         {
           "channel_id": -1003003829878,
@@ -125298,14 +125304,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7320_%5B%2311-20%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T023230Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c51c6d202dba213222d53e8905ecb906378c13019d4d5812f2bae9ff9f0c01e2",
           "filename": "[#11-20]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 11,
           "last": 20,
           "message_id": 7320,
           "name": "11-20",
           "size": 70813304,
-          "telegram_link": "https://t.me/manhuasgratis/7320",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7320_%5B%2311-20%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T023230Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c51c6d202dba213222d53e8905ecb906378c13019d4d5812f2bae9ff9f0c01e2"
+          "telegram_link": "https://t.me/manhuasgratis/7320"
         },
         {
           "channel_id": -1003003829878,
@@ -125323,14 +125329,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7321_%5B%2321-30%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T023509Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a2369cc1e38ddbe75320cce5682d8538a6d7e38dc61689865744563dd0a64ae5",
           "filename": "[#21-30]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 21,
           "last": 30,
           "message_id": 7321,
           "name": "21-30",
           "size": 63247502,
-          "telegram_link": "https://t.me/manhuasgratis/7321",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7321_%5B%2321-30%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T023509Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a2369cc1e38ddbe75320cce5682d8538a6d7e38dc61689865744563dd0a64ae5"
+          "telegram_link": "https://t.me/manhuasgratis/7321"
         },
         {
           "channel_id": -1003003829878,
@@ -125348,14 +125354,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7322_%5B%2331-40%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T023747Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=76fb27e94439466196006fb96fb5ca044e44abd229928704351fbc070860018b",
           "filename": "[#31-40]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 31,
           "last": 40,
           "message_id": 7322,
           "name": "31-40",
           "size": 64459992,
-          "telegram_link": "https://t.me/manhuasgratis/7322",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7322_%5B%2331-40%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T023747Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=76fb27e94439466196006fb96fb5ca044e44abd229928704351fbc070860018b"
+          "telegram_link": "https://t.me/manhuasgratis/7322"
         },
         {
           "channel_id": -1003003829878,
@@ -125373,14 +125379,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7323_%5B%2341-50%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b879843f81993baebcc8ca2d9046eae4e5ac7987ae18c44b1d7e6073e1e96fa",
           "filename": "[#41-50]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 41,
           "last": 50,
           "message_id": 7323,
           "name": "41-50",
           "size": 65175391,
-          "telegram_link": "https://t.me/manhuasgratis/7323",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7323_%5B%2341-50%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b879843f81993baebcc8ca2d9046eae4e5ac7987ae18c44b1d7e6073e1e96fa"
+          "telegram_link": "https://t.me/manhuasgratis/7323"
         },
         {
           "channel_id": -1003003829878,
@@ -125398,14 +125404,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7324_%5B%2351-60%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ea41d831c60a696e3a3d8de422c483913241a20985dbecb88aea3961e1c504a",
           "filename": "[#51-60]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 51,
           "last": 60,
           "message_id": 7324,
           "name": "51-60",
           "size": 62884004,
-          "telegram_link": "https://t.me/manhuasgratis/7324",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7324_%5B%2351-60%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ea41d831c60a696e3a3d8de422c483913241a20985dbecb88aea3961e1c504a"
+          "telegram_link": "https://t.me/manhuasgratis/7324"
         },
         {
           "channel_id": -1003003829878,
@@ -125423,14 +125429,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7325_%5B%2361-70%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024605Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e409661ec832e6c5501c6576eaa614745a8e0eda0c3d0faa2171aadf7983683c",
           "filename": "[#61-70]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 61,
           "last": 70,
           "message_id": 7325,
           "name": "61-70",
           "size": 74720338,
-          "telegram_link": "https://t.me/manhuasgratis/7325",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7325_%5B%2361-70%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024605Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e409661ec832e6c5501c6576eaa614745a8e0eda0c3d0faa2171aadf7983683c"
+          "telegram_link": "https://t.me/manhuasgratis/7325"
         },
         {
           "channel_id": -1003003829878,
@@ -125448,14 +125454,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7326_%5B%2371-80%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024917Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0318d4e101aea8efa9889017fe455f22b034315b792574ec617053a6981aee2a",
           "filename": "[#71-80]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 71,
           "last": 80,
           "message_id": 7326,
           "name": "71-80",
           "size": 77711220,
-          "telegram_link": "https://t.me/manhuasgratis/7326",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7326_%5B%2371-80%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T024917Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0318d4e101aea8efa9889017fe455f22b034315b792574ec617053a6981aee2a"
+          "telegram_link": "https://t.me/manhuasgratis/7326"
         },
         {
           "channel_id": -1003003829878,
@@ -125473,14 +125479,14 @@
           ],
           "date": "2026-11-02T23:59:25+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7327_%5B%2381-90%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T025245Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8344893ea1e50bd0a3403011f95387cfb48be0b2d70f4b4ec4bcfc9098ce1083",
           "filename": "[#81-90]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 81,
           "last": 90,
           "message_id": 7327,
           "name": "81-90",
           "size": 85601801,
-          "telegram_link": "https://t.me/manhuasgratis/7327",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7327_%5B%2381-90%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T025245Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8344893ea1e50bd0a3403011f95387cfb48be0b2d70f4b4ec4bcfc9098ce1083"
+          "telegram_link": "https://t.me/manhuasgratis/7327"
         },
         {
           "channel_id": -1003003829878,
@@ -125498,14 +125504,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7328_%5B%2391-100%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T025734Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ab46445952d5f50cea8d90309768fc954d07d0c907be9a29ea5ba7d5fe5351d",
           "filename": "[#91-100]   El Legendario Hijo Menor De La Casa Del Marqués.pdf",
           "first": 91,
           "last": 100,
           "message_id": 7328,
           "name": "91-100",
           "size": 120365940,
-          "telegram_link": "https://t.me/manhuasgratis/7328",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7328_%5B%2391-100%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20Del%20Marqu%C3%A9s.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T025734Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ab46445952d5f50cea8d90309768fc954d07d0c907be9a29ea5ba7d5fe5351d"
+          "telegram_link": "https://t.me/manhuasgratis/7328"
         },
         {
           "channel_id": -1003003829878,
@@ -125523,14 +125529,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7329_%5B%23101-110%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T030253Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2da38f777b3d1950a42842afab0555d165156a79ca801963d0d506f1eeffa320",
           "filename": "[#101-110]   El Legendario Hijo Menor De La Casa.pdf",
           "first": 101,
           "last": 110,
           "message_id": 7329,
           "name": "101-110",
           "size": 129151181,
-          "telegram_link": "https://t.me/manhuasgratis/7329",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7329_%5B%23101-110%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T030253Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2da38f777b3d1950a42842afab0555d165156a79ca801963d0d506f1eeffa320"
+          "telegram_link": "https://t.me/manhuasgratis/7329"
         },
         {
           "channel_id": -1003003829878,
@@ -125548,14 +125554,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7330_%5B%23111-120%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T030847Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d70a5145cc52d68ad0ab3b49b95a73d8e5e4f43e81ad1ca62b89b20c0df324f6",
           "filename": "[#111-120]   El Legendario Hijo Menor De La Casa.pdf",
           "first": 111,
           "last": 120,
           "message_id": 7330,
           "name": "111-120",
           "size": 143023606,
-          "telegram_link": "https://t.me/manhuasgratis/7330",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7330_%5B%23111-120%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T030847Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d70a5145cc52d68ad0ab3b49b95a73d8e5e4f43e81ad1ca62b89b20c0df324f6"
+          "telegram_link": "https://t.me/manhuasgratis/7330"
         },
         {
           "channel_id": -1003003829878,
@@ -125573,14 +125579,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7331_%5B%23121-130%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T031424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0cad799a2a81386eea3f97ad9abe633b18000fedcc84a03d7c6240835f6ea86e",
           "filename": "[#121-130]   El Legendario Hijo Menor De La Casa.pdf",
           "first": 121,
           "last": 130,
           "message_id": 7331,
           "name": "121-130",
           "size": 142094261,
-          "telegram_link": "https://t.me/manhuasgratis/7331",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7331_%5B%23121-130%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T031424Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0cad799a2a81386eea3f97ad9abe633b18000fedcc84a03d7c6240835f6ea86e"
+          "telegram_link": "https://t.me/manhuasgratis/7331"
         },
         {
           "channel_id": -1003003829878,
@@ -125598,14 +125604,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7332_%5B%23131-140%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T032015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e4d1a72ee19c0ec474c3da8dae4552ba622951f6d1e981e104fd6c87b4195467",
           "filename": "[#131-140]   El Legendario Hijo Menor De La Casa.pdf",
           "first": 131,
           "last": 140,
           "message_id": 7332,
           "name": "131-140",
           "size": 140434502,
-          "telegram_link": "https://t.me/manhuasgratis/7332",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7332_%5B%23131-140%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T032015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e4d1a72ee19c0ec474c3da8dae4552ba622951f6d1e981e104fd6c87b4195467"
+          "telegram_link": "https://t.me/manhuasgratis/7332"
         },
         {
           "channel_id": -1003003829878,
@@ -125623,14 +125629,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7333_%5B%23141-150%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T032520Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab245171325d298589bb7c8679d4631c7c4e6d1f49d8301be9553fcbbfd81a01",
           "filename": "[#141-150]   El Legendario Hijo Menor De La Casa.pdf",
           "first": 141,
           "last": 150,
           "message_id": 7333,
           "name": "141-150",
           "size": 124430467,
-          "telegram_link": "https://t.me/manhuasgratis/7333",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7333_%5B%23141-150%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T032520Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab245171325d298589bb7c8679d4631c7c4e6d1f49d8301be9553fcbbfd81a01"
+          "telegram_link": "https://t.me/manhuasgratis/7333"
         },
         {
           "channel_id": -1003003829878,
@@ -125648,14 +125654,14 @@
           ],
           "date": "2026-11-02T23:59:26+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7334_%5B%23151-160%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T033128Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b183c3e234c1afa69f4ab9d58ccf42447b476b3a5dbfc2f32cf914765ead8de0",
           "filename": "[#151-160]   El Legendario Hijo Menor De La Casa.pdf",
           "first": 151,
           "last": 160,
           "message_id": 7334,
           "name": "151-160",
           "size": 152771946,
-          "telegram_link": "https://t.me/manhuasgratis/7334",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7334_%5B%23151-160%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T033128Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b183c3e234c1afa69f4ab9d58ccf42447b476b3a5dbfc2f32cf914765ead8de0"
+          "telegram_link": "https://t.me/manhuasgratis/7334"
         },
         {
           "channel_id": -1003003829878,
@@ -125679,8 +125685,7 @@
           "message_id": 7335,
           "name": "161-170",
           "size": 131464341,
-          "telegram_link": "https://t.me/manhuasgratis/7335",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7335_%5B%23161-170%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T033648Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9063e2db7abfc67daa99b4c4a20b8f54b12788602c0651cf5be825eb58cd631"
+          "telegram_link": "https://t.me/manhuasgratis/7335"
         },
         {
           "channel_id": -1003003829878,
@@ -125703,8 +125708,7 @@
           "message_id": 7336,
           "name": "171-179",
           "size": 85568079,
-          "telegram_link": "https://t.me/manhuasgratis/7336",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7336_%5B%23171-179%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034016Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc24095a8df561a2323de1e8786902e6dd07c87e8e744bbbc5d3cd21b2f7217d"
+          "telegram_link": "https://t.me/manhuasgratis/7336"
         },
         {
           "channel_id": -1003003829878,
@@ -125719,8 +125723,7 @@
           "message_id": 7337,
           "name": "180",
           "size": 10905087,
-          "telegram_link": "https://t.me/manhuasgratis/7337",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7337_%5B%23180%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034047Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8def4ab11003ceb465cc94a40773bbbbfb9c29608ffd6527f7865e033b32d5ce"
+          "telegram_link": "https://t.me/manhuasgratis/7337"
         },
         {
           "channel_id": -1003003829878,
@@ -125735,8 +125738,7 @@
           "message_id": 7338,
           "name": "181",
           "size": 10316954,
-          "telegram_link": "https://t.me/manhuasgratis/7338",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7338_%5B%23181%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034116Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4353dd29503495ba879f06daa7b357a3dc27bd8b7d642e2c49106041be8cbc19"
+          "telegram_link": "https://t.me/manhuasgratis/7338"
         },
         {
           "channel_id": -1003003829878,
@@ -125751,8 +125753,7 @@
           "message_id": 7339,
           "name": "182",
           "size": 8636815,
-          "telegram_link": "https://t.me/manhuasgratis/7339",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7339_%5B%23182%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034134Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=24858ee847692ee2c4f9b89a465800d7cab3216b66e23df5da8238548d2f80bb"
+          "telegram_link": "https://t.me/manhuasgratis/7339"
         },
         {
           "channel_id": -1003003829878,
@@ -125767,8 +125768,7 @@
           "message_id": 7340,
           "name": "183",
           "size": 14565427,
-          "telegram_link": "https://t.me/manhuasgratis/7340",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7340_%5B%23183%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034207Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8b879613103b9cd90cfae53dc0d298e7bddcfef6eac9153aea18556299c1780a"
+          "telegram_link": "https://t.me/manhuasgratis/7340"
         },
         {
           "channel_id": -1003003829878,
@@ -125783,8 +125783,7 @@
           "message_id": 7341,
           "name": "184",
           "size": 12677067,
-          "telegram_link": "https://t.me/manhuasgratis/7341",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7341_%5B%23184%5D%20%20%20El%20Legendario%20Hijo%20Menor%20De%20La%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034249Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d662b66855343f85098ccbe6a709f8d97d32a444ea1b96db2420b7795370e8a8"
+          "telegram_link": "https://t.me/manhuasgratis/7341"
         },
         {
           "channel_id": -1003003829878,
@@ -125799,14 +125798,13 @@
           "message_id": 7342,
           "name": "185",
           "size": 14257575,
-          "telegram_link": "https://t.me/manhuasgratis/7342",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_hijo_menor_de_la_casa_del_marques/7342_%5B%23185%5D%20%20%20El%20Legendario%20Hijo%20Menor%20de%20la%20Casa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5eb7d8c5620748abaf85d4937ca23cdeb4eddf3c70f9a4536b2d363240137942"
+          "telegram_link": "https://t.me/manhuasgratis/7342"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Vine aquí solo para poder vengarme. Derroqué al imperio Tulkan, una nación que dominaba un continente entero. Siempre pude obtener la victoria. Logré todo lo que quise y estoy satisfecho. Por eso acepté mi inminente muerte. Ya no tengo razón para vivir. Y mi corazón dejó de latir. Definitivamente sentí que dejó de hacerlo. Sin embargo, ¿Qué rayos pasó? \"No es magia negra ni tampoco parece ser una ilusión.\" Un chico con una pantaloneta y cabello negro se reflejaba en el espejo. Me veía exactamente como cuando tenía 14 años, hace 20 años ya. Un chico joven, se agarró los cachetes y murmuró, ¿Cómo es esto posible? He retornado. Al momento donde estaban mis arrepentimiento",
-      "visible": true
+      "visible": false
     },
     {
       "added_at": "2026-10-20T11:39:19+00:00",
@@ -153431,6 +153429,1630 @@
       "rating_count": 1,
       "synopsis": "Goo Taejoon tiene dificultades para hablar con las chicas, ya que se graduó de una escuela secundaria y preparatoria para varones. Intentó hablar a través de chicas en un simulador de citas, pero eso es lo único en lo que se volvió bueno. Sin embargo, en un día en particular, puede ver una ventana de estado similar a los juegos que ha jugado... [¡Ding! El interés de la heroína ha alcanzado el umbral para tener relaciones sexuales.]",
       "visible": true
+    },
+    {
+      "added_at": "2026-11-03T03:44:41+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/eleceed.jpg",
+      "cover_message_id": 2799,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2799",
+      "genres": [
+        "Comedia",
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Sobrenatural"
+      ],
+      "hashtag": "#Eleceed",
+      "id": "eleceed",
+      "latest_chapter": 424,
+      "library_count": 0,
+      "name": "Eleceed",
+      "package_count": 91,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-11-03T03:44:41+00:00",
+          "download_ready": true,
+          "filename": "[#01-10]   Eleceed.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 7471,
+          "name": "1-10",
+          "size": 63102527,
+          "telegram_link": "https://t.me/manhuasgratis/7471"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-11-03T03:44:41+00:00",
+          "download_ready": true,
+          "filename": "[#11-20]   Eleceed.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 7472,
+          "name": "11-20",
+          "size": 60315953,
+          "telegram_link": "https://t.me/manhuasgratis/7472"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-11-03T03:44:41+00:00",
+          "download_ready": true,
+          "filename": "[#21-30]   Eleceed.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 7473,
+          "name": "21-30",
+          "size": 62435712,
+          "telegram_link": "https://t.me/manhuasgratis/7473"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-11-03T03:44:41+00:00",
+          "download_ready": true,
+          "filename": "[#31-40]   Eleceed.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 7474,
+          "name": "31-40",
+          "size": 58213578,
+          "telegram_link": "https://t.me/manhuasgratis/7474"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-11-03T03:44:41+00:00",
+          "download_ready": true,
+          "filename": "[#41-50]   Eleceed.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 7475,
+          "name": "41-50",
+          "size": 57743832,
+          "telegram_link": "https://t.me/manhuasgratis/7475"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#51-60]   Eleceed.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 7476,
+          "name": "51-60",
+          "size": 70168100,
+          "telegram_link": "https://t.me/manhuasgratis/7476"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#61-70]   Eleceed.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 7477,
+          "name": "61-70",
+          "size": 59613496,
+          "telegram_link": "https://t.me/manhuasgratis/7477"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#71-80]   Eleceed.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 7478,
+          "name": "71-80",
+          "size": 59284538,
+          "telegram_link": "https://t.me/manhuasgratis/7478"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#81-90]   Eleceed.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 7479,
+          "name": "81-90",
+          "size": 69468184,
+          "telegram_link": "https://t.me/manhuasgratis/7479"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#91-100]   Eleceed.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 7480,
+          "name": "91-100",
+          "size": 74699172,
+          "telegram_link": "https://t.me/manhuasgratis/7480"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#201-210]   Eleceed.pdf",
+          "first": 201,
+          "last": 210,
+          "message_id": 7491,
+          "name": "201-210",
+          "size": 101473132,
+          "telegram_link": "https://t.me/manhuasgratis/7491"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#211-220]   Eleceed.pdf",
+          "first": 211,
+          "last": 220,
+          "message_id": 7492,
+          "name": "211-220",
+          "size": 90233688,
+          "telegram_link": "https://t.me/manhuasgratis/7492"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#221-230]   Eleceed.pdf",
+          "first": 221,
+          "last": 230,
+          "message_id": 7493,
+          "name": "221-230",
+          "size": 59622618,
+          "telegram_link": "https://t.me/manhuasgratis/7493"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#231-240]   Eleceed.pdf",
+          "first": 231,
+          "last": 240,
+          "message_id": 7494,
+          "name": "231-240",
+          "size": 62550038,
+          "telegram_link": "https://t.me/manhuasgratis/7494"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#241-250]   Eleceed.pdf",
+          "first": 241,
+          "last": 250,
+          "message_id": 7495,
+          "name": "241-250",
+          "size": 67095655,
+          "telegram_link": "https://t.me/manhuasgratis/7495"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#251-260]   Eleceed.pdf",
+          "first": 251,
+          "last": 260,
+          "message_id": 7496,
+          "name": "251-260",
+          "size": 65133720,
+          "telegram_link": "https://t.me/manhuasgratis/7496"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#261-270]   Eleceed.pdf",
+          "first": 261,
+          "last": 270,
+          "message_id": 7497,
+          "name": "261-270",
+          "size": 73234760,
+          "telegram_link": "https://t.me/manhuasgratis/7497"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#271-280]   Eleceed.pdf",
+          "first": 271,
+          "last": 280,
+          "message_id": 7498,
+          "name": "271-280",
+          "size": 82749910,
+          "telegram_link": "https://t.me/manhuasgratis/7498"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#281-290]   Eleceed.pdf",
+          "first": 281,
+          "last": 290,
+          "message_id": 7499,
+          "name": "281-290",
+          "size": 91290975,
+          "telegram_link": "https://t.me/manhuasgratis/7499"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            282
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#282]   Eleceed.pdf",
+          "first": 282,
+          "last": 282,
+          "message_id": 7529,
+          "name": "282",
+          "size": 15950229,
+          "telegram_link": "https://t.me/manhuasgratis/7529"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#291-300]   Eleceed.pdf",
+          "first": 291,
+          "last": 300,
+          "message_id": 7500,
+          "name": "291-300",
+          "size": 109248276,
+          "telegram_link": "https://t.me/manhuasgratis/7500"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#301-310]   Eleceed.pdf",
+          "first": 301,
+          "last": 310,
+          "message_id": 7501,
+          "name": "301-310",
+          "size": 119408419,
+          "telegram_link": "https://t.me/manhuasgratis/7501"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#311-320]   Eleceed.pdf",
+          "first": 311,
+          "last": 320,
+          "message_id": 7502,
+          "name": "311-320",
+          "size": 144773527,
+          "telegram_link": "https://t.me/manhuasgratis/7502"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#321-330]   Eleceed.pdf",
+          "first": 321,
+          "last": 330,
+          "message_id": 7503,
+          "name": "321-330",
+          "size": 105822362,
+          "telegram_link": "https://t.me/manhuasgratis/7503"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#331-340]   Eleceed.pdf",
+          "first": 331,
+          "last": 340,
+          "message_id": 7504,
+          "name": "331-340",
+          "size": 126664901,
+          "telegram_link": "https://t.me/manhuasgratis/7504"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            341,
+            342,
+            343,
+            344,
+            345,
+            346,
+            347,
+            348,
+            349,
+            350
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#341-350]   Eleceed.pdf",
+          "first": 341,
+          "last": 350,
+          "message_id": 7505,
+          "name": "341-350",
+          "size": 119520198,
+          "telegram_link": "https://t.me/manhuasgratis/7505"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#351-359]   Eleceed.pdf",
+          "first": 351,
+          "last": 359,
+          "message_id": 7506,
+          "name": "351-359",
+          "size": 125225867,
+          "telegram_link": "https://t.me/manhuasgratis/7506"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            360
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#360]   Eleceed .pdf",
+          "first": 360,
+          "last": 360,
+          "message_id": 7507,
+          "name": "360",
+          "size": 18698624,
+          "telegram_link": "https://t.me/manhuasgratis/7507"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            361
+          ],
+          "date": "2026-11-03T03:44:43+00:00",
+          "download_ready": true,
+          "filename": "[#361]   Eleceed.pdf",
+          "first": 361,
+          "last": 361,
+          "message_id": 7508,
+          "name": "361",
+          "size": 15767116,
+          "telegram_link": "https://t.me/manhuasgratis/7508"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            362
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#362]   Eleceed.pdf",
+          "first": 362,
+          "last": 362,
+          "message_id": 7509,
+          "name": "362",
+          "size": 12008848,
+          "telegram_link": "https://t.me/manhuasgratis/7509"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            363
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#363]   Eleceed .pdf",
+          "first": 363,
+          "last": 363,
+          "message_id": 7510,
+          "name": "363",
+          "size": 11251595,
+          "telegram_link": "https://t.me/manhuasgratis/7510"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            364
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#364]   Eleceed.pdf",
+          "first": 364,
+          "last": 364,
+          "message_id": 7511,
+          "name": "364",
+          "size": 13004580,
+          "telegram_link": "https://t.me/manhuasgratis/7511"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            365
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#365]    Eleceed.pdf",
+          "first": 365,
+          "last": 365,
+          "message_id": 7512,
+          "name": "365",
+          "size": 11688407,
+          "telegram_link": "https://t.me/manhuasgratis/7512"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            366
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#366]   Eleceed.pdf",
+          "first": 366,
+          "last": 366,
+          "message_id": 7513,
+          "name": "366",
+          "size": 10970652,
+          "telegram_link": "https://t.me/manhuasgratis/7513"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            367
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#367]   Eleceed.pdf",
+          "first": 367,
+          "last": 367,
+          "message_id": 7514,
+          "name": "367",
+          "size": 14978153,
+          "telegram_link": "https://t.me/manhuasgratis/7514"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            368
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#368]   Eleceed.pdf",
+          "first": 368,
+          "last": 368,
+          "message_id": 7515,
+          "name": "368",
+          "size": 11081946,
+          "telegram_link": "https://t.me/manhuasgratis/7515"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            369
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#369]   Eleceed.pdf",
+          "first": 369,
+          "last": 369,
+          "message_id": 7516,
+          "name": "369",
+          "size": 16040448,
+          "telegram_link": "https://t.me/manhuasgratis/7516"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            370
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#370]   Eleceed.pdf",
+          "first": 370,
+          "last": 370,
+          "message_id": 7517,
+          "name": "370",
+          "size": 8809267,
+          "telegram_link": "https://t.me/manhuasgratis/7517"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            371
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#371]   Eleceed.pdf",
+          "first": 371,
+          "last": 371,
+          "message_id": 7518,
+          "name": "371",
+          "size": 12134439,
+          "telegram_link": "https://t.me/manhuasgratis/7518"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            372
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#372]   Eleceed.pdf",
+          "first": 372,
+          "last": 372,
+          "message_id": 7519,
+          "name": "372",
+          "size": 15701424,
+          "telegram_link": "https://t.me/manhuasgratis/7519"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            373
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#373]   Eleceed.pdf",
+          "first": 373,
+          "last": 373,
+          "message_id": 7520,
+          "name": "373",
+          "size": 17343332,
+          "telegram_link": "https://t.me/manhuasgratis/7520"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            374
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#374]   Eleceed .pdf",
+          "first": 374,
+          "last": 374,
+          "message_id": 7521,
+          "name": "374",
+          "size": 17527189,
+          "telegram_link": "https://t.me/manhuasgratis/7521"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            375
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#375]   Eleceed.pdf",
+          "first": 375,
+          "last": 375,
+          "message_id": 7522,
+          "name": "375",
+          "size": 8024294,
+          "telegram_link": "https://t.me/manhuasgratis/7522"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            376
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#376]   Eleceed.pdf",
+          "first": 376,
+          "last": 376,
+          "message_id": 7523,
+          "name": "376",
+          "size": 11555566,
+          "telegram_link": "https://t.me/manhuasgratis/7523"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            377
+          ],
+          "date": "2026-11-03T03:44:44+00:00",
+          "download_ready": true,
+          "filename": "[#377]   Eleceed.pdf",
+          "first": 377,
+          "last": 377,
+          "message_id": 7524,
+          "name": "377",
+          "size": 9362318,
+          "telegram_link": "https://t.me/manhuasgratis/7524"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            378
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#378]   Eleceed.pdf",
+          "first": 378,
+          "last": 378,
+          "message_id": 7525,
+          "name": "378",
+          "size": 13147724,
+          "telegram_link": "https://t.me/manhuasgratis/7525"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            379
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#379]   Eleceed.pdf",
+          "first": 379,
+          "last": 379,
+          "message_id": 7526,
+          "name": "379",
+          "size": 17591720,
+          "telegram_link": "https://t.me/manhuasgratis/7526"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            380
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#380]   Eleceed.pdf",
+          "first": 380,
+          "last": 380,
+          "message_id": 7527,
+          "name": "380",
+          "size": 16324945,
+          "telegram_link": "https://t.me/manhuasgratis/7527"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            381
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#381]   Eleceed.pdf",
+          "first": 381,
+          "last": 381,
+          "message_id": 7528,
+          "name": "381",
+          "size": 18067386,
+          "telegram_link": "https://t.me/manhuasgratis/7528"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            383
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#383]   Eleceed.pdf",
+          "first": 383,
+          "last": 383,
+          "message_id": 7530,
+          "name": "383",
+          "size": 16320826,
+          "telegram_link": "https://t.me/manhuasgratis/7530"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            384
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#384]   Eleceed.pdf",
+          "first": 384,
+          "last": 384,
+          "message_id": 7531,
+          "name": "384",
+          "size": 17942873,
+          "telegram_link": "https://t.me/manhuasgratis/7531"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            385
+          ],
+          "date": "2026-11-03T03:44:45+00:00",
+          "download_ready": true,
+          "filename": "[#385]   Eleceed.pdf",
+          "first": 385,
+          "last": 385,
+          "message_id": 7532,
+          "name": "385",
+          "size": 18802661,
+          "telegram_link": "https://t.me/manhuasgratis/7532"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            386
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#386]   Eleceed.pdf",
+          "first": 386,
+          "last": 386,
+          "message_id": 7534,
+          "name": "386",
+          "size": 19043640,
+          "telegram_link": "https://t.me/manhuasgratis/7534"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            387
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#387]   Eleceed.pdf",
+          "first": 387,
+          "last": 387,
+          "message_id": 7535,
+          "name": "387",
+          "size": 14802166,
+          "telegram_link": "https://t.me/manhuasgratis/7535"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            388
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#388]   Eleceed.pdf",
+          "first": 388,
+          "last": 388,
+          "message_id": 7536,
+          "name": "388",
+          "size": 15101957,
+          "telegram_link": "https://t.me/manhuasgratis/7536"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            389
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#389]   Eleceed.pdf",
+          "first": 389,
+          "last": 389,
+          "message_id": 7537,
+          "name": "389",
+          "size": 20242431,
+          "telegram_link": "https://t.me/manhuasgratis/7537"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            390
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#390]   Eleceed.pdf",
+          "first": 390,
+          "last": 390,
+          "message_id": 7538,
+          "name": "390",
+          "size": 11131302,
+          "telegram_link": "https://t.me/manhuasgratis/7538"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            391
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#391]   Eleceed.pdf",
+          "first": 391,
+          "last": 391,
+          "message_id": 7539,
+          "name": "391",
+          "size": 17097635,
+          "telegram_link": "https://t.me/manhuasgratis/7539"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            392
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#392]   Eleceed.pdf",
+          "first": 392,
+          "last": 392,
+          "message_id": 7540,
+          "name": "392",
+          "size": 17252430,
+          "telegram_link": "https://t.me/manhuasgratis/7540"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            393
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#393]   Eleceed.pdf",
+          "first": 393,
+          "last": 393,
+          "message_id": 7541,
+          "name": "393",
+          "size": 13082519,
+          "telegram_link": "https://t.me/manhuasgratis/7541"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            394
+          ],
+          "date": "2026-11-03T03:44:50+00:00",
+          "download_ready": true,
+          "filename": "[#394]   Eleceed.pdf",
+          "first": 394,
+          "last": 394,
+          "message_id": 7542,
+          "name": "394",
+          "size": 14344969,
+          "telegram_link": "https://t.me/manhuasgratis/7542"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            395
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#395]   Eleceed.pdf",
+          "first": 395,
+          "last": 395,
+          "message_id": 7543,
+          "name": "395",
+          "size": 12033734,
+          "telegram_link": "https://t.me/manhuasgratis/7543"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            396
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#396]   Eleceed.pdf",
+          "first": 396,
+          "last": 396,
+          "message_id": 7544,
+          "name": "396",
+          "size": 11864775,
+          "telegram_link": "https://t.me/manhuasgratis/7544"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            397
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#397]   Eleceed.pdf",
+          "first": 397,
+          "last": 397,
+          "message_id": 7545,
+          "name": "397",
+          "size": 21636804,
+          "telegram_link": "https://t.me/manhuasgratis/7545"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            398
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#398]   Eleceed.pdf",
+          "first": 398,
+          "last": 398,
+          "message_id": 7546,
+          "name": "398",
+          "size": 15814489,
+          "telegram_link": "https://t.me/manhuasgratis/7546"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            399
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#399]   Eleceed.pdf",
+          "first": 399,
+          "last": 399,
+          "message_id": 7547,
+          "name": "399",
+          "size": 21675429,
+          "telegram_link": "https://t.me/manhuasgratis/7547"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            400
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#400]   Eleceed.pdf",
+          "first": 400,
+          "last": 400,
+          "message_id": 7548,
+          "name": "400",
+          "size": 17258281,
+          "telegram_link": "https://t.me/manhuasgratis/7548"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            401
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#401]   Eleceed.pdf",
+          "first": 401,
+          "last": 401,
+          "message_id": 7549,
+          "name": "401",
+          "size": 17297054,
+          "telegram_link": "https://t.me/manhuasgratis/7549"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            402
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#402]   Eleceed.pdf",
+          "first": 402,
+          "last": 402,
+          "message_id": 7550,
+          "name": "402",
+          "size": 18871783,
+          "telegram_link": "https://t.me/manhuasgratis/7550"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            403
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#403]   Eleceed.pdf",
+          "first": 403,
+          "last": 403,
+          "message_id": 7551,
+          "name": "403",
+          "size": 11872045,
+          "telegram_link": "https://t.me/manhuasgratis/7551"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            404
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#404]   Eleceed.pdf",
+          "first": 404,
+          "last": 404,
+          "message_id": 7552,
+          "name": "404",
+          "size": 12971892,
+          "telegram_link": "https://t.me/manhuasgratis/7552"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            405
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#405]   Eleceed.pdf",
+          "first": 405,
+          "last": 405,
+          "message_id": 7553,
+          "name": "405",
+          "size": 12383461,
+          "telegram_link": "https://t.me/manhuasgratis/7553"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            406
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#406]   Eleceed.pdf",
+          "first": 406,
+          "last": 406,
+          "message_id": 7554,
+          "name": "406",
+          "size": 12882378,
+          "telegram_link": "https://t.me/manhuasgratis/7554"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            407
+          ],
+          "date": "2026-11-03T03:44:51+00:00",
+          "download_ready": true,
+          "filename": "[#407]   Eleceed.pdf",
+          "first": 407,
+          "last": 407,
+          "message_id": 7555,
+          "name": "407",
+          "size": 10914261,
+          "telegram_link": "https://t.me/manhuasgratis/7555"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            408
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#408]   Eleceed.pdf",
+          "first": 408,
+          "last": 408,
+          "message_id": 7556,
+          "name": "408",
+          "size": 11263550,
+          "telegram_link": "https://t.me/manhuasgratis/7556"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            409
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#409]   Eleceed.pdf",
+          "first": 409,
+          "last": 409,
+          "message_id": 7557,
+          "name": "409",
+          "size": 14499689,
+          "telegram_link": "https://t.me/manhuasgratis/7557"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            410
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#410]   Eleceed.pdf",
+          "first": 410,
+          "last": 410,
+          "message_id": 7558,
+          "name": "410",
+          "size": 14243315,
+          "telegram_link": "https://t.me/manhuasgratis/7558"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            411
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#411]   Eleceed.pdf",
+          "first": 411,
+          "last": 411,
+          "message_id": 7559,
+          "name": "411",
+          "size": 11725374,
+          "telegram_link": "https://t.me/manhuasgratis/7559"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            412
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#412]   Eleceed.pdf",
+          "first": 412,
+          "last": 412,
+          "message_id": 7560,
+          "name": "412",
+          "size": 12302601,
+          "telegram_link": "https://t.me/manhuasgratis/7560"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            413
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#413]   Eleceed.pdf",
+          "first": 413,
+          "last": 413,
+          "message_id": 7561,
+          "name": "413",
+          "size": 14306586,
+          "telegram_link": "https://t.me/manhuasgratis/7561"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            414
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#414]   Eleceed.pdf",
+          "first": 414,
+          "last": 414,
+          "message_id": 7562,
+          "name": "414",
+          "size": 15729190,
+          "telegram_link": "https://t.me/manhuasgratis/7562"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            415
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#415]   Eleceed.pdf",
+          "first": 415,
+          "last": 415,
+          "message_id": 7563,
+          "name": "415",
+          "size": 14333267,
+          "telegram_link": "https://t.me/manhuasgratis/7563"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            416
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#416]   Eleceed.pdf",
+          "first": 416,
+          "last": 416,
+          "message_id": 7564,
+          "name": "416",
+          "size": 17399239,
+          "telegram_link": "https://t.me/manhuasgratis/7564"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            417
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#417]   Eleceed.pdf",
+          "first": 417,
+          "last": 417,
+          "message_id": 7565,
+          "name": "417",
+          "size": 13638026,
+          "telegram_link": "https://t.me/manhuasgratis/7565"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            418
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#418]   Eleceed.pdf",
+          "first": 418,
+          "last": 418,
+          "message_id": 7566,
+          "name": "418",
+          "size": 18805079,
+          "telegram_link": "https://t.me/manhuasgratis/7566"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            419
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#419]   Eleceed.pdf",
+          "first": 419,
+          "last": 419,
+          "message_id": 7567,
+          "name": "419",
+          "size": 22506827,
+          "telegram_link": "https://t.me/manhuasgratis/7567"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            420
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#420]   Eleceed.pdf",
+          "first": 420,
+          "last": 420,
+          "message_id": 7568,
+          "name": "420",
+          "size": 20732215,
+          "telegram_link": "https://t.me/manhuasgratis/7568"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            421
+          ],
+          "date": "2026-11-03T03:44:52+00:00",
+          "download_ready": true,
+          "filename": "[#421]   Eleceed.pdf",
+          "first": 421,
+          "last": 421,
+          "message_id": 7569,
+          "name": "421",
+          "size": 15730993,
+          "telegram_link": "https://t.me/manhuasgratis/7569"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            422
+          ],
+          "date": "2026-11-03T03:45:25+00:00",
+          "download_ready": true,
+          "filename": "[#422]   Eleceed.pdf",
+          "first": 422,
+          "last": 422,
+          "message_id": 7570,
+          "name": "422",
+          "size": 21884511,
+          "telegram_link": "https://t.me/manhuasgratis/7570"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            423
+          ],
+          "date": "2026-11-03T03:45:25+00:00",
+          "download_ready": true,
+          "filename": "[#423]   Eleceed.pdf",
+          "first": 423,
+          "last": 423,
+          "message_id": 7571,
+          "name": "423",
+          "size": 34324266,
+          "telegram_link": "https://t.me/manhuasgratis/7571"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            424
+          ],
+          "date": "2026-11-03T03:45:25+00:00",
+          "download_ready": true,
+          "filename": "[#424]   Eleceed.pdf",
+          "first": 424,
+          "last": 424,
+          "message_id": 7572,
+          "name": "424",
+          "size": 28451449,
+          "telegram_link": "https://t.me/manhuasgratis/7572"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Jiwoo es un joven de amable corazón que aprovecha sus rápidos reflejos e intenta hacer del mundo un lugar mejor y Kayden es un agente secreto que actualmente se encuentra siendo perseguido y termina estancado en el cuerpo de un... un gato gordo peludo. Juntos haran uso de sus habilidades tales como los superpoderes de Jiwoo y la excepcional inteligencia de Kayden y las combinarán para luchar contra todos aquellos que permiten que el mal gobierne este mundo... eso si pueden llegar a soportarse el uno al otro.",
+      "visible": false
     },
     {
       "added_at": "2026-11-01T12:34:15+00:00",
@@ -290283,8 +291905,7 @@
           "message_id": 7257,
           "name": "201-210",
           "size": 85458177,
-          "telegram_link": "https://t.me/manhuasgratis/7257",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7257_201%20-%20210%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T034654Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e3bafdce16d777d3e37e2447ee49875220980ed1dd4b3ab531f47be28e37588c"
+          "telegram_link": "https://t.me/manhuasgratis/7257"
         },
         {
           "channel_id": -1003003829878,
@@ -290308,8 +291929,7 @@
           "message_id": 7258,
           "name": "211-220",
           "size": 86594849,
-          "telegram_link": "https://t.me/manhuasgratis/7258",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7258_211%20-%20220%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T035024Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=caf52cc630c0af5c1c295e5782aadbde0810a224c1c4c3aacb15c4640e3ce335"
+          "telegram_link": "https://t.me/manhuasgratis/7258"
         },
         {
           "channel_id": -1003003829878,
@@ -332137,6 +333757,672 @@
       "rating_count": 0,
       "synopsis": "Una vez que inicia, la mazmorra pasa por un proceso llamado \"Restablecer el siguiente usuario\". \"¡¿Por qué no me aplica este proceso de reinicio?! Soy el único que queda de ese reinicio sin fin de esta mazmorra\". Con habilidades simples y una abrumadora arma , Jung Daeun comienza su aventura dentro de la mazmorra.",
       "visible": true
+    },
+    {
+      "added_at": "2026-11-03T03:37:59+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/reality_quest.jpg",
+      "cover_message_id": 2797,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2797",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Artes_Marciales",
+        "Sistema",
+        "Fantasía",
+        "Comedia",
+        "Escolar"
+      ],
+      "hashtag": "#Reality_Quest",
+      "id": "reality_quest",
+      "latest_chapter": 228,
+      "library_count": 0,
+      "name": "Reality Quest",
+      "package_count": 41,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            165
+          ],
+          "date": "2026-11-03T03:37:59+00:00",
+          "download_ready": true,
+          "filename": "[#165]   Reality Quest.pdf",
+          "first": 165,
+          "last": 165,
+          "message_id": 7429,
+          "name": "165",
+          "size": 16596320,
+          "telegram_link": "https://t.me/manhuasgratis/7429"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-11-03T03:37:59+00:00",
+          "download_ready": true,
+          "filename": "[#166-170]   Reality Quest.pdf",
+          "first": 166,
+          "last": 170,
+          "message_id": 7430,
+          "name": "166-170",
+          "size": 49158898,
+          "telegram_link": "https://t.me/manhuasgratis/7430"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171
+          ],
+          "date": "2026-11-03T03:37:59+00:00",
+          "download_ready": true,
+          "filename": "[#171]   Reality Quest.pdf",
+          "first": 171,
+          "last": 171,
+          "message_id": 7431,
+          "name": "171",
+          "size": 13482698,
+          "telegram_link": "https://t.me/manhuasgratis/7431"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            172
+          ],
+          "date": "2026-11-03T03:37:59+00:00",
+          "download_ready": true,
+          "filename": "[#172]   Reality Quest.pdf",
+          "first": 172,
+          "last": 172,
+          "message_id": 7432,
+          "name": "172",
+          "size": 10260575,
+          "telegram_link": "https://t.me/manhuasgratis/7432"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            173
+          ],
+          "date": "2026-11-03T03:37:59+00:00",
+          "download_ready": true,
+          "filename": "[#173]   Reality Quest.pdf",
+          "first": 173,
+          "last": 173,
+          "message_id": 7433,
+          "name": "173",
+          "size": 8658997,
+          "telegram_link": "https://t.me/manhuasgratis/7433"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            174
+          ],
+          "date": "2026-11-03T03:37:59+00:00",
+          "download_ready": true,
+          "filename": "[#174]   Reality Quest.pdf",
+          "first": 174,
+          "last": 174,
+          "message_id": 7434,
+          "name": "174",
+          "size": 9523329,
+          "telegram_link": "https://t.me/manhuasgratis/7434"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            175
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#175]   Reality Quest.pdf",
+          "first": 175,
+          "last": 175,
+          "message_id": 7435,
+          "name": "175",
+          "size": 8198806,
+          "telegram_link": "https://t.me/manhuasgratis/7435"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            176
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#176]   Reality Quest.pdf",
+          "first": 176,
+          "last": 176,
+          "message_id": 7436,
+          "name": "176",
+          "size": 10797860,
+          "telegram_link": "https://t.me/manhuasgratis/7436"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            177
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#177]   Reality Quest.pdf",
+          "first": 177,
+          "last": 177,
+          "message_id": 7437,
+          "name": "177",
+          "size": 9226271,
+          "telegram_link": "https://t.me/manhuasgratis/7437"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            178
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#178]   Reality Quest.pdf",
+          "first": 178,
+          "last": 178,
+          "message_id": 7438,
+          "name": "178",
+          "size": 10889896,
+          "telegram_link": "https://t.me/manhuasgratis/7438"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            179
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#179]   Reality Quest.pdf",
+          "first": 179,
+          "last": 179,
+          "message_id": 7439,
+          "name": "179",
+          "size": 9888613,
+          "telegram_link": "https://t.me/manhuasgratis/7439"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            180
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#180]   Reality Quest.pdf",
+          "first": 180,
+          "last": 180,
+          "message_id": 7440,
+          "name": "180",
+          "size": 10705485,
+          "telegram_link": "https://t.me/manhuasgratis/7440"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#181]   Reality Quest.pdf",
+          "first": 181,
+          "last": 181,
+          "message_id": 7441,
+          "name": "181",
+          "size": 9483688,
+          "telegram_link": "https://t.me/manhuasgratis/7441"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            182
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#182]   Reality Quest.pdf",
+          "first": 182,
+          "last": 182,
+          "message_id": 7442,
+          "name": "182",
+          "size": 10897768,
+          "telegram_link": "https://t.me/manhuasgratis/7442"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            183
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#183]   Reality Quest .pdf",
+          "first": 183,
+          "last": 183,
+          "message_id": 7443,
+          "name": "183",
+          "size": 8995780,
+          "telegram_link": "https://t.me/manhuasgratis/7443"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            184
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#184]   Reality Quest.pdf",
+          "first": 184,
+          "last": 184,
+          "message_id": 7444,
+          "name": "184",
+          "size": 9299858,
+          "telegram_link": "https://t.me/manhuasgratis/7444"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            185
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#185]   Reality Quest.pdf",
+          "first": 185,
+          "last": 185,
+          "message_id": 7445,
+          "name": "185",
+          "size": 9948724,
+          "telegram_link": "https://t.me/manhuasgratis/7445"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            186
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#186]   Reality Quest.pdf",
+          "first": 186,
+          "last": 186,
+          "message_id": 7446,
+          "name": "186",
+          "size": 9669736,
+          "telegram_link": "https://t.me/manhuasgratis/7446"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            187
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#187]   Reality Quest.pdf",
+          "first": 187,
+          "last": 187,
+          "message_id": 7447,
+          "name": "187",
+          "size": 13359302,
+          "telegram_link": "https://t.me/manhuasgratis/7447"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            188
+          ],
+          "date": "2026-11-03T03:38:00+00:00",
+          "download_ready": true,
+          "filename": "[#188]   Reality Quest.pdf",
+          "first": 188,
+          "last": 188,
+          "message_id": 7448,
+          "name": "188",
+          "size": 7808455,
+          "telegram_link": "https://t.me/manhuasgratis/7448"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            189,
+            190
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#189-190]   Reality Quest.pdf",
+          "first": 189,
+          "last": 190,
+          "message_id": 7449,
+          "name": "189-190",
+          "size": 20937318,
+          "telegram_link": "https://t.me/manhuasgratis/7449"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#191]   Reality Quest.pdf",
+          "first": 191,
+          "last": 191,
+          "message_id": 7450,
+          "name": "191",
+          "size": 11278266,
+          "telegram_link": "https://t.me/manhuasgratis/7450"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            192,
+            193
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#192-193]   Reality Quest.pdf",
+          "first": 192,
+          "last": 193,
+          "message_id": 7451,
+          "name": "192-193",
+          "size": 16589015,
+          "telegram_link": "https://t.me/manhuasgratis/7451"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            194,
+            195,
+            196
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#194-196]   Reality Quest.pdf",
+          "first": 194,
+          "last": 196,
+          "message_id": 7452,
+          "name": "194-196",
+          "size": 22837493,
+          "telegram_link": "https://t.me/manhuasgratis/7452"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            197,
+            198,
+            199
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#197-199]   Reality Quest.pdf",
+          "first": 197,
+          "last": 199,
+          "message_id": 7453,
+          "name": "197-199",
+          "size": 25341109,
+          "telegram_link": "https://t.me/manhuasgratis/7453"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            200
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#200]   Reality Quest.pdf",
+          "first": 200,
+          "last": 200,
+          "message_id": 7454,
+          "name": "200",
+          "size": 11113607,
+          "telegram_link": "https://t.me/manhuasgratis/7454"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#201-209]   Reality Quest.pdf",
+          "first": 201,
+          "last": 209,
+          "message_id": 7455,
+          "name": "201-209",
+          "size": 70433432,
+          "telegram_link": "https://t.me/manhuasgratis/7455"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            210
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#210]   Reality Quest.pdf",
+          "first": 210,
+          "last": 210,
+          "message_id": 7456,
+          "name": "210",
+          "size": 16359858,
+          "telegram_link": "https://t.me/manhuasgratis/7456"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#211-216]   Reality Quest.pdf",
+          "first": 211,
+          "last": 216,
+          "message_id": 7457,
+          "name": "211-216",
+          "size": 84789301,
+          "telegram_link": "https://t.me/manhuasgratis/7457"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            217
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#217]   Reality Quest.pdf",
+          "first": 217,
+          "last": 217,
+          "message_id": 7458,
+          "name": "217",
+          "size": 16177938,
+          "telegram_link": "https://t.me/manhuasgratis/7458"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            218
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#218]   Reality Quest.pdf",
+          "first": 218,
+          "last": 218,
+          "message_id": 7459,
+          "name": "218",
+          "size": 21139091,
+          "telegram_link": "https://t.me/manhuasgratis/7459"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            219
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#219]   Reality Quest.pdf",
+          "first": 219,
+          "last": 219,
+          "message_id": 7460,
+          "name": "219",
+          "size": 15738489,
+          "telegram_link": "https://t.me/manhuasgratis/7460"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            220
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#220]   Reality Quest.pdf",
+          "first": 220,
+          "last": 220,
+          "message_id": 7461,
+          "name": "220",
+          "size": 17930869,
+          "telegram_link": "https://t.me/manhuasgratis/7461"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221
+          ],
+          "date": "2026-11-03T03:38:01+00:00",
+          "download_ready": true,
+          "filename": "[#221]   Reality Quest.pdf",
+          "first": 221,
+          "last": 221,
+          "message_id": 7462,
+          "name": "221",
+          "size": 17139822,
+          "telegram_link": "https://t.me/manhuasgratis/7462"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            222
+          ],
+          "date": "2026-11-03T03:38:02+00:00",
+          "download_ready": true,
+          "filename": "[#222]   Reality Quest.pdf",
+          "first": 222,
+          "last": 222,
+          "message_id": 7463,
+          "name": "222",
+          "size": 14895664,
+          "telegram_link": "https://t.me/manhuasgratis/7463"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            223
+          ],
+          "date": "2026-11-03T03:38:02+00:00",
+          "download_ready": true,
+          "filename": "[#223]   Reality Quest.pdf",
+          "first": 223,
+          "last": 223,
+          "message_id": 7464,
+          "name": "223",
+          "size": 12951985,
+          "telegram_link": "https://t.me/manhuasgratis/7464"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            224
+          ],
+          "date": "2026-11-03T03:38:02+00:00",
+          "download_ready": true,
+          "filename": "[#224]   Reality Quest.pdf",
+          "first": 224,
+          "last": 224,
+          "message_id": 7465,
+          "name": "224",
+          "size": 13490031,
+          "telegram_link": "https://t.me/manhuasgratis/7465"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            225
+          ],
+          "date": "2026-11-03T03:38:02+00:00",
+          "download_ready": true,
+          "filename": "[#225]   Reality Quest.pdf",
+          "first": 225,
+          "last": 225,
+          "message_id": 7466,
+          "name": "225",
+          "size": 13216553,
+          "telegram_link": "https://t.me/manhuasgratis/7466"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            226
+          ],
+          "date": "2026-11-03T03:38:02+00:00",
+          "download_ready": true,
+          "filename": "[#226]   Reality Quest.pdf",
+          "first": 226,
+          "last": 226,
+          "message_id": 7467,
+          "name": "226",
+          "size": 13177765,
+          "telegram_link": "https://t.me/manhuasgratis/7467"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            227
+          ],
+          "date": "2026-11-03T03:38:07+00:00",
+          "download_ready": true,
+          "filename": "[#227]   Reality Quest.pdf",
+          "first": 227,
+          "last": 227,
+          "message_id": 7468,
+          "name": "227",
+          "size": 17267266,
+          "telegram_link": "https://t.me/manhuasgratis/7468"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            228
+          ],
+          "date": "2026-11-03T03:38:07+00:00",
+          "download_ready": true,
+          "filename": "[#228]   Reality Quest.pdf",
+          "first": 228,
+          "last": 228,
+          "message_id": 7469,
+          "name": "228",
+          "size": 21462396,
+          "telegram_link": "https://t.me/manhuasgratis/7469"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Debido a la amenaza del matón de la escuela de conseguirle objetos raros en un juego de movil, Ha Do-wan, el desafortunado jugador de videojuegos, murió después de jugar dia y noche durante una semana. En el momento en que murió, fue revivido en su clase, una semana antes de morir… Todo seguia igual que aquel día. ¡Lo único que ha cambiado es la que flota delante de él! ¿Qué? ¡¿Utilizara las habilidades de los juegos que ha jugado hasta ahora para vencer al tipo que le hacia bulling?!.",
+      "visible": false
     },
     {
       "added_at": "2026-10-17T23:14:50+00:00",
@@ -424833,6 +427119,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T01:11:02.696070+00:00",
+  "updated_at": "2026-11-03T04:00:44.430190+00:00",
   "version": 3
 }
