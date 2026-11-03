@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,23 +1596,6 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/failure_frame_i_became_the_strongest/344_Failure%20Frame%20I%20Became%20The%20Strongest%20-%20Volumen%2011.5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T011903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d290232fd58cd13fecfd695db4003b2a13542c0f70f5cda1865dcb23d9302937",
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4363,7 +4346,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4500,23 +4483,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": false,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_beginning_after_the_end/66_The%20Beginning%20After%20The%20End%20-%20Libro%2008.5%20v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T011903Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b38290f169393c86537c5fc707c71775d878d8ad699217e609ba696a10d0e16",
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -43245,10 +43211,10 @@
       ],
       "hashtag": "#Archimago_tracendiendo_a_travez",
       "id": "archimago_tracendiendo_a_travez",
-      "latest_chapter": 219,
+      "latest_chapter": 220,
       "library_count": 9,
       "name": "Archimago tracendiendo a travez",
-      "package_count": 76,
+      "package_count": 77,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -44578,6 +44544,21 @@
           "name": "219",
           "size": 17184217,
           "telegram_link": "https://t.me/manhuasgratis/7152"
+        },
+        {
+          "name": "220",
+          "first": 220,
+          "last": 220,
+          "channel_id": -1003003829878,
+          "message_id": 7573,
+          "filename": "[#220]   Archimago Trascendiendo A Través.pdf",
+          "size": 19420168,
+          "date": "2026-11-03T05:18:56+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7573",
+          "download_ready": false,
+          "chapters": [
+            220
+          ]
         }
       ],
       "rating": 4,
@@ -128652,10 +128633,10 @@
       ],
       "hashtag": "#El_Mago_Pastor",
       "id": "el_mago_pastor",
-      "latest_chapter": 42,
+      "latest_chapter": 43,
       "library_count": 7,
       "name": "El Mago Pastor",
-      "package_count": 22,
+      "package_count": 23,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -129028,6 +129009,21 @@
           "name": "42",
           "size": 16127794,
           "telegram_link": "https://t.me/manhuasgratis/7127"
+        },
+        {
+          "name": "43",
+          "first": 43,
+          "last": 43,
+          "channel_id": -1003003829878,
+          "message_id": 7574,
+          "filename": "[43] El Mago Pastor.pdf",
+          "size": 14082200,
+          "date": "2026-11-03T05:18:58+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7574",
+          "download_ready": false,
+          "chapters": [
+            43
+          ]
         }
       ],
       "rating": 4,
@@ -424838,6 +424834,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T01:11:02.696070+00:00",
+  "updated_at": "2026-11-03T05:20:34.586327+00:00",
   "version": 3
 }
