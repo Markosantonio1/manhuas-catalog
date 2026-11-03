@@ -1408,7 +1408,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1596,6 +1596,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -4346,7 +4363,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -4483,6 +4500,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -36549,20 +36583,20 @@
           "telegram_link": "https://t.me/manhuasgratis/6942"
         },
         {
-          "name": "113",
-          "first": 113,
-          "last": 113,
           "channel_id": -1003003829878,
-          "message_id": 7643,
-          "filename": "113 Amigo De La Infancia Zenith -.-.pdf",
-          "size": 10269868,
-          "date": "2026-11-03T21:21:50+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7643",
-          "download_ready": true,
           "chapters": [
             113
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/amigo_de_la_infancia_zenith/7643_113%20Amigo%20De%20La%20Infancia%20Zenith%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T213115Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=958452e16ce6882616d7b60fe019a1108088452f35ebc4af526a8a533899cc94"
+          "date": "2026-11-03T21:21:50+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/amigo_de_la_infancia_zenith/7643_113%20Amigo%20De%20La%20Infancia%20Zenith%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T213115Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=958452e16ce6882616d7b60fe019a1108088452f35ebc4af526a8a533899cc94",
+          "filename": "113 Amigo De La Infancia Zenith -.-.pdf",
+          "first": 113,
+          "last": 113,
+          "message_id": 7643,
+          "name": "113",
+          "size": 10269868,
+          "telegram_link": "https://t.me/manhuasgratis/7643"
         }
       ],
       "rating": 5,
@@ -70774,20 +70808,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7139"
         },
         {
-          "name": "34",
-          "first": 34,
-          "last": 34,
           "channel_id": -1003003829878,
-          "message_id": 7644,
-          "filename": "34 Consegui una esposa en el otro mundo -.-.pdf",
-          "size": 7487578,
-          "date": "2026-11-03T21:21:52+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7644",
-          "download_ready": true,
           "chapters": [
             34
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/consegui_una_esposa_en_el_otro_mundo/7644_34%20Consegui%20una%20esposa%20en%20el%20otro%20mundo%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T213125Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f40ad1f4905088b7a8dc277b460587f797e5f5cd4eab011ed9349a05889d8c8c"
+          "date": "2026-11-03T21:21:52+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/consegui_una_esposa_en_el_otro_mundo/7644_34%20Consegui%20una%20esposa%20en%20el%20otro%20mundo%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T213125Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f40ad1f4905088b7a8dc277b460587f797e5f5cd4eab011ed9349a05889d8c8c",
+          "filename": "34 Consegui una esposa en el otro mundo -.-.pdf",
+          "first": 34,
+          "last": 34,
+          "message_id": 7644,
+          "name": "34",
+          "size": 7487578,
+          "telegram_link": "https://t.me/manhuasgratis/7644"
         }
       ],
       "rating": 0,
@@ -115503,14 +115537,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7615_%5B1%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T164915Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c7d2ddd8ee3547d7a750085fe1d6fa677bacea9c31fbe692883c69dbb0fba4d4",
           "filename": "[1] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 1,
           "last": 1,
           "message_id": 7615,
           "name": "1",
           "size": 22537632,
-          "telegram_link": "https://t.me/manhuasgratis/7615",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7615_%5B1%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T164915Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c7d2ddd8ee3547d7a750085fe1d6fa677bacea9c31fbe692883c69dbb0fba4d4"
+          "telegram_link": "https://t.me/manhuasgratis/7615"
         },
         {
           "channel_id": -1003003829878,
@@ -115523,14 +115557,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7616_%5B2-6%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T165246Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4acb468b12f929adefa661a90e1d5c6333d4dec7624ba838deba64d7f2cda2f8",
           "filename": "[2-6] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 2,
           "last": 6,
           "message_id": 7616,
           "name": "2-6",
           "size": 84328156,
-          "telegram_link": "https://t.me/manhuasgratis/7616",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7616_%5B2-6%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T165246Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4acb468b12f929adefa661a90e1d5c6333d4dec7624ba838deba64d7f2cda2f8"
+          "telegram_link": "https://t.me/manhuasgratis/7616"
         },
         {
           "channel_id": -1003003829878,
@@ -115543,14 +115577,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7617_%5B7-11%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T165630Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65cade5bb5b63cba17dfb8c398e1cc1cf83cdc5798e3032fe833cd5cdc398b63",
           "filename": "[7-11] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 7,
           "last": 11,
           "message_id": 7617,
           "name": "7-11",
           "size": 92001330,
-          "telegram_link": "https://t.me/manhuasgratis/7617",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7617_%5B7-11%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T165630Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=65cade5bb5b63cba17dfb8c398e1cc1cf83cdc5798e3032fe833cd5cdc398b63"
+          "telegram_link": "https://t.me/manhuasgratis/7617"
         },
         {
           "channel_id": -1003003829878,
@@ -115566,14 +115600,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7618_%5B12-19%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170205Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d833a630e31c07b12fb5ab4a4168c2238a3b1ddac6558f3adffcee4a7e26d88",
           "filename": "[12-19] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 12,
           "last": 19,
           "message_id": 7618,
           "name": "12-19",
           "size": 134796935,
-          "telegram_link": "https://t.me/manhuasgratis/7618",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7618_%5B12-19%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170205Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d833a630e31c07b12fb5ab4a4168c2238a3b1ddac6558f3adffcee4a7e26d88"
+          "telegram_link": "https://t.me/manhuasgratis/7618"
         },
         {
           "channel_id": -1003003829878,
@@ -115583,14 +115617,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7619_%5B20-21%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=499fc7679082b049a3242ed37755a31f79197665d1591362efe7b5f40c854cae",
           "filename": "[20-21] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 20,
           "last": 21,
           "message_id": 7619,
           "name": "20-21",
           "size": 27490417,
-          "telegram_link": "https://t.me/manhuasgratis/7619",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7619_%5B20-21%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=499fc7679082b049a3242ed37755a31f79197665d1591362efe7b5f40c854cae"
+          "telegram_link": "https://t.me/manhuasgratis/7619"
         },
         {
           "channel_id": -1003003829878,
@@ -115601,14 +115635,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7620_%5B22-24%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8253382d2d98dced5dec63c8f2bd042672f62dfacd6c825ef32b55fea98ad6ec",
           "filename": "[22-24] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 22,
           "last": 24,
           "message_id": 7620,
           "name": "22-24",
           "size": 53642380,
-          "telegram_link": "https://t.me/manhuasgratis/7620",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7620_%5B22-24%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170525Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8253382d2d98dced5dec63c8f2bd042672f62dfacd6c825ef32b55fea98ad6ec"
+          "telegram_link": "https://t.me/manhuasgratis/7620"
         },
         {
           "channel_id": -1003003829878,
@@ -115618,14 +115652,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7621_%5B25-26%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170642Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=445374cd43a095a84e3854ebb1b4747a731f1ca77c475ec6795204abd08da68a",
           "filename": "[25-26] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 25,
           "last": 26,
           "message_id": 7621,
           "name": "25-26",
           "size": 30124326,
-          "telegram_link": "https://t.me/manhuasgratis/7621",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7621_%5B25-26%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T170642Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=445374cd43a095a84e3854ebb1b4747a731f1ca77c475ec6795204abd08da68a"
+          "telegram_link": "https://t.me/manhuasgratis/7621"
         },
         {
           "channel_id": -1003003829878,
@@ -115650,14 +115684,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7622_%5B27-43%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171734Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6392e723fb0b210b810d9a2f4320e1fa45d756e8caec14a4d87543f987760ef6",
           "filename": "[27-43] El gran demonio celestial soberano@KaydopKingmanhwa.pdf",
           "first": 27,
           "last": 43,
           "message_id": 7622,
           "name": "27-43",
           "size": 264715629,
-          "telegram_link": "https://t.me/manhuasgratis/7622",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7622_%5B27-43%5D%20El%20gran%20demonio%20celestial%20soberano%40KaydopKingmanhwa.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171734Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6392e723fb0b210b810d9a2f4320e1fa45d756e8caec14a4d87543f987760ef6"
+          "telegram_link": "https://t.me/manhuasgratis/7622"
         },
         {
           "channel_id": -1003003829878,
@@ -115667,14 +115701,14 @@
           ],
           "date": "2026-11-03T15:32:51+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7623_%5B44-45%5D%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171844Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3471641546c6b12367fa75f7f458c102c66ed4f1ec64ccd41ca3055050389121",
           "filename": "[44-45] El gran demonio celestial soberano.pdf",
           "first": 44,
           "last": 45,
           "message_id": 7623,
           "name": "44-45",
           "size": 28305612,
-          "telegram_link": "https://t.me/manhuasgratis/7623",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7623_%5B44-45%5D%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171844Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3471641546c6b12367fa75f7f458c102c66ed4f1ec64ccd41ca3055050389121"
+          "telegram_link": "https://t.me/manhuasgratis/7623"
         },
         {
           "channel_id": -1003003829878,
@@ -115683,14 +115717,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7624_%5B46%5D%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4761cc8a8ba876f9724fdae11968768417a2a4caf54998249c71a87e929715be",
           "filename": "[46] El Gran Demonio Celestial Soberano.pdf",
           "first": 46,
           "last": 46,
           "message_id": 7624,
           "name": "46",
           "size": 13959398,
-          "telegram_link": "https://t.me/manhuasgratis/7624",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7624_%5B46%5D%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171923Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4761cc8a8ba876f9724fdae11968768417a2a4caf54998249c71a87e929715be"
+          "telegram_link": "https://t.me/manhuasgratis/7624"
         },
         {
           "channel_id": -1003003829878,
@@ -115699,14 +115733,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7625_%5B47%5D%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e5b36930b1229d6ce66d46fbc42a376bf90be0f5f12848e1281167be9aaabe2",
           "filename": "[47] El Gran Demonio Celestial Soberano.pdf",
           "first": 47,
           "last": 47,
           "message_id": 7625,
           "name": "47",
           "size": 13871271,
-          "telegram_link": "https://t.me/manhuasgratis/7625",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7625_%5B47%5D%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T171958Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e5b36930b1229d6ce66d46fbc42a376bf90be0f5f12848e1281167be9aaabe2"
+          "telegram_link": "https://t.me/manhuasgratis/7625"
         },
         {
           "channel_id": -1003003829878,
@@ -115717,14 +115751,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7626_48-50%20%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172047Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1e5eae5e64c100f0e3f56901b6295ac56e259d829ec89145929826634ce29670",
           "filename": "48-50  ༊ El gran demonio celestial soberano.pdf",
           "first": 48,
           "last": 50,
           "message_id": 7626,
           "name": "48-50",
           "size": 19805742,
-          "telegram_link": "https://t.me/manhuasgratis/7626",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7626_48-50%20%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172047Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1e5eae5e64c100f0e3f56901b6295ac56e259d829ec89145929826634ce29670"
+          "telegram_link": "https://t.me/manhuasgratis/7626"
         },
         {
           "channel_id": -1003003829878,
@@ -115733,14 +115767,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7627_51%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172117Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c562ea36e1f687a8fc0127153150208d2e710d3b6d9e880b07ff00dbd6f206e",
           "filename": "51 ༊ El Gran Demonio Celestial Soberano.pdf",
           "first": 51,
           "last": 51,
           "message_id": 7627,
           "name": "51",
           "size": 10420035,
-          "telegram_link": "https://t.me/manhuasgratis/7627",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7627_51%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172117Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c562ea36e1f687a8fc0127153150208d2e710d3b6d9e880b07ff00dbd6f206e"
+          "telegram_link": "https://t.me/manhuasgratis/7627"
         },
         {
           "channel_id": -1003003829878,
@@ -115749,14 +115783,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7628_52%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172134Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2407ab958f07433185f1d0df689d936ae46341178fffc85776bc8c4f2e79592",
           "filename": "52 ༊ El Gran Demonio Celestial Soberano.pdf",
           "first": 52,
           "last": 52,
           "message_id": 7628,
           "name": "52",
           "size": 8483388,
-          "telegram_link": "https://t.me/manhuasgratis/7628",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7628_52%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172134Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2407ab958f07433185f1d0df689d936ae46341178fffc85776bc8c4f2e79592"
+          "telegram_link": "https://t.me/manhuasgratis/7628"
         },
         {
           "channel_id": -1003003829878,
@@ -115765,14 +115799,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7629_53%20%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172204Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ff760f2bbdcece5a313953a4d328231c68715bac7b6f51238b779d91e990efa",
           "filename": "53  ༊ El Gran Demonio Celestial Soberano.pdf",
           "first": 53,
           "last": 53,
           "message_id": 7629,
           "name": "53",
           "size": 9145355,
-          "telegram_link": "https://t.me/manhuasgratis/7629",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7629_53%20%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172204Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ff760f2bbdcece5a313953a4d328231c68715bac7b6f51238b779d91e990efa"
+          "telegram_link": "https://t.me/manhuasgratis/7629"
         },
         {
           "channel_id": -1003003829878,
@@ -115781,14 +115815,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7630_54%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172222Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e0d3fac45d0e3476574050c69a8d7b12e2a1cfa31b7e70085bd26bff3ab1d444",
           "filename": "54 ༊ El Gran Demonio Celestial Soberano.pdf",
           "first": 54,
           "last": 54,
           "message_id": 7630,
           "name": "54",
           "size": 10005448,
-          "telegram_link": "https://t.me/manhuasgratis/7630",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7630_54%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172222Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e0d3fac45d0e3476574050c69a8d7b12e2a1cfa31b7e70085bd26bff3ab1d444"
+          "telegram_link": "https://t.me/manhuasgratis/7630"
         },
         {
           "channel_id": -1003003829878,
@@ -115797,14 +115831,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7631_55%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172252Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e5fa4c2b86c435bb558a1fe2681c83964f82ec5f113647f6dd91d7be7714a90d",
           "filename": "55 ༊ El Gran Demonio Celestial Soberano.pdf",
           "first": 55,
           "last": 55,
           "message_id": 7631,
           "name": "55",
           "size": 9491083,
-          "telegram_link": "https://t.me/manhuasgratis/7631",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7631_55%20%E0%BC%8A%20El%20Gran%20Demonio%20Celestial%20Soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172252Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e5fa4c2b86c435bb558a1fe2681c83964f82ec5f113647f6dd91d7be7714a90d"
+          "telegram_link": "https://t.me/manhuasgratis/7631"
         },
         {
           "channel_id": -1003003829878,
@@ -115813,14 +115847,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7632_56%20%20%E0%BC%8A%20%20%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172308Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=139e48988b35ee2841480f39aca2d6b29aaa8e1ee5f4bf18500cae7e2fa3e049",
           "filename": "56  ༊   El gran demonio celestial soberano.pdf",
           "first": 56,
           "last": 56,
           "message_id": 7632,
           "name": "56",
           "size": 6809094,
-          "telegram_link": "https://t.me/manhuasgratis/7632",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7632_56%20%20%E0%BC%8A%20%20%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172308Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=139e48988b35ee2841480f39aca2d6b29aaa8e1ee5f4bf18500cae7e2fa3e049"
+          "telegram_link": "https://t.me/manhuasgratis/7632"
         },
         {
           "channel_id": -1003003829878,
@@ -115829,14 +115863,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7633_57%20%20%E0%BC%8A%20%20%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=97bae6cf9bd7c03c150e99f9cb4e33d829123331d4086bfe96c03d2cdfb8e5ef",
           "filename": "57  ༊   El gran demonio celestial soberano.pdf",
           "first": 57,
           "last": 57,
           "message_id": 7633,
           "name": "57",
           "size": 7534822,
-          "telegram_link": "https://t.me/manhuasgratis/7633",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7633_57%20%20%E0%BC%8A%20%20%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=97bae6cf9bd7c03c150e99f9cb4e33d829123331d4086bfe96c03d2cdfb8e5ef"
+          "telegram_link": "https://t.me/manhuasgratis/7633"
         },
         {
           "channel_id": -1003003829878,
@@ -115845,14 +115879,14 @@
           ],
           "date": "2026-11-03T15:37:00+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7634_58%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172341Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0fe40b690b06201ef38de3ac17450681fb6303fc6f78c179b2d0634ecc44db44",
           "filename": "58 ༊ El gran demonio celestial soberano.pdf",
           "first": 58,
           "last": 58,
           "message_id": 7634,
           "name": "58",
           "size": 6852224,
-          "telegram_link": "https://t.me/manhuasgratis/7634",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7634_58%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172341Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0fe40b690b06201ef38de3ac17450681fb6303fc6f78c179b2d0634ecc44db44"
+          "telegram_link": "https://t.me/manhuasgratis/7634"
         },
         {
           "channel_id": -1003003829878,
@@ -115861,14 +115895,14 @@
           ],
           "date": "2026-11-03T15:37:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7635_59%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47a5d32ea45610bee4a8eac04bbb82cdc72883797c6a461f8c240c30ba512b28",
           "filename": "59 ༊ El gran demonio celestial soberano.pdf",
           "first": 59,
           "last": 59,
           "message_id": 7635,
           "name": "59",
           "size": 7381113,
-          "telegram_link": "https://t.me/manhuasgratis/7635",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7635_59%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=47a5d32ea45610bee4a8eac04bbb82cdc72883797c6a461f8c240c30ba512b28"
+          "telegram_link": "https://t.me/manhuasgratis/7635"
         },
         {
           "channel_id": -1003003829878,
@@ -115877,14 +115911,14 @@
           ],
           "date": "2026-11-03T15:37:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7636_60%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172417Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f6d424ec6b1392e1abad0c5e681e42bd0e89e53008d6735f9a21225a60a69b6",
           "filename": "60 ༊ El gran demonio celestial soberano.pdf",
           "first": 60,
           "last": 60,
           "message_id": 7636,
           "name": "60",
           "size": 7719787,
-          "telegram_link": "https://t.me/manhuasgratis/7636",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_gran_demonio_celestial_soberano/7636_60%20%E0%BC%8A%20El%20gran%20demonio%20celestial%20soberano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172417Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f6d424ec6b1392e1abad0c5e681e42bd0e89e53008d6735f9a21225a60a69b6"
+          "telegram_link": "https://t.me/manhuasgratis/7636"
         }
       ],
       "rating": 0,
@@ -124536,6 +124570,1197 @@
       "rating_count": 0,
       "synopsis": "Si maximizas tu nivel en el juego, ¿puedes obtener poderes que desafíen el cielo en la vida real? El jugador Ling Ce finalmente obtuvo esta recompensa a través de su arduo trabajo, pero terminó recibiendo las habilidades más inútiles. Justo cuando estaba de luto por su suerte, un poder misterioso lo trajo de regreso a tres años en el pasado. Con las experiencias y recuerdos de su vida anterior, ¿cuántas cosas maravillosas diferentes pueden traer a su nueva vida?",
       "visible": true
+    },
+    {
+      "added_at": "2026-08-16T22:16:59+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_jugador_que_no_puede_subir_de_nivel.jpg",
+      "cover_message_id": 2808,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2808",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Misterio"
+      ],
+      "hashtag": "#El_jugador_que_no_puede_subir_de_nivel",
+      "id": "el_jugador_que_no_puede_subir_de_nivel",
+      "latest_chapter": 247,
+      "library_count": 0,
+      "name": "El jugador que no puede subir de nivel",
+      "package_count": 66,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "01_10 El jugador que no puede subir de nivel.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 1479,
+          "name": "1-10",
+          "size": 101574173,
+          "telegram_link": "https://t.me/manhuasgratis/1479"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "11_20 El jugador que no puede subir de nivel.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 1480,
+          "name": "11-20",
+          "size": 86242476,
+          "telegram_link": "https://t.me/manhuasgratis/1480"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "21_30 El jugador que no puede subir de nivel.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 1481,
+          "name": "21-30",
+          "size": 83586483,
+          "telegram_link": "https://t.me/manhuasgratis/1481"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "31_40 El jugador que no puede subir de nivel.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 1482,
+          "name": "31-40",
+          "size": 84982070,
+          "telegram_link": "https://t.me/manhuasgratis/1482"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "41_50 El jugador que no puede subir de nivel.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 1483,
+          "name": "41-50",
+          "size": 115185514,
+          "telegram_link": "https://t.me/manhuasgratis/1483"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "51_60 El jugador que no puede subir de nivel.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 1484,
+          "name": "51-60",
+          "size": 123886549,
+          "telegram_link": "https://t.me/manhuasgratis/1484"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "61_70 El jugador que no puede subir de nivel.pdf",
+          "first": 61,
+          "last": 70,
+          "message_id": 1485,
+          "name": "61-70",
+          "size": 121996867,
+          "telegram_link": "https://t.me/manhuasgratis/1485"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "71_80 El jugador que no puede subir de nivel.pdf",
+          "first": 71,
+          "last": 80,
+          "message_id": 1486,
+          "name": "71-80",
+          "size": 120012878,
+          "telegram_link": "https://t.me/manhuasgratis/1486"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "81_90 El jugador que no puede subir de nivel.pdf",
+          "first": 81,
+          "last": 90,
+          "message_id": 1487,
+          "name": "81-90",
+          "size": 103513420,
+          "telegram_link": "https://t.me/manhuasgratis/1487"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "91_100 El jugador que no puede subir de nivel.pdf",
+          "first": 91,
+          "last": 100,
+          "message_id": 1488,
+          "name": "91-100",
+          "size": 96403695,
+          "telegram_link": "https://t.me/manhuasgratis/1488"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "101_110 El jugador que no puede subir de nivel.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 1489,
+          "name": "101-110",
+          "size": 102778707,
+          "telegram_link": "https://t.me/manhuasgratis/1489"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "111_120 El jugador que no puede subir de nivel.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 1490,
+          "name": "111-120",
+          "size": 89878223,
+          "telegram_link": "https://t.me/manhuasgratis/1490"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "121_130 El jugador que no puede subir de nivel.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 1491,
+          "name": "121-130",
+          "size": 109444207,
+          "telegram_link": "https://t.me/manhuasgratis/1491"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "131_140 El jugador que no puede subir de nivel.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 1492,
+          "name": "131-140",
+          "size": 105091789,
+          "telegram_link": "https://t.me/manhuasgratis/1492"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "141_150 El jugador que no puede subir de nivel.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 1493,
+          "name": "141-150",
+          "size": 86739513,
+          "telegram_link": "https://t.me/manhuasgratis/1493"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-08-16T22:16:59+00:00",
+          "download_ready": true,
+          "filename": "151_160 El jugador que no puede subir de nivel.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 1494,
+          "name": "151-160",
+          "size": 95709502,
+          "telegram_link": "https://t.me/manhuasgratis/1494"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-08-16T22:17:00+00:00",
+          "download_ready": true,
+          "filename": "161_170 El jugador que no puede subir de nivel.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 1495,
+          "name": "161-170",
+          "size": 83825629,
+          "telegram_link": "https://t.me/manhuasgratis/1495"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-08-16T22:17:00+00:00",
+          "download_ready": true,
+          "filename": "171_180 El jugador que no puede subir de nivel.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 1496,
+          "name": "171-180",
+          "size": 56735254,
+          "telegram_link": "https://t.me/manhuasgratis/1496"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184
+          ],
+          "date": "2026-08-16T22:17:00+00:00",
+          "download_ready": true,
+          "filename": "181_184 El jugador que no puede subir de nivel.pdf",
+          "first": 181,
+          "last": 184,
+          "message_id": 1497,
+          "name": "181-184",
+          "size": 24075329,
+          "telegram_link": "https://t.me/manhuasgratis/1497"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            185
+          ],
+          "date": "2026-08-16T22:17:00+00:00",
+          "download_ready": true,
+          "filename": "185 El jugador que no puede subir de nivel.pdf",
+          "first": 185,
+          "last": 185,
+          "message_id": 1498,
+          "name": "185",
+          "size": 7415933,
+          "telegram_link": "https://t.me/manhuasgratis/1498"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            186
+          ],
+          "date": "2026-08-17T19:16:22+00:00",
+          "download_ready": true,
+          "filename": "│186│El Jugador que no Puede Subir de Nivel.pdf",
+          "first": 186,
+          "last": 186,
+          "message_id": 1580,
+          "name": "186",
+          "size": 6797617,
+          "telegram_link": "https://t.me/manhuasgratis/1580"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            188
+          ],
+          "date": "2026-08-17T19:16:24+00:00",
+          "download_ready": true,
+          "filename": "▎188 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 188,
+          "last": 188,
+          "message_id": 1582,
+          "name": "188",
+          "size": 8579599,
+          "telegram_link": "https://t.me/manhuasgratis/1582"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            188,
+            189
+          ],
+          "date": "2026-08-17T19:16:28+00:00",
+          "download_ready": true,
+          "filename": "188_189 El jugador que no puede subir de nivel.pdf",
+          "first": 188,
+          "last": 189,
+          "message_id": 1584,
+          "name": "188-189",
+          "size": 12392712,
+          "telegram_link": "https://t.me/manhuasgratis/1584"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            190
+          ],
+          "date": "2026-08-17T19:16:31+00:00",
+          "download_ready": true,
+          "filename": "▎190 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 190,
+          "last": 190,
+          "message_id": 1586,
+          "name": "190",
+          "size": 8483125,
+          "telegram_link": "https://t.me/manhuasgratis/1586"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191
+          ],
+          "date": "2026-08-17T19:16:35+00:00",
+          "download_ready": true,
+          "filename": "│191│El Jugador que no Puede Subir de Nivel.pdf",
+          "first": 191,
+          "last": 191,
+          "message_id": 1588,
+          "name": "191",
+          "size": 7467678,
+          "telegram_link": "https://t.me/manhuasgratis/1588"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            192
+          ],
+          "date": "2026-08-17T19:16:38+00:00",
+          "download_ready": true,
+          "filename": "▎192 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 192,
+          "last": 192,
+          "message_id": 1590,
+          "name": "192",
+          "size": 8500474,
+          "telegram_link": "https://t.me/manhuasgratis/1590"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            193
+          ],
+          "date": "2026-08-17T19:16:41+00:00",
+          "download_ready": true,
+          "filename": "│193│El Jugador que no Puede Subir de Nivel.pdf",
+          "first": 193,
+          "last": 193,
+          "message_id": 1592,
+          "name": "193",
+          "size": 7370066,
+          "telegram_link": "https://t.me/manhuasgratis/1592"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            194
+          ],
+          "date": "2026-08-17T19:16:44+00:00",
+          "download_ready": true,
+          "filename": "▎194 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 194,
+          "last": 194,
+          "message_id": 1594,
+          "name": "194",
+          "size": 8397427,
+          "telegram_link": "https://t.me/manhuasgratis/1594"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            195
+          ],
+          "date": "2026-08-17T19:16:47+00:00",
+          "download_ready": true,
+          "filename": "195 El jugador que no puede subir de nivel.pdf",
+          "first": 195,
+          "last": 195,
+          "message_id": 1596,
+          "name": "195",
+          "size": 7507510,
+          "telegram_link": "https://t.me/manhuasgratis/1596"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            196
+          ],
+          "date": "2026-08-17T19:16:49+00:00",
+          "download_ready": true,
+          "filename": "196 El jugador que no puede subir de nivel.pdf",
+          "first": 196,
+          "last": 196,
+          "message_id": 1598,
+          "name": "196",
+          "size": 7019302,
+          "telegram_link": "https://t.me/manhuasgratis/1598"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            197
+          ],
+          "date": "2026-08-17T19:16:51+00:00",
+          "download_ready": true,
+          "filename": "197 El jugador que no puede subir de nivel.pdf",
+          "first": 197,
+          "last": 197,
+          "message_id": 1600,
+          "name": "197",
+          "size": 7321607,
+          "telegram_link": "https://t.me/manhuasgratis/1600"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            199
+          ],
+          "date": "2026-08-17T19:16:53+00:00",
+          "download_ready": true,
+          "filename": "▎199 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 199,
+          "last": 199,
+          "message_id": 1602,
+          "name": "199",
+          "size": 9483009,
+          "telegram_link": "https://t.me/manhuasgratis/1602"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            200
+          ],
+          "date": "2026-08-17T19:16:55+00:00",
+          "download_ready": true,
+          "filename": "▎200 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 200,
+          "last": 200,
+          "message_id": 1604,
+          "name": "200",
+          "size": 8909302,
+          "telegram_link": "https://t.me/manhuasgratis/1604"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            201
+          ],
+          "date": "2026-08-17T19:16:58+00:00",
+          "download_ready": true,
+          "filename": "201 El jugador que no puede subir de nivel.pdf",
+          "first": 201,
+          "last": 201,
+          "message_id": 1606,
+          "name": "201",
+          "size": 6760373,
+          "telegram_link": "https://t.me/manhuasgratis/1606"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            203
+          ],
+          "date": "2026-08-17T19:17:00+00:00",
+          "download_ready": true,
+          "filename": "203 El jugador que no puede subir de nivel.pdf",
+          "first": 203,
+          "last": 203,
+          "message_id": 1608,
+          "name": "203",
+          "size": 4679766,
+          "telegram_link": "https://t.me/manhuasgratis/1608"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            207
+          ],
+          "date": "2026-08-17T19:17:02+00:00",
+          "download_ready": true,
+          "filename": "207 El jugador que no puede subir de nivel.pdf",
+          "first": 207,
+          "last": 207,
+          "message_id": 1610,
+          "name": "207",
+          "size": 5245229,
+          "telegram_link": "https://t.me/manhuasgratis/1610"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            208
+          ],
+          "date": "2026-08-17T19:17:04+00:00",
+          "download_ready": true,
+          "filename": "▎208 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 208,
+          "last": 208,
+          "message_id": 1612,
+          "name": "208",
+          "size": 6344621,
+          "telegram_link": "https://t.me/manhuasgratis/1612"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            209
+          ],
+          "date": "2026-08-17T19:17:07+00:00",
+          "download_ready": true,
+          "filename": "[#209] • El Jugador Que No Puede Subir De Nivel.pdf",
+          "first": 209,
+          "last": 209,
+          "message_id": 1614,
+          "name": "209",
+          "size": 7405839,
+          "telegram_link": "https://t.me/manhuasgratis/1614"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            210
+          ],
+          "date": "2026-08-17T19:17:11+00:00",
+          "download_ready": true,
+          "filename": "[#210] • El Jugador Que No Puede Subir De Nivel.pdf",
+          "first": 210,
+          "last": 210,
+          "message_id": 1616,
+          "name": "210",
+          "size": 6901992,
+          "telegram_link": "https://t.me/manhuasgratis/1616"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            211
+          ],
+          "date": "2026-08-17T19:17:13+00:00",
+          "download_ready": true,
+          "filename": "▎211 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 211,
+          "last": 211,
+          "message_id": 1618,
+          "name": "211",
+          "size": 8797931,
+          "telegram_link": "https://t.me/manhuasgratis/1618"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            212
+          ],
+          "date": "2026-08-17T19:17:16+00:00",
+          "download_ready": true,
+          "filename": "▎212 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 212,
+          "last": 212,
+          "message_id": 1620,
+          "name": "212",
+          "size": 8326139,
+          "telegram_link": "https://t.me/manhuasgratis/1620"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            213
+          ],
+          "date": "2026-08-17T19:17:17+00:00",
+          "download_ready": true,
+          "filename": "213 El jugador que no puede subir de nivel.pdf",
+          "first": 213,
+          "last": 213,
+          "message_id": 1622,
+          "name": "213",
+          "size": 5261033,
+          "telegram_link": "https://t.me/manhuasgratis/1622"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            214
+          ],
+          "date": "2026-08-17T19:17:21+00:00",
+          "download_ready": true,
+          "filename": "▎214 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 214,
+          "last": 214,
+          "message_id": 1624,
+          "name": "214",
+          "size": 9148546,
+          "telegram_link": "https://t.me/manhuasgratis/1624"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            215
+          ],
+          "date": "2026-08-17T19:17:24+00:00",
+          "download_ready": true,
+          "filename": "▎215 ▎El Jugador Que No Puede Subir de Nivel.pdf",
+          "first": 215,
+          "last": 215,
+          "message_id": 1626,
+          "name": "215",
+          "size": 10020941,
+          "telegram_link": "https://t.me/manhuasgratis/1626"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            216
+          ],
+          "date": "2026-08-17T19:17:27+00:00",
+          "download_ready": true,
+          "filename": "[#216] • El Jugador Que No Puede Subir De Nivel.pdf",
+          "first": 216,
+          "last": 216,
+          "message_id": 1628,
+          "name": "216",
+          "size": 8173352,
+          "telegram_link": "https://t.me/manhuasgratis/1628"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            217
+          ],
+          "date": "2026-08-17T19:17:30+00:00",
+          "download_ready": true,
+          "filename": "217 El jugador que no puede subir de nivel.pdf",
+          "first": 217,
+          "last": 217,
+          "message_id": 1630,
+          "name": "217",
+          "size": 7987743,
+          "telegram_link": "https://t.me/manhuasgratis/1630"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            218
+          ],
+          "date": "2026-08-17T19:17:33+00:00",
+          "download_ready": true,
+          "filename": "218 El jugador que no puede subir de nivel.pdf",
+          "first": 218,
+          "last": 218,
+          "message_id": 1632,
+          "name": "218",
+          "size": 8298099,
+          "telegram_link": "https://t.me/manhuasgratis/1632"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            219
+          ],
+          "date": "2026-08-17T19:17:37+00:00",
+          "download_ready": true,
+          "filename": "219 El jugador que no puede subir de nivel.pdf",
+          "first": 219,
+          "last": 219,
+          "message_id": 1634,
+          "name": "219",
+          "size": 9307997,
+          "telegram_link": "https://t.me/manhuasgratis/1634"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            220
+          ],
+          "date": "2026-08-17T19:17:40+00:00",
+          "download_ready": true,
+          "filename": "220 El jugador que no puede subir de nivel.pdf",
+          "first": 220,
+          "last": 220,
+          "message_id": 1636,
+          "name": "220",
+          "size": 7754975,
+          "telegram_link": "https://t.me/manhuasgratis/1636"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            221,
+            222,
+            223,
+            224,
+            225
+          ],
+          "date": "2026-08-17T19:17:42+00:00",
+          "download_ready": true,
+          "filename": "221_225 El jugador que no puede subir de nivel.pdf",
+          "first": 221,
+          "last": 225,
+          "message_id": 1638,
+          "name": "221-225",
+          "size": 39665274,
+          "telegram_link": "https://t.me/manhuasgratis/1638"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            226
+          ],
+          "date": "2026-08-17T19:17:44+00:00",
+          "download_ready": true,
+          "filename": "226 El jugador que no puede subir de nivel.pdf",
+          "first": 226,
+          "last": 226,
+          "message_id": 1640,
+          "name": "226",
+          "size": 8079054,
+          "telegram_link": "https://t.me/manhuasgratis/1640"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            227
+          ],
+          "date": "2026-08-17T19:17:47+00:00",
+          "download_ready": true,
+          "filename": "227 El jugador que no puede subir de nivel.pdf",
+          "first": 227,
+          "last": 227,
+          "message_id": 1642,
+          "name": "227",
+          "size": 6992567,
+          "telegram_link": "https://t.me/manhuasgratis/1642"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            228,
+            229
+          ],
+          "date": "2026-08-17T19:17:51+00:00",
+          "download_ready": true,
+          "filename": "228_229 El jugador que no puede subir de nivel.pdf",
+          "first": 228,
+          "last": 229,
+          "message_id": 1644,
+          "name": "228-229",
+          "size": 14264850,
+          "telegram_link": "https://t.me/manhuasgratis/1644"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            230
+          ],
+          "date": "2026-08-17T19:17:55+00:00",
+          "download_ready": true,
+          "filename": "230 El jugador que no puede subir de nivel.pdf",
+          "first": 230,
+          "last": 230,
+          "message_id": 1646,
+          "name": "230",
+          "size": 7138403,
+          "telegram_link": "https://t.me/manhuasgratis/1646"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            231
+          ],
+          "date": "2026-08-17T19:17:58+00:00",
+          "download_ready": true,
+          "filename": "231 El jugador que no puede subir de nivel.pdf",
+          "first": 231,
+          "last": 231,
+          "message_id": 1648,
+          "name": "231",
+          "size": 7582845,
+          "telegram_link": "https://t.me/manhuasgratis/1648"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            232
+          ],
+          "date": "2026-08-17T19:18:01+00:00",
+          "download_ready": true,
+          "filename": "232 El jugador que no puede subir de nivel.pdf",
+          "first": 232,
+          "last": 232,
+          "message_id": 1650,
+          "name": "232",
+          "size": 7628594,
+          "telegram_link": "https://t.me/manhuasgratis/1650"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            233
+          ],
+          "date": "2026-08-17T19:18:05+00:00",
+          "download_ready": true,
+          "filename": "233 El jugador que no puede subir de nivel.pdf",
+          "first": 233,
+          "last": 233,
+          "message_id": 1652,
+          "name": "233",
+          "size": 7780937,
+          "telegram_link": "https://t.me/manhuasgratis/1652"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            234
+          ],
+          "date": "2026-08-17T19:18:07+00:00",
+          "download_ready": true,
+          "filename": "234 El jugador que no puede subir de nivel.pdf",
+          "first": 234,
+          "last": 234,
+          "message_id": 1654,
+          "name": "234",
+          "size": 8211556,
+          "telegram_link": "https://t.me/manhuasgratis/1654"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            235
+          ],
+          "date": "2026-08-17T19:18:11+00:00",
+          "download_ready": true,
+          "filename": "235 El jugador que no puede subir de nivel.pdf",
+          "first": 235,
+          "last": 235,
+          "message_id": 1656,
+          "name": "235",
+          "size": 8447075,
+          "telegram_link": "https://t.me/manhuasgratis/1656"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            236
+          ],
+          "date": "2026-08-17T19:18:13+00:00",
+          "download_ready": true,
+          "filename": "236 El jugador que no puede subir de nivel.pdf",
+          "first": 236,
+          "last": 236,
+          "message_id": 1658,
+          "name": "236",
+          "size": 8984534,
+          "telegram_link": "https://t.me/manhuasgratis/1658"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            237
+          ],
+          "date": "2026-08-17T19:18:17+00:00",
+          "download_ready": true,
+          "filename": "237 El jugador que no puede subir de nivel.pdf",
+          "first": 237,
+          "last": 237,
+          "message_id": 1660,
+          "name": "237",
+          "size": 8182719,
+          "telegram_link": "https://t.me/manhuasgratis/1660"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            238
+          ],
+          "date": "2026-11-03T21:21:55+00:00",
+          "download_ready": true,
+          "filename": "238 ༊ El jugador que no puede subir de nivel.pdf",
+          "first": 238,
+          "last": 238,
+          "message_id": 7645,
+          "name": "238",
+          "size": 5710150,
+          "telegram_link": "https://t.me/manhuasgratis/7645"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            239
+          ],
+          "date": "2026-11-03T21:21:57+00:00",
+          "download_ready": true,
+          "filename": "239 ༊ El jugador que no puede subir de nivel.pdf",
+          "first": 239,
+          "last": 239,
+          "message_id": 7646,
+          "name": "239",
+          "size": 5950320,
+          "telegram_link": "https://t.me/manhuasgratis/7646"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            240
+          ],
+          "date": "2026-11-03T21:21:59+00:00",
+          "download_ready": true,
+          "filename": "240 ༊ El jugador que no puede subir de nivel.pdf",
+          "first": 240,
+          "last": 240,
+          "message_id": 7647,
+          "name": "240",
+          "size": 5549301,
+          "telegram_link": "https://t.me/manhuasgratis/7647"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+          ],
+          "date": "2026-11-03T21:22:03+00:00",
+          "download_ready": true,
+          "filename": "241-246 ༊ El jugador que no puede subir de nivel.pdf",
+          "first": 241,
+          "last": 246,
+          "message_id": 7648,
+          "name": "241-246",
+          "size": 29886155,
+          "telegram_link": "https://t.me/manhuasgratis/7648"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            247
+          ],
+          "date": "2026-11-03T21:22:04+00:00",
+          "download_ready": true,
+          "filename": "247 ༊ El jugador que no puede subir de nivel.pdf",
+          "first": 247,
+          "last": 247,
+          "message_id": 7649,
+          "name": "247",
+          "size": 5734160,
+          "telegram_link": "https://t.me/manhuasgratis/7649"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Gigyu Kim despertó como jugador a los 18 años. Pensó que su vida iba por el camino del éxito, escalando \"la torre\" y cerrando \"las puertas\"... Pero incluso después de superar el tutorial, era nivel 1. Mataba un goblin al día, y seguía siendo nivel 1. Incluso después de 5 años, seguía siendo nivel 1. \"Quién hubiera pensado que este tipo de jugador existiría\". Nadie lo sabía.",
+      "visible": false
     },
     {
       "added_at": "2026-11-03T00:15:55+00:00",
@@ -155608,20 +156833,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7572"
         },
         {
-          "name": "425",
-          "first": 425,
-          "last": 425,
           "channel_id": -1003003829878,
-          "message_id": 7650,
-          "filename": "425 Eleceed -.-.pdf",
-          "size": 8946883,
-          "date": "2026-11-03T21:22:06+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7650",
-          "download_ready": true,
           "chapters": [
             425
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/eleceed/7650_425%20Eleceed%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T213137Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=970aa25635cbde43f246f13dc00bf3697d552f62693718b788703ad1094d67be"
+          "date": "2026-11-03T21:22:06+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/eleceed/7650_425%20Eleceed%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T213137Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=970aa25635cbde43f246f13dc00bf3697d552f62693718b788703ad1094d67be",
+          "filename": "425 Eleceed -.-.pdf",
+          "first": 425,
+          "last": 425,
+          "message_id": 7650,
+          "name": "425",
+          "size": 8946883,
+          "telegram_link": "https://t.me/manhuasgratis/7650"
         }
       ],
       "rating": 0,
@@ -246537,7 +247762,7 @@
       "latest_chapter": 184,
       "library_count": 7,
       "name": "Leviathan",
-      "package_count": 20,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -246965,31 +248190,6 @@
           "telegram_link": "https://t.me/manhuasgratis/908"
         },
         {
-          "name": "171-180",
-          "first": 171,
-          "last": 180,
-          "channel_id": -1003003829878,
-          "message_id": 7612,
-          "filename": "│171-180│Leviathan.pdf",
-          "size": 100559961,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7612",
-          "download_ready": false,
-          "chapters": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/leviathan/7612_%E2%94%82171-180%E2%94%82Leviathan.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T182453Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7154ab9e25ff3dc64be7befa644c30fca6b747c967a9454d7de3a68f9e610351"
-        },
-        {
           "channel_id": -1004367557958,
           "chapters": [
             171,
@@ -247017,25 +248217,6 @@
           "name": "171-184",
           "size": 117916657,
           "telegram_link": "https://t.me/manhuasgratis/909"
-        },
-        {
-          "name": "181-184",
-          "first": 181,
-          "last": 184,
-          "channel_id": -1003003829878,
-          "message_id": 7613,
-          "filename": "│181-184 Fin│Leviathan.pdf",
-          "size": 36807628,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7613",
-          "download_ready": false,
-          "chapters": [
-            181,
-            182,
-            183,
-            184
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/leviathan/7613_%E2%94%82181-184%20Fin%E2%94%82Leviathan.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T182453Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50795fae41d3a3d38fd9b4a351c210634e6d709a8f571262ff24857ec8e4cefd"
         }
       ],
       "rating": 5,
@@ -388841,14 +390022,14 @@
           ],
           "date": "2026-11-03T15:10:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7583_1-20%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172901Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ce50b2bdc813d2bbaf144f2dec323df66fd4b4823b0555a865d94be6a59c22a",
           "filename": "1-20 The Descent of the Demonic Master -.-.pdf",
           "first": 1,
           "last": 20,
           "message_id": 7583,
           "name": "1-20",
           "size": 112746795,
-          "telegram_link": "https://t.me/manhuasgratis/7583",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7583_1-20%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T172901Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0ce50b2bdc813d2bbaf144f2dec323df66fd4b4823b0555a865d94be6a59c22a"
+          "telegram_link": "https://t.me/manhuasgratis/7583"
         },
         {
           "channel_id": -1003003829878,
@@ -388876,14 +390057,14 @@
           ],
           "date": "2026-11-03T15:10:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7584_21-40%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T173351Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6934a10eb01fe1d3279a693e36566c27c92ffcb67e27da2f127ccd90f5607348",
           "filename": "21-40 The Descent of the Demonic Master -.-.pdf",
           "first": 21,
           "last": 40,
           "message_id": 7584,
           "name": "21-40",
           "size": 119226559,
-          "telegram_link": "https://t.me/manhuasgratis/7584",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7584_21-40%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T173351Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6934a10eb01fe1d3279a693e36566c27c92ffcb67e27da2f127ccd90f5607348"
+          "telegram_link": "https://t.me/manhuasgratis/7584"
         },
         {
           "channel_id": -1003003829878,
@@ -388911,14 +390092,14 @@
           ],
           "date": "2026-11-03T15:10:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7585_41-60%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T173825Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=159c81a4ba932572df8704c4ca7ae90a853d4564c2b5e2d8dfcf132c733ffd1f",
           "filename": "41-60 The Descent of the Demonic Master -.-.pdf",
           "first": 41,
           "last": 60,
           "message_id": 7585,
           "name": "41-60",
           "size": 112404366,
-          "telegram_link": "https://t.me/manhuasgratis/7585",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7585_41-60%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T173825Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=159c81a4ba932572df8704c4ca7ae90a853d4564c2b5e2d8dfcf132c733ffd1f"
+          "telegram_link": "https://t.me/manhuasgratis/7585"
         },
         {
           "channel_id": -1003003829878,
@@ -388946,14 +390127,14 @@
           ],
           "date": "2026-11-03T15:10:23+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7586_61-80%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T174319Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=418b4d2536bf005922b437acbbf533f7c80662dcec8b98b3a24ac17e9cc97a05",
           "filename": "61-80 The Descent of the Demonic Master -.-.pdf",
           "first": 61,
           "last": 80,
           "message_id": 7586,
           "name": "61-80",
           "size": 115112713,
-          "telegram_link": "https://t.me/manhuasgratis/7586",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7586_61-80%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T174319Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=418b4d2536bf005922b437acbbf533f7c80662dcec8b98b3a24ac17e9cc97a05"
+          "telegram_link": "https://t.me/manhuasgratis/7586"
         },
         {
           "channel_id": -1003003829878,
@@ -388981,14 +390162,14 @@
           ],
           "date": "2026-11-03T15:10:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7587_81-100%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T174804Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8760e8fea7aa38923b0412c33ff7e8572513c790be5cbd66fc11341c32292ac9",
           "filename": "81-100 The Descent of the Demonic Master -.-.pdf",
           "first": 81,
           "last": 100,
           "message_id": 7587,
           "name": "81-100",
           "size": 118257687,
-          "telegram_link": "https://t.me/manhuasgratis/7587",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7587_81-100%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T174804Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8760e8fea7aa38923b0412c33ff7e8572513c790be5cbd66fc11341c32292ac9"
+          "telegram_link": "https://t.me/manhuasgratis/7587"
         },
         {
           "channel_id": -1003003829878,
@@ -389016,14 +390197,14 @@
           ],
           "date": "2026-11-03T15:10:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7588_101-120%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T175345Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1312f0e6f222c27ad6f932fb36d905812ca8ea661bc85d69d1f7a59838c0de40",
           "filename": "101-120 The Descent of the Demonic Master -.-.pdf",
           "first": 101,
           "last": 120,
           "message_id": 7588,
           "name": "101-120",
           "size": 141769161,
-          "telegram_link": "https://t.me/manhuasgratis/7588",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7588_101-120%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T175345Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1312f0e6f222c27ad6f932fb36d905812ca8ea661bc85d69d1f7a59838c0de40"
+          "telegram_link": "https://t.me/manhuasgratis/7588"
         },
         {
           "channel_id": -1003003829878,
@@ -389051,14 +390232,14 @@
           ],
           "date": "2026-11-03T15:10:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7589_121-140%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T180019Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4eab4b05b30bd12b56cfd9e6fdddac3ce0c1f33fb98f6d304bee0ae0379389d7",
           "filename": "121-140 The Descent of the Demonic Master -.-.pdf",
           "first": 121,
           "last": 140,
           "message_id": 7589,
           "name": "121-140",
           "size": 158288727,
-          "telegram_link": "https://t.me/manhuasgratis/7589",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7589_121-140%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T180019Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4eab4b05b30bd12b56cfd9e6fdddac3ce0c1f33fb98f6d304bee0ae0379389d7"
+          "telegram_link": "https://t.me/manhuasgratis/7589"
         },
         {
           "channel_id": -1003003829878,
@@ -389086,14 +390267,14 @@
           ],
           "date": "2026-11-03T15:10:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7590_141-160%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T180607Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e0360ad9e4dbf1a1a8616440ba2f9185037cbc67f9eb7df5201675fc0dcaf6bc",
           "filename": "141-160 The Descent of the Demonic Master -.-.pdf",
           "first": 141,
           "last": 160,
           "message_id": 7590,
           "name": "141-160",
           "size": 138613697,
-          "telegram_link": "https://t.me/manhuasgratis/7590",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7590_141-160%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T180607Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e0360ad9e4dbf1a1a8616440ba2f9185037cbc67f9eb7df5201675fc0dcaf6bc"
+          "telegram_link": "https://t.me/manhuasgratis/7590"
         },
         {
           "channel_id": -1003003829878,
@@ -389112,14 +390293,14 @@
           ],
           "date": "2026-11-03T15:10:24+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7591_161-171%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T180953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3cee002bcba3816e76fe76e4e3bf44db1af6fa1ff47589a9635f32dfc502ffe9",
           "filename": "161-171 The Descent of the Demonic Master -.-.pdf",
           "first": 161,
           "last": 171,
           "message_id": 7591,
           "name": "161-171",
           "size": 81322803,
-          "telegram_link": "https://t.me/manhuasgratis/7591",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_descent_of_the_demonic_master/7591_161-171%20The%20Descent%20of%20the%20Demonic%20Master%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T180953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3cee002bcba3816e76fe76e4e3bf44db1af6fa1ff47589a9635f32dfc502ffe9"
+          "telegram_link": "https://t.me/manhuasgratis/7591"
         }
       ],
       "rating": 0,
@@ -428151,6 +429332,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-03T21:25:19.998979+00:00",
+  "updated_at": "2026-11-03T22:47:56.080008+00:00",
   "version": 3
 }
