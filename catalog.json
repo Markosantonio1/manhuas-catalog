@@ -4006,7 +4006,7 @@
           ],
           "date": "2026-11-02T23:43:58+00:00",
           "download_ready": false,
-          "download_url": null,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/sorry_darling_but_you_wont_kill_me_again/395_Sorry%20Darling%2C%20but%20You%20Won%E2%80%99t%20Kill%20Me%20Again%21%20-%20Vol%2001.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=df39b72dca913de55c9454f776aa243a4f7c232569588019c3ea5a8a9c7147c7",
           "filename": "Sorry Darling, but You Won’t Kill Me Again! - Vol 01.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -290333,7 +290333,8 @@
           "message_id": 7259,
           "name": "221-230",
           "size": 88402260,
-          "telegram_link": "https://t.me/manhuasgratis/7259"
+          "telegram_link": "https://t.me/manhuasgratis/7259",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7259_221%20-%20230%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f225cf40a12023dbadb4e5d55dd0129ff710e99249545b8829082b6fdc0cd044"
         },
         {
           "channel_id": -1003003829878,
@@ -290357,7 +290358,8 @@
           "message_id": 7260,
           "name": "231-240",
           "size": 100940710,
-          "telegram_link": "https://t.me/manhuasgratis/7260"
+          "telegram_link": "https://t.me/manhuasgratis/7260",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7260_231%20-%20240%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0456b2ff7ca246048436a11ae943b829386a03cca8e31d33cd8c1d5566ddee3d"
         },
         {
           "channel_id": -1003003829878,
@@ -290381,7 +290383,8 @@
           "message_id": 7261,
           "name": "241-250",
           "size": 89771789,
-          "telegram_link": "https://t.me/manhuasgratis/7261"
+          "telegram_link": "https://t.me/manhuasgratis/7261",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7261_241%20-%20250%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d612e1dfbc914589e2fe52a6bd05e13a16c5f92a91a0fd23fd04b5ad9c805541"
         },
         {
           "channel_id": -1003003829878,
@@ -290405,7 +290408,8 @@
           "message_id": 7262,
           "name": "251-260",
           "size": 101581733,
-          "telegram_link": "https://t.me/manhuasgratis/7262"
+          "telegram_link": "https://t.me/manhuasgratis/7262",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7262_251%20-%20260%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6d45cf496ebc2d0bdb72206ad8060ef02dca31fb6d90a24ada605e7138868e46"
         },
         {
           "channel_id": -1003003829878,
@@ -290425,7 +290429,8 @@
           "message_id": 7263,
           "name": "261-266",
           "size": 54799755,
-          "telegram_link": "https://t.me/manhuasgratis/7263"
+          "telegram_link": "https://t.me/manhuasgratis/7263",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/nano_machine/7263_261%20-%20266%20Nano%20Machine.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261103%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T040953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dba5ac3e3898a2306c67bb933c4925255ee191e4201e1e2b071230d553e08570"
         },
         {
           "channel_id": -1003003829878,
