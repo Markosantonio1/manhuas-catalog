@@ -612,7 +612,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Satomi Koutarou decide ir a vivir solo cuando comienza el nuevo curso en el instituto y se muda al apartamento 106 de la Casa Corona. Pronto descubre que su apartamento es codiciado por varias chicas invasoras; algunas de ellas poseen poderes sobrenaturales o incluso vienen de otros mundos, y cada una tiene sus propios motivos para la invasión. Por lo tanto, Koutarou y las chicas se ven obligados a convivir en la habitación hasta que el conflicto se resuelva.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-11-03T23:14:10+00:00",
@@ -961,7 +961,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Roan había vivido toda su vida como un perro con correa. Sin embargo, por un giro del destino, obtuvo una nueva vida aunque la ira permaneciera en los restos de su correa destruida. Por fin capaz de valerse por sí mismo, decidió vivir la vida por su propia voluntad. \"Mataré a cualquiera que se interponga en mi camino... aunque sea un dios\".",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-11-03T23:11:35+00:00",
@@ -1259,7 +1259,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Un chico con una calidad magnífica 「Estado」, conquistando el laberinto en un mundo diferente.\n「Definitivamente te ayudaré, por lo tanto, lo haré…!!」\nKanami Aikawa se ha despertado en un pasillo sin saber nada. Se encuentra con una chica llamada Lastiara que le ayuda a curar sus heridas.\nKanami Aikawa se hizo la herida en una batalla con un monstruo, en un lugar como -mundo diferente- del juego temático.\nJuntos, Kanami -que puede manejar bien sus habilidades y estatus- y Tiara La Chica Caballero, se adentran en un viaje, atravesando el laberinto.\nAdéntrate en lo más profundo del laberinto y tu deseo se hará realidad. Eso es lo que dice la gente.\nEsta historia trata de un niño que se adentra en lo más profundo del laberinto para hacer realidad su deseo.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-11-03T23:09:30+00:00",
@@ -1305,8 +1305,8 @@
             2
           ],
           "date": "2026-11-03T23:09:30+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/high_school_dxd/437_Shin%20High%20School%20DxD%20-%20Vol%2002.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023830Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a5ae26182e12afe8491da84393132b3103294e0063d41f25500b730675aab70f",
           "filename": "Shin High School DxD - Vol 02.pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -1322,8 +1322,8 @@
             3
           ],
           "date": "2026-11-03T23:09:30+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/high_school_dxd/438_Shin%20High%20School%20DxD%20-%20Vol%2003.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023840Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aef97fc9caa866979768186f272e3aa04cdf6e4ead26c3981dc5872e39aba1b5",
           "filename": "Shin High School DxD - Vol 03.pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -1339,8 +1339,8 @@
             4
           ],
           "date": "2026-11-03T23:09:30+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/high_school_dxd/439_Shin%20High%20School%20DxD%20-%20Vol%2004.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023850Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e297e63bcaa194eb396c090eb04da5eac86751eeeeaf0a7e505470f5c76396f7",
           "filename": "Shin High School DxD - Vol 04.pdf",
           "first": 4,
           "is_novel_volume": true,
@@ -1354,7 +1354,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Una continuación desde donde dejó el volumen 25 de High School DxD",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-11-03T23:21:26+00:00",
@@ -1384,8 +1384,8 @@
             1
           ],
           "date": "2026-11-03T23:21:26+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_survival_of_an_incompetent_villainous_prince/484_Munou%20no%20Akudou%20Ouji%20wa%20Ikinokoritai%20-%20Vol%2001.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023909Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ab513812df92935ccf7277407fb41c8391d36775e18dcde6ac9bff290240dcc1",
           "filename": "Munou no Akudou Ouji wa Ikinokoritai - Vol 01.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -1401,8 +1401,8 @@
             2
           ],
           "date": "2026-11-03T23:21:26+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_survival_of_an_incompetent_villainous_prince/485_Munou%20no%20Akudou%20Ouji%20wa%20Ikinokoritai%20-%20Vol%2002.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023928Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=74a49adc0ca1c84a88557fb8c465d9ad2ecc5c7c5aff4cd02c9edbab1b879a20",
           "filename": "Munou no Akudou Ouji wa Ikinokoritai - Vol 02.pdf",
           "first": 2,
           "is_novel_volume": true,
@@ -1418,8 +1418,8 @@
             3
           ],
           "date": "2026-11-03T23:21:26+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_survival_of_an_incompetent_villainous_prince/486_Munou%20no%20Akudou%20Ouji%20wa%20Ikinokoritai%20-%20Vol%2003.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023945Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=42ed418d8da709568bad2a6b37c87e198e5f66ad90ad6b2117bb4e3d13daaada",
           "filename": "Munou no Akudou Ouji wa Ikinokoritai - Vol 03.pdf",
           "first": 3,
           "is_novel_volume": true,
@@ -1433,7 +1433,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "「Protagonista, prepárate. Cambiaré el futuro creado con este poder」\nCuando me di cuenta, estaba en el mundo de un juego RPG de citas que me encantaba. Sin embargo, en el que reencarné fue en Harold, el \"príncipe malcriado inútil\" que anula su compromiso con la heroína y alcanza un final de ruina. Para colmo, por su configuración es incapaz de desplegar magia en absoluto, un simple chivo expiatorio destinado a perder ante el protagonista.\nPero esta vez será diferente. Para empezar, cancelaré la anulación del compromiso con la heroína y me pondré manos a la obra con mi propio entrenamiento. ¡Además, conseguiré armas distintas a las de la obra original y abrumaré a todos a mi alrededor con mi desbordante poder mágico inútil! Mientras solo persigo la fuerza, de repente me convierto en una presencia que atrae la atención de las demás heroínas",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T20:15:29+00:00",
@@ -1908,8 +1908,8 @@
             1
           ],
           "date": "2026-11-03T23:18:29+00:00",
-          "download_ready": false,
-          "download_url": null,
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novels/the_scoundrel_immortals_coup/481_The%20Scoundrel%20Immortal%E2%80%99s%20Coup%20-%20Vol%2001.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T023959Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=088cce04bf68595bd8bd4d876d66419d6267dde513454d9e0a9b993a35c75fdb",
           "filename": "The Scoundrel Immortal’s Coup - Vol 01.pdf",
           "first": 1,
           "is_novel_volume": true,
@@ -1923,7 +1923,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Para rodearse de mujeres hermosas, un chico fiel a sus deseos se convierte en inmortal y conquista el mundo.\nHaruto es un apuesto estudiante de preparatoria, pero en el fondo es un canalla que juzga constantemente a las chicas. Se suponía que iba a hacer una prueba de un juego de realidad virtual chino con su clase, ¡pero resultó ser un juego mortal donde su vida corría peligro!\nHaruto recibe poderes inmortales de una seductora mujer inmortal y, por casualidad, adquiere el alma del general más poderoso (Lu Bu) que reside en su interior, convirtiéndose en una fuerza imparable. En medio de la guerra y demonios devoradores de hombres, el único objetivo de Haruto es una vida rodeado de mujeres hermosas y la paz que eso conlleva. Mientras Haruto persigue sus deseos sin ocultarlos, una chica nómada y una espía tímida se acercan a él, y pronto, ¡comienza la búsqueda de dominación mundial de este canalla!",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-12T14:18:23+00:00",
