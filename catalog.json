@@ -96343,10 +96343,11 @@
           "size": 5539310,
           "date": "2026-11-04T05:21:25+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7656",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             56
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dominio_absoluto_del_nivel_0/7656_56%20%E2%80%A2%20Dominio%20Absoluto%20del%20Nivel%200.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T062133Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3114806d4081333eee9466132ea33415a64efba9212a4ec6cc48421d317da024"
         }
       ],
       "rating": 3.57,
@@ -186906,10 +186907,11 @@
           "size": 14906599,
           "date": "2026-11-04T05:21:27+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7657",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             27
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/haciendome_rico_con_la_caza_automatica/7657_%5B27%5D%20Haciendome%20Rico%20con%20la%20Caza%20Automatica.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T062149Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=035c8060a11575389a26fcf96c6680f6ac96d726b2122cd7ac919c4d720827ad"
         }
       ],
       "rating": 5,
