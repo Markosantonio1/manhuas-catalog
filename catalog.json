@@ -95928,10 +95928,10 @@
       ],
       "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "id": "dominio_absoluto_del_nivel_0",
-      "latest_chapter": 55,
+      "latest_chapter": 56,
       "library_count": 26,
       "name": "Dominio Absoluto del Nivel 0",
-      "package_count": 23,
+      "package_count": 24,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -96332,6 +96332,21 @@
           "name": "55",
           "size": 5775648,
           "telegram_link": "https://t.me/manhuasgratis/7133"
+        },
+        {
+          "name": "56",
+          "first": 56,
+          "last": 56,
+          "channel_id": -1003003829878,
+          "message_id": 7656,
+          "filename": "56 • Dominio Absoluto del Nivel 0.pdf",
+          "size": 5539310,
+          "date": "2026-11-04T05:21:25+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7656",
+          "download_ready": false,
+          "chapters": [
+            56
+          ]
         }
       ],
       "rating": 3.57,
@@ -186745,10 +186760,10 @@
       ],
       "hashtag": "#Haciendome_Rico_con_la_Caza_Automática",
       "id": "haciendome_rico_con_la_caza_automatica",
-      "latest_chapter": 26,
+      "latest_chapter": 27,
       "library_count": 10,
       "name": "Haciendome Rico con la Caza Automática",
-      "package_count": 7,
+      "package_count": 8,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -186880,6 +186895,21 @@
           "name": "26",
           "size": 21019058,
           "telegram_link": "https://t.me/manhuasgratis/6944"
+        },
+        {
+          "name": "27",
+          "first": 27,
+          "last": 27,
+          "channel_id": -1003003829878,
+          "message_id": 7657,
+          "filename": "[27] Haciendome Rico con la Caza Automatica.pdf",
+          "size": 14906599,
+          "date": "2026-11-04T05:21:27+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7657",
+          "download_ready": false,
+          "chapters": [
+            27
+          ]
         }
       ],
       "rating": 5,
@@ -432174,6 +432204,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-04T04:20:41.146980+00:00",
+  "updated_at": "2026-11-04T06:20:38.199984+00:00",
   "version": 3
 }
