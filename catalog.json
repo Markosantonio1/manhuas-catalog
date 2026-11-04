@@ -179753,10 +179753,10 @@
       ],
       "hashtag": "#Gacha_infinito",
       "id": "gacha_infinito",
-      "latest_chapter": 225,
+      "latest_chapter": 226,
       "library_count": 35,
       "name": "Gacha infinito",
-      "package_count": 33,
+      "package_count": 34,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -180477,6 +180477,21 @@
           "name": "225",
           "size": 7085483,
           "telegram_link": "https://t.me/manhuasgratis/7143"
+        },
+        {
+          "name": "226",
+          "first": 226,
+          "last": 226,
+          "channel_id": -1003003829878,
+          "message_id": 7676,
+          "filename": "226 Gacha Infinito -.-.pdf",
+          "size": 7947415,
+          "date": "2026-11-04T21:21:34+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7676",
+          "download_ready": false,
+          "chapters": [
+            226
+          ]
         }
       ],
       "rating": 4.7,
@@ -432593,6 +432608,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-04T19:20:41.964427+00:00",
+  "updated_at": "2026-11-04T22:20:37.366845+00:00",
   "version": 3
 }
