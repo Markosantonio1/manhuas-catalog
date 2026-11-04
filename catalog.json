@@ -250630,7 +250630,8 @@
             178,
             179,
             180
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/leviathan/7612_%E2%94%82171-180%E2%94%82Leviathan.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T192133Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=223bd00d9f1c738b1245f74a9c09bba68372f9040f28b4143a936c7b2f1702f7"
         },
         {
           "channel_id": -1004367557958,
@@ -250677,7 +250678,8 @@
             182,
             183,
             184
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/leviathan/7613_%E2%94%82181-184%20Fin%E2%94%82Leviathan.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261104%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261104T192133Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd4474b5c61bae3fb7043f8039b56ee7758895c3a035280d2bfa18ab000d98ab"
         }
       ],
       "rating": 5,
