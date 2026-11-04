@@ -28,7 +28,7 @@
       "latest_chapter": 36,
       "library_count": 0,
       "name": "Rokujouma no Shinryakusha",
-      "package_count": 36,
+      "package_count": 34,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -152,23 +152,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            7
-          ],
-          "date": "2026-11-03T23:07:25+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Rokujouma - Vol 7.5.pdf",
-          "first": 7,
-          "is_novel_volume": true,
-          "last": 7,
-          "message_id": 405,
-          "name": "Volumen 7",
-          "size": 32865300,
-          "telegram_link": "https://t.me/c/-1004334091126/405"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             8
           ],
           "date": "2026-11-03T23:07:25+00:00",
@@ -182,23 +165,6 @@
           "name": "Volumen 8",
           "size": 24112651,
           "telegram_link": "https://t.me/c/-1004334091126/406"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-11-03T23:07:26+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Rokujouma - Vol 8.5.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 407,
-          "name": "Volumen 8",
-          "size": 13074528,
-          "telegram_link": "https://t.me/c/-1004334091126/407"
         },
         {
           "channel_id": -1004334091126,
@@ -1491,7 +1457,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1683,23 +1649,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             12
           ],
           "date": "2026-10-12T20:15:29+00:00",
@@ -1757,7 +1706,7 @@
       "latest_chapter": 11,
       "library_count": 2,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1894,23 +1843,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -249328,7 +249260,7 @@
       "latest_chapter": 184,
       "library_count": 7,
       "name": "Leviathan",
-      "package_count": 18,
+      "package_count": 20,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -249756,6 +249688,30 @@
           "telegram_link": "https://t.me/manhuasgratis/908"
         },
         {
+          "name": "171-180",
+          "first": 171,
+          "last": 180,
+          "channel_id": -1003003829878,
+          "message_id": 7612,
+          "filename": "│171-180│Leviathan.pdf",
+          "size": 100559961,
+          "date": "2026-11-03T15:10:25+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7612",
+          "download_ready": false,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ]
+        },
+        {
           "channel_id": -1004367557958,
           "chapters": [
             171,
@@ -249783,6 +249739,24 @@
           "name": "171-184",
           "size": 117916657,
           "telegram_link": "https://t.me/manhuasgratis/909"
+        },
+        {
+          "name": "181-184",
+          "first": 181,
+          "last": 184,
+          "channel_id": -1003003829878,
+          "message_id": 7613,
+          "filename": "│181-184 Fin│Leviathan.pdf",
+          "size": 36807628,
+          "date": "2026-11-03T15:10:25+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7613",
+          "download_ready": false,
+          "chapters": [
+            181,
+            182,
+            183,
+            184
+          ]
         }
       ],
       "rating": 5,
@@ -430898,6 +430872,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-04T01:35:48.645447+00:00",
+  "updated_at": "2026-11-04T02:20:42.831165+00:00",
   "version": 3
 }
