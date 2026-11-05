@@ -2,11 +2,11 @@
   "announcements": [
     {
       "allow_response": true,
-      "created_at": "2026-11-03T01:11:02.696070+00:00",
-      "expires_at": "2026-11-10T01:11:02.696070+00:00",
-      "id": "ann_1793668262",
-      "message": "en unos minutos",
-      "title": "capitulos faltantes de nano machine en proceso de subida"
+      "created_at": "2026-11-05T17:46:32.730435+00:00",
+      "expires_at": "2026-11-12T17:46:32.730435+00:00",
+      "id": "ann_1793900792",
+      "message": "esta buena",
+      "title": "el que no lo ha visto, vea solo leveling en disponibles"
     }
   ],
   "novels": [
@@ -1706,7 +1706,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1894,6 +1894,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -3870,7 +3887,7 @@
       "latest_chapter": 36,
       "library_count": 0,
       "name": "Rokujouma no Shinryakusha",
-      "package_count": 34,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -3994,6 +4011,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            7
+          ],
+          "date": "2026-11-03T23:07:25+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Rokujouma - Vol 7.5.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 405,
+          "name": "Volumen 7",
+          "size": 32865300,
+          "telegram_link": "https://t.me/c/-1004334091126/405"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             8
           ],
           "date": "2026-11-03T23:07:25+00:00",
@@ -4007,6 +4041,23 @@
           "name": "Volumen 8",
           "size": 24112651,
           "telegram_link": "https://t.me/c/-1004334091126/406"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-11-03T23:07:26+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Rokujouma - Vol 8.5.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 407,
+          "name": "Volumen 8",
+          "size": 13074528,
+          "telegram_link": "https://t.me/c/-1004334091126/407"
         },
         {
           "channel_id": -1004334091126,
@@ -5343,7 +5394,7 @@
       "latest_chapter": 11,
       "library_count": 4,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -5480,6 +5531,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -47451,20 +47519,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7153"
         },
         {
-          "name": "153",
-          "first": 153,
-          "last": 153,
           "channel_id": -1003003829878,
-          "message_id": 7688,
-          "filename": "[#153]   Asesino Divino, Yo Soy la Sombra.pdf",
-          "size": 22250640,
-          "date": "2026-11-05T05:20:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7688",
-          "download_ready": true,
           "chapters": [
             153
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/asesino_divino_yo_soy_la_sombra/7688_%5B%23153%5D%20%20%20Asesino%20Divino%2C%20Yo%20Soy%20la%20Sombra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101856Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c677a0518ad5c8731003a688421936b34587d28a36545772d345ae2e62bdc1dd"
+          "date": "2026-11-05T05:20:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/asesino_divino_yo_soy_la_sombra/7688_%5B%23153%5D%20%20%20Asesino%20Divino%2C%20Yo%20Soy%20la%20Sombra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101856Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c677a0518ad5c8731003a688421936b34587d28a36545772d345ae2e62bdc1dd",
+          "filename": "[#153]   Asesino Divino, Yo Soy la Sombra.pdf",
+          "first": 153,
+          "last": 153,
+          "message_id": 7688,
+          "name": "153",
+          "size": 22250640,
+          "telegram_link": "https://t.me/manhuasgratis/7688"
         }
       ],
       "rating": 0,
@@ -96366,20 +96434,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7656"
         },
         {
-          "name": "57",
-          "first": 57,
-          "last": 57,
           "channel_id": -1003003829878,
-          "message_id": 7689,
-          "filename": "57 • Dominio Absoluto del Nivel 0.pdf",
-          "size": 6034938,
-          "date": "2026-11-05T05:20:47+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7689",
-          "download_ready": true,
           "chapters": [
             57
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dominio_absoluto_del_nivel_0/7689_57%20%E2%80%A2%20Dominio%20Absoluto%20del%20Nivel%200.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0909767bcb355ebe2a4c6088cd75a606902d8e0ce4dfa2480ef3e23f8edc541"
+          "date": "2026-11-05T05:20:47+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/dominio_absoluto_del_nivel_0/7689_57%20%E2%80%A2%20Dominio%20Absoluto%20del%20Nivel%200.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0909767bcb355ebe2a4c6088cd75a606902d8e0ce4dfa2480ef3e23f8edc541",
+          "filename": "57 • Dominio Absoluto del Nivel 0.pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 7689,
+          "name": "57",
+          "size": 6034938,
+          "telegram_link": "https://t.me/manhuasgratis/7689"
         }
       ],
       "rating": 3.57,
@@ -112807,14 +112875,14 @@
           ],
           "date": "2026-11-04T17:01:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7660_01-11%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17498d335d7e0ecaeb30f7c4d8a40327c542f15c2c4de6fc32f209b626a90fd0",
           "filename": "01-11 El emperador del vino -.-.pdf",
           "first": 1,
           "last": 11,
           "message_id": 7660,
           "name": "1-11",
           "size": 118573934,
-          "telegram_link": "https://t.me/manhuasgratis/7660",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7660_01-11%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17498d335d7e0ecaeb30f7c4d8a40327c542f15c2c4de6fc32f209b626a90fd0"
+          "telegram_link": "https://t.me/manhuasgratis/7660"
         },
         {
           "channel_id": -1003003829878,
@@ -112824,14 +112892,14 @@
           ],
           "date": "2026-11-04T17:01:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7661_12-13%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e22a76687b17116aef3c1040caaa891f215677c8b66675d84374887944151110",
           "filename": "12-13 El emperador del vino -.-.pdf",
           "first": 12,
           "last": 13,
           "message_id": 7661,
           "name": "12-13",
           "size": 19142612,
-          "telegram_link": "https://t.me/manhuasgratis/7661",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7661_12-13%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e22a76687b17116aef3c1040caaa891f215677c8b66675d84374887944151110"
+          "telegram_link": "https://t.me/manhuasgratis/7661"
         },
         {
           "channel_id": -1003003829878,
@@ -112841,14 +112909,14 @@
           ],
           "date": "2026-11-04T17:01:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7662_14-15%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6038a7c5c7399b9bb105066d4a2ae89d4679d0fad3477881a271a4f752a80e69",
           "filename": "14-15 El emperador del vino -.-.pdf",
           "first": 14,
           "last": 15,
           "message_id": 7662,
           "name": "14-15",
           "size": 17848107,
-          "telegram_link": "https://t.me/manhuasgratis/7662",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7662_14-15%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6038a7c5c7399b9bb105066d4a2ae89d4679d0fad3477881a271a4f752a80e69"
+          "telegram_link": "https://t.me/manhuasgratis/7662"
         },
         {
           "channel_id": -1003003829878,
@@ -112858,14 +112926,14 @@
           ],
           "date": "2026-11-04T17:01:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7663_16-17%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=da8677d209a2e4e47fc42953c5cd4e8d78da46dd01dff9ff81e67dbdb13fc4c0",
           "filename": "16-17 El emperador del vino -.-.pdf",
           "first": 16,
           "last": 17,
           "message_id": 7663,
           "name": "16-17",
           "size": 21385784,
-          "telegram_link": "https://t.me/manhuasgratis/7663",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7663_16-17%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=da8677d209a2e4e47fc42953c5cd4e8d78da46dd01dff9ff81e67dbdb13fc4c0"
+          "telegram_link": "https://t.me/manhuasgratis/7663"
         },
         {
           "channel_id": -1003003829878,
@@ -112875,14 +112943,14 @@
           ],
           "date": "2026-11-04T17:01:14+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7664_18-19%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=11ee15c6f623cce3d00441a362a1f8ec5edaf9df2c6d920c2219fd1d56ffaa0c",
           "filename": "18-19 El emperador del vino -.-.pdf",
           "first": 18,
           "last": 19,
           "message_id": 7664,
           "name": "18-19",
           "size": 20441636,
-          "telegram_link": "https://t.me/manhuasgratis/7664",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_emperador_del_vino/7664_18-19%20El%20emperador%20del%20vino%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=11ee15c6f623cce3d00441a362a1f8ec5edaf9df2c6d920c2219fd1d56ffaa0c"
+          "telegram_link": "https://t.me/manhuasgratis/7664"
         }
       ],
       "rating": 0,
@@ -139955,21 +140023,21 @@
           "telegram_link": "https://t.me/manhuasgratis/7301"
         },
         {
-          "name": "153-154",
-          "first": 153,
-          "last": 154,
           "channel_id": -1003003829878,
-          "message_id": 7690,
-          "filename": "[#153-154]   El Prodigioso Caballero Oscuro.pdf",
-          "size": 34185584,
-          "date": "2026-11-05T05:20:49+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7690",
-          "download_ready": true,
           "chapters": [
             153,
             154
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/7690_%5B%23153-154%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0488a4a8199b30015b5d69d08d0940ddbd30ca847cd89462fb56558af7f01b1b"
+          "date": "2026-11-05T05:20:49+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/7690_%5B%23153-154%5D%20%20%20El%20Prodigioso%20Caballero%20Oscuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0488a4a8199b30015b5d69d08d0940ddbd30ca847cd89462fb56558af7f01b1b",
+          "filename": "[#153-154]   El Prodigioso Caballero Oscuro.pdf",
+          "first": 153,
+          "last": 154,
+          "message_id": 7690,
+          "name": "153-154",
+          "size": 34185584,
+          "telegram_link": "https://t.me/manhuasgratis/7690"
         }
       ],
       "rating": 0,
@@ -146681,20 +146749,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7146"
         },
         {
-          "name": "195",
-          "first": 195,
-          "last": 195,
           "channel_id": -1003003829878,
-          "message_id": 7691,
-          "filename": "195 • El Regreso del Héroe de Clase Desastre.pdf",
-          "size": 8979841,
-          "date": "2026-11-05T05:20:52+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7691",
-          "download_ready": true,
           "chapters": [
             195
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_regreso_del_heroe_de_clase_desastre/7691_195%20%E2%80%A2%20El%20Regreso%20del%20H%C3%A9roe%20de%20Clase%20Desastre.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=48edb9f858a3406b556048e4767f27066a3a828fa8b80939e767876d9d4f4b7a"
+          "date": "2026-11-05T05:20:52+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_regreso_del_heroe_de_clase_desastre/7691_195%20%E2%80%A2%20El%20Regreso%20del%20H%C3%A9roe%20de%20Clase%20Desastre.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=48edb9f858a3406b556048e4767f27066a3a828fa8b80939e767876d9d4f4b7a",
+          "filename": "195 • El Regreso del Héroe de Clase Desastre.pdf",
+          "first": 195,
+          "last": 195,
+          "message_id": 7691,
+          "name": "195",
+          "size": 8979841,
+          "telegram_link": "https://t.me/manhuasgratis/7691"
         }
       ],
       "rating": 5,
@@ -180544,20 +180612,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7143"
         },
         {
-          "name": "226",
-          "first": 226,
-          "last": 226,
           "channel_id": -1003003829878,
-          "message_id": 7676,
-          "filename": "226 Gacha Infinito -.-.pdf",
-          "size": 7947415,
-          "date": "2026-11-04T21:21:34+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7676",
-          "download_ready": true,
           "chapters": [
             226
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/7676_226%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9707a133c5b2f298eecf6caa0df765522ebe749f623aa429f819dda48cafd6c8"
+          "date": "2026-11-04T21:21:34+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/gacha_infinito/7676_226%20Gacha%20Infinito%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101857Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9707a133c5b2f298eecf6caa0df765522ebe749f623aa429f819dda48cafd6c8",
+          "filename": "226 Gacha Infinito -.-.pdf",
+          "first": 226,
+          "last": 226,
+          "message_id": 7676,
+          "name": "226",
+          "size": 7947415,
+          "telegram_link": "https://t.me/manhuasgratis/7676"
         }
       ],
       "rating": 4.7,
@@ -250262,7 +250330,7 @@
       "latest_chapter": 184,
       "library_count": 7,
       "name": "Leviathan",
-      "package_count": 20,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1004367557958,
@@ -250690,31 +250758,6 @@
           "telegram_link": "https://t.me/manhuasgratis/908"
         },
         {
-          "name": "171-180",
-          "first": 171,
-          "last": 180,
-          "channel_id": -1003003829878,
-          "message_id": 7612,
-          "filename": "│171-180│Leviathan.pdf",
-          "size": 100559961,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7612",
-          "download_ready": false,
-          "chapters": [
-            171,
-            172,
-            173,
-            174,
-            175,
-            176,
-            177,
-            178,
-            179,
-            180
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/leviathan/7612_%E2%94%82171-180%E2%94%82Leviathan.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8546c49f492addeb403ccc2564ef592bbd0e69c6d5816609008e516fea7ea8ee"
-        },
-        {
           "channel_id": -1004367557958,
           "chapters": [
             171,
@@ -250742,25 +250785,6 @@
           "name": "171-184",
           "size": 117916657,
           "telegram_link": "https://t.me/manhuasgratis/909"
-        },
-        {
-          "name": "181-184",
-          "first": 181,
-          "last": 184,
-          "channel_id": -1003003829878,
-          "message_id": 7613,
-          "filename": "│181-184 Fin│Leviathan.pdf",
-          "size": 36807628,
-          "date": "2026-11-03T15:10:25+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7613",
-          "download_ready": false,
-          "chapters": [
-            181,
-            182,
-            183,
-            184
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/leviathan/7613_%E2%94%82181-184%20Fin%E2%94%82Leviathan.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=87d53ab2a1e9c67d60ece0ec04db9bd58426ef5d8ee2da3c7d3180847edc17be"
         }
       ],
       "rating": 5,
@@ -269782,14 +269806,14 @@
           ],
           "date": "2026-11-04T17:06:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7666_01-10%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8457f67c08f91467b16cbf9925f80ce99085b0c51f95c25954030fecba0b6a1",
           "filename": "01-10 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 1,
           "last": 10,
           "message_id": 7666,
           "name": "1-10",
           "size": 100185764,
-          "telegram_link": "https://t.me/manhuasgratis/7666",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7666_01-10%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8457f67c08f91467b16cbf9925f80ce99085b0c51f95c25954030fecba0b6a1"
+          "telegram_link": "https://t.me/manhuasgratis/7666"
         },
         {
           "channel_id": -1003003829878,
@@ -269807,14 +269831,14 @@
           ],
           "date": "2026-11-04T17:06:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7667_11-20%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96ba6fc405d0496ee4152889f5700b10bb5fb633288a590f68984e3b4b5c5e06",
           "filename": "11-20 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 11,
           "last": 20,
           "message_id": 7667,
           "name": "11-20",
           "size": 91664165,
-          "telegram_link": "https://t.me/manhuasgratis/7667",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7667_11-20%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96ba6fc405d0496ee4152889f5700b10bb5fb633288a590f68984e3b4b5c5e06"
+          "telegram_link": "https://t.me/manhuasgratis/7667"
         },
         {
           "channel_id": -1003003829878,
@@ -269832,14 +269856,14 @@
           ],
           "date": "2026-11-04T17:06:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7668_21-30%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d407bb6aa49836cc3097c5d3ca4796f9c6e255a24b1d3802e8750d3218abbe6",
           "filename": "21-30 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 21,
           "last": 30,
           "message_id": 7668,
           "name": "21-30",
           "size": 93747683,
-          "telegram_link": "https://t.me/manhuasgratis/7668",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7668_21-30%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d407bb6aa49836cc3097c5d3ca4796f9c6e255a24b1d3802e8750d3218abbe6"
+          "telegram_link": "https://t.me/manhuasgratis/7668"
         },
         {
           "channel_id": -1003003829878,
@@ -269857,14 +269881,14 @@
           ],
           "date": "2026-11-04T17:06:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7669_31-40%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=676372a1871fa029db51a717c2c1138f54b3629e9e45d259428d08c3dff30f55",
           "filename": "31-40 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 31,
           "last": 40,
           "message_id": 7669,
           "name": "31-40",
           "size": 102105910,
-          "telegram_link": "https://t.me/manhuasgratis/7669",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7669_31-40%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=676372a1871fa029db51a717c2c1138f54b3629e9e45d259428d08c3dff30f55"
+          "telegram_link": "https://t.me/manhuasgratis/7669"
         },
         {
           "channel_id": -1003003829878,
@@ -269882,14 +269906,14 @@
           ],
           "date": "2026-11-04T17:06:01+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7670_41-50%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96617865b184a17e271228c6ea1299ef5a1ad3750e39c88b890d2cab52a2a8b6",
           "filename": "41-50 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 41,
           "last": 50,
           "message_id": 7670,
           "name": "41-50",
           "size": 104438940,
-          "telegram_link": "https://t.me/manhuasgratis/7670",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7670_41-50%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96617865b184a17e271228c6ea1299ef5a1ad3750e39c88b890d2cab52a2a8b6"
+          "telegram_link": "https://t.me/manhuasgratis/7670"
         },
         {
           "channel_id": -1003003829878,
@@ -269907,14 +269931,14 @@
           ],
           "date": "2026-11-04T17:06:02+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7671_51-60%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=06985d71a9e38483c90d407fec2ff7bcb605ed8caf0d73e2b60aab04b009ae15",
           "filename": "51-60 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 51,
           "last": 60,
           "message_id": 7671,
           "name": "51-60",
           "size": 106181498,
-          "telegram_link": "https://t.me/manhuasgratis/7671",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7671_51-60%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=06985d71a9e38483c90d407fec2ff7bcb605ed8caf0d73e2b60aab04b009ae15"
+          "telegram_link": "https://t.me/manhuasgratis/7671"
         },
         {
           "channel_id": -1003003829878,
@@ -269932,14 +269956,14 @@
           ],
           "date": "2026-11-04T17:06:02+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7672_61-70%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=409aa589bc7472308a222e5e71c2a7cf952393d9b8436a86111314b90b06c4e2",
           "filename": "61-70 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 61,
           "last": 70,
           "message_id": 7672,
           "name": "61-70",
           "size": 100131390,
-          "telegram_link": "https://t.me/manhuasgratis/7672",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7672_61-70%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=409aa589bc7472308a222e5e71c2a7cf952393d9b8436a86111314b90b06c4e2"
+          "telegram_link": "https://t.me/manhuasgratis/7672"
         },
         {
           "channel_id": -1003003829878,
@@ -269957,14 +269981,14 @@
           ],
           "date": "2026-11-04T17:06:02+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7673_71-80%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5eb495ecad309603fa21974c9619421e72ae86a6251706a40a8c3a710fbe552",
           "filename": "71-80 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 71,
           "last": 80,
           "message_id": 7673,
           "name": "71-80",
           "size": 112021210,
-          "telegram_link": "https://t.me/manhuasgratis/7673",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7673_71-80%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5eb495ecad309603fa21974c9619421e72ae86a6251706a40a8c3a710fbe552"
+          "telegram_link": "https://t.me/manhuasgratis/7673"
         },
         {
           "channel_id": -1003003829878,
@@ -269983,14 +270007,14 @@
           ],
           "date": "2026-11-04T17:06:02+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7674_81-91%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5821302810b5d3025f2119c198e2d580ffdfd540ecc70a67c351448eb747c9b6",
           "filename": "81-91 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 81,
           "last": 91,
           "message_id": 7674,
           "name": "81-91",
           "size": 126380058,
-          "telegram_link": "https://t.me/manhuasgratis/7674",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7674_81-91%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5821302810b5d3025f2119c198e2d580ffdfd540ecc70a67c351448eb747c9b6"
+          "telegram_link": "https://t.me/manhuasgratis/7674"
         },
         {
           "channel_id": -1003003829878,
@@ -270001,14 +270025,14 @@
           ],
           "date": "2026-11-04T17:06:02+00:00",
           "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7675_92-94%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=90df2b9370ccc9441966c39670dba63ede0f5a8271394286977d97aeb1e570ec",
           "filename": "92-94 Me Confundieron con un Genio del Futbol -.-.pdf",
           "first": 92,
           "last": 94,
           "message_id": 7675,
           "name": "92-94",
           "size": 50763636,
-          "telegram_link": "https://t.me/manhuasgratis/7675",
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/me_confundieron_con_un_genio_del_futbol/7675_92-94%20Me%20Confundieron%20con%20un%20Genio%20del%20Futbol%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101858Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=90df2b9370ccc9441966c39670dba63ede0f5a8271394286977d97aeb1e570ec"
+          "telegram_link": "https://t.me/manhuasgratis/7675"
         }
       ],
       "rating": 0,
@@ -370809,6 +370833,467 @@
       "visible": true
     },
     {
+      "added_at": "2026-11-05T17:15:25+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/solo_leveling_ragnarok.jpg",
+      "cover_message_id": 2821,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2821",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Sistema",
+        "Magia"
+      ],
+      "hashtag": "#Solo_Leveling_Ragnarok",
+      "id": "solo_leveling_ragnarok",
+      "latest_chapter": 71,
+      "library_count": 0,
+      "name": "Solo Leveling Ragnarok",
+      "package_count": 26,
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "01-10┇➣ Solo Leveling Ragnarok.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 7695,
+          "name": "1-10",
+          "size": 120049790,
+          "telegram_link": "https://t.me/manhuasgratis/7695"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "11-20┇➣ Solo Leveling Ragnarok.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 7696,
+          "name": "11-20",
+          "size": 102915010,
+          "telegram_link": "https://t.me/manhuasgratis/7696"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "21-30┇➣ Solo Leveling Ragnarok.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 7697,
+          "name": "21-30",
+          "size": 98186924,
+          "telegram_link": "https://t.me/manhuasgratis/7697"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "31-40┇➣ Solo Leveling Ragnarok.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 7698,
+          "name": "31-40",
+          "size": 94980847,
+          "telegram_link": "https://t.me/manhuasgratis/7698"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "41-47┇➣ Solo Leveling Ragnarok.pdf",
+          "first": 41,
+          "last": 47,
+          "message_id": 7699,
+          "name": "41-47",
+          "size": 66985673,
+          "telegram_link": "https://t.me/manhuasgratis/7699"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            48,
+            49
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆048-049┆Solo Leveling Ragnarok.pdf",
+          "first": 48,
+          "last": 49,
+          "message_id": 7700,
+          "name": "48-49",
+          "size": 19186793,
+          "telegram_link": "https://t.me/manhuasgratis/7700"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            50
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆050┆Solo Leveling Ragnarok.pdf",
+          "first": 50,
+          "last": 50,
+          "message_id": 7701,
+          "name": "50",
+          "size": 7833393,
+          "telegram_link": "https://t.me/manhuasgratis/7701"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            51
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆051┆Solo Leveling Ragnarok.pdf",
+          "first": 51,
+          "last": 51,
+          "message_id": 7702,
+          "name": "51",
+          "size": 10201269,
+          "telegram_link": "https://t.me/manhuasgratis/7702"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            52
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆052┆Solo Leveling Ragnarok.pdf",
+          "first": 52,
+          "last": 52,
+          "message_id": 7703,
+          "name": "52",
+          "size": 9307514,
+          "telegram_link": "https://t.me/manhuasgratis/7703"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            53
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆053┆Solo Leveling Ragnarok.pdf",
+          "first": 53,
+          "last": 53,
+          "message_id": 7704,
+          "name": "53",
+          "size": 9437675,
+          "telegram_link": "https://t.me/manhuasgratis/7704"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            54
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆054┆Solo Leveling Ragnarok.pdf",
+          "first": 54,
+          "last": 54,
+          "message_id": 7705,
+          "name": "54",
+          "size": 8894512,
+          "telegram_link": "https://t.me/manhuasgratis/7705"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            55
+          ],
+          "date": "2026-11-05T17:15:25+00:00",
+          "download_ready": true,
+          "filename": "┆055┆Solo Leveling Ragnarok.pdf",
+          "first": 55,
+          "last": 55,
+          "message_id": 7706,
+          "name": "55",
+          "size": 8936499,
+          "telegram_link": "https://t.me/manhuasgratis/7706"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            56
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "┆056┆Solo Leveling Ragnarok.pdf",
+          "first": 56,
+          "last": 56,
+          "message_id": 7707,
+          "name": "56",
+          "size": 9903177,
+          "telegram_link": "https://t.me/manhuasgratis/7707"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            57
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "┆057┆Solo Leveling Ragnarok.pdf",
+          "first": 57,
+          "last": 57,
+          "message_id": 7708,
+          "name": "57",
+          "size": 8308306,
+          "telegram_link": "https://t.me/manhuasgratis/7708"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            58
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "┆058┆Solo Leveling Ragnarok.pdf",
+          "first": 58,
+          "last": 58,
+          "message_id": 7709,
+          "name": "58",
+          "size": 8636182,
+          "telegram_link": "https://t.me/manhuasgratis/7709"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            59
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "┆059┆Solo Leveling Ragnarok.pdf",
+          "first": 59,
+          "last": 59,
+          "message_id": 7710,
+          "name": "59",
+          "size": 9128770,
+          "telegram_link": "https://t.me/manhuasgratis/7710"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            60
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "┆060┆Solo Leveling Ragnarok.pdf",
+          "first": 60,
+          "last": 60,
+          "message_id": 7711,
+          "name": "60",
+          "size": 9167844,
+          "telegram_link": "https://t.me/manhuasgratis/7711"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            61
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "┆061┆Solo Leveling Ragnarok.pdf",
+          "first": 61,
+          "last": 61,
+          "message_id": 7712,
+          "name": "61",
+          "size": 8681501,
+          "telegram_link": "https://t.me/manhuasgratis/7712"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            62
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "62 • Solo Leveling Ragnarok.pdf",
+          "first": 62,
+          "last": 62,
+          "message_id": 7713,
+          "name": "62",
+          "size": 5788395,
+          "telegram_link": "https://t.me/manhuasgratis/7713"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            63
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "63 • Solo Leveling Ragnarok.pdf",
+          "first": 63,
+          "last": 63,
+          "message_id": 7714,
+          "name": "63",
+          "size": 5062747,
+          "telegram_link": "https://t.me/manhuasgratis/7714"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            64
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "64 • Solo Leveling Ragnarok.pdf",
+          "first": 64,
+          "last": 64,
+          "message_id": 7715,
+          "name": "64",
+          "size": 6186946,
+          "telegram_link": "https://t.me/manhuasgratis/7715"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            65
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "65 • Solo Leveling Ragnarok.pdf",
+          "first": 65,
+          "last": 65,
+          "message_id": 7716,
+          "name": "65",
+          "size": 9463086,
+          "telegram_link": "https://t.me/manhuasgratis/7716"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            66
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "66 • Solo Leveling Ragnarok.pdf",
+          "first": 66,
+          "last": 66,
+          "message_id": 7717,
+          "name": "66",
+          "size": 7121479,
+          "telegram_link": "https://t.me/manhuasgratis/7717"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            67
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "67 • Solo Leveling Ragnarok.pdf",
+          "first": 67,
+          "last": 67,
+          "message_id": 7718,
+          "name": "67",
+          "size": 9762559,
+          "telegram_link": "https://t.me/manhuasgratis/7718"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            68
+          ],
+          "date": "2026-11-05T17:15:26+00:00",
+          "download_ready": true,
+          "filename": "68 • Solo Leveling Ragnarok.pdf",
+          "first": 68,
+          "last": 68,
+          "message_id": 7719,
+          "name": "68",
+          "size": 9587636,
+          "telegram_link": "https://t.me/manhuasgratis/7719"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            69,
+            70,
+            71
+          ],
+          "date": "2026-11-05T17:15:27+00:00",
+          "download_ready": true,
+          "filename": "69-71 ⚘ Solo Leveling⠰Ragnarok.pdf",
+          "first": 69,
+          "last": 71,
+          "message_id": 7720,
+          "name": "69-71",
+          "size": 29425745,
+          "telegram_link": "https://t.me/manhuasgratis/7720"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "[¡Por el estudio Redice que te trajo Solo Leveling!]\nLa existencia de la Tierra está amenazada una vez más mientras Itarim, los dioses de otros universos, buscan llenar el vacío dejado por el Ser Absoluto. Sung Jinwoo no tiene más remedio que enviar a Beru, el Rey de las Hormigas de las Sombras, para despertar los poderes de su hijo y comenzar el viaje que él una vez emprendió. Suho debe conquistar la mazmorra de las sombras y ganarse su lugar en el mundo de los cazadores mientras navega a través de un mundo nuevo contra un nuevo mal que busca tragarse el mundo entero.",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-24T13:27:32+00:00",
       "aliases": [],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/solo_un_amanecer.jpg",
@@ -397777,20 +398262,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7314"
         },
         {
-          "name": "158",
-          "first": 158,
-          "last": 158,
           "channel_id": -1003003829878,
-          "message_id": 7692,
-          "filename": "│158│El Indomable Rey Marcial.pdf",
-          "size": 7161192,
-          "date": "2026-11-05T05:20:53+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7692",
-          "download_ready": true,
           "chapters": [
             158
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_indomitable_martial_king/7692_%E2%94%82158%E2%94%82El%20Indomable%20Rey%20Marcial.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101859Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd604665a016a733d86319b30dbf5351ef73d5e5cb3fc3621820e23bb053978d"
+          "date": "2026-11-05T05:20:53+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/the_indomitable_martial_king/7692_%E2%94%82158%E2%94%82El%20Indomable%20Rey%20Marcial.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261105%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261105T101859Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd604665a016a733d86319b30dbf5351ef73d5e5cb3fc3621820e23bb053978d",
+          "filename": "│158│El Indomable Rey Marcial.pdf",
+          "first": 158,
+          "last": 158,
+          "message_id": 7692,
+          "name": "158",
+          "size": 7161192,
+          "telegram_link": "https://t.me/manhuasgratis/7692"
         }
       ],
       "rating": 5,
@@ -410744,10 +411229,10 @@
       ],
       "hashtag": "#Un_Nigromante_en_la_familia_de_espadachines",
       "id": "un_nigromante_en_la_familia_de_espadachines",
-      "latest_chapter": 27,
+      "latest_chapter": 30,
       "library_count": 4,
       "name": "Un Nigromante en la familia de espadachines",
-      "package_count": 19,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -411061,6 +411546,51 @@
           "name": "27",
           "size": 12123110,
           "telegram_link": "https://t.me/manhuasgratis/5261"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            28
+          ],
+          "date": "2026-11-05T17:32:06+00:00",
+          "download_ready": true,
+          "filename": "28 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 28,
+          "last": 28,
+          "message_id": 7721,
+          "name": "28",
+          "size": 13503058,
+          "telegram_link": "https://t.me/manhuasgratis/7721"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            29
+          ],
+          "date": "2026-11-05T17:32:08+00:00",
+          "download_ready": true,
+          "filename": "[29] Un Nigromante en la Familia de Espadachines.pdf",
+          "first": 29,
+          "last": 29,
+          "message_id": 7722,
+          "name": "29",
+          "size": 13847331,
+          "telegram_link": "https://t.me/manhuasgratis/7722"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            30
+          ],
+          "date": "2026-11-05T17:32:10+00:00",
+          "download_ready": true,
+          "filename": "30 Un Nigromante en la familia de espadachines -.-.pdf",
+          "first": 30,
+          "last": 30,
+          "message_id": 7723,
+          "name": "30",
+          "size": 12970068,
+          "telegram_link": "https://t.me/manhuasgratis/7723"
         }
       ],
       "rating": 0,
@@ -432690,6 +433220,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-05T05:21:07.848301+00:00",
+  "updated_at": "2026-11-05T17:46:32.731452+00:00",
   "version": 3
 }
