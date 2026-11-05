@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T02:42:08.801210+00:00",
-  "total_comments": 9,
+  "updated_at": "2026-11-05T17:35:20.724407+00:00",
+  "total_comments": 11,
   "series": {
+    "un_diario_de_conquista": [
+      {
+        "id": "8539f7a8-590d-40ab-b47a-a8cb01e92676",
+        "user_name": "RapMonster",
+        "text": "debería estar como +18",
+        "created_at": 1793810512676
+      }
+    ],
+    "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre": [
+      {
+        "id": "e0aff90d-d115-450a-aa94-c846dc704829",
+        "user_name": "Lector F8F1",
+        "text": "alfin lo encuentro jsjzjs",
+        "created_at": 1793797969309
+      }
+    ],
     "supervivencia": [
       {
         "id": "4980a40e-5f55-4f7b-b6a5-016be2ed0c59",
