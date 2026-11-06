@@ -80239,7 +80239,7 @@
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Yo, un esclavo corporativo, terminé poseyendo el cuerpo de un noble dentro de un juego, ¿pero se supone que debo ser un personaje extra destinado a ser asesinado por los futuros villanos? Ni hablar. ¡Reformaré a esos mocosos y viviré mi vida noble en paz! Para evitar que los jóvenes villanos se volvieran malvados, los patrociné y los ayudé a superar sus duras circunstancias, y todos crecieron para convertirse en individuos admirables, rectos y perfectamente normales como resultado. Y así fue como terminé convirtiéndome en el jefe final del reino... …¿Espera, qué?",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-10-21T15:59:25+00:00",
@@ -174013,7 +174013,8 @@
           "message_id": 7800,
           "name": "139",
           "size": 6847505,
-          "telegram_link": "https://t.me/manhuasgratis/7800"
+          "telegram_link": "https://t.me/manhuasgratis/7800",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/evolucion_insana_de_cero/7800_139%20Evoluci%C3%B3n%20insana%20de%20cero%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261106%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261106T134457Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=26d7b1b99f3fccbb43bc728b3e22a9e84c636f64613243fc57d604884b139cb9"
         },
         {
           "channel_id": -1003003829878,
@@ -174028,13 +174029,14 @@
           "message_id": 7801,
           "name": "140",
           "size": 5671639,
-          "telegram_link": "https://t.me/manhuasgratis/7801"
+          "telegram_link": "https://t.me/manhuasgratis/7801",
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/evolucion_insana_de_cero/7801_140%20Evoluci%C3%B3n%20insana%20de%20cero%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261106%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261106T134522Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4f388965a25e53832caf21ce83a30e4fdb9d55da879288b236ad66a3769dbe3"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "Un mundo azotado por bestias mutantes y cultos ocultos. Un joven sin poder recibe un sistema único: devorar la esencia de las criaturas y evolucionar sin límites. Cada batalla lo acerca más a la cima, cada enemigo le abre la puerta a nuevas habilidades. De la nada absoluta… al camino de la evolución infinita.",
-      "visible": false
+      "visible": true
     },
     {
       "added_at": "2026-08-16T18:56:42+00:00",
