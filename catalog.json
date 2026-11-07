@@ -294267,10 +294267,10 @@
       ],
       "hashtag": "#Murim_Login",
       "id": "murim_login",
-      "latest_chapter": 250,
+      "latest_chapter": 251,
       "library_count": 4,
       "name": "Murim Login",
-      "package_count": 26,
+      "package_count": 27,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -294911,6 +294911,21 @@
           "name": "249-250",
           "size": 17176764,
           "telegram_link": "https://t.me/manhuasgratis/6867"
+        },
+        {
+          "name": "251",
+          "first": 251,
+          "last": 251,
+          "channel_id": -1003003829878,
+          "message_id": 7822,
+          "filename": "251 Murim Login -.-.pdf",
+          "size": 15843705,
+          "date": "2026-11-07T05:22:15+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7822",
+          "download_ready": false,
+          "chapters": [
+            251
+          ]
         }
       ],
       "rating": 5.0,
@@ -310063,10 +310078,10 @@
       ],
       "hashtag": "#Novato_De_Nivel_Máximo",
       "id": "novato_de_nivel_maximo",
-      "latest_chapter": 283,
+      "latest_chapter": 284,
       "library_count": 10,
       "name": "Novato De Nivel Máximo",
-      "package_count": 60,
+      "package_count": 61,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -311257,6 +311272,21 @@
           "name": "283",
           "size": 21446101,
           "telegram_link": "https://t.me/manhuasgratis/7160"
+        },
+        {
+          "name": "284",
+          "first": 284,
+          "last": 284,
+          "channel_id": -1003003829878,
+          "message_id": 7823,
+          "filename": "[#284]   Novato Solo A Nivel Máximo.pdf",
+          "size": 23522811,
+          "date": "2026-11-07T05:22:16+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7823",
+          "download_ready": false,
+          "chapters": [
+            284
+          ]
         }
       ],
       "rating": 5.0,
@@ -435676,6 +435706,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-06T22:20:39.974383+00:00",
+  "updated_at": "2026-11-07T06:20:42.198632+00:00",
   "version": 3
 }
