@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T13:54:08.335655+00:00",
-  "total_comments": 11,
+  "updated_at": "2026-11-07T04:00:40.688241+00:00",
+  "total_comments": 13,
   "series": {
+    "esclavo_corporativo_en_una_historia_de_fantasmas": [
+      {
+        "id": "bb96a1ad-cf38-456c-857c-ec81d899c97f",
+        "user_name": "admin",
+        "text": "tuve mis dudas al principio, pero está muy buena",
+        "created_at": 1794003375698
+      }
+    ],
+    "el_soberano_del_hogar": [
+      {
+        "id": "0f54bbdc-9114-4e56-87ff-a27bdbc3c730",
+        "user_name": "admin",
+        "text": "está buena, buena trama",
+        "created_at": 1793976836426
+      }
+    ],
     "un_diario_de_conquista": [
       {
         "id": "8539f7a8-590d-40ab-b47a-a8cb01e92676",
