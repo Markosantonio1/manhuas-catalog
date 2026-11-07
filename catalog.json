@@ -1706,7 +1706,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 13,
+      "package_count": 14,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1894,6 +1894,23 @@
           "name": "Volumen 11",
           "size": 7210399,
           "telegram_link": "https://t.me/c/-1004334091126/343"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            11
+          ],
+          "date": "2026-10-12T20:15:29+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
+          "first": 11,
+          "is_novel_volume": true,
+          "last": 11,
+          "message_id": 344,
+          "name": "Volumen 11",
+          "size": 7574277,
+          "telegram_link": "https://t.me/c/-1004334091126/344"
         },
         {
           "channel_id": -1004334091126,
@@ -2682,7 +2699,7 @@
       "hashtag": "#Lord_of_the_Mysteries",
       "id": "lord_of_the_mysteries",
       "latest_chapter": 16,
-      "library_count": 4,
+      "library_count": 5,
       "name": "Lord of the Mysteries",
       "package_count": 16,
       "packages": [
@@ -3870,7 +3887,7 @@
       "latest_chapter": 36,
       "library_count": 0,
       "name": "Rokujouma no Shinryakusha",
-      "package_count": 34,
+      "package_count": 36,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -3994,6 +4011,23 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
+            7
+          ],
+          "date": "2026-11-03T23:07:25+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Rokujouma - Vol 7.5.pdf",
+          "first": 7,
+          "is_novel_volume": true,
+          "last": 7,
+          "message_id": 405,
+          "name": "Volumen 7",
+          "size": 32865300,
+          "telegram_link": "https://t.me/c/-1004334091126/405"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
             8
           ],
           "date": "2026-11-03T23:07:25+00:00",
@@ -4007,6 +4041,23 @@
           "name": "Volumen 8",
           "size": 24112651,
           "telegram_link": "https://t.me/c/-1004334091126/406"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-11-03T23:07:26+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "Rokujouma - Vol 8.5.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 407,
+          "name": "Volumen 8",
+          "size": 13074528,
+          "telegram_link": "https://t.me/c/-1004334091126/407"
         },
         {
           "channel_id": -1004334091126,
@@ -5343,7 +5394,7 @@
       "latest_chapter": 11,
       "library_count": 4,
       "name": "The Beginning After The End",
-      "package_count": 10,
+      "package_count": 11,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -5480,6 +5531,23 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
+        },
+        {
+          "channel_id": -1004334091126,
+          "chapters": [
+            8
+          ],
+          "date": "2026-10-03T23:48:24+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
+          "first": 8,
+          "is_novel_volume": true,
+          "last": 8,
+          "message_id": 66,
+          "name": "Volumen 8",
+          "size": 833533,
+          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -6353,7 +6421,7 @@
       "hashtag": "#00_10_Aunque_Seas_Secundario_Te_Enamorarás",
       "id": "00_10_aunque_seas_secundario_te_enamoraras",
       "latest_chapter": 145,
-      "library_count": 2,
+      "library_count": 3,
       "name": "00 10 Aunque Seas Secundario Te Enamorarás",
       "package_count": 20,
       "packages": [
@@ -16347,7 +16415,7 @@
       "hashtag": "#01_10_La_Magia_De_Un_Retornado_Debe_Ser_Especial",
       "id": "01_10_la_magia_de_un_retornado_debe_ser_especial",
       "latest_chapter": 269,
-      "library_count": 9,
+      "library_count": 10,
       "name": "01 10 La Magia De Un Retornado Debe Ser Especial",
       "package_count": 27,
       "packages": [
@@ -18044,7 +18112,7 @@
       "hashtag": "#01_10_Matrimonio_Arreglado_Con_Un_Enemigo_Amable",
       "id": "01_10_matrimonio_arreglado_con_un_enemigo_amable",
       "latest_chapter": 75,
-      "library_count": 1,
+      "library_count": 2,
       "name": "01 10 Matrimonio Arreglado Con Un Enemigo Amable",
       "package_count": 7,
       "packages": [
@@ -29211,7 +29279,7 @@
       "hashtag": "#A_Mi_Dulce_Némesis",
       "id": "a_mi_dulce_nemesis",
       "latest_chapter": 89,
-      "library_count": 0,
+      "library_count": 1,
       "name": "A Mi Dulce Némesis",
       "package_count": 5,
       "packages": [
@@ -29401,7 +29469,7 @@
       "hashtag": "#A_Mi_Primer_Amor",
       "id": "a_mi_primer_amor",
       "latest_chapter": 57,
-      "library_count": 0,
+      "library_count": 1,
       "name": "A Mi Primer Amor",
       "package_count": 6,
       "packages": [
@@ -35371,7 +35439,7 @@
       "hashtag": "#Aitsu_no_Kanojo",
       "id": "aitsu_no_kanojo",
       "latest_chapter": 73,
-      "library_count": 0,
+      "library_count": 1,
       "name": "Aitsu no Kanojo",
       "package_count": 8,
       "packages": [
@@ -44694,9 +44762,9 @@
       "hashtag": "#Archimago_tracendiendo_a_travez",
       "id": "archimago_tracendiendo_a_travez",
       "latest_chapter": 220,
-      "library_count": 15,
+      "library_count": 16,
       "name": "Archimago tracendiendo a travez",
-      "package_count": 77,
+      "package_count": 80,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -44947,6 +45015,78 @@
           "name": "91-100",
           "size": 51303140,
           "telegram_link": "https://t.me/manhuasgratis/4422"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-09-11T17:04:36+00:00",
+          "download_ready": true,
+          "filename": "[#101-110]   Archimago Trascendiendo A Través.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 4423,
+          "name": "101-110",
+          "size": 61798351,
+          "telegram_link": "https://t.me/manhuasgratis/4423"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-09-11T17:04:36+00:00",
+          "download_ready": true,
+          "filename": "[#111-120]   Archimago Trascendiendo A Través.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 4424,
+          "name": "111-120",
+          "size": 70909872,
+          "telegram_link": "https://t.me/manhuasgratis/4424"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-09-11T17:04:36+00:00",
+          "download_ready": true,
+          "filename": "[#121-130]   Archimago Trascendiendo A Través.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 4425,
+          "name": "121-130",
+          "size": 57809999,
+          "telegram_link": "https://t.me/manhuasgratis/4425"
         },
         {
           "channel_id": -1003003829878,
@@ -46240,7 +46380,7 @@
       "hashtag": "#Ascensión_del_Dios_devorador_de_Almas",
       "id": "ascension_del_dios_devorador_de_almas",
       "latest_chapter": 23,
-      "library_count": 21,
+      "library_count": 22,
       "name": "Ascensión del Dios devorador de Almas",
       "package_count": 4,
       "packages": [
@@ -51229,7 +51369,7 @@
       "hashtag": "#Bad_Thinking_Diary",
       "id": "bad_thinking_diary_adult",
       "latest_chapter": 60,
-      "library_count": 2,
+      "library_count": 1,
       "name": "Bad Thinking Diary",
       "package_count": 6,
       "packages": [
@@ -68763,23 +68903,23 @@
             105,
             106,
             107,
-            108
+            108,
+            109,
+            110
           ],
-          "date": "2026-10-20T21:10:23+00:00",
+          "date": "2026-11-06T20:56:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/cirujano_perfecto/3285_%5B101-108%5D%20%20cirujano%20perfecto%20.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093541Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c0c98492484dca2ff4ae6c9af2d6a0925c919fe66e439af5426a919a31684be7",
-          "filename": "[101-108]  cirujano perfecto .pdf",
+          "filename": "[#101-110] • Cirujano Perfecto.pdf",
           "first": 101,
-          "last": 108,
-          "message_id": 3285,
-          "name": "101-108",
-          "size": 164399603,
-          "telegram_link": "https://t.me/manhuasgratis/3285"
+          "last": 110,
+          "message_id": 13317,
+          "name": "101-110",
+          "size": 51490658,
+          "telegram_link": "https://t.me/manhuasgratis/13317"
         },
         {
           "channel_id": -1004367557958,
           "chapters": [
-            110,
             111,
             112,
             113,
@@ -68788,16 +68928,15 @@
             116,
             117
           ],
-          "date": "2026-10-20T21:10:24+00:00",
+          "date": "2026-11-06T20:56:26+00:00",
           "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/cirujano_perfecto/3286_%5B110-117%5D.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093541Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe4f68967cb4e0f62674625a8feeb8369c6ee7a0c4d383db088f691e528020ad",
-          "filename": "[110-117].pdf",
-          "first": 110,
+          "filename": "[#111-117] • Cirujano Perfecto.pdf",
+          "first": 111,
           "last": 117,
-          "message_id": 3286,
-          "name": "110-117",
-          "size": 70184608,
-          "telegram_link": "https://t.me/manhuasgratis/3286"
+          "message_id": 13318,
+          "name": "111-117",
+          "size": 44026255,
+          "telegram_link": "https://t.me/manhuasgratis/13318"
         }
       ],
       "rating": 0,
@@ -71949,7 +72088,7 @@
       "hashtag": "#Consegui_una_esposa_en_el_otro_mundo",
       "id": "consegui_una_esposa_en_el_otro_mundo",
       "latest_chapter": 34,
-      "library_count": 7,
+      "library_count": 8,
       "name": "Consegui una esposa en el otro mundo",
       "package_count": 20,
       "packages": [
@@ -73331,7 +73470,7 @@
       "hashtag": "#Conviviendo_Con_4_Mujeres",
       "id": "conviviendo_con_4_mujeres_adult",
       "latest_chapter": 64,
-      "library_count": 11,
+      "library_count": 9,
       "name": "Conviviendo Con 4 Mujeres",
       "package_count": 7,
       "packages": [
@@ -73526,7 +73665,7 @@
       "hashtag": "#Copiando_Habilidades_Con_Afinidad",
       "id": "copiando_habilidades_con_afinidad",
       "latest_chapter": 12,
-      "library_count": 10,
+      "library_count": 11,
       "name": "Copiando Habilidades Con Afinidad",
       "package_count": 3,
       "packages": [
@@ -79833,7 +79972,7 @@
       "hashtag": "#Cómo_Criar_Villanos_Correctamente",
       "id": "como_criar_villanos_correctamente",
       "latest_chapter": 60,
-      "library_count": 0,
+      "library_count": 3,
       "name": "Cómo Criar Villanos Correctamente",
       "package_count": 18,
       "packages": [
@@ -90536,7 +90675,7 @@
       "hashtag": "#Despertar_del_guerrero_del_Rayo_Clase_SSS",
       "id": "despertar_del_guerrero_del_rayo_clase_sss",
       "latest_chapter": 86,
-      "library_count": 8,
+      "library_count": 7,
       "name": "Despertar del guerrero del Rayo Clase SSS",
       "package_count": 54,
       "packages": [
@@ -96316,7 +96455,7 @@
       "hashtag": "#Dominio_Absoluto_del_Nivel_0",
       "id": "dominio_absoluto_del_nivel_0",
       "latest_chapter": 57,
-      "library_count": 25,
+      "library_count": 26,
       "name": "Dominio Absoluto del Nivel 0",
       "package_count": 25,
       "packages": [
@@ -110354,7 +110493,7 @@
       "hashtag": "#El_Dios_Marcial_que_Regresó_al_nivel_2",
       "id": "el_dios_marcial_que_regreso_al_nivel_2",
       "latest_chapter": 132,
-      "library_count": 10,
+      "library_count": 11,
       "name": "El Dios Marcial que Regresó al nivel 2",
       "package_count": 38,
       "packages": [
@@ -112029,7 +112168,7 @@
       "hashtag": "#El_Duque_Del_Dragón_Blanco_Pendragon",
       "id": "el_duque_del_dragon_blanco_pendragon",
       "latest_chapter": 131,
-      "library_count": 4,
+      "library_count": 5,
       "name": "El Duque Del Dragón Blanco Pendragon",
       "package_count": 13,
       "packages": [
@@ -114679,7 +114818,7 @@
       "hashtag": "#El_esposo_de_la_emperatriz_es_realmente_invencible",
       "id": "el_esposo_de_la_emperatriz_es_realmente_invencible",
       "latest_chapter": 390,
-      "library_count": 4,
+      "library_count": 5,
       "name": "El esposo de la emperatriz es realmente invencible",
       "package_count": 65,
       "packages": [
@@ -117799,7 +117938,7 @@
       "hashtag": "#El_gran_demonio_celestial_soberano",
       "id": "el_gran_demonio_celestial_soberano",
       "latest_chapter": 60,
-      "library_count": 4,
+      "library_count": 5,
       "name": "El gran demonio celestial soberano",
       "package_count": 22,
       "packages": [
@@ -119401,7 +119540,7 @@
       "hashtag": "#El_Heroe_De_Nivel_Legendario_Prodigio_De_La_Academia",
       "id": "el_heroe_de_nivel_legendario_prodigio_de_la_academia",
       "latest_chapter": 111,
-      "library_count": 16,
+      "library_count": 17,
       "name": "El Heroe De Nivel Legendario Prodigio De La Academia",
       "package_count": 53,
       "packages": [
@@ -121643,7 +121782,7 @@
       "hashtag": "#El_Hijo_Menor_del_Maestro_de_la_Espada",
       "id": "el_hijo_menor_del_maestro_de_la_espada",
       "latest_chapter": 219,
-      "library_count": 29,
+      "library_count": 30,
       "name": "El Hijo Menor del Maestro de la Espada",
       "package_count": 37,
       "packages": [
@@ -122447,7 +122586,7 @@
       "hashtag": "#El_Hijo_Menor_del_Renombrado_Clan_Mágico",
       "id": "el_hijo_menor_del_renombrado_clan_magico",
       "latest_chapter": 141,
-      "library_count": 7,
+      "library_count": 8,
       "name": "El Hijo Menor del Renombrado Clan Mágico",
       "package_count": 35,
       "packages": [
@@ -123143,7 +123282,7 @@
       "hashtag": "#El_Hombre_mas_Fuerte_del_Manicomio",
       "id": "el_hombre_mas_fuerte_del_manicomio",
       "latest_chapter": 367,
-      "library_count": 4,
+      "library_count": 3,
       "name": "El Hombre mas Fuerte del Manicomio",
       "package_count": 37,
       "packages": [
@@ -125003,7 +125142,7 @@
       "hashtag": "#El_Ignorante",
       "id": "el_ignorante_adult",
       "latest_chapter": 21,
-      "library_count": 0,
+      "library_count": 2,
       "name": "El Ignorante",
       "package_count": 3,
       "packages": [
@@ -125496,7 +125635,7 @@
       "hashtag": "#El_Joven_Heredero_de_la_Familia_de_Nigromantes",
       "id": "el_joven_heredero_de_la_familia_de_nigromantes",
       "latest_chapter": 67,
-      "library_count": 21,
+      "library_count": 22,
       "name": "El Joven Heredero de la Familia de Nigromantes",
       "package_count": 15,
       "packages": [
@@ -129347,7 +129486,7 @@
       "hashtag": "#El_Legendario_Hijo_Menor_De_La_Casa_Del_Marqués",
       "id": "el_legendario_hijo_menor_de_la_casa_del_marques",
       "latest_chapter": 185,
-      "library_count": 3,
+      "library_count": 4,
       "name": "El Legendario Hijo Menor De La Casa Del Marqués",
       "package_count": 24,
       "packages": [
@@ -146587,7 +146726,7 @@
       "hashtag": "#El_Regreso_del_Héroe_de_Clase_Desastre",
       "id": "el_regreso_del_heroe_de_clase_desastre",
       "latest_chapter": 195,
-      "library_count": 20,
+      "library_count": 22,
       "name": "El Regreso del Héroe de Clase Desastre",
       "package_count": 58,
       "packages": [
@@ -158196,9 +158335,9 @@
       "hashtag": "#Eleceed",
       "id": "eleceed",
       "latest_chapter": 425,
-      "library_count": 4,
+      "library_count": 5,
       "name": "Eleceed",
-      "package_count": 92,
+      "package_count": 102,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -158449,6 +158588,246 @@
           "name": "91-100",
           "size": 74699172,
           "telegram_link": "https://t.me/manhuasgratis/7480"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#101-110]   Eleceed.pdf",
+          "first": 101,
+          "last": 110,
+          "message_id": 7481,
+          "name": "101-110",
+          "size": 64058839,
+          "telegram_link": "https://t.me/manhuasgratis/7481"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#111-120]   Eleceed.pdf",
+          "first": 111,
+          "last": 120,
+          "message_id": 7482,
+          "name": "111-120",
+          "size": 59415590,
+          "telegram_link": "https://t.me/manhuasgratis/7482"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#121-130]   Eleceed.pdf",
+          "first": 121,
+          "last": 130,
+          "message_id": 7483,
+          "name": "121-130",
+          "size": 70329997,
+          "telegram_link": "https://t.me/manhuasgratis/7483"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#131-140]   Eleceed.pdf",
+          "first": 131,
+          "last": 140,
+          "message_id": 7484,
+          "name": "131-140",
+          "size": 70841471,
+          "telegram_link": "https://t.me/manhuasgratis/7484"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#141-150]   Eleceed.pdf",
+          "first": 141,
+          "last": 150,
+          "message_id": 7485,
+          "name": "141-150",
+          "size": 75663608,
+          "telegram_link": "https://t.me/manhuasgratis/7485"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#151-160]   Eleceed.pdf",
+          "first": 151,
+          "last": 160,
+          "message_id": 7486,
+          "name": "151-160",
+          "size": 82450948,
+          "telegram_link": "https://t.me/manhuasgratis/7486"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#161-170]   Eleceed.pdf",
+          "first": 161,
+          "last": 170,
+          "message_id": 7487,
+          "name": "161-170",
+          "size": 72204085,
+          "telegram_link": "https://t.me/manhuasgratis/7487"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#171-180]   Eleceed.pdf",
+          "first": 171,
+          "last": 180,
+          "message_id": 7488,
+          "name": "171-180",
+          "size": 60643214,
+          "telegram_link": "https://t.me/manhuasgratis/7488"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#181-190]   Eleceed.pdf",
+          "first": 181,
+          "last": 190,
+          "message_id": 7489,
+          "name": "181-190",
+          "size": 98812722,
+          "telegram_link": "https://t.me/manhuasgratis/7489"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+          ],
+          "date": "2026-11-03T03:44:42+00:00",
+          "download_ready": true,
+          "filename": "[#191-200]   Eleceed.pdf",
+          "first": 191,
+          "last": 200,
+          "message_id": 7490,
+          "name": "191-200",
+          "size": 84085520,
+          "telegram_link": "https://t.me/manhuasgratis/7490"
         },
         {
           "channel_id": -1003003829878,
@@ -160124,7 +160503,7 @@
       "hashtag": "#Ella_No_Es_Mi_Hermana",
       "id": "ella_no_es_mi_hermana_adult",
       "latest_chapter": 40,
-      "library_count": 5,
+      "library_count": 6,
       "name": "Ella No Es Mi Hermana",
       "package_count": 2,
       "packages": [
@@ -160606,7 +160985,7 @@
       "hashtag": "#Emperador_Inmortal_Luo_Wuji",
       "id": "emperador_inmortal_luo_wuji",
       "latest_chapter": 248,
-      "library_count": 1,
+      "library_count": 2,
       "name": "Emperador Inmortal Luo Wuji",
       "package_count": 25,
       "packages": [
@@ -161256,10 +161635,10 @@
       ],
       "hashtag": "#Emperador_Magico",
       "id": "emperador_magico",
-      "latest_chapter": 930,
-      "library_count": 19,
+      "latest_chapter": 931,
+      "library_count": 20,
       "name": "Emperador Magico",
-      "package_count": 96,
+      "package_count": 115,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -161820,6 +162199,438 @@
           "name": "321-350",
           "size": 215881157,
           "telegram_link": "https://t.me/manhuasgratis/3965"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            351,
+            352,
+            353,
+            354,
+            355,
+            356,
+            357,
+            358,
+            359,
+            360
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#351-360] • Emperador Mágico.pdf",
+          "first": 351,
+          "last": 360,
+          "message_id": 3966,
+          "name": "351-360",
+          "size": 49884754,
+          "telegram_link": "https://t.me/manhuasgratis/3966"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#361-370] • Emperador Mágico.pdf",
+          "first": 361,
+          "last": 370,
+          "message_id": 3967,
+          "name": "361-370",
+          "size": 41056560,
+          "telegram_link": "https://t.me/manhuasgratis/3967"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#371-380] • Emperador Mágico.pdf",
+          "first": 371,
+          "last": 380,
+          "message_id": 3968,
+          "name": "371-380",
+          "size": 42103791,
+          "telegram_link": "https://t.me/manhuasgratis/3968"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#381-390] • Emperador Mágico.pdf",
+          "first": 381,
+          "last": 390,
+          "message_id": 3969,
+          "name": "381-390",
+          "size": 41469700,
+          "telegram_link": "https://t.me/manhuasgratis/3969"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            391,
+            392,
+            393,
+            394,
+            395,
+            396,
+            397,
+            398,
+            399,
+            400
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#391-400] • Emperador Mágico.pdf",
+          "first": 391,
+          "last": 400,
+          "message_id": 3970,
+          "name": "391-400",
+          "size": 41485605,
+          "telegram_link": "https://t.me/manhuasgratis/3970"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#401-410] • Emperador Mágico.pdf",
+          "first": 401,
+          "last": 410,
+          "message_id": 3971,
+          "name": "401-410",
+          "size": 46482961,
+          "telegram_link": "https://t.me/manhuasgratis/3971"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            411,
+            412,
+            413,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419,
+            420
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#411-420] • Emperador Mágico.pdf",
+          "first": 411,
+          "last": 420,
+          "message_id": 3972,
+          "name": "411-420",
+          "size": 42179903,
+          "telegram_link": "https://t.me/manhuasgratis/3972"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427,
+            428,
+            429,
+            430
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#421-430] • Emperador Mágico.pdf",
+          "first": 421,
+          "last": 430,
+          "message_id": 3973,
+          "name": "421-430",
+          "size": 43727141,
+          "telegram_link": "https://t.me/manhuasgratis/3973"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#441-450] • Emperador Mágico.pdf",
+          "first": 441,
+          "last": 450,
+          "message_id": 3974,
+          "name": "441-450",
+          "size": 42848890,
+          "telegram_link": "https://t.me/manhuasgratis/3974"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            460
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#451-460] • Emperador Mágico.pdf",
+          "first": 451,
+          "last": 460,
+          "message_id": 3975,
+          "name": "451-460",
+          "size": 47078002,
+          "telegram_link": "https://t.me/manhuasgratis/3975"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            461,
+            462,
+            463,
+            464,
+            465,
+            466,
+            467,
+            468,
+            469,
+            470
+          ],
+          "date": "2026-08-29T13:13:02+00:00",
+          "download_ready": true,
+          "filename": "[#461-470] • Emperador Mágico.pdf",
+          "first": 461,
+          "last": 470,
+          "message_id": 3976,
+          "name": "461-470",
+          "size": 47331799,
+          "telegram_link": "https://t.me/manhuasgratis/3976"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            471,
+            472,
+            473,
+            474,
+            475,
+            476,
+            477,
+            478,
+            479,
+            480
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#471-480] • Emperador Mágico.pdf",
+          "first": 471,
+          "last": 480,
+          "message_id": 3977,
+          "name": "471-480",
+          "size": 59338883,
+          "telegram_link": "https://t.me/manhuasgratis/3977"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            481,
+            482,
+            483,
+            484,
+            485,
+            486,
+            487,
+            488,
+            489,
+            490
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#481-490] • Emperador Mágico.pdf",
+          "first": 481,
+          "last": 490,
+          "message_id": 3978,
+          "name": "481-490",
+          "size": 49034232,
+          "telegram_link": "https://t.me/manhuasgratis/3978"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            491,
+            492,
+            493,
+            494,
+            495,
+            496,
+            497,
+            498,
+            499,
+            500
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#491-500] • Emperador Mágico.pdf",
+          "first": 491,
+          "last": 500,
+          "message_id": 3979,
+          "name": "491-500",
+          "size": 50280664,
+          "telegram_link": "https://t.me/manhuasgratis/3979"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508,
+            509,
+            510
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#501-510] • Emperador Mágico.pdf",
+          "first": 501,
+          "last": 510,
+          "message_id": 3980,
+          "name": "501-510",
+          "size": 89622416,
+          "telegram_link": "https://t.me/manhuasgratis/3980"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            511,
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#511-520] • Emperador Mágico.pdf",
+          "first": 511,
+          "last": 520,
+          "message_id": 3981,
+          "name": "511-520",
+          "size": 93195349,
+          "telegram_link": "https://t.me/manhuasgratis/3981"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            527,
+            528,
+            529,
+            530
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#521-530] • Emperador Mágico.pdf",
+          "first": 521,
+          "last": 530,
+          "message_id": 3982,
+          "name": "521-530",
+          "size": 86217193,
+          "telegram_link": "https://t.me/manhuasgratis/3982"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            531,
+            532,
+            533,
+            534,
+            535,
+            536,
+            537,
+            538,
+            539,
+            540
+          ],
+          "date": "2026-08-29T13:13:03+00:00",
+          "download_ready": true,
+          "filename": "[#531-540] • Emperador Mágico.pdf",
+          "first": 531,
+          "last": 540,
+          "message_id": 3983,
+          "name": "531-540",
+          "size": 83376963,
+          "telegram_link": "https://t.me/manhuasgratis/3983"
         },
         {
           "channel_id": -1003003829878,
@@ -163438,6 +164249,21 @@
           "name": "928-930",
           "size": 23692348,
           "telegram_link": "https://t.me/manhuasgratis/7291"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            931
+          ],
+          "date": "2026-11-06T21:09:07+00:00",
+          "download_ready": true,
+          "filename": "│931│Emperador Mágico.pdf",
+          "first": 931,
+          "last": 931,
+          "message_id": 7814,
+          "name": "931",
+          "size": 6823007,
+          "telegram_link": "https://t.me/manhuasgratis/7814"
         }
       ],
       "rating": 5.0,
@@ -168844,23 +169670,23 @@
           "telegram_link": "https://t.me/manhuasgratis/7224"
         },
         {
-          "name": "43",
-          "first": 43,
-          "last": 43,
           "channel_id": -1003003829878,
-          "message_id": 7815,
-          "filename": "[43] Esclavo Corporativo en una Historia de Fantasmas.pdf",
-          "size": 10345193,
-          "date": "2026-11-06T21:21:44+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7815",
-          "download_ready": true,
           "chapters": [
             43
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/7815_%5B43%5D%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8b15eb4b2f5caf1e87dcb1e0b3ab6ec7a6af9117d45353b1160cc95db46bf0da"
+          "date": "2026-11-06T21:21:44+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_corporativo_en_una_historia_de_fantasmas/7815_%5B43%5D%20Esclavo%20Corporativo%20en%20una%20Historia%20de%20Fantasmas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8b15eb4b2f5caf1e87dcb1e0b3ab6ec7a6af9117d45353b1160cc95db46bf0da",
+          "filename": "[43] Esclavo Corporativo en una Historia de Fantasmas.pdf",
+          "first": 43,
+          "last": 43,
+          "message_id": 7815,
+          "name": "43",
+          "size": 10345193,
+          "telegram_link": "https://t.me/manhuasgratis/7815"
         }
       ],
-      "rating": 4.57,
+      "rating": 4.71,
       "rating_count": 7,
       "synopsis": "Un evento temporal de una obra de 'fantasía moderna' que me gustaba tanto que incluso me tomé un valioso día libre en el trabajo para asistir. Ese mismo día, terminé transmigrando como un personaje en ese mismísimo mundo de fantasía. ¡Y nada menos que como un empleado recién contratado en una corporación grande y famosa! Un trabajo de ensueño con excelentes beneficios, un sueldo magnífico e incluso jefes amables y competentes. ¡Estoy usando la información que conozco sobre este mundo para ascender de puesto a la velocidad de la luz!",
       "visible": true
@@ -168883,7 +169709,7 @@
       "hashtag": "#Esclavo_de_las_sombras",
       "id": "esclavo_de_las_sombras",
       "latest_chapter": 16,
-      "library_count": 16,
+      "library_count": 17,
       "name": "Esclavo de las sombras",
       "package_count": 12,
       "packages": [
@@ -169068,20 +169894,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7158"
         },
         {
-          "name": "16",
-          "first": 16,
-          "last": 16,
           "channel_id": -1003003829878,
-          "message_id": 7817,
-          "filename": "[16] Esclavo De Las Sombras.pdf",
-          "size": 13529279,
-          "date": "2026-11-06T21:21:48+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7817",
-          "download_ready": true,
           "chapters": [
             16
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_de_las_sombras/7817_%5B16%5D%20Esclavo%20De%20Las%20Sombras.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eee86cbb8ac6185f57116d04a36badac10dfff4e965236924746d0cf84f7b2ad"
+          "date": "2026-11-06T21:21:48+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/esclavo_de_las_sombras/7817_%5B16%5D%20Esclavo%20De%20Las%20Sombras.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eee86cbb8ac6185f57116d04a36badac10dfff4e965236924746d0cf84f7b2ad",
+          "filename": "[16] Esclavo De Las Sombras.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 7817,
+          "name": "16",
+          "size": 13529279,
+          "telegram_link": "https://t.me/manhuasgratis/7817"
         }
       ],
       "rating": 4.0,
@@ -181518,7 +182344,7 @@
       "hashtag": "#Gacha_infinito",
       "id": "gacha_infinito",
       "latest_chapter": 226,
-      "library_count": 39,
+      "library_count": 40,
       "name": "Gacha infinito",
       "package_count": 34,
       "packages": [
@@ -182259,8 +183085,8 @@
           "telegram_link": "https://t.me/manhuasgratis/7676"
         }
       ],
-      "rating": 4.73,
-      "rating_count": 11,
+      "rating": 4.58,
+      "rating_count": 12,
       "synopsis": ": El juego gacha para móviles es conocido por ser brutalmente difícil, y nadie ha sido capaz de despejar una mazmorra. Loki, el quinto entre todos los maestros del mundo, pierde el conocimiento mientras intenta despejar la mazmorra. Al despertar, Loki se encuentra convertido en un héroe de nivel 1, \"Islat Han\". \"¡Es él! Estoy seguro de que es él quien me ha traído aquí\". Para volver a la Tierra, ¡debe guiar a maestros novatos y héroes y atravesar el piso 100 de la mazmorra! \"Te metiste con la persona equivocada\". Esta es la historia del maestro Loki, que se ve obligado a llevar a todos a la victoria y no puede permitirse ni una sola derrota.",
       "visible": true
     },
@@ -186555,7 +187381,7 @@
       "hashtag": "#Guía_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
       "id": "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
       "latest_chapter": 51,
-      "library_count": 11,
+      "library_count": 12,
       "name": "Guía de estrategia de un cobarde para conquistar la torre",
       "package_count": 32,
       "packages": [
@@ -187117,7 +187943,7 @@
       "hashtag": "#Guía_de_supervivencia_del_extra_de_la_academia",
       "id": "guia_de_supervivencia_del_extra_de_la_academia",
       "latest_chapter": 129,
-      "library_count": 23,
+      "library_count": 24,
       "name": "Guía de supervivencia del extra de la academia",
       "package_count": 27,
       "packages": [
@@ -195625,6 +196451,103 @@
       "visible": true
     },
     {
+      "added_at": "2026-11-07T12:53:03+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/ijimete_ijirarete.jpg",
+      "cover_message_id": 2835,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2835",
+      "genres": [
+        "Respaldo",
+        "Romance",
+        "Yuri",
+        "Ecchi"
+      ],
+      "hashtag": "#Ijimete_Ijirarete",
+      "id": "ijimete_ijirarete",
+      "latest_chapter": 16,
+      "library_count": 0,
+      "name": "Ijimete Ijirarete",
+      "package_count": 4,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "date": "2026-11-07T12:53:03+00:00",
+          "download_ready": true,
+          "filename": "01 - 07 ☆ Ijimete Ijirarete.pdf",
+          "first": 1,
+          "last": 7,
+          "message_id": 13415,
+          "name": "1-7",
+          "size": 53266927,
+          "telegram_link": "https://t.me/manhuasgratis/13415"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "date": "2026-11-07T12:53:05+00:00",
+          "download_ready": true,
+          "filename": "08 - 14 ☆ Ijimete Ijirarete.pdf",
+          "first": 8,
+          "last": 14,
+          "message_id": 13416,
+          "name": "8-14",
+          "size": 59895254,
+          "telegram_link": "https://t.me/manhuasgratis/13416"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            15
+          ],
+          "date": "2026-11-07T12:53:06+00:00",
+          "download_ready": true,
+          "filename": "15 ☆ Ijimete Ijirarete.pdf",
+          "first": 15,
+          "last": 15,
+          "message_id": 13417,
+          "name": "15",
+          "size": 9195841,
+          "telegram_link": "https://t.me/manhuasgratis/13417"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            16
+          ],
+          "date": "2026-11-07T12:53:08+00:00",
+          "download_ready": true,
+          "filename": "16 - Acosadora y Acosada.pdf",
+          "first": 16,
+          "last": 16,
+          "message_id": 13418,
+          "name": "16",
+          "size": 10423075,
+          "telegram_link": "https://t.me/manhuasgratis/13418"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Himeri Shishido es una chica rebelde, popular y muy segura de su propia fuerza. Se pasa los días acosando a Ui Odagiri, una chica otaku de su clase, bajo la excusa de que solo está «jugando». Sin embargo, ¡un suceso inesperado las llevará a mantener una relación secreta! ¿Habrá violencia de por medio? ¿O quizás una relación de ama y esclava? ¡En esta historia de amor marcada por el acoso, cualquier cosa puede pasar!",
+      "visible": false
+    },
+    {
       "added_at": "2026-10-22T03:16:45+00:00",
       "aliases": [],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/ijiwaru_killer_tune.jpg",
@@ -200318,7 +201241,7 @@
       "hashtag": "#Isekai_Trip_Saki_de_Tasukete_Kureta_no_wa_Hitogoroshi_no_Shounen_deshita",
       "id": "isekai_trip_saki_de_tasukete_kureta_no_wa_hitogoroshi_no_shounen_deshita_adult",
       "latest_chapter": 5,
-      "library_count": 5,
+      "library_count": 6,
       "name": "Isekai Trip Saki de Tasukete Kureta no wa Hitogoroshi no Shounen deshita",
       "package_count": 3,
       "packages": [
@@ -220252,7 +221175,7 @@
         }
       ],
       "rating": 3.0,
-      "rating_count": 1,
+      "rating_count": 2,
       "synopsis": "El señor de la familia Deharem, Theorad, compró una elfa como esclava sexual en su ignorancia. Sin embargo... “¡¿Compraste una elfa como esclava sexual?! Vizconde, ¿estás loco?\" Se dio cuenta de lo aterrador que era la elfa que trajo después de escuchar estas palabras... ¿Podrá Theorad satisfacer las necesidades de humillación de esta aterradora elfa?",
       "visible": true
     },
@@ -221540,7 +222463,7 @@
       "hashtag": "#La_Era_De_La_Inocencia",
       "id": "la_era_de_la_inocencia_adult",
       "latest_chapter": 50,
-      "library_count": 1,
+      "library_count": 2,
       "name": "La Era De La Inocencia",
       "package_count": 5,
       "packages": [
@@ -224262,7 +225185,7 @@
       "hashtag": "#La_Gran_Guerra",
       "id": "la_gran_guerra",
       "latest_chapter": 60,
-      "library_count": 1,
+      "library_count": 2,
       "name": "La Gran Guerra",
       "package_count": 6,
       "packages": [
@@ -225250,7 +226173,7 @@
       "hashtag": "#La_Invitación_De_La_Concubina",
       "id": "la_invitacion_de_la_concubina",
       "latest_chapter": 98,
-      "library_count": 0,
+      "library_count": 1,
       "name": "La Invitación De La Concubina",
       "package_count": 10,
       "packages": [
@@ -240268,7 +241191,7 @@
       "hashtag": "#La_Simbiótica_Relación_Entre_La_Coneja_y_Una_Pantera_Negra",
       "id": "la_simbiotica_relacion_entre_la_coneja_y_una_pantera_negra",
       "latest_chapter": 206,
-      "library_count": 0,
+      "library_count": 1,
       "name": "La Simbiótica Relación Entre La Coneja y Una Pantera Negra",
       "package_count": 12,
       "packages": [
@@ -240900,7 +241823,7 @@
       "hashtag": "#La_torre_del_tutorial",
       "id": "la_torre_del_tutorial",
       "latest_chapter": 223,
-      "library_count": 8,
+      "library_count": 9,
       "name": "La torre del tutorial",
       "package_count": 23,
       "packages": [
@@ -243367,7 +244290,7 @@
       "hashtag": "#La_Venganza_del_Sabueso_de_Sangre_de_Hierro",
       "id": "la_venganza_del_sabueso_de_sangre_de_hierro",
       "latest_chapter": 187,
-      "library_count": 25,
+      "library_count": 27,
       "name": "La Venganza del Sabueso de Sangre de Hierro",
       "package_count": 58,
       "packages": [
@@ -248879,20 +249802,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7231"
         },
         {
-          "name": "71",
-          "first": 71,
-          "last": 71,
           "channel_id": -1003003829878,
-          "message_id": 7818,
-          "filename": "│71│La Voluntad de Supervivencia del Villano.pdf",
-          "size": 12360373,
-          "date": "2026-11-06T21:21:50+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7818",
-          "download_ready": true,
           "chapters": [
             71
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_voluntad_de_supervivencia_del_villano/7818_%E2%94%8271%E2%94%82La%20Voluntad%20de%20Supervivencia%20del%20Villano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcf587d305cebc11ee974b8980d76b0c6b086fdd17de7e2aa9e17f5d5ef96edd"
+          "date": "2026-11-06T21:21:50+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_voluntad_de_supervivencia_del_villano/7818_%E2%94%8271%E2%94%82La%20Voluntad%20de%20Supervivencia%20del%20Villano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093542Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcf587d305cebc11ee974b8980d76b0c6b086fdd17de7e2aa9e17f5d5ef96edd",
+          "filename": "│71│La Voluntad de Supervivencia del Villano.pdf",
+          "first": 71,
+          "last": 71,
+          "message_id": 7818,
+          "name": "71",
+          "size": 12360373,
+          "telegram_link": "https://t.me/manhuasgratis/7818"
         }
       ],
       "rating": 5.0,
@@ -256017,7 +256940,7 @@
       "hashtag": "#Los_Principios_De_Un_Buen_Niño",
       "id": "los_principios_de_un_buen_nino",
       "latest_chapter": 51,
-      "library_count": 5,
+      "library_count": 7,
       "name": "Los Principios De Un Buen Niño",
       "package_count": 12,
       "packages": [
@@ -262637,7 +263560,7 @@
       "hashtag": "#Maestro_Dragón_la_Profesión_más_Inútil",
       "id": "maestro_dragon_la_profesion_mas_inutil",
       "latest_chapter": 272,
-      "library_count": 7,
+      "library_count": 8,
       "name": "Maestro Dragón la Profesión más Inútil",
       "package_count": 59,
       "packages": [
@@ -273632,7 +274555,7 @@
       "hashtag": "#Me_convertí_en_el_villano_de_mi_videojuego",
       "id": "me_converti_en_el_villano_de_mi_videojuego",
       "latest_chapter": 186,
-      "library_count": 4,
+      "library_count": 5,
       "name": "Me convertí en el villano de mi videojuego",
       "package_count": 30,
       "packages": [
@@ -291120,7 +292043,7 @@
       "hashtag": "#Mis_Alter_Egos_Son_Seres_Trascendentales",
       "id": "mis_alter_egos_son_seres_trascendentales",
       "latest_chapter": 96,
-      "library_count": 10,
+      "library_count": 11,
       "name": "Mis Alter Egos Son Seres Trascendentales",
       "package_count": 24,
       "packages": [
@@ -294913,20 +295836,20 @@
           "telegram_link": "https://t.me/manhuasgratis/6867"
         },
         {
-          "name": "251",
-          "first": 251,
-          "last": 251,
           "channel_id": -1003003829878,
-          "message_id": 7822,
-          "filename": "251 Murim Login -.-.pdf",
-          "size": 15843705,
-          "date": "2026-11-07T05:22:15+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7822",
-          "download_ready": true,
           "chapters": [
             251
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/7822_251%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0f9b2f9146c13638444ffe2786fdff43ceb14ae9204acfec0e9c680f372bffe"
+          "date": "2026-11-07T05:22:15+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/murim_login/7822_251%20Murim%20Login%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0f9b2f9146c13638444ffe2786fdff43ceb14ae9204acfec0e9c680f372bffe",
+          "filename": "251 Murim Login -.-.pdf",
+          "first": 251,
+          "last": 251,
+          "message_id": 7822,
+          "name": "251",
+          "size": 15843705,
+          "telegram_link": "https://t.me/manhuasgratis/7822"
         }
       ],
       "rating": 5.0,
@@ -296997,7 +297920,7 @@
       "hashtag": "#Más_Que_Hermanos",
       "id": "mas_que_hermanos_adult",
       "latest_chapter": 89,
-      "library_count": 6,
+      "library_count": 8,
       "name": "Más Que Hermanos",
       "package_count": 9,
       "packages": [
@@ -298069,7 +298992,7 @@
       "hashtag": "#Nano_Machine",
       "id": "nano_machine",
       "latest_chapter": 335,
-      "library_count": 9,
+      "library_count": 11,
       "name": "Nano Machine",
       "package_count": 54,
       "packages": [
@@ -300312,7 +301235,7 @@
       "hashtag": "#Nigromante_la_Llegada_del_Desastre",
       "id": "nigromante_la_llegada_del_desastre",
       "latest_chapter": 319,
-      "library_count": 29,
+      "library_count": 30,
       "name": "Nigromante la Llegada del Desastre",
       "package_count": 52,
       "packages": [
@@ -301417,7 +302340,7 @@
         }
       ],
       "rating": 5.0,
-      "rating_count": 5,
+      "rating_count": 7,
       "synopsis": "El juego ha llegado a la realidad y las reglas del mundo han cambiado completamente, haciendo que la humanidad entre en una era de profesiones que lo cambia todo. ¡Solo obteniendo una profesión puedes subir de nivel y volverte fuerte y pararte en la cima del mundo! En el día del cambio de trabajo, Lin Moyu obtuvo la única profesión oculta, la de nigromante. Desde entonces, las cosas invocadas nunca mueren y Lin Moyu tampoco Muere. “Me siento en el trono de huesos mientras camino entre la vida y la muerte”",
       "visible": true
     },
@@ -311275,20 +312198,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7160"
         },
         {
-          "name": "284",
-          "first": 284,
-          "last": 284,
           "channel_id": -1003003829878,
-          "message_id": 7823,
-          "filename": "[#284]   Novato Solo A Nivel Máximo.pdf",
-          "size": 23522811,
-          "date": "2026-11-07T05:22:16+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7823",
-          "download_ready": true,
           "chapters": [
             284
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novato_de_nivel_maximo/7823_%5B%23284%5D%20%20%20Novato%20Solo%20A%20Nivel%20M%C3%A1ximo.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=229a82bcd23b4e5cd73a8c70689a143b58145e7e43d4f5066e0e82790544cbfd"
+          "date": "2026-11-07T05:22:16+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/novato_de_nivel_maximo/7823_%5B%23284%5D%20%20%20Novato%20Solo%20A%20Nivel%20M%C3%A1ximo.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=229a82bcd23b4e5cd73a8c70689a143b58145e7e43d4f5066e0e82790544cbfd",
+          "filename": "[#284]   Novato Solo A Nivel Máximo.pdf",
+          "first": 284,
+          "last": 284,
+          "message_id": 7823,
+          "name": "284",
+          "size": 23522811,
+          "telegram_link": "https://t.me/manhuasgratis/7823"
         }
       ],
       "rating": 5.0,
@@ -314654,8 +315577,8 @@
           "telegram_link": "https://t.me/manhuasgratis/7232"
         }
       ],
-      "rating": 4.67,
-      "rating_count": 3,
+      "rating": 4.75,
+      "rating_count": 4,
       "synopsis": "Los descendientes de la humanidad, nacidos en el laberinto y criados con leche de monstruos, poseen una fuerza especial y cuerpos fuertes. Cuando regresaron a la tierra, la humanidad se refirió a ellos como bebés de mazmorra. Entre ellos, Kim Jinwoo nació en el laberinto más profundo. \"Nunca intenté hacerme fuerte, sólo quería vivir\". Desde el más humilde excavador hasta el rey del laberinto, la historia de su vida se desenvuelve ahora.",
       "visible": true
     },
@@ -318242,7 +319165,7 @@
       "hashtag": "#Oshi_no_Ko",
       "id": "oshi_no_ko",
       "latest_chapter": 166,
-      "library_count": 3,
+      "library_count": 4,
       "name": "Oshi no Ko",
       "package_count": 16,
       "packages": [
@@ -319254,7 +320177,7 @@
       "hashtag": "#Overgeared",
       "id": "overgeared",
       "latest_chapter": 345,
-      "library_count": 12,
+      "library_count": 13,
       "name": "Overgeared",
       "package_count": 38,
       "packages": [
@@ -325752,7 +326675,7 @@
       "hashtag": "#Periodo_Glaciar_Construí_Un_Refugio_Apocalíptico",
       "id": "periodo_glaciar_construi_un_refugio_apocaliptico",
       "latest_chapter": 633,
-      "library_count": 8,
+      "library_count": 9,
       "name": "Periodo Glaciar Construí Un Refugio Apocalíptico",
       "package_count": 32,
       "packages": [
@@ -340506,7 +341429,7 @@
       "hashtag": "#Reality_Quest",
       "id": "reality_quest",
       "latest_chapter": 229,
-      "library_count": 4,
+      "library_count": 6,
       "name": "Reality Quest",
       "package_count": 59,
       "packages": [
@@ -341609,20 +342532,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7469"
         },
         {
-          "name": "229",
-          "first": 229,
-          "last": 229,
           "channel_id": -1003003829878,
-          "message_id": 7819,
-          "filename": "[229] Reality Quest.pdf",
-          "size": 12392863,
-          "date": "2026-11-06T21:21:53+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7819",
-          "download_ready": true,
           "chapters": [
             229
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7819_%5B229%5D%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b01cb54a0b58edd26fc087b00791a3327c18228c504339aa39f4bfaeff877980"
+          "date": "2026-11-06T21:21:53+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/reality_quest/7819_%5B229%5D%20Reality%20Quest.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b01cb54a0b58edd26fc087b00791a3327c18228c504339aa39f4bfaeff877980",
+          "filename": "[229] Reality Quest.pdf",
+          "first": 229,
+          "last": 229,
+          "message_id": 7819,
+          "name": "229",
+          "size": 12392863,
+          "telegram_link": "https://t.me/manhuasgratis/7819"
         }
       ],
       "rating": 0,
@@ -341782,7 +342705,7 @@
       "hashtag": "#Rebirth_Of_The_Urban_Immortal_Cultivator",
       "id": "rebirth_of_the_urban_immortal_cultivator",
       "latest_chapter": 723,
-      "library_count": 7,
+      "library_count": 9,
       "name": "Rebirth Of The Urban Immortal Cultivator",
       "package_count": 73,
       "packages": [
@@ -345348,7 +346271,7 @@
       "hashtag": "#regresión_del_bastardo_del_clan_de_la_espada",
       "id": "regresion_del_bastardo_del_clan_de_la_espada",
       "latest_chapter": 114,
-      "library_count": 9,
+      "library_count": 10,
       "name": "regresión del bastardo del clan de la espada",
       "package_count": 17,
       "packages": [
@@ -359623,7 +360546,7 @@
       "latest_chapter": 109,
       "library_count": 22,
       "name": "seamos amigos a partir de hoy",
-      "package_count": 11,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1004467622375,
@@ -359653,6 +360576,76 @@
         {
           "channel_id": -1004467622375,
           "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "date": "2026-11-06T14:07:06+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "01-07 - Sirvientas de Rehabilitación.pdf",
+          "first": 1,
+          "last": 7,
+          "message_id": 45,
+          "name": "1-7",
+          "size": 37684450,
+          "telegram_link": "https://t.me/c/-1004467622375/45"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            8
+          ],
+          "date": "2026-11-06T14:07:07+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "08 - Sirvientas de Rehabilitación.pdf",
+          "first": 8,
+          "last": 8,
+          "message_id": 46,
+          "name": "8",
+          "size": 6429036,
+          "telegram_link": "https://t.me/c/-1004467622375/46"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            9
+          ],
+          "date": "2026-11-06T14:07:07+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "09 - Sirvientas de Rehabilitación.pdf",
+          "first": 9,
+          "last": 9,
+          "message_id": 47,
+          "name": "9",
+          "size": 5033633,
+          "telegram_link": "https://t.me/c/-1004467622375/47"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            10
+          ],
+          "date": "2026-11-06T14:07:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "10 - Sirvientas de Rehabilitación.pdf",
+          "first": 10,
+          "last": 10,
+          "message_id": 48,
+          "name": "10",
+          "size": 6397088,
+          "telegram_link": "https://t.me/c/-1004467622375/48"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
             11,
             12,
             13,
@@ -359678,6 +360671,91 @@
         {
           "channel_id": -1004467622375,
           "chapters": [
+            11
+          ],
+          "date": "2026-11-06T14:07:08+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "11 - Sirvientas de Rehabilitación.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 49,
+          "name": "11",
+          "size": 5393021,
+          "telegram_link": "https://t.me/c/-1004467622375/49"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            12
+          ],
+          "date": "2026-11-06T14:07:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "12 - Sirvientas de Rehabilitación.pdf",
+          "first": 12,
+          "last": 12,
+          "message_id": 50,
+          "name": "12",
+          "size": 6660299,
+          "telegram_link": "https://t.me/c/-1004467622375/50"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            13,
+            14,
+            15
+          ],
+          "date": "2026-11-06T14:07:09+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "13-15 - Sirvientas de Rehabilitación.pdf",
+          "first": 13,
+          "last": 15,
+          "message_id": 51,
+          "name": "13-15",
+          "size": 14257363,
+          "telegram_link": "https://t.me/c/-1004467622375/51"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "date": "2026-11-06T14:07:10+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "16-19 - Sirvientas de Rehabilitación.pdf",
+          "first": 16,
+          "last": 19,
+          "message_id": 52,
+          "name": "16-19",
+          "size": 24261144,
+          "telegram_link": "https://t.me/c/-1004467622375/52"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            20
+          ],
+          "date": "2026-11-06T14:07:11+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "20 - Sirvientas de Rehabilitación.pdf",
+          "first": 20,
+          "last": 20,
+          "message_id": 53,
+          "name": "20",
+          "size": 5584913,
+          "telegram_link": "https://t.me/c/-1004467622375/53"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
             21,
             22,
             23,
@@ -359699,6 +360777,23 @@
           "name": "21-30",
           "size": 60270519,
           "telegram_link": "https://t.me/c/-1004467622375/6"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            21,
+            22
+          ],
+          "date": "2026-11-06T14:07:12+00:00",
+          "download_ready": false,
+          "download_url": null,
+          "filename": "21-22 - Sirvientas de Rehabilitación.pdf",
+          "first": 21,
+          "last": 22,
+          "message_id": 54,
+          "name": "21-22",
+          "size": 11992968,
+          "telegram_link": "https://t.me/c/-1004467622375/54"
         },
         {
           "channel_id": -1004467622375,
@@ -359901,7 +360996,7 @@
         }
       ],
       "rating": 5.0,
-      "rating_count": 4,
+      "rating_count": 5,
       "synopsis": "Después de romper con su novia, Kyung-ho bebe con su amiga Seung-ah y dice que todas las mujeres son iguales. Seung-ah, furiosa por esas palabras, sugiere un trato... \"¿Te gustaría apostar a qué te la ponga dura?\".",
       "visible": true
     },
@@ -366849,7 +367944,7 @@
       "hashtag": "#Si_Tocas_A_Mi_Hermano_Estas_Muerto",
       "id": "si_tocas_a_mi_hermano_estas_muerto",
       "latest_chapter": 74,
-      "library_count": 2,
+      "library_count": 3,
       "name": "Si Tocas A Mi Hermano Estas Muerto",
       "package_count": 8,
       "packages": [
@@ -373241,7 +374336,7 @@
       "hashtag": "#Solo_Leveling_Ragnarok",
       "id": "solo_leveling_ragnarok",
       "latest_chapter": 71,
-      "library_count": 3,
+      "library_count": 4,
       "name": "Solo Leveling Ragnarok",
       "package_count": 26,
       "packages": [
@@ -374820,10 +375915,10 @@
       ],
       "hashtag": "#Soy_el_Dios_de_los_Goblins",
       "id": "soy_el_dios_de_los_goblins",
-      "latest_chapter": 129,
-      "library_count": 22,
+      "latest_chapter": 130,
+      "library_count": 23,
       "name": "Soy el Dios de los Goblins",
-      "package_count": 76,
+      "package_count": 77,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -376093,6 +377188,21 @@
           "name": "129",
           "size": 9481677,
           "telegram_link": "https://t.me/manhuasgratis/7162"
+        },
+        {
+          "channel_id": -1003003829878,
+          "chapters": [
+            130
+          ],
+          "date": "2026-11-07T13:22:03+00:00",
+          "download_ready": true,
+          "filename": "[130] Soy el Dios de los Goblins.pdf",
+          "first": 130,
+          "last": 130,
+          "message_id": 7824,
+          "name": "130",
+          "size": 9267408,
+          "telegram_link": "https://t.me/manhuasgratis/7824"
         }
       ],
       "rating": 3.0,
@@ -388449,20 +389559,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7313"
         },
         {
-          "name": "168",
-          "first": 168,
-          "last": 168,
           "channel_id": -1003003829878,
-          "message_id": 7820,
-          "filename": "│168│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
-          "size": 9646297,
-          "date": "2026-11-06T21:21:56+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7820",
-          "download_ready": true,
           "chapters": [
             168
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/7820_%E2%94%82168%E2%94%82Sobreviviendo%20Al%20Juego%20Siendo%20Un%20B%C3%A1rbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bbfea19d2716853870f319bbd5c92282fc8da3edc1917e5cbc393a275db562b0"
+          "date": "2026-11-06T21:21:56+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/7820_%E2%94%82168%E2%94%82Sobreviviendo%20Al%20Juego%20Siendo%20Un%20B%C3%A1rbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bbfea19d2716853870f319bbd5c92282fc8da3edc1917e5cbc393a275db562b0",
+          "filename": "│168│Sobreviviendo Al Juego Siendo Un Bárbaro.pdf",
+          "first": 168,
+          "last": 168,
+          "message_id": 7820,
+          "name": "168",
+          "size": 9646297,
+          "telegram_link": "https://t.me/manhuasgratis/7820"
         }
       ],
       "rating": 4.5,
@@ -389055,7 +390165,7 @@
       "hashtag": "#Tales_of_Demons_and_Gods",
       "id": "tales_of_demons_and_gods",
       "latest_chapter": 535,
-      "library_count": 8,
+      "library_count": 9,
       "name": "Tales of Demons and Gods",
       "package_count": 52,
       "packages": [
@@ -396565,8 +397675,8 @@
           "telegram_link": "https://t.me/manhuasgratis/7591"
         }
       ],
-      "rating": 0,
-      "rating_count": 0,
+      "rating": 5.0,
+      "rating_count": 1,
       "synopsis": "Después de un trágico accidente perdiendo a su familia y piernas, termino con su propia vida.En su segunda vida, ganó fama como el Maestro Demoníaco Rojo en Zhongyuan, pero fue traicionado por el hombre en el que más confiaba. Y ahora viene su tercera vida. En su vida en el mundo moderno, Gang Jinho decide vivir una vida normal… Sin embargo, estaba demasiado acostumbrado a la vida de Zhongyuan como para convertirse en una persona normal! “Quería vivir en paz. Pero ustedes son los que lo incitaron. Espero que esten preparado para esto.",
       "visible": true
     },
@@ -410468,7 +411578,7 @@
       "hashtag": "#Tras_romper_nuestros_lazos_todas_mis_invocaciones_se_convirtieron_en_criaturas_oscuras",
       "id": "tras_romper_nuestros_lazos_todas_mis_invocaciones_se_convirtieron_en_criaturas_oscuras",
       "latest_chapter": 5,
-      "library_count": 7,
+      "library_count": 8,
       "name": "Tras romper nuestros lazos todas mis invocaciones se convirtieron en criaturas oscuras",
       "package_count": 1,
       "packages": [
@@ -413280,7 +414390,7 @@
       "hashtag": "#Un_marine_espacial_con_una_ventana_de_estado",
       "id": "un_marine_espacial_con_una_ventana_de_estado",
       "latest_chapter": 14,
-      "library_count": 17,
+      "library_count": 18,
       "name": "Un marine espacial con una ventana de estado",
       "package_count": 6,
       "packages": [
@@ -423469,7 +424579,7 @@
       "hashtag": "#Viviendo_como_un_Lord_Vampiro",
       "id": "viviendo_como_un_lord_vampiro",
       "latest_chapter": 68,
-      "library_count": 16,
+      "library_count": 17,
       "name": "Viviendo como un Lord Vampiro",
       "package_count": 22,
       "packages": [
@@ -423876,6 +424986,193 @@
       "rating_count": 3,
       "synopsis": "Después de medio año huyendo, el vampiro Eugene fue finalmente asesinado, ofrecido como sacrificio para aumentar la fama de un caballero sagrado. Justo cuando su vida terminaba en un amargo arrepentimiento, se le presentó una oportunidad de regresar. “Jamás volveré a morir así. Si realmente regresé al pasado, entonces no volveré a arrepentirme de nada por segunda vez... sin importar lo que tenga que hacer.”",
       "visible": true
+    },
+    {
+      "added_at": "2026-11-07T12:38:21+00:00",
+      "aliases": [],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/vivo_con_mi_tio_villano.jpg",
+      "cover_message_id": 2833,
+      "cover_telegram_link": "https://t.me/c/-1004187372773/2833",
+      "genres": [
+        "Respaldo",
+        "Shoujo",
+        "Romance"
+      ],
+      "hashtag": "#Vivo_Con_Mi_Tío_Villano",
+      "id": "vivo_con_mi_tio_villano",
+      "latest_chapter": 65,
+      "library_count": 0,
+      "name": "Vivo Con Mi Tío Villano",
+      "package_count": 7,
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "date": "2026-11-07T12:38:21+00:00",
+          "download_ready": true,
+          "filename": "01-10 - Vivo Con Mi Tío Villano.pdf",
+          "first": 1,
+          "last": 10,
+          "message_id": 13400,
+          "name": "1-10",
+          "size": 132248324,
+          "telegram_link": "https://t.me/manhuasgratis/13400"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "date": "2026-11-07T12:38:23+00:00",
+          "download_ready": true,
+          "filename": "11-20 - Vivo Con Mi Tío Villano.pdf",
+          "first": 11,
+          "last": 20,
+          "message_id": 13401,
+          "name": "11-20",
+          "size": 131344790,
+          "telegram_link": "https://t.me/manhuasgratis/13401"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "date": "2026-11-07T12:38:24+00:00",
+          "download_ready": true,
+          "filename": "21-30 - Vivo Con Mi Tío Villano.pdf",
+          "first": 21,
+          "last": 30,
+          "message_id": 13402,
+          "name": "21-30",
+          "size": 133370676,
+          "telegram_link": "https://t.me/manhuasgratis/13402"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "date": "2026-11-07T12:38:25+00:00",
+          "download_ready": true,
+          "filename": "31-40.5 - Vivo Con Mi Tío Villano.pdf",
+          "first": 31,
+          "last": 40,
+          "message_id": 13403,
+          "name": "31-40",
+          "size": 134216854,
+          "telegram_link": "https://t.me/manhuasgratis/13403"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "date": "2026-11-07T12:38:27+00:00",
+          "download_ready": true,
+          "filename": "41-50 - Vivo Con Mi Tío Villano.pdf",
+          "first": 41,
+          "last": 50,
+          "message_id": 13404,
+          "name": "41-50",
+          "size": 116194404,
+          "telegram_link": "https://t.me/manhuasgratis/13404"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "date": "2026-11-07T12:38:29+00:00",
+          "download_ready": true,
+          "filename": "51-60 - Vivo Con Mi Tío Villano.pdf",
+          "first": 51,
+          "last": 60,
+          "message_id": 13405,
+          "name": "51-60",
+          "size": 125759992,
+          "telegram_link": "https://t.me/manhuasgratis/13405"
+        },
+        {
+          "channel_id": -1004367557958,
+          "chapters": [
+            61,
+            62,
+            63,
+            64,
+            65
+          ],
+          "date": "2026-11-07T12:48:29+00:00",
+          "download_ready": true,
+          "filename": "61-65 - Vivo Con Mi Tío Villano.pdf",
+          "first": 61,
+          "last": 65,
+          "message_id": 13414,
+          "name": "61-65",
+          "size": 57280490,
+          "telegram_link": "https://t.me/manhuasgratis/13414"
+        }
+      ],
+      "rating": 0,
+      "rating_count": 0,
+      "synopsis": "Una chica previsora es enviada a vivir con su tío frío y malvado tras la muerte de su madre. Decidida a salvarlo de un futuro sombrío, se aferra a él, solo para descubrir que los roles se invierten a medida que él se vuelve emocionalmente dependiente. Con un amigo de la infancia posesivo y un padre desesperado, sumado al caos, su sencilla misión se sale de control.",
+      "visible": false
     },
     {
       "added_at": "2026-08-29T03:27:51+00:00",
@@ -424557,20 +425854,20 @@
           "telegram_link": "https://t.me/manhuasgratis/7225"
         },
         {
-          "name": "101",
-          "first": 101,
-          "last": 101,
           "channel_id": -1003003829878,
-          "message_id": 7821,
-          "filename": "[101] Voy a Aniquilar Esta Tierra.pdf",
-          "size": 11590648,
-          "date": "2026-11-06T21:21:58+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/7821",
-          "download_ready": true,
           "chapters": [
             101
           ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/voy_a_aniquilar_esta_tierra/7821_%5B101%5D%20Voy%20a%20Aniquilar%20Esta%20Tierra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c017febb36335814174674838de46b42e1af00ea93df5c2e2535730017bf2e08"
+          "date": "2026-11-06T21:21:58+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/voy_a_aniquilar_esta_tierra/7821_%5B101%5D%20Voy%20a%20Aniquilar%20Esta%20Tierra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261107%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261107T093543Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c017febb36335814174674838de46b42e1af00ea93df5c2e2535730017bf2e08",
+          "filename": "[101] Voy a Aniquilar Esta Tierra.pdf",
+          "first": 101,
+          "last": 101,
+          "message_id": 7821,
+          "name": "101",
+          "size": 11590648,
+          "telegram_link": "https://t.me/manhuasgratis/7821"
         }
       ],
       "rating": 0,
@@ -435708,6 +437005,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-07T06:20:42.198632+00:00",
+  "updated_at": "2026-11-07T13:28:05.994228+00:00",
   "version": 3
 }
