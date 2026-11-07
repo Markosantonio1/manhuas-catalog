@@ -1,8 +1,58 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T04:00:40.688241+00:00",
-  "total_comments": 13,
+  "updated_at": "2026-11-07T13:31:06.092692+00:00",
+  "total_comments": 17,
   "series": {
+    "surviving_the_game_as_a_barbarian": [
+      {
+        "id": "1ba4824c-66a1-464a-9fe0-bea8cb7d1f6c",
+        "user_name": "Kael",
+        "text": "no hace falta pensarlo mucho gente recomendado buen comienzo donde mundo es un caos, pero si miran bien, le parecerá inusual que en la vida real hay de todo y cuidado si algún dia se encuentran con un hans",
+        "created_at": 1794030490894
+      },
+      {
+        "id": "0b38449b-13d9-423c-8e37-8665b4acd668",
+        "user_name": "Lector 9E5F",
+        "text": "buenas serie, la recomiendo",
+        "created_at": 1793476438181
+      }
+    ],
+    "emperador_magico": [
+      {
+        "id": "817f4c73-4fb4-4997-b62c-cb7ec7bb8140",
+        "user_name": "Kael",
+        "text": "Para el que no lo sabe y es insano de la maldad pura este no es para blandengues",
+        "created_at": 1794030305301
+      }
+    ],
+    "odisea_en_la_mazmorra": [
+      {
+        "id": "4f3c9cbc-f1c3-4831-984c-9c9d40a6391d",
+        "user_name": "Kael",
+        "text": "doy recomendación a seguir gente su trama esta bien elaborada y le da profundida a los personaje segundarios",
+        "created_at": 1794030220740
+      },
+      {
+        "id": "084a40a2-2cf8-40d2-8fd0-358763eb2529",
+        "user_name": "★Star",
+        "text": "Este es un manhwa peak lo añadí a mi lista de favoritos y con cada capítulo mejora la historia. Tiene acción pero se concentra más en la política. El dibujo es muy original y lo hace el autor. La historia es única y no es el típico shonen. Denle la oportunidad",
+        "created_at": 1793563164290
+      },
+      {
+        "id": "c1dbad93-58d1-48e6-84f9-699ba1be12f9",
+        "user_name": "Sunny",
+        "text": "No quiero emocionarme pero apenas revise las primeras 11 páginas y me da la sensación de que está bastante bien. Soy de los que leé de inicio a fin a pesar de que termine siendo malo solo porque ya empecé a leerlo, pero en las primeras páginas me transmitió muy buena sensación.",
+        "created_at": 1793490907864
+      }
+    ],
+    "the_descent_of_the_demonic_master": [
+      {
+        "id": "ddda7dae-395b-442d-ae9d-5a895acd7889",
+        "user_name": "Kael",
+        "text": "recomiendo muy practico",
+        "created_at": 1794030078335
+      }
+    ],
     "esclavo_corporativo_en_una_historia_de_fantasmas": [
       {
         "id": "bb96a1ad-cf38-456c-857c-ec81d899c97f",
@@ -57,28 +107,6 @@
         "user_name": "★Star",
         "text": "Es mi manhwa favorito ❤️\nEstá un poco loco las caras pero eso es lo que me gusta 🤣 \nLa historia ⭐⭐⭐⭐⭐ es muy bonita \nLéanlo \nMe gustan las papas y Loyd es Agua, Agua es Buena, Loyd es Bueno",
         "created_at": 1793563396231
-      }
-    ],
-    "odisea_en_la_mazmorra": [
-      {
-        "id": "084a40a2-2cf8-40d2-8fd0-358763eb2529",
-        "user_name": "★Star",
-        "text": "Este es un manhwa peak lo añadí a mi lista de favoritos y con cada capítulo mejora la historia. Tiene acción pero se concentra más en la política. El dibujo es muy original y lo hace el autor. La historia es única y no es el típico shonen. Denle la oportunidad",
-        "created_at": 1793563164290
-      },
-      {
-        "id": "c1dbad93-58d1-48e6-84f9-699ba1be12f9",
-        "user_name": "Sunny",
-        "text": "No quiero emocionarme pero apenas revise las primeras 11 páginas y me da la sensación de que está bastante bien. Soy de los que leé de inicio a fin a pesar de que termine siendo malo solo porque ya empecé a leerlo, pero en las primeras páginas me transmitió muy buena sensación.",
-        "created_at": 1793490907864
-      }
-    ],
-    "surviving_the_game_as_a_barbarian": [
-      {
-        "id": "0b38449b-13d9-423c-8e37-8665b4acd668",
-        "user_name": "Lector 9E5F",
-        "text": "buenas serie, la recomiendo",
-        "created_at": 1793476438181
       }
     ],
     "caballero_en_eterna_regresion": [
