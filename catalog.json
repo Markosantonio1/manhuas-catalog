@@ -121075,10 +121075,10 @@
       ],
       "hashtag": "#El_Hijo_Menor_De_Un_Conglomerado",
       "id": "el_hijo_menor_de_un_conglomerado",
-      "latest_chapter": 234,
+      "latest_chapter": 235,
       "library_count": 12,
       "name": "El Hijo Menor De Un Conglomerado",
-      "package_count": 39,
+      "package_count": 40,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -121898,6 +121898,21 @@
           "name": "233-234",
           "size": 14936278,
           "telegram_link": "https://t.me/manhuasgratis/7165"
+        },
+        {
+          "name": "235",
+          "first": 235,
+          "last": 235,
+          "channel_id": -1003003829878,
+          "message_id": 7838,
+          "filename": "[✦235] • El Hijo Menor De Un Conglomerado🏮JMX.pdf",
+          "size": 8189853,
+          "date": "2026-11-08T13:21:39+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7838",
+          "download_ready": false,
+          "chapters": [
+            235
+          ]
         }
       ],
       "rating": 5,
@@ -437252,6 +437267,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-08T06:20:36.824081+00:00",
+  "updated_at": "2026-11-08T14:20:36.752044+00:00",
   "version": 3
 }
