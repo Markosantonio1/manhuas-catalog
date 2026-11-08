@@ -28,7 +28,7 @@
       "latest_chapter": 36,
       "library_count": 0,
       "name": "Rokujouma no Shinryakusha",
-      "package_count": 36,
+      "package_count": 34,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -152,23 +152,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            7
-          ],
-          "date": "2026-11-03T23:07:25+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Rokujouma - Vol 7.5.pdf",
-          "first": 7,
-          "is_novel_volume": true,
-          "last": 7,
-          "message_id": 405,
-          "name": "Volumen 7",
-          "size": 32865300,
-          "telegram_link": "https://t.me/c/-1004334091126/405"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             8
           ],
           "date": "2026-11-03T23:07:25+00:00",
@@ -182,23 +165,6 @@
           "name": "Volumen 8",
           "size": 24112651,
           "telegram_link": "https://t.me/c/-1004334091126/406"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-11-03T23:07:26+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Rokujouma - Vol 8.5.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 407,
-          "name": "Volumen 8",
-          "size": 13074528,
-          "telegram_link": "https://t.me/c/-1004334091126/407"
         },
         {
           "channel_id": -1004334091126,
@@ -670,7 +636,7 @@
       "latest_chapter": 14,
       "library_count": 1,
       "name": "Failure frame i became the strongest",
-      "package_count": 14,
+      "package_count": 13,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -862,23 +828,6 @@
         {
           "channel_id": -1004334091126,
           "chapters": [
-            11
-          ],
-          "date": "2026-10-12T20:15:29+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "Failure Frame I Became The Strongest - Volumen 11.5.pdf",
-          "first": 11,
-          "is_novel_volume": true,
-          "last": 11,
-          "message_id": 344,
-          "name": "Volumen 11",
-          "size": 7574277,
-          "telegram_link": "https://t.me/c/-1004334091126/344"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
             12
           ],
           "date": "2026-10-12T20:15:29+00:00",
@@ -936,7 +885,7 @@
       "latest_chapter": 11,
       "library_count": 4,
       "name": "The Beginning After The End",
-      "package_count": 11,
+      "package_count": 10,
       "packages": [
         {
           "channel_id": -1004334091126,
@@ -1073,23 +1022,6 @@
           "name": "Volumen 8",
           "size": 2812766,
           "telegram_link": "https://t.me/c/-1004334091126/65"
-        },
-        {
-          "channel_id": -1004334091126,
-          "chapters": [
-            8
-          ],
-          "date": "2026-10-03T23:48:24+00:00",
-          "download_ready": false,
-          "download_url": null,
-          "filename": "The Beginning After The End - Libro 08.5 v1.pdf",
-          "first": 8,
-          "is_novel_volume": true,
-          "last": 8,
-          "message_id": 66,
-          "name": "Volumen 8",
-          "size": 833533,
-          "telegram_link": "https://t.me/c/-1004334091126/66"
         },
         {
           "channel_id": -1004334091126,
@@ -128575,10 +128507,10 @@
       ],
       "hashtag": "#El_Jugador_Que_Regreso_10000_Años_Despues",
       "id": "el_jugador_que_regreso_10000_anos_despues",
-      "latest_chapter": 165,
+      "latest_chapter": 166,
       "library_count": 7,
       "name": "El Jugador Que Regreso 10000 Años Despues",
-      "package_count": 64,
+      "package_count": 65,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -129705,6 +129637,21 @@
           "name": "165",
           "size": 14199144,
           "telegram_link": "https://t.me/manhuasgratis/7407"
+        },
+        {
+          "name": "166",
+          "first": 166,
+          "last": 166,
+          "channel_id": -1003003829878,
+          "message_id": 7841,
+          "filename": "[#166]   Jugador Que Regresó 10000 Años Después.pdf",
+          "size": 15517518,
+          "date": "2026-11-08T21:21:36+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7841",
+          "download_ready": false,
+          "chapters": [
+            166
+          ]
         }
       ],
       "rating": 0,
@@ -138187,10 +138134,10 @@
       ],
       "hashtag": "#El_Perro_Loco_De_La_Mansión_Del_Duque",
       "id": "el_perro_loco_de_la_mansion_del_duque",
-      "latest_chapter": 82,
+      "latest_chapter": 83,
       "library_count": 17,
       "name": "El Perro Loco De La Mansión Del Duque",
-      "package_count": 51,
+      "package_count": 52,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -139035,6 +138982,21 @@
           "name": "82",
           "size": 10927338,
           "telegram_link": "https://t.me/manhuasgratis/7299"
+        },
+        {
+          "name": "83",
+          "first": 83,
+          "last": 83,
+          "channel_id": -1003003829878,
+          "message_id": 7842,
+          "filename": "[#83]   El Perro Loco de la Mansión del Duque.pdf",
+          "size": 20158702,
+          "date": "2026-11-08T21:21:38+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7842",
+          "download_ready": false,
+          "chapters": [
+            83
+          ]
         }
       ],
       "rating": 4.0,
@@ -188244,10 +188206,10 @@
       ],
       "hashtag": "#Guía_de_supervivencia_del_extra_de_la_academia",
       "id": "guia_de_supervivencia_del_extra_de_la_academia",
-      "latest_chapter": 129,
+      "latest_chapter": 130,
       "library_count": 26,
       "name": "Guía de supervivencia del extra de la academia",
-      "package_count": 27,
+      "package_count": 28,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -188783,6 +188745,21 @@
           "name": "129",
           "size": 10809207,
           "telegram_link": "https://t.me/manhuasgratis/6888"
+        },
+        {
+          "name": "130",
+          "first": 130,
+          "last": 130,
+          "channel_id": -1003003829878,
+          "message_id": 7843,
+          "filename": "[#130]   Guía de Supervivencia.pdf",
+          "size": 23699921,
+          "date": "2026-11-08T21:21:41+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7843",
+          "download_ready": false,
+          "chapters": [
+            130
+          ]
         }
       ],
       "rating": 5.0,
@@ -244595,10 +244572,10 @@
       ],
       "hashtag": "#La_Venganza_del_Sabueso_de_Sangre_de_Hierro",
       "id": "la_venganza_del_sabueso_de_sangre_de_hierro",
-      "latest_chapter": 187,
+      "latest_chapter": 188,
       "library_count": 31,
       "name": "La Venganza del Sabueso de Sangre de Hierro",
-      "package_count": 58,
+      "package_count": 59,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -245656,6 +245633,21 @@
           "name": "187",
           "size": 15180285,
           "telegram_link": "https://t.me/manhuasgratis/7303"
+        },
+        {
+          "name": "188",
+          "first": 188,
+          "last": 188,
+          "channel_id": -1003003829878,
+          "message_id": 7844,
+          "filename": "[#188]   La Venganza del Sabueso de Sangre de Hierro.pdf",
+          "size": 18772306,
+          "date": "2026-11-08T21:21:44+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7844",
+          "download_ready": false,
+          "chapters": [
+            188
+          ]
         }
       ],
       "rating": 5.0,
@@ -292348,10 +292340,10 @@
       ],
       "hashtag": "#Mis_Alter_Egos_Son_Seres_Trascendentales",
       "id": "mis_alter_egos_son_seres_trascendentales",
-      "latest_chapter": 96,
+      "latest_chapter": 103,
       "library_count": 13,
       "name": "Mis Alter Egos Son Seres Trascendentales",
-      "package_count": 24,
+      "package_count": 26,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -292808,6 +292800,41 @@
           "name": "96",
           "size": 15647612,
           "telegram_link": "https://t.me/manhuasgratis/6890"
+        },
+        {
+          "name": "97-100",
+          "first": 97,
+          "last": 100,
+          "channel_id": -1003003829878,
+          "message_id": 7845,
+          "filename": "[#97-100]   Mis Alter Egos Son Seres Trascendentales.pdf",
+          "size": 95467011,
+          "date": "2026-11-08T21:21:46+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7845",
+          "download_ready": false,
+          "chapters": [
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "name": "101-103",
+          "first": 101,
+          "last": 103,
+          "channel_id": -1003003829878,
+          "message_id": 7846,
+          "filename": "[#101-103]   Mis Alter Egos Son Seres Trascendentales.pdf",
+          "size": 66881050,
+          "date": "2026-11-08T21:21:48+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7846",
+          "download_ready": false,
+          "chapters": [
+            101,
+            102,
+            103
+          ]
         }
       ],
       "rating": 5.0,
@@ -359892,10 +359919,10 @@
       ],
       "hashtag": "#Sangre_Maldita",
       "id": "sangre_maldita",
-      "latest_chapter": 106,
+      "latest_chapter": 107,
       "library_count": 14,
       "name": "Sangre Maldita",
-      "package_count": 21,
+      "package_count": 22,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -360317,6 +360344,21 @@
           "name": "106",
           "size": 14867144,
           "telegram_link": "https://t.me/manhuasgratis/7233"
+        },
+        {
+          "name": "107",
+          "first": 107,
+          "last": 107,
+          "channel_id": -1003003829878,
+          "message_id": 7847,
+          "filename": "[#107]   Sangre Maldita.pdf",
+          "size": 18768454,
+          "date": "2026-11-08T21:21:50+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7847",
+          "download_ready": false,
+          "chapters": [
+            107
+          ]
         }
       ],
       "rating": 5.0,
@@ -360879,6 +360921,28 @@
             4,
             5,
             6,
+            7
+          ],
+          "date": "2026-11-06T14:07:06+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/seamos_amigos_a_partir_de_hoy_adult/45_01-07%20-%20Sirvientas%20de%20Rehabilitaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261108%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T095026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=54443dbd29f3dd771ad541adaf8f90d14cb953d41391d801c7accd7d397b4cd3",
+          "filename": "01-07 - Sirvientas de Rehabilitación.pdf",
+          "first": 1,
+          "last": 7,
+          "message_id": 45,
+          "name": "1-7",
+          "size": 37684450,
+          "telegram_link": "https://t.me/c/-1004467622375/45"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
             7,
             8,
             9,
@@ -360894,28 +360958,6 @@
           "name": "1-10",
           "size": 74353305,
           "telegram_link": "https://t.me/c/-1004467622375/4"
-        },
-        {
-          "channel_id": -1004467622375,
-          "chapters": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "date": "2026-11-06T14:07:06+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/seamos_amigos_a_partir_de_hoy_adult/45_01-07%20-%20Sirvientas%20de%20Rehabilitaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261108%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T095026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=54443dbd29f3dd771ad541adaf8f90d14cb953d41391d801c7accd7d397b4cd3",
-          "filename": "01-07 - Sirvientas de Rehabilitación.pdf",
-          "first": 1,
-          "last": 7,
-          "message_id": 45,
-          "name": "1-7",
-          "size": 37684450,
-          "telegram_link": "https://t.me/c/-1004467622375/45"
         },
         {
           "channel_id": -1004467622375,
@@ -360968,6 +361010,22 @@
         {
           "channel_id": -1004467622375,
           "chapters": [
+            11
+          ],
+          "date": "2026-11-06T14:07:08+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/seamos_amigos_a_partir_de_hoy_adult/49_11%20-%20Sirvientas%20de%20Rehabilitaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261108%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T095026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d30de3a7c374b0e45e77886a8a9647f1af8da5b90bccf2f843d4abcf9aa9ea0c",
+          "filename": "11 - Sirvientas de Rehabilitación.pdf",
+          "first": 11,
+          "last": 11,
+          "message_id": 49,
+          "name": "11",
+          "size": 5393021,
+          "telegram_link": "https://t.me/c/-1004467622375/49"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
             11,
             12,
             13,
@@ -360989,22 +361047,6 @@
           "name": "11-20",
           "size": 66696222,
           "telegram_link": "https://t.me/c/-1004467622375/5"
-        },
-        {
-          "channel_id": -1004467622375,
-          "chapters": [
-            11
-          ],
-          "date": "2026-11-06T14:07:08+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/seamos_amigos_a_partir_de_hoy_adult/49_11%20-%20Sirvientas%20de%20Rehabilitaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261108%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T095026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d30de3a7c374b0e45e77886a8a9647f1af8da5b90bccf2f843d4abcf9aa9ea0c",
-          "filename": "11 - Sirvientas de Rehabilitación.pdf",
-          "first": 11,
-          "last": 11,
-          "message_id": 49,
-          "name": "11",
-          "size": 5393021,
-          "telegram_link": "https://t.me/c/-1004467622375/49"
         },
         {
           "channel_id": -1004467622375,
@@ -361079,6 +361121,23 @@
           "channel_id": -1004467622375,
           "chapters": [
             21,
+            22
+          ],
+          "date": "2026-11-06T14:07:12+00:00",
+          "download_ready": true,
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/seamos_amigos_a_partir_de_hoy_adult/54_21-22%20-%20Sirvientas%20de%20Rehabilitaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261108%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T095026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8558a8e450cdb395a1d8aa5eef7b5f4e3579ccd43ae8439a7897ac1054a51fc2",
+          "filename": "21-22 - Sirvientas de Rehabilitación.pdf",
+          "first": 21,
+          "last": 22,
+          "message_id": 54,
+          "name": "21-22",
+          "size": 11992968,
+          "telegram_link": "https://t.me/c/-1004467622375/54"
+        },
+        {
+          "channel_id": -1004467622375,
+          "chapters": [
+            21,
             22,
             23,
             24,
@@ -361099,23 +361158,6 @@
           "name": "21-30",
           "size": 60270519,
           "telegram_link": "https://t.me/c/-1004467622375/6"
-        },
-        {
-          "channel_id": -1004467622375,
-          "chapters": [
-            21,
-            22
-          ],
-          "date": "2026-11-06T14:07:12+00:00",
-          "download_ready": true,
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/seamos_amigos_a_partir_de_hoy_adult/54_21-22%20-%20Sirvientas%20de%20Rehabilitaci%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261108%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261108T095026Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8558a8e450cdb395a1d8aa5eef7b5f4e3579ccd43ae8439a7897ac1054a51fc2",
-          "filename": "21-22 - Sirvientas de Rehabilitación.pdf",
-          "first": 21,
-          "last": 22,
-          "message_id": 54,
-          "name": "21-22",
-          "size": 11992968,
-          "telegram_link": "https://t.me/c/-1004467622375/54"
         },
         {
           "channel_id": -1004467622375,
@@ -437335,6 +437377,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-08T16:28:54.639730+00:00",
+  "updated_at": "2026-11-08T22:20:40.038379+00:00",
   "version": 3
 }
