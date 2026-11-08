@@ -106010,10 +106010,10 @@
       ],
       "hashtag": "#El_Chico_Problemático_de_la_Torre_Mágica",
       "id": "el_chico_problematico_de_la_torre_magica",
-      "latest_chapter": 68,
+      "latest_chapter": 69,
       "library_count": 10,
       "name": "El Chico Problemático de la Torre Mágica",
-      "package_count": 14,
+      "package_count": 15,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -106292,6 +106292,21 @@
           "name": "68",
           "size": 25019296,
           "telegram_link": "https://t.me/manhuasgratis/7297"
+        },
+        {
+          "name": "69",
+          "first": 69,
+          "last": 69,
+          "channel_id": -1003003829878,
+          "message_id": 7835,
+          "filename": "[#69]   El Chico Problemático de la Torre Mágica.pdf",
+          "size": 21665384,
+          "date": "2026-11-08T05:21:52+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7835",
+          "download_ready": false,
+          "chapters": [
+            69
+          ]
         }
       ],
       "rating": 5,
@@ -139484,10 +139499,10 @@
       ],
       "hashtag": "#El_Pintor_que_Dibuja_Mazmorras",
       "id": "el_pintor_que_dibuja_mazmorras",
-      "latest_chapter": 31,
+      "latest_chapter": 32,
       "library_count": 10,
       "name": "El Pintor que Dibuja Mazmorras",
-      "package_count": 15,
+      "package_count": 16,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -139744,6 +139759,21 @@
           "name": "31",
           "size": 14371990,
           "telegram_link": "https://t.me/manhuasgratis/7300"
+        },
+        {
+          "name": "32",
+          "first": 32,
+          "last": 32,
+          "channel_id": -1003003829878,
+          "message_id": 7836,
+          "filename": "[#32]   El Pintor que Dibuja Mazmorras.pdf",
+          "size": 17310806,
+          "date": "2026-11-08T05:21:54+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7836",
+          "download_ready": false,
+          "chapters": [
+            32
+          ]
         }
       ],
       "rating": 4.5,
@@ -336846,10 +336876,10 @@
       ],
       "hashtag": "#Que_Abundante_Cosecha_Señor_Demonio",
       "id": "que_abundante_cosecha_senor_demonio",
-      "latest_chapter": 91,
+      "latest_chapter": 92,
       "library_count": 12,
       "name": "Que Abundante Cosecha Señor Demonio",
-      "package_count": 42,
+      "package_count": 43,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -337571,6 +337601,21 @@
           "name": "91",
           "size": 11144381,
           "telegram_link": "https://t.me/manhuasgratis/7164"
+        },
+        {
+          "name": "92",
+          "first": 92,
+          "last": 92,
+          "channel_id": -1003003829878,
+          "message_id": 7837,
+          "filename": "[92] ¡Que abundante cosecha, señor demonio!.pdf",
+          "size": 12248592,
+          "date": "2026-11-08T05:21:57+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7837",
+          "download_ready": false,
+          "chapters": [
+            92
+          ]
         }
       ],
       "rating": 3,
@@ -437204,6 +437249,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-07T22:20:40.408618+00:00",
+  "updated_at": "2026-11-08T06:20:36.824081+00:00",
   "version": 3
 }
