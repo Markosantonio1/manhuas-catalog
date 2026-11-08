@@ -109544,10 +109544,10 @@
       ],
       "hashtag": "#El_Devoto_Caballero",
       "id": "el_devoto_caballero",
-      "latest_chapter": 178,
+      "latest_chapter": 185,
       "library_count": 9,
       "name": "El Devoto Caballero",
-      "package_count": 31,
+      "package_count": 32,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -110191,6 +110191,27 @@
           "name": "178",
           "size": 12445461,
           "telegram_link": "https://t.me/manhuasgratis/2439"
+        },
+        {
+          "name": "179-185",
+          "first": 179,
+          "last": 185,
+          "channel_id": -1003003829878,
+          "message_id": 7877,
+          "filename": "179-185 ༊ El Devoto Caballero.pdf",
+          "size": 53654947,
+          "date": "2026-11-08T22:26:21+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7877",
+          "download_ready": false,
+          "chapters": [
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+          ]
         }
       ],
       "rating": 5.0,
@@ -118079,10 +118100,10 @@
       ],
       "hashtag": "#El_gran_demonio_celestial_soberano",
       "id": "el_gran_demonio_celestial_soberano",
-      "latest_chapter": 60,
+      "latest_chapter": 69,
       "library_count": 6,
       "name": "El gran demonio celestial soberano",
-      "package_count": 22,
+      "package_count": 26,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -118473,6 +118494,71 @@
           "name": "60",
           "size": 7719787,
           "telegram_link": "https://t.me/manhuasgratis/7636"
+        },
+        {
+          "name": "61",
+          "first": 61,
+          "last": 61,
+          "channel_id": -1003003829878,
+          "message_id": 7878,
+          "filename": "61 ༊ El gran demonio celestial soberano.pdf",
+          "size": 7511296,
+          "date": "2026-11-08T22:26:23+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7878",
+          "download_ready": false,
+          "chapters": [
+            61
+          ]
+        },
+        {
+          "name": "62",
+          "first": 62,
+          "last": 62,
+          "channel_id": -1003003829878,
+          "message_id": 7879,
+          "filename": "62 ༊ El gran demonio celestial soberano.pdf",
+          "size": 12122964,
+          "date": "2026-11-08T22:26:31+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7879",
+          "download_ready": false,
+          "chapters": [
+            62
+          ]
+        },
+        {
+          "name": "63-67",
+          "first": 63,
+          "last": 67,
+          "channel_id": -1003003829878,
+          "message_id": 7880,
+          "filename": "63-67 ༊ El gran demonio celestial soberano.pdf",
+          "size": 30134998,
+          "date": "2026-11-08T22:26:33+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7880",
+          "download_ready": false,
+          "chapters": [
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "name": "68-69",
+          "first": 68,
+          "last": 69,
+          "channel_id": -1003003829878,
+          "message_id": 7881,
+          "filename": "68-69 ༊ El gran demonio celestial soberano.pdf",
+          "size": 13812478,
+          "date": "2026-11-08T22:26:36+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7881",
+          "download_ready": false,
+          "chapters": [
+            68,
+            69
+          ]
         }
       ],
       "rating": 0,
@@ -415146,10 +415232,10 @@
       ],
       "hashtag": "#Un_Nigromante_en_la_familia_de_espadachines",
       "id": "un_nigromante_en_la_familia_de_espadachines",
-      "latest_chapter": 33,
+      "latest_chapter": 34,
       "library_count": 4,
       "name": "Un Nigromante en la familia de espadachines",
-      "package_count": 23,
+      "package_count": 24,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -415529,6 +415615,21 @@
           "name": "31-33",
           "size": 47330398,
           "telegram_link": "https://t.me/manhuasgratis/7808"
+        },
+        {
+          "name": "34",
+          "first": 34,
+          "last": 34,
+          "channel_id": -1003003829878,
+          "message_id": 7884,
+          "filename": "[34] Un Nigromante en la Familia de Espadachines.pdf",
+          "size": 16955858,
+          "date": "2026-11-08T22:26:42+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7884",
+          "download_ready": false,
+          "chapters": [
+            34
+          ]
         }
       ],
       "rating": 0,
@@ -437384,6 +437485,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-08T22:20:40.038379+00:00",
+  "updated_at": "2026-11-08T23:20:38.051233+00:00",
   "version": 3
 }
