@@ -112444,10 +112444,11 @@
           "size": 11225947,
           "date": "2026-11-09T11:44:56+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7924",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             133
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_dios_marcial_que_regreso_al_nivel_2/7924_133%20El%20Dios%20Marcial%20que%20Regres%C3%B3%20al%20nivel%202.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261109%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261109T122118Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=996358e7eec8db91d969137a7ba425b04ec85fb7aa395d95c77c8a5ad4bb911c"
         }
       ],
       "rating": 5.0,
@@ -322654,10 +322655,11 @@
           "size": 13003297,
           "date": "2026-11-09T11:37:16+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7923",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             346
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/overgeared/7923_%E3%80%8C346-346%E3%80%8DOvergeared.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261109%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261109T122135Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c54c488dd95b98b92096a19eb4192466bb2b9283d8eff99497fdb0279551ee3c"
         }
       ],
       "rating": 5.0,
