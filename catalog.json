@@ -111727,10 +111727,10 @@
       ],
       "hashtag": "#El_Dios_Marcial_que_Regresó_al_nivel_2",
       "id": "el_dios_marcial_que_regreso_al_nivel_2",
-      "latest_chapter": 132,
+      "latest_chapter": 133,
       "library_count": 12,
       "name": "El Dios Marcial que Regresó al nivel 2",
-      "package_count": 38,
+      "package_count": 39,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -112433,6 +112433,21 @@
           "name": "131-132",
           "size": 16230102,
           "telegram_link": "https://t.me/manhuasgratis/7126"
+        },
+        {
+          "name": "133",
+          "first": 133,
+          "last": 133,
+          "channel_id": -1003003829878,
+          "message_id": 7924,
+          "filename": "133 El Dios Marcial que Regresó al nivel 2.pdf",
+          "size": 11225947,
+          "date": "2026-11-09T11:44:56+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7924",
+          "download_ready": false,
+          "chapters": [
+            133
+          ]
         }
       ],
       "rating": 5.0,
@@ -321709,10 +321724,10 @@
       ],
       "hashtag": "#Overgeared",
       "id": "overgeared",
-      "latest_chapter": 345,
+      "latest_chapter": 346,
       "library_count": 14,
       "name": "Overgeared",
-      "package_count": 38,
+      "package_count": 39,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -322628,6 +322643,21 @@
           "name": "345",
           "size": 20575143,
           "telegram_link": "https://t.me/manhuasgratis/7161"
+        },
+        {
+          "name": "346",
+          "first": 346,
+          "last": 346,
+          "channel_id": -1003003829878,
+          "message_id": 7923,
+          "filename": "「346-346」Overgeared.pdf",
+          "size": 13003297,
+          "date": "2026-11-09T11:37:16+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7923",
+          "download_ready": false,
+          "chapters": [
+            346
+          ]
         }
       ],
       "rating": 5.0,
@@ -439310,6 +439340,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-09T06:20:49.474569+00:00",
+  "updated_at": "2026-11-09T12:20:31.680806+00:00",
   "version": 3
 }
