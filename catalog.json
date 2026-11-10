@@ -425787,7 +425787,7 @@
           "size": 39005174,
           "date": "2026-11-10T16:30:16+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7959",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             1173,
             1174,
@@ -425798,7 +425798,8 @@
             1179,
             1180,
             1181
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/versatile_mage/7959_%E3%80%8C1173-1181%E3%80%8DVersatile%20Mage.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261110%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261110T180920Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6f3bb113a2bf19e49398c2b675ccec9481e07cbc4591c277fcdf55ced180cb5"
         }
       ],
       "rating": 4.0,
