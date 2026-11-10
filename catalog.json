@@ -440354,8 +440354,8 @@
           "name": "52.0-53.0",
           "date": "2026-11-10T20:31:09+00:00",
           "telegram_link": "https://t.me/c/3003829878/7979",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/7979_%E3%80%8C52-53%E3%80%8DDebuta%20o%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261110%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261110T210123Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=938f395800d873fd3dc23df6d8d95565804421bcf1e3c00f5aefd870a625dc6d",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -440370,8 +440370,8 @@
           "name": "54.0-54.0",
           "date": "2026-11-10T20:31:09+00:00",
           "telegram_link": "https://t.me/c/3003829878/7980",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/7980_%E3%80%8C54%E3%80%8DDebuta%20o%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261110%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261110T210144Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f62360cfd92ef1ed1762a6ec721a4d7f9cd36e0f7e07e8404fa90838b9c78b1c",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -440394,8 +440394,8 @@
           "name": "55.0-63.0",
           "date": "2026-11-10T20:31:09+00:00",
           "telegram_link": "https://t.me/c/3003829878/7981",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/7981_55-63%20Debuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261110%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261110T210429Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d9bed24555a4f2c4986c74b028f4811c69fd0a19776fda871b927b5194c793b",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -440410,8 +440410,8 @@
           "name": "64.0-64.0",
           "date": "2026-11-10T20:31:09+00:00",
           "telegram_link": "https://t.me/c/3003829878/7982",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/7982_64%20Debuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261110%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261110T210457Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9003b9c90e06a5beab6c378b8dd5367a53cc2956f9d97767fe91ffefd31fcc5d",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -440426,13 +440426,13 @@
           "name": "65.0-65.0",
           "date": "2026-11-10T20:31:09+00:00",
           "telegram_link": "https://t.me/c/3003829878/7983",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/7983_65%20Debuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261110%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261110T210524Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=32e1a6efb2e0773ab07aa0034d45d21bcbdac72de3f91f4290bd3c20bce92b74",
+          "download_ready": true
         }
       ],
       "package_count": 15,
       "latest_chapter": 65.0,
-      "visible": false,
+      "visible": true,
       "incomplete": false,
       "added_at": "2026-11-10T20:41:07.590812+00:00",
       "rating": 0.0,
