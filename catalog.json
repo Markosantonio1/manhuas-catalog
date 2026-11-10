@@ -440124,6 +440124,320 @@
       "rating_count": 0,
       "synopsis": "Cuando Lee Sha Na cruzó accidentalmente a otro mundo lleno de fantasía y belleza, lamentablemente se había convertido en una bruja en medio de una ejecución. ¿Morir a una edad tan maravillosa? ¡No podía permitir que eso sucediera! ¡Tenía que escapar sin importar qué! ¡Pero después de su fuga no ofendió a nadie más que al príncipe heredero, Lutero! ¿Qué mas puede salir mal?",
       "visible": true
+    },
+    {
+      "id": "debuta_o_muere",
+      "hashtag": "#Debuta_O_Muere",
+      "name": "Debuta O Muere",
+      "aliases": [],
+      "genres": [
+        "Drama",
+        "Fantasía"
+      ],
+      "cover": "",
+      "cover_message_id": 2848,
+      "cover_telegram_link": "https://t.me/c/4187372773/2848",
+      "synopsis": "Un estudiante que se estaba preparando para el examen de Servicio Civil, de repente se encontró en un cuerpo desconocido regresando 3 años en el tiempo. ¡Además, una ventana de estado mostraba una clara amenaza frente a sus ojos! \n[¡Advertencia!] [Anormalidad de estado: ¡'Debuta o muere'!] \nUna historia sobre la transformación del protagonista, quien repentinamente fue desafiado a ser un idol a pesar de que nunca antes había estado en la industria, debido a una repentina amenaza de muerte.",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7969,
+          "filename": "01-10 Debuta o Muere.pdf",
+          "size": 91098579,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-10T20:31:08+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7969",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7970,
+          "filename": "11-20 Debuta o Muere.pdf",
+          "size": 92760979,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-10T20:31:08+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7970",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7971,
+          "filename": "21-30 Debuta o Muere.pdf",
+          "size": 91479549,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-11-10T20:31:08+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7971",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7972,
+          "filename": "31-40 Debuta o Muere.pdf",
+          "size": 85925374,
+          "first": 31.0,
+          "last": 40.0,
+          "chapters": [
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0,
+            38.0,
+            39.0,
+            40.0
+          ],
+          "name": "31.0-40.0",
+          "date": "2026-11-10T20:31:08+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7972",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7973,
+          "filename": "41-46 Debuta o Muere.pdf",
+          "size": 54178508,
+          "first": 41.0,
+          "last": 46.0,
+          "chapters": [
+            41.0,
+            42.0,
+            43.0,
+            44.0,
+            45.0,
+            46.0
+          ],
+          "name": "41.0-46.0",
+          "date": "2026-11-10T20:31:08+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7973",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7974,
+          "filename": "「47」Debuta o Muere.pdf",
+          "size": 7628583,
+          "first": 47.0,
+          "last": 47.0,
+          "chapters": [
+            47.0
+          ],
+          "name": "47.0-47.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7974",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7975,
+          "filename": "「48」Debuta o Muere.pdf",
+          "size": 6472966,
+          "first": 48.0,
+          "last": 48.0,
+          "chapters": [
+            48.0
+          ],
+          "name": "48.0-48.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7975",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7976,
+          "filename": "「49」Debuta o Muere.pdf",
+          "size": 6821527,
+          "first": 49.0,
+          "last": 49.0,
+          "chapters": [
+            49.0
+          ],
+          "name": "49.0-49.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7976",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7977,
+          "filename": "「50」Debuta o Muere.pdf",
+          "size": 6705701,
+          "first": 50.0,
+          "last": 50.0,
+          "chapters": [
+            50.0
+          ],
+          "name": "50.0-50.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7977",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7978,
+          "filename": "「51」Debuta o Muere.pdf",
+          "size": 6880359,
+          "first": 51.0,
+          "last": 51.0,
+          "chapters": [
+            51.0
+          ],
+          "name": "51.0-51.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7978",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7979,
+          "filename": "「52-53」Debuta o Muere.pdf",
+          "size": 13345339,
+          "first": 52.0,
+          "last": 53.0,
+          "chapters": [
+            52.0,
+            53.0
+          ],
+          "name": "52.0-53.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7979",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7980,
+          "filename": "「54」Debuta o Muere.pdf",
+          "size": 6163226,
+          "first": 54.0,
+          "last": 54.0,
+          "chapters": [
+            54.0
+          ],
+          "name": "54.0-54.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7980",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7981,
+          "filename": "55-63 Debuta O Muere.pdf",
+          "size": 67101764,
+          "first": 55.0,
+          "last": 63.0,
+          "chapters": [
+            55.0,
+            56.0,
+            57.0,
+            58.0,
+            59.0,
+            60.0,
+            61.0,
+            62.0,
+            63.0
+          ],
+          "name": "55.0-63.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7981",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7982,
+          "filename": "64 Debuta O Muere.pdf",
+          "size": 8514378,
+          "first": 64.0,
+          "last": 64.0,
+          "chapters": [
+            64.0
+          ],
+          "name": "64.0-64.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7982",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7983,
+          "filename": "65 Debuta O Muere.pdf",
+          "size": 7720078,
+          "first": 65.0,
+          "last": 65.0,
+          "chapters": [
+            65.0
+          ],
+          "name": "65.0-65.0",
+          "date": "2026-11-10T20:31:09+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7983",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 15,
+      "latest_chapter": 65.0,
+      "visible": false,
+      "incomplete": false,
+      "added_at": "2026-11-10T20:41:07.590812+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -440132,6 +440446,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-10T17:07:59.260561+00:00",
+  "updated_at": "2026-11-10T20:41:07.590840+00:00",
   "version": 3
 }
