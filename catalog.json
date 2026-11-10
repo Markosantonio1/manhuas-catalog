@@ -185448,10 +185448,10 @@
       ],
       "hashtag": "#Genio_Espadachín_De_La_Academia",
       "id": "genio_espadachin_de_la_academia",
-      "latest_chapter": 161,
+      "latest_chapter": 162,
       "library_count": 23,
       "name": "Genio Espadachín De La Academia",
-      "package_count": 38,
+      "package_count": 39,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -186183,6 +186183,21 @@
           "name": "161",
           "size": 10320130,
           "telegram_link": "https://t.me/manhuasgratis/7305"
+        },
+        {
+          "name": "162",
+          "first": 162,
+          "last": 162,
+          "channel_id": -1003003829878,
+          "message_id": 7928,
+          "filename": "162 • Genio Espadachín De La Academia.pdf",
+          "size": 10893915,
+          "date": "2026-11-10T05:05:41+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7928",
+          "download_ready": false,
+          "chapters": [
+            162
+          ]
         }
       ],
       "rating": 5.0,
@@ -439342,6 +439357,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-09T12:20:31.680806+00:00",
+  "updated_at": "2026-11-10T05:05:46.985118+00:00",
   "version": 3
 }
