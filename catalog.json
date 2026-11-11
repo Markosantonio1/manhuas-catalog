@@ -442187,6 +442187,128 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "este_asesino_es_un_yerno",
+      "hashtag": "#Este_Asesino_es_un_Yerno",
+      "name": "Este Asesino es un Yerno",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/este_asesino_es_un_yerno.jpg",
+      "cover_message_id": 2856,
+      "cover_telegram_link": "https://t.me/c/4187372773/2856",
+      "synopsis": "En las profundidades del mundo de las sombras, existe un hombre que sembró el terror entre los más temidos: el Rey Lobo, líder absoluto de la organización Lobo y el asesino más letal que haya existido.",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8082,
+          "filename": "「0-9」Este Asesino es un Yerno.pdf",
+          "size": 77737534,
+          "first": 0.0,
+          "last": 9.0,
+          "chapters": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0
+          ],
+          "name": "0.0-9.0",
+          "date": "2026-11-11T21:51:37+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8082",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8083,
+          "filename": "「10-19」Este Asesino es un Yerno.pdf",
+          "size": 44916748,
+          "first": 10.0,
+          "last": 19.0,
+          "chapters": [
+            10.0,
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0
+          ],
+          "name": "10.0-19.0",
+          "date": "2026-11-11T21:51:37+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8083",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8084,
+          "filename": "「20-29」Este Asesino es un Yerno.pdf",
+          "size": 46725906,
+          "first": 20.0,
+          "last": 29.0,
+          "chapters": [
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+          ],
+          "name": "20.0-29.0",
+          "date": "2026-11-11T21:51:37+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8084",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8085,
+          "filename": "「30-36」Este Asesino es un Yerno.pdf",
+          "size": 32538225,
+          "first": 30.0,
+          "last": 36.0,
+          "chapters": [
+            30.0,
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0
+          ],
+          "name": "30.0-36.0",
+          "date": "2026-11-11T21:51:37+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8085",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 4,
+      "latest_chapter": 36.0,
+      "visible": false,
+      "incomplete": false,
+      "added_at": "2026-11-11T22:25:42.401550+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -442195,6 +442317,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-11T21:12:12.967729+00:00",
+  "updated_at": "2026-11-11T22:25:42.401594+00:00",
   "version": 3
 }
