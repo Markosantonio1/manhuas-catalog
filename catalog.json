@@ -440437,7 +440437,8 @@
       "added_at": "2026-11-10T20:41:07.590812+00:00",
       "rating": 0.0,
       "rating_count": 0,
-      "library_count": 0
+      "library_count": 0,
+      "updated_at": "2026-11-11T02:46:17.040884+00:00"
     }
   ],
   "source": {
@@ -440446,6 +440447,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-10T20:41:07.590840+00:00",
+  "updated_at": "2026-11-11T02:46:17.040884+00:00",
   "version": 3
 }
