@@ -441847,7 +441847,7 @@
           "size": 89074138,
           "date": "2026-11-11T15:01:35+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8018",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             66,
             67,
@@ -441859,7 +441859,8 @@
             73,
             74,
             75
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/8018_%E3%80%8C66-75%E3%80%8DDebuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T205138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4014e457852a5733045ccd8824cb8c9a84b55f6e10d2c535c7f5fc445c80ce84"
         },
         {
           "name": "76-85",
@@ -441871,7 +441872,7 @@
           "size": 46448902,
           "date": "2026-11-11T15:02:51+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8019",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             76,
             77,
@@ -441883,7 +441884,8 @@
             83,
             84,
             85
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/8019_%E3%80%8C76-85%E3%80%8DDebuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T205338Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cef62afa09f790cf26bf3931ac807cc4a8d97f3f05650fbb2b6c5c5a4762f406"
         },
         {
           "name": "86-95",
@@ -441895,7 +441897,7 @@
           "size": 39721125,
           "date": "2026-11-11T15:03:54+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8020",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             86,
             87,
@@ -441907,7 +441909,8 @@
             93,
             94,
             95
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/8020_%E3%80%8C86-95%E3%80%8DDebuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T205532Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=887a49688f53289cda62edfd95359549f126b4bdeb9c7288cd70d60e69988414"
         },
         {
           "name": "96",
@@ -441919,10 +441922,11 @@
           "size": 3883680,
           "date": "2026-11-11T15:04:00+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8021",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             96
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/debuta_o_muere/8021_%E3%80%8C96-96%E3%80%8DDebuta%20O%20Muere.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T205550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=097bab9376e5fbf77f2792329412a40b10eb736b08974fbbd340e901f5ba2335"
         }
       ],
       "package_count": 19,
