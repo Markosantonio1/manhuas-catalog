@@ -318646,10 +318646,11 @@
           "size": 19952573,
           "date": "2026-11-11T17:43:39+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8070",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             176
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/odisea_en_la_mazmorra/8070_%E3%80%8C176-176%E3%80%8DOdisea%20en%20la%20Mazmorra.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T234529Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5f845648fbb1f3558afa24d02b9b60dfff1a46bce711878a66222fc8b4a5040b"
         }
       ],
       "rating": 4.75,
@@ -324197,10 +324198,11 @@
           "size": 30293222,
           "date": "2026-11-11T17:45:15+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8071",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             347
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/overgeared/8071_%E3%80%8C347-347%E3%80%8DOvergeared.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T234631Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=baac3193905901a918eafae647e627d055c0b46dc00ee9201705c8366c871117"
         }
       ],
       "rating": 5.0,
@@ -417989,12 +417991,13 @@
           "size": 112527227,
           "date": "2026-11-11T17:11:02+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8052",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             33,
             34,
             35
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/un_guardia_rebelde_en_una_fantasia_medieval/8052_%E3%80%8C33-35%E3%80%8DUn%20Guardia%20Rebelde%20en%20una%20Fantas%C3%ADa%20Medieval.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T234922Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50f0ec1cdbfe6435573d88cbad1047d984cc6c116631df02512ea998139ff531"
         }
       ],
       "rating": 4.0,
