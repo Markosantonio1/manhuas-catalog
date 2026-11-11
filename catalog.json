@@ -440439,6 +440439,56 @@
       "rating_count": 0,
       "library_count": 0,
       "updated_at": "2026-11-11T02:52:47.517705+00:00"
+    },
+    {
+      "id": "el_novato_asesino_de_villanos",
+      "hashtag": "#El_Novato_Asesino_de_Villanos",
+      "name": "El Novato Asesino de Villanos",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Terror"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_novato_asesino_de_villanos.jpg",
+      "cover_message_id": 2850,
+      "cover_telegram_link": "https://t.me/c/4187372773/2850",
+      "synopsis": "Si no me dejan irme al final del día, simplemente renunciaré.\nSi no me dejan renunciar, simplemente me desharé de la empresa.\n“Pedí explícitamente que se respetaran los términos de mi contrato de trabajo”.\nRecuerda solo una cosa: el único villano bueno es el que está muerto.",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 7986,
+          "filename": "「1-10」El Novato Asesino de Villanos.pdf",
+          "size": 287533064,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-11T03:55:22+00:00",
+          "telegram_link": "https://t.me/c/3003829878/7986",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 1,
+      "latest_chapter": 10.0,
+      "visible": false,
+      "incomplete": false,
+      "added_at": "2026-11-11T03:59:14.090675+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -440447,6 +440497,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-11T02:52:47.517705+00:00",
+  "updated_at": "2026-11-11T03:59:14.091208+00:00",
   "version": 3
 }
