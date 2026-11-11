@@ -442225,8 +442225,8 @@
           "name": "0.0-9.0",
           "date": "2026-11-11T21:51:37+00:00",
           "telegram_link": "https://t.me/c/3003829878/8082",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/este_asesino_es_un_yerno/8082_%E3%80%8C0-9%E3%80%8DEste%20Asesino%20es%20un%20Yerno.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T222935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f76e2889144ba6246857cec83a05b2e322bcf4d0fea8f327eb1903e0ec3c1619",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -442250,8 +442250,8 @@
           "name": "10.0-19.0",
           "date": "2026-11-11T21:51:37+00:00",
           "telegram_link": "https://t.me/c/3003829878/8083",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/este_asesino_es_un_yerno/8083_%E3%80%8C10-19%E3%80%8DEste%20Asesino%20es%20un%20Yerno.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T223201Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c656c367467eecc188204eb20887dbbc05a5b939e72309829410496c904f7e8",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -442275,8 +442275,8 @@
           "name": "20.0-29.0",
           "date": "2026-11-11T21:51:37+00:00",
           "telegram_link": "https://t.me/c/3003829878/8084",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/este_asesino_es_un_yerno/8084_%E3%80%8C20-29%E3%80%8DEste%20Asesino%20es%20un%20Yerno.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T223412Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5fd2840afc1937ca5ac7587367fd219637d1a482c1549d73d72c937fcbc29cb",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -442297,13 +442297,13 @@
           "name": "30.0-36.0",
           "date": "2026-11-11T21:51:37+00:00",
           "telegram_link": "https://t.me/c/3003829878/8085",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/este_asesino_es_un_yerno/8085_%E3%80%8C30-36%E3%80%8DEste%20Asesino%20es%20un%20Yerno.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T223549Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee90428fb56eb2cad156e7df0ea4c01e8f7923eeffc95d7b8a86a17c0f5b3942",
+          "download_ready": true
         }
       ],
       "package_count": 4,
       "latest_chapter": 36.0,
-      "visible": false,
+      "visible": true,
       "incomplete": false,
       "added_at": "2026-11-11T22:25:42.401550+00:00",
       "rating": 0.0,
