@@ -120096,14 +120096,15 @@
           "size": 122082323,
           "date": "2026-11-11T16:43:29+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8044",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             71,
             72,
             73,
             74,
             75
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_guardian_de_las_brujas/8044_%E3%80%8C71-75%E3%80%8DEL%20Guardian%20De%20Las%20Brujas.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T173552Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8a2873216a9d6573c434c545f8b0377868874d02ad75d2842d3cbcf1a193f7a5"
         }
       ],
       "rating": 0,
@@ -122491,7 +122492,7 @@
           "size": 281114833,
           "date": "2026-11-11T14:40:38+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8014",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             45,
             46,
@@ -122503,7 +122504,8 @@
             52,
             53,
             54
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_herrero_genio_del_juego/8014_%E3%80%8C45-54%E3%80%8DEl%20Herrero%20Genio%20Del%20Juego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T174326Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=674148c60f8652e9fc1c2173ae4f41ebdf1cb1efe5ccab53f1741ce2f298c7e8"
         },
         {
           "name": "55-64",
@@ -122515,7 +122517,7 @@
           "size": 240640437,
           "date": "2026-11-11T14:45:32+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8015",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             55,
             56,
@@ -122527,7 +122529,8 @@
             62,
             63,
             64
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_herrero_genio_del_juego/8015_%E3%80%8C55-64%E3%80%8DEl%20Herrero%20Genio%20Del%20Juego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T174914Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a86467a3063c45ed06700ca971b535a7275aeb8b187a084b1727e10db516708"
         },
         {
           "name": "65-74",
@@ -122539,7 +122542,7 @@
           "size": 201229386,
           "date": "2026-11-11T14:49:49+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8016",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             65,
             66,
@@ -122551,7 +122554,8 @@
             72,
             73,
             74
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_herrero_genio_del_juego/8016_%E3%80%8C65-74%E3%80%8DEl%20Herrero%20Genio%20Del%20Juego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T175418Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=82c398bf74fd3747986306867321d86af5c871758d34e3dec35021a8f9d4658c"
         },
         {
           "name": "75-77",
@@ -122563,12 +122567,13 @@
           "size": 75012284,
           "date": "2026-11-11T14:52:22+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8017",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             75,
             76,
             77
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_herrero_genio_del_juego/8017_%E3%80%8C75-77%E3%80%8DEl%20Herrero%20Genio%20Del%20Juego.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T175735Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f2cdcfc7b8356b5304ade84ae83caa2974131548864555c680b9b86468d9f4b"
         }
       ],
       "rating": 5.0,
@@ -130014,13 +130019,14 @@
           "size": 80914491,
           "date": "2026-11-11T16:59:42+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8048",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             248,
             249,
             250,
             251
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_jugador_que_no_puede_subir_de_nivel/8048_%E3%80%8C248-251%E3%80%8DEl%20jugador%20que%20no%20puede%20subir%20de%20nivel.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T180127Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=25e13c1e04ce43162903e14f97688068da1e843746597592d792329135245a2f"
         }
       ],
       "rating": 0,
@@ -142263,7 +142269,7 @@
           "size": 153977895,
           "date": "2026-11-11T15:45:01+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8030",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             155,
             156,
@@ -142275,7 +142281,8 @@
             162,
             163,
             164
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/8030_%E3%80%8C155_164%E3%80%8DEl_Prodigioso_Caballero_Oscuro_con_Tiempo_Limitado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T180540Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a2fcae4081e3a9f6b246317d6c0da0903b1f9c8ae3dfb555d26821b1ccd13e1d"
         },
         {
           "name": "165-170",
@@ -142287,7 +142294,7 @@
           "size": 92155990,
           "date": "2026-11-11T15:47:41+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8031",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             165,
             166,
@@ -142295,7 +142302,8 @@
             168,
             169,
             170
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_prodigioso_caballero_oscuro_con_tiempo_limitado/8031_%E3%80%8C165_170%E3%80%8DEl_Prodigioso_Caballero_Oscuro_con_Tiempo_Limitado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T180948Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b65eb5096d49a5f9dbf088bd0d7d00c184c5102856fd36e89211161d5d6ffa1d"
         }
       ],
       "rating": 0,
@@ -155570,7 +155578,7 @@
           "size": 260543056,
           "date": "2026-11-11T16:04:37+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8036",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             62,
             63,
@@ -155582,7 +155590,8 @@
             69,
             70,
             71
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_stream_del_reencarnado/8036_%E3%80%8C62-71%E3%80%8DEl%20Stream%20del%20Reencarnado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T181624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eb6c742fe3d344d83815ff95cb30e812b6fd483dd2a4a0d3d54edbda9db26a3c"
         },
         {
           "name": "72",
@@ -155594,10 +155603,11 @@
           "size": 25196780,
           "date": "2026-11-11T16:05:24+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8037",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             72
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_stream_del_reencarnado/8037_%E3%80%8C72-72%E3%80%8DEl%20Stream%20del%20Reencarnado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T181740Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=95d2f3c069ade27c75c97b36981adbf88a98af8c0b8432dc5dab92bd261354f8"
         }
       ],
       "rating": 4.0,
