@@ -441988,6 +441988,205 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "el_ascenso_del_caballero_errante",
+      "hashtag": "#El_Ascenso_del_Caballero_Errante",
+      "name": "El Ascenso del Caballero Errante",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía",
+        "Isekai",
+        "Magia"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_ascenso_del_caballero_errante.jpg",
+      "cover_message_id": 2853,
+      "cover_telegram_link": "https://t.me/c/4187372773/2853",
+      "synopsis": "[Traido por el estudio que hizo <La venganza del sabueso de sangre de hierro> y <novato solo a nivel máximo>] Tras morir en un accidente, Kim Yohan reencarna como Johan Aitz, el miembro más débil de una familia noble en una dura era medieval. Usando el conocimiento de su vida pasada, entrena para sobrevivir y ganar poder. En el camino conoce al temido “Maestro del Veneno”. La historia sigue la lucha de Johan por no convertirse en una víctima más en un mundo gobernado por la fuerza.",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8074,
+          "filename": "「1-10」El Ascenso del Caballero Errante.pdf",
+          "size": 359013043,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-11T21:07:56+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8074",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8075,
+          "filename": "「11-20」El Ascenso del Caballero Errante.pdf",
+          "size": 309756501,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-11T21:07:57+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8075",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8076,
+          "filename": "「21-30」El Ascenso del Caballero Errante.pdf",
+          "size": 349262272,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-11-11T21:07:57+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8076",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8077,
+          "filename": "「31-40」El Ascenso del Caballero Errante.pdf",
+          "size": 333465239,
+          "first": 31.0,
+          "last": 40.0,
+          "chapters": [
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0,
+            38.0,
+            39.0,
+            40.0
+          ],
+          "name": "31.0-40.0",
+          "date": "2026-11-11T21:07:57+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8077",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8078,
+          "filename": "「41-50」El Ascenso del Caballero Errante.pdf",
+          "size": 242519207,
+          "first": 41.0,
+          "last": 50.0,
+          "chapters": [
+            41.0,
+            42.0,
+            43.0,
+            44.0,
+            45.0,
+            46.0,
+            47.0,
+            48.0,
+            49.0,
+            50.0
+          ],
+          "name": "41.0-50.0",
+          "date": "2026-11-11T21:07:57+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8078",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8079,
+          "filename": "「51-60」El Ascenso del Caballero Errante.pdf",
+          "size": 270900693,
+          "first": 51.0,
+          "last": 60.0,
+          "chapters": [
+            51.0,
+            52.0,
+            53.0,
+            54.0,
+            55.0,
+            56.0,
+            57.0,
+            58.0,
+            59.0,
+            60.0
+          ],
+          "name": "51.0-60.0",
+          "date": "2026-11-11T21:07:57+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8079",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8080,
+          "filename": "「61-67」El Ascenso del Caballero Errante.pdf",
+          "size": 158905536,
+          "first": 61.0,
+          "last": 67.0,
+          "chapters": [
+            61.0,
+            62.0,
+            63.0,
+            64.0,
+            65.0,
+            66.0,
+            67.0
+          ],
+          "name": "61.0-67.0",
+          "date": "2026-11-11T21:07:57+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8080",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 7,
+      "latest_chapter": 67.0,
+      "visible": false,
+      "incomplete": false,
+      "added_at": "2026-11-11T21:12:12.967698+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -441996,6 +442195,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-11T17:08:33.725896+00:00",
+  "updated_at": "2026-11-11T21:12:12.967729+00:00",
   "version": 3
 }
