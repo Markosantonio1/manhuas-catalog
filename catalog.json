@@ -440134,9 +440134,9 @@
         "Drama",
         "Fantasía"
       ],
-      "cover": "",
-      "cover_message_id": 2848,
-      "cover_telegram_link": "https://t.me/c/4187372773/2848",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/debuta_o_muere.jpg",
+      "cover_message_id": 2847,
+      "cover_telegram_link": "https://t.me/c/4187372773/2847",
       "synopsis": "Un estudiante que se estaba preparando para el examen de Servicio Civil, de repente se encontró en un cuerpo desconocido regresando 3 años en el tiempo. ¡Además, una ventana de estado mostraba una clara amenaza frente a sus ojos! \n[¡Advertencia!] [Anormalidad de estado: ¡'Debuta o muere'!] \nUna historia sobre la transformación del protagonista, quien repentinamente fue desafiado a ser un idol a pesar de que nunca antes había estado en la industria, debido a una repentina amenaza de muerte.",
       "packages": [
         {
@@ -440438,7 +440438,7 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0,
-      "updated_at": "2026-11-11T02:46:17.040884+00:00"
+      "updated_at": "2026-11-11T02:52:47.517705+00:00"
     }
   ],
   "source": {
@@ -440447,6 +440447,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-11T02:46:17.040884+00:00",
+  "updated_at": "2026-11-11T02:52:47.517705+00:00",
   "version": 3
 }
