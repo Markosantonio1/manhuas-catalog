@@ -104147,10 +104147,10 @@
       ],
       "hashtag": "#El_Asesino_Que_Retornó_Como_El_Hijo_Del_Duque",
       "id": "el_asesino_que_retorno_como_el_hijo_del_duque",
-      "latest_chapter": 151,
+      "latest_chapter": 152,
       "library_count": 9,
       "name": "El Asesino Que Retornó Como El Hijo Del Duque",
-      "package_count": 54,
+      "package_count": 55,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -105113,6 +105113,21 @@
           "name": "151",
           "size": 16591831,
           "telegram_link": "https://t.me/manhuasgratis/7296"
+        },
+        {
+          "name": "152",
+          "first": 152,
+          "last": 152,
+          "channel_id": -1003003829878,
+          "message_id": 7987,
+          "filename": "▎152 ▎El Asesino Que Retornó Como El Hijo Del Duque.pdf",
+          "size": 9230099,
+          "date": "2026-11-11T11:08:28+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/7987",
+          "download_ready": false,
+          "chapters": [
+            152
+          ]
         }
       ],
       "rating": 5.0,
@@ -440497,6 +440512,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-11T03:59:14.091208+00:00",
+  "updated_at": "2026-11-11T11:08:59.815412+00:00",
   "version": 3
 }
