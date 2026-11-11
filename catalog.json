@@ -105124,10 +105124,11 @@
           "size": 9230099,
           "date": "2026-11-11T11:08:28+00:00",
           "telegram_link": "https://t.me/manhuasgratis/7987",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             152
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_asesino_que_retorno_como_el_hijo_del_duque/7987_%E2%96%8E152%20%E2%96%8EEl%20Asesino%20Que%20Retorn%C3%B3%20Como%20El%20Hijo%20Del%20Duque.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261111%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T110953Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0afe90380d437ae81cae8b8d80f65a25b01d4a9cc3470255bff2691e31655a00"
         }
       ],
       "rating": 5.0,
