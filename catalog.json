@@ -252360,10 +252360,10 @@
       ],
       "hashtag": "#La_Voluntad_De_Supervivencia_Del_Villano",
       "id": "la_voluntad_de_supervivencia_del_villano",
-      "latest_chapter": 95,
+      "latest_chapter": 71.0,
       "library_count": 12,
       "name": "La Voluntad De Supervivencia Del Villano",
-      "package_count": 22,
+      "package_count": 21,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -252749,28 +252749,14 @@
           "name": "71",
           "size": 12360373,
           "telegram_link": "https://t.me/manhuasgratis/7818"
-        },
-        {
-          "name": "95",
-          "first": 95,
-          "last": 95,
-          "channel_id": -1003003829878,
-          "message_id": 8068,
-          "filename": "「95-95」La Voluntad De Supervivencia Del Villano.pdf",
-          "size": 25703742,
-          "date": "2026-11-11T17:41:24+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/8068",
-          "download_ready": true,
-          "chapters": [
-            95
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/la_voluntad_de_supervivencia_del_villano/8068_%E3%80%8C95-95%E3%80%8DLa%20Voluntad%20De%20Supervivencia%20Del%20Villano.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020014Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0cbb37cb9139e25ff5b6d2ee855c7eff08174f009c51c82ded0f7e136b001361"
         }
       ],
       "rating": 5.0,
       "rating_count": 3,
       "synopsis": "Un villano que muere 999 de cada 1000 veces. Ahora, ese soy yo. \"Estoy destinado a morir en casi todas las rutas.\" Deculein, como villano, está destinado a morir inevitablemente. [Objetivo de supervivencia primordial: Conviértete en una existencia esencial para el juego.] Si estoy destinado a morir, debo sobrevivir, incluso si eso significa torcer el destino.",
-      "visible": true
+      "visible": true,
+      "published_chapters": [],
+      "incomplete": true
     },
     {
       "added_at": "2026-10-24T13:49:17+00:00",
@@ -444023,6 +444009,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-12T03:31:22.559279+00:00",
+  "updated_at": null,
   "version": 3
 }
