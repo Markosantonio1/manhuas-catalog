@@ -443987,8 +443987,8 @@
           "name": "279.0-279.0",
           "date": "2026-08-25T11:31:46+00:00",
           "telegram_link": "https://t.me/c/3003829878/3435",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/inscripci_n_de_mercenarios/3435_%5B279%5D%20Inscripci%C3%B3n%20De%20Mercenarios%EF%BE%9F%F0%9D%92%B1%F0%9D%92%B6%F0%9D%93%88.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T045627Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b53387ed8015bcea910fdcb0ae2d17139d0777a7a44dcd1d209a157a4ae5a781",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -444003,13 +444003,13 @@
           "name": "280.0-280.0",
           "date": "2026-08-25T11:31:46+00:00",
           "telegram_link": "https://t.me/c/3003829878/3436",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/inscripci_n_de_mercenarios/3436_%5B280%5D%20Inscripci%C3%B3n%20De%20Mercenarios.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T045646Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=42564e88d95bd8a2b9168d02b20f26e3f9cf66a82c832354a19f181fa0a246df",
+          "download_ready": true
         }
       ],
       "package_count": 52,
       "latest_chapter": 280.0,
-      "visible": false,
+      "visible": true,
       "incomplete": false,
       "added_at": "2026-11-12T03:31:22.559248+00:00",
       "rating": 0.0,
