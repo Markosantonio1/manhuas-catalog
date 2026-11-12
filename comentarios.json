@@ -1,8 +1,40 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T02:19:56.153238+00:00",
-  "total_comments": 17,
+  "updated_at": "2026-11-12T01:24:24.755768+00:00",
+  "total_comments": 21,
   "series": {
+    "campo_de_batalla_superhumano": [
+      {
+        "id": "5f8553f0-335a-4541-a223-949d5b80ae54",
+        "user_name": "🩵Pati💙",
+        "text": "¿Acaso hay segunda temporada?",
+        "created_at": 1794443354129
+      }
+    ],
+    "el_psicopata_del_murim": [
+      {
+        "id": "fe13c9f4-ef6a-4c43-a4a0-d2966cc07d43",
+        "user_name": "Dan",
+        "text": "Apenas he leído 10 capítulos y para mí gusto es muy buena, tengo mucha curiosidad de como se va ir desarrollando, ya que como lo plantea el título es un psicópata que termina en un mundo donde prácticamente para él es disney pero para su retorcida mente y técnicamente se presta demasiado para que él haga y deshaga a su antojo, me gusta bastante la premisa.",
+        "created_at": 1794329289729
+      }
+    ],
+    "evolucion_insana_de_cero": [
+      {
+        "id": "56f6ff43-2971-40a3-b0a2-2af4489b387f",
+        "user_name": "Lector 8396",
+        "text": "Me gustó mucho, el prota evoluciona con esfuerzo y le toma años, no como otros Protas que se vuelven casi dioses por la fuerza del guión",
+        "created_at": 1794245860871
+      }
+    ],
+    "artes_marciales_supremas_puedo_aplastar_dioses_con_una_sola_mano": [
+      {
+        "id": "448e6266-6d2c-43a7-a39e-e6e1dab1facc",
+        "user_name": "admin",
+        "text": "está buena",
+        "created_at": 1794194764514
+      }
+    ],
     "surviving_the_game_as_a_barbarian": [
       {
         "id": "1ba4824c-66a1-464a-9fe0-bea8cb7d1f6c",
