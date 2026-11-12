@@ -31923,10 +31923,10 @@
       ],
       "hashtag": "#Acampando_En_Otro_Mundo_Buscandole_El_Sazon_A_La_Vida",
       "id": "acampando_en_otro_mundo_buscandole_el_sazon_a_la_vida",
-      "latest_chapter": 120,
+      "latest_chapter": 121,
       "library_count": 3,
       "name": "Acampando En Otro Mundo Buscandole El Sazon A La Vida",
-      "package_count": 45,
+      "package_count": 46,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -32722,6 +32722,21 @@
             120
           ],
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/acampando_en_otro_mundo_buscandole_el_sazon_a_la_vida/8124_%E3%80%8C120_120%E3%80%8DAcampando_En_Otro_Mundo_Buscandole_El_Sazon_A_La_Vida.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T022508Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f42156d53e62e46e5ccfd57fb69485e6627790c90ce9871e013f115919fc8a31"
+        },
+        {
+          "name": "121",
+          "first": 121,
+          "last": 121,
+          "channel_id": -1003003829878,
+          "message_id": 8149,
+          "filename": "「121_121」Acampando_En_Otro_Mundo_Buscandole_El_Sazon_A_La_Vida.pdf",
+          "size": 19685420,
+          "date": "2026-11-12T12:48:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8149",
+          "download_ready": false,
+          "chapters": [
+            121
+          ]
         }
       ],
       "rating": 5.0,
@@ -107927,10 +107942,10 @@
       ],
       "hashtag": "#El_colorista",
       "id": "el_colorista",
-      "latest_chapter": 53,
+      "latest_chapter": 54,
       "library_count": 1,
       "name": "El colorista",
-      "package_count": 28,
+      "package_count": 29,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -108404,6 +108419,21 @@
             53
           ],
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_colorista/8058_%E3%80%8C53-53%E3%80%8DEl%20colorista.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020010Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f38c4e36e53246130109b1c9cba373a2173021edbe3e3a23b2448727de309d11"
+        },
+        {
+          "name": "54",
+          "first": 54,
+          "last": 54,
+          "channel_id": -1003003829878,
+          "message_id": 8150,
+          "filename": "「54-54」El colorista.pdf",
+          "size": 32893293,
+          "date": "2026-11-12T12:50:21+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8150",
+          "download_ready": false,
+          "chapters": [
+            54
+          ]
         }
       ],
       "rating": 4.0,
@@ -189757,10 +189787,10 @@
       ],
       "hashtag": "#Guía_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
       "id": "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre",
-      "latest_chapter": 51,
+      "latest_chapter": 53,
       "library_count": 12,
       "name": "Guía de estrategia de un cobarde para conquistar la torre",
-      "package_count": 32,
+      "package_count": 33,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -190292,6 +190322,22 @@
           "name": "51",
           "size": 15080134,
           "telegram_link": "https://t.me/manhuasgratis/7310"
+        },
+        {
+          "name": "52-53",
+          "first": 52,
+          "last": 53,
+          "channel_id": -1003003829878,
+          "message_id": 8148,
+          "filename": "「52_53」Guía_de_estrategia_de_un_cobarde_para_conquistar_la_torre.pdf",
+          "size": 49218418,
+          "date": "2026-11-12T12:47:19+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8148",
+          "download_ready": false,
+          "chapters": [
+            52,
+            53
+          ]
         }
       ],
       "rating": 5.0,
@@ -252360,7 +252406,7 @@
       ],
       "hashtag": "#La_Voluntad_De_Supervivencia_Del_Villano",
       "id": "la_voluntad_de_supervivencia_del_villano",
-      "latest_chapter": 71.0,
+      "latest_chapter": 71,
       "library_count": 12,
       "name": "La Voluntad De Supervivencia Del Villano",
       "package_count": 21,
@@ -386885,7 +386931,7 @@
       ],
       "hashtag": "#Subiendo_De_Nivel_10000_Años_En_El_Futuro",
       "id": "subiendo_de_nivel_10000_anos_en_el_futuro",
-      "latest_chapter": 366.0,
+      "latest_chapter": 366,
       "library_count": 9,
       "name": "Subiendo De Nivel 10000 Años En El Futuro",
       "package_count": 104,
@@ -443997,6 +444043,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-12T13:36:00",
+  "updated_at": "2026-11-12T12:50:31.345090+00:00",
   "version": 3
 }
