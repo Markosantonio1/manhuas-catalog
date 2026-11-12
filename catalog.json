@@ -386885,10 +386885,10 @@
       ],
       "hashtag": "#Subiendo_De_Nivel_10000_Años_En_El_Futuro",
       "id": "subiendo_de_nivel_10000_anos_en_el_futuro",
-      "latest_chapter": 367,
+      "latest_chapter": 366.0,
       "library_count": 9,
       "name": "Subiendo De Nivel 10000 Años En El Futuro",
-      "package_count": 105,
+      "package_count": 104,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -388815,28 +388815,15 @@
             366
           ],
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/8042_%E3%80%8C357-366%E3%80%8DSubiendo%20De%20Nivel%2010000%20A%C3%B1os%20En%20El%20Futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020017Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee75141391c8938889a01335db71dbdd8bd104dea64a02cb42448e6fe0e80ebd"
-        },
-        {
-          "name": "367",
-          "first": 367,
-          "last": 367,
-          "channel_id": -1003003829878,
-          "message_id": 8126,
-          "filename": "「367-367」Subiendo De Nivel 10000 Años En El Futuro.pdf",
-          "size": 1714927,
-          "date": "2026-11-12T02:23:42+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/8126",
-          "download_ready": true,
-          "chapters": [
-            367
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/8126_%E3%80%8C367-367%E3%80%8DSubiendo%20De%20Nivel%2010000%20A%C3%B1os%20En%20El%20Futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T022536Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=51f9c9937e60c1375891cb7e0258e6eecf5c0bfdc611d02e28b2adb34e76a062"
         }
       ],
       "rating": 0,
       "rating_count": 0,
       "synopsis": "En los albores de una revolución en la era de las artes marciales, hordas de terroríficos monstruos comienzan a invadir el mundo, derrotando uno tras otro a los guerreros de la humanidad. Un día, Lu Sheng se encuentra soñando con el mundo diez mil años en el futuro, ¡donde incluso las técnicas básicas de entrenamiento físico han sido modificadas y se han vuelto varios miles de veces más efectivas! Técnicas de respiración, remedios para fortalecer el cuerpo, escrituras de artes marciales… Pero con la humanidad extinguida en el mundo futuro, estas antaño grandes artes marciales no tienen a nadie que continúe su legado. ¡Nadie, excepto Lu Sheng!",
-      "visible": true
+      "visible": true,
+      "published_chapters": [],
+      "incomplete": true,
+      "updated_at": "2026-11-12T13:36:00"
     },
     {
       "added_at": "2026-10-24T14:00:10+00:00",
@@ -444010,6 +443997,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": null,
+  "updated_at": "2026-11-12T13:36:00",
   "version": 3
 }
