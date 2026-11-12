@@ -442925,6 +442925,1096 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "inscripci_n_de_mercenarios",
+      "hashtag": "#Inscripción_De_Mercenarios",
+      "name": "Inscripción De Mercenarios",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Artes_Marciales",
+        "Drama",
+        "Escolar",
+        "Misterio",
+        "Recuerdos de la vida",
+        "Venganza"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/inscripci_n_de_mercenarios.jpg",
+      "cover_message_id": 2852,
+      "cover_telegram_link": "https://t.me/c/4187372773/2852",
+      "synopsis": "Yu Ijin fue el único sobreviviente de un accidente de avión cuando era pequeño. Después de convertirse en mercenario para sobrevivir durante 10 años, regresa con su familia a su ciudad natal.",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3385,
+          "filename": "000-010 Inscripción de Mercenarios.pdf",
+          "size": 85459463,
+          "first": 0.0,
+          "last": 10.0,
+          "chapters": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "0.0-10.0",
+          "date": "2026-08-25T11:31:42+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3385",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3386,
+          "filename": "011-020 Inscripción de Mercenarios.pdf",
+          "size": 57441555,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3386",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3387,
+          "filename": "021-030 Inscripción de Mercenarios.pdf",
+          "size": 62268356,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3387",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3388,
+          "filename": "031-040 Inscripción de Mercenarios.pdf",
+          "size": 62137602,
+          "first": 31.0,
+          "last": 40.0,
+          "chapters": [
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0,
+            38.0,
+            39.0,
+            40.0
+          ],
+          "name": "31.0-40.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3388",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3389,
+          "filename": "041-050 Inscripción de Mercenarios.pdf",
+          "size": 58561514,
+          "first": 41.0,
+          "last": 50.0,
+          "chapters": [
+            41.0,
+            42.0,
+            43.0,
+            44.0,
+            45.0,
+            46.0,
+            47.0,
+            48.0,
+            49.0,
+            50.0
+          ],
+          "name": "41.0-50.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3389",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3390,
+          "filename": "051-060 Inscripción de Mercenarios.pdf",
+          "size": 59120192,
+          "first": 51.0,
+          "last": 60.0,
+          "chapters": [
+            51.0,
+            52.0,
+            53.0,
+            54.0,
+            55.0,
+            56.0,
+            57.0,
+            58.0,
+            59.0,
+            60.0
+          ],
+          "name": "51.0-60.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3390",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3391,
+          "filename": "061-070 Inscripción de Mercenarios.pdf",
+          "size": 60669558,
+          "first": 61.0,
+          "last": 70.0,
+          "chapters": [
+            61.0,
+            62.0,
+            63.0,
+            64.0,
+            65.0,
+            66.0,
+            67.0,
+            68.0,
+            69.0,
+            70.0
+          ],
+          "name": "61.0-70.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3391",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3392,
+          "filename": "071-080 Inscripción de Mercenarios.pdf",
+          "size": 59708948,
+          "first": 71.0,
+          "last": 80.0,
+          "chapters": [
+            71.0,
+            72.0,
+            73.0,
+            74.0,
+            75.0,
+            76.0,
+            77.0,
+            78.0,
+            79.0,
+            80.0
+          ],
+          "name": "71.0-80.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3392",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3393,
+          "filename": "081-090 Inscripción de Mercenarios.pdf",
+          "size": 60595844,
+          "first": 81.0,
+          "last": 90.0,
+          "chapters": [
+            81.0,
+            82.0,
+            83.0,
+            84.0,
+            85.0,
+            86.0,
+            87.0,
+            88.0,
+            89.0,
+            90.0
+          ],
+          "name": "81.0-90.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3393",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3394,
+          "filename": "091-100 Inscripción de Mercenarios.pdf",
+          "size": 62403806,
+          "first": 91.0,
+          "last": 100.0,
+          "chapters": [
+            91.0,
+            92.0,
+            93.0,
+            94.0,
+            95.0,
+            96.0,
+            97.0,
+            98.0,
+            99.0,
+            100.0
+          ],
+          "name": "91.0-100.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3394",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3395,
+          "filename": "101-110 Inscripción de Mercenarios.pdf",
+          "size": 67124903,
+          "first": 101.0,
+          "last": 110.0,
+          "chapters": [
+            101.0,
+            102.0,
+            103.0,
+            104.0,
+            105.0,
+            106.0,
+            107.0,
+            108.0,
+            109.0,
+            110.0
+          ],
+          "name": "101.0-110.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3395",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3396,
+          "filename": "111-120 Inscripción de Mercenarios.pdf",
+          "size": 67791840,
+          "first": 111.0,
+          "last": 120.0,
+          "chapters": [
+            111.0,
+            112.0,
+            113.0,
+            114.0,
+            115.0,
+            116.0,
+            117.0,
+            118.0,
+            119.0,
+            120.0
+          ],
+          "name": "111.0-120.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3396",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3397,
+          "filename": "121-130 Inscripción de Mercenarios.pdf",
+          "size": 65541338,
+          "first": 121.0,
+          "last": 130.0,
+          "chapters": [
+            121.0,
+            122.0,
+            123.0,
+            124.0,
+            125.0,
+            126.0,
+            127.0,
+            128.0,
+            129.0,
+            130.0
+          ],
+          "name": "121.0-130.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3397",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3398,
+          "filename": "131-140 Inscripción de Mercenarios.pdf",
+          "size": 59471044,
+          "first": 131.0,
+          "last": 140.0,
+          "chapters": [
+            131.0,
+            132.0,
+            133.0,
+            134.0,
+            135.0,
+            136.0,
+            137.0,
+            138.0,
+            139.0,
+            140.0
+          ],
+          "name": "131.0-140.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3398",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3399,
+          "filename": "141-150 Inscripción de Mercenarios.pdf",
+          "size": 66724033,
+          "first": 141.0,
+          "last": 150.0,
+          "chapters": [
+            141.0,
+            142.0,
+            143.0,
+            144.0,
+            145.0,
+            146.0,
+            147.0,
+            148.0,
+            149.0,
+            150.0
+          ],
+          "name": "141.0-150.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3399",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3400,
+          "filename": "151-160 Inscripción de Mercenarios.pdf",
+          "size": 64773105,
+          "first": 151.0,
+          "last": 160.0,
+          "chapters": [
+            151.0,
+            152.0,
+            153.0,
+            154.0,
+            155.0,
+            156.0,
+            157.0,
+            158.0,
+            159.0,
+            160.0
+          ],
+          "name": "151.0-160.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3400",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3401,
+          "filename": "161-170 Inscripción de Mercenarios.pdf",
+          "size": 65382189,
+          "first": 161.0,
+          "last": 170.0,
+          "chapters": [
+            161.0,
+            162.0,
+            163.0,
+            164.0,
+            165.0,
+            166.0,
+            167.0,
+            168.0,
+            169.0,
+            170.0
+          ],
+          "name": "161.0-170.0",
+          "date": "2026-08-25T11:31:43+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3401",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3402,
+          "filename": "171-180 Inscripción de Mercenarios.pdf",
+          "size": 65776133,
+          "first": 171.0,
+          "last": 180.0,
+          "chapters": [
+            171.0,
+            172.0,
+            173.0,
+            174.0,
+            175.0,
+            176.0,
+            177.0,
+            178.0,
+            179.0,
+            180.0
+          ],
+          "name": "171.0-180.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3402",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3403,
+          "filename": "181-190 Inscripción de Mercenarios.pdf",
+          "size": 61271967,
+          "first": 181.0,
+          "last": 190.0,
+          "chapters": [
+            181.0,
+            182.0,
+            183.0,
+            184.0,
+            185.0,
+            186.0,
+            187.0,
+            188.0,
+            189.0,
+            190.0
+          ],
+          "name": "181.0-190.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3403",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3404,
+          "filename": "┆191-200┆Mercenary Enrollment.pdf",
+          "size": 60867804,
+          "first": 191.0,
+          "last": 200.0,
+          "chapters": [
+            191.0,
+            192.0,
+            193.0,
+            194.0,
+            195.0,
+            196.0,
+            197.0,
+            198.0,
+            199.0,
+            200.0
+          ],
+          "name": "191.0-200.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3404",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3405,
+          "filename": "┆201-210┆Mercenary Enrollment.pdf",
+          "size": 68437422,
+          "first": 201.0,
+          "last": 210.0,
+          "chapters": [
+            201.0,
+            202.0,
+            203.0,
+            204.0,
+            205.0,
+            206.0,
+            207.0,
+            208.0,
+            209.0,
+            210.0
+          ],
+          "name": "201.0-210.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3405",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3406,
+          "filename": "┆211-220┆Mercenary Enrollment.pdf",
+          "size": 76532947,
+          "first": 211.0,
+          "last": 220.0,
+          "chapters": [
+            211.0,
+            212.0,
+            213.0,
+            214.0,
+            215.0,
+            216.0,
+            217.0,
+            218.0,
+            219.0,
+            220.0
+          ],
+          "name": "211.0-220.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3406",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3407,
+          "filename": "┆221-230┆Mercenary Enrollment.pdf",
+          "size": 78598502,
+          "first": 221.0,
+          "last": 230.0,
+          "chapters": [
+            221.0,
+            222.0,
+            223.0,
+            224.0,
+            225.0,
+            226.0,
+            227.0,
+            228.0,
+            229.0,
+            230.0
+          ],
+          "name": "221.0-230.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3407",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3408,
+          "filename": "┆231-240┆Mercenary Enrollment.pdf",
+          "size": 79263330,
+          "first": 231.0,
+          "last": 240.0,
+          "chapters": [
+            231.0,
+            232.0,
+            233.0,
+            234.0,
+            235.0,
+            236.0,
+            237.0,
+            238.0,
+            239.0,
+            240.0
+          ],
+          "name": "231.0-240.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3408",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3409,
+          "filename": "┆241-250┆Mercenary Enrollment.pdf",
+          "size": 84470953,
+          "first": 241.0,
+          "last": 250.0,
+          "chapters": [
+            241.0,
+            242.0,
+            243.0,
+            244.0,
+            245.0,
+            246.0,
+            247.0,
+            248.0,
+            249.0,
+            250.0
+          ],
+          "name": "241.0-250.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3409",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3410,
+          "filename": "┆251-254┆Mercenary Enrollment.pdf",
+          "size": 37222158,
+          "first": 251.0,
+          "last": 254.0,
+          "chapters": [
+            251.0,
+            252.0,
+            253.0,
+            254.0
+          ],
+          "name": "251.0-254.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3410",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3411,
+          "filename": "255 - Mercenary Enrollment.pdf",
+          "size": 9560632,
+          "first": 255.0,
+          "last": 255.0,
+          "chapters": [
+            255.0
+          ],
+          "name": "255.0-255.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3411",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3412,
+          "filename": "[#256] • Inscripción De Mercenarios .pdf",
+          "size": 7395076,
+          "first": 256.0,
+          "last": 256.0,
+          "chapters": [
+            256.0
+          ],
+          "name": "256.0-256.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3412",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3413,
+          "filename": "[#257] • Inscripción De Mercenarios .pdf",
+          "size": 6660511,
+          "first": 257.0,
+          "last": 257.0,
+          "chapters": [
+            257.0
+          ],
+          "name": "257.0-257.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3413",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3414,
+          "filename": "▎258 ▎Inscripción De Mercenarios.pdf",
+          "size": 9915874,
+          "first": 258.0,
+          "last": 258.0,
+          "chapters": [
+            258.0
+          ],
+          "name": "258.0-258.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3414",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3415,
+          "filename": "[#259] • Inscripción De Mercenarios .pdf",
+          "size": 7899913,
+          "first": 259.0,
+          "last": 259.0,
+          "chapters": [
+            259.0
+          ],
+          "name": "259.0-259.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3415",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3416,
+          "filename": "[#260] • Inscripción De Mercenarios .pdf",
+          "size": 7262238,
+          "first": 260.0,
+          "last": 260.0,
+          "chapters": [
+            260.0
+          ],
+          "name": "260.0-260.0",
+          "date": "2026-08-25T11:31:44+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3416",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3417,
+          "filename": "▎261 ▎Inscripción De Mercenarios.pdf",
+          "size": 8905764,
+          "first": 261.0,
+          "last": 261.0,
+          "chapters": [
+            261.0
+          ],
+          "name": "261.0-261.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3417",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3418,
+          "filename": "▎262 ▎Inscripción De Mercenarios.pdf",
+          "size": 10065439,
+          "first": 262.0,
+          "last": 262.0,
+          "chapters": [
+            262.0
+          ],
+          "name": "262.0-262.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3418",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3419,
+          "filename": "[#263] • Inscripción De Mercenarios .pdf",
+          "size": 7186318,
+          "first": 263.0,
+          "last": 263.0,
+          "chapters": [
+            263.0
+          ],
+          "name": "263.0-263.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3419",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3420,
+          "filename": "▎264 ▎Inscripción De Mercenarios.pdf",
+          "size": 8561174,
+          "first": 264.0,
+          "last": 264.0,
+          "chapters": [
+            264.0
+          ],
+          "name": "264.0-264.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3420",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3421,
+          "filename": "▎265 ▎Inscripción De Mercenarios.pdf",
+          "size": 7343368,
+          "first": 265.0,
+          "last": 265.0,
+          "chapters": [
+            265.0
+          ],
+          "name": "265.0-265.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3421",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3422,
+          "filename": "▎266 ▎Inscripción De Mercenarios.pdf",
+          "size": 7664438,
+          "first": 266.0,
+          "last": 266.0,
+          "chapters": [
+            266.0
+          ],
+          "name": "266.0-266.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3422",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3423,
+          "filename": "[#267] • Inscripción De Mercenarios .pdf",
+          "size": 9010110,
+          "first": 267.0,
+          "last": 267.0,
+          "chapters": [
+            267.0
+          ],
+          "name": "267.0-267.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3423",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3424,
+          "filename": "▎268 ▎Inscripción De Mercenarios.pdf",
+          "size": 10497341,
+          "first": 268.0,
+          "last": 268.0,
+          "chapters": [
+            268.0
+          ],
+          "name": "268.0-268.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3424",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3425,
+          "filename": "▎269 ▎Inscripción De Mercenarios.pdf",
+          "size": 8708441,
+          "first": 269.0,
+          "last": 269.0,
+          "chapters": [
+            269.0
+          ],
+          "name": "269.0-269.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3425",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3426,
+          "filename": "▎270 ▎Inscripción De Mercenarios.pdf",
+          "size": 9951107,
+          "first": 270.0,
+          "last": 270.0,
+          "chapters": [
+            270.0
+          ],
+          "name": "270.0-270.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3426",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3427,
+          "filename": "[271] Inscripción De Mercenariosﾟ𝒱𝒶𝓈.pdf",
+          "size": 5346733,
+          "first": 271.0,
+          "last": 271.0,
+          "chapters": [
+            271.0
+          ],
+          "name": "271.0-271.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3427",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3428,
+          "filename": "272 • Mercenary Enrollment.pdf",
+          "size": 7493152,
+          "first": 272.0,
+          "last": 272.0,
+          "chapters": [
+            272.0
+          ],
+          "name": "272.0-272.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3428",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3429,
+          "filename": "[273] Incripcion de Mercenarios.pdf",
+          "size": 10497872,
+          "first": 273.0,
+          "last": 273.0,
+          "chapters": [
+            273.0
+          ],
+          "name": "273.0-273.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3429",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3430,
+          "filename": "[274] Inscripción de Mercenarios.pdf",
+          "size": 15165412,
+          "first": 274.0,
+          "last": 274.0,
+          "chapters": [
+            274.0
+          ],
+          "name": "274.0-274.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3430",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3431,
+          "filename": "[275] Inscripción De Mercenariosﾟ𝒱𝒶𝓈.pdf",
+          "size": 4540382,
+          "first": 275.0,
+          "last": 275.0,
+          "chapters": [
+            275.0
+          ],
+          "name": "275.0-275.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3431",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3432,
+          "filename": "[276] Inscripción De Mercenariosﾟ𝒱𝒶𝓈.pdf",
+          "size": 6690577,
+          "first": 276.0,
+          "last": 276.0,
+          "chapters": [
+            276.0
+          ],
+          "name": "276.0-276.0",
+          "date": "2026-08-25T11:31:45+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3432",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3433,
+          "filename": "[277] Inscripción De Mercenariosﾟ𝒱𝒶𝓈.pdf",
+          "size": 5508497,
+          "first": 277.0,
+          "last": 277.0,
+          "chapters": [
+            277.0
+          ],
+          "name": "277.0-277.0",
+          "date": "2026-08-25T11:31:46+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3433",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3434,
+          "filename": "[278] Inscripción De Mercenariosﾟ𝒱𝒶𝓈.pdf",
+          "size": 6532424,
+          "first": 278.0,
+          "last": 278.0,
+          "chapters": [
+            278.0
+          ],
+          "name": "278.0-278.0",
+          "date": "2026-08-25T11:31:46+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3434",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3435,
+          "filename": "[279] Inscripción De Mercenariosﾟ𝒱𝒶𝓈.pdf",
+          "size": 7239703,
+          "first": 279.0,
+          "last": 279.0,
+          "chapters": [
+            279.0
+          ],
+          "name": "279.0-279.0",
+          "date": "2026-08-25T11:31:46+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3435",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 3436,
+          "filename": "[280] Inscripción De Mercenarios.pdf",
+          "size": 5006847,
+          "first": 280.0,
+          "last": 280.0,
+          "chapters": [
+            280.0
+          ],
+          "name": "280.0-280.0",
+          "date": "2026-08-25T11:31:46+00:00",
+          "telegram_link": "https://t.me/c/3003829878/3436",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 52,
+      "latest_chapter": 280.0,
+      "visible": false,
+      "incomplete": false,
+      "added_at": "2026-11-12T03:31:22.559248+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -442933,6 +444023,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-12T03:11:49.016451+00:00",
+  "updated_at": "2026-11-12T03:31:22.559279+00:00",
   "version": 3
 }
