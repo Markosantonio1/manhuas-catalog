@@ -32733,10 +32733,11 @@
           "size": 19685420,
           "date": "2026-11-12T12:48:17+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8149",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             121
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/acampando_en_otro_mundo_buscandole_el_sazon_a_la_vida/8149_%E3%80%8C121_121%E3%80%8DAcampando_En_Otro_Mundo_Buscandole_El_Sazon_A_La_Vida.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T125158Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b02d05c2cc2389ced89ca0be014dee84a82f7440710a4043a3719444dc48f3cb"
         }
       ],
       "rating": 5.0,
@@ -108430,10 +108431,11 @@
           "size": 32893293,
           "date": "2026-11-12T12:50:21+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8150",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             54
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_colorista/8150_%E3%80%8C54-54%E3%80%8DEl%20colorista.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T125339Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a974b261900353a987e55cf341031fc39b892c760c7ca04df07fed51c9517496"
         }
       ],
       "rating": 4.0,
@@ -190333,11 +190335,12 @@
           "size": 49218418,
           "date": "2026-11-12T12:47:19+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8148",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             52,
             53
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre/8148_%E3%80%8C52_53%E3%80%8DGu%C3%ADa_de_estrategia_de_un_cobarde_para_conquistar_la_torre.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T125539Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5cce5173cbd833cc57cc35a8dbbf88aaa0c2f1153137990a58a845eae1277807"
         }
       ],
       "rating": 5.0,
