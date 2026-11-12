@@ -192445,10 +192445,10 @@
       ],
       "hashtag": "#Han_Pasado_30_Años_Desde_el_Prólogo",
       "id": "han_pasado_30_anos_desde_el_prologo",
-      "latest_chapter": 22.0,
+      "latest_chapter": 24,
       "library_count": 19,
       "name": "Han Pasado 30 Años Desde el Prólogo",
-      "package_count": 15,
+      "package_count": 16,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -192696,6 +192696,22 @@
           "name": "22",
           "size": 12592847,
           "telegram_link": "https://t.me/manhuasgratis/6910"
+        },
+        {
+          "name": "23-24",
+          "first": 23,
+          "last": 24,
+          "channel_id": -1003003829878,
+          "message_id": 8128,
+          "filename": "「23-24」Han Pasado 30 Años Desde el Prólogo.pdf",
+          "size": 53432972,
+          "date": "2026-11-12T03:11:39+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8128",
+          "download_ready": false,
+          "chapters": [
+            23,
+            24
+          ]
         }
       ],
       "rating": 5.0,
@@ -442916,6 +442932,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": null,
+  "updated_at": "2026-11-12T03:11:49.016451+00:00",
   "version": 3
 }
