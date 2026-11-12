@@ -444468,12 +444468,13 @@
       ],
       "package_count": 16,
       "latest_chapter": 159.0,
-      "visible": false,
+      "visible": true,
       "incomplete": true,
       "added_at": "2026-11-12T14:00:48.025046+00:00",
       "rating": 0.0,
       "rating_count": 0,
-      "library_count": 0
+      "library_count": 0,
+      "updated_at": "2026-11-12T21:33:41"
     }
   ],
   "source": {
@@ -444482,6 +444483,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-12T20:31:44.037867+00:00",
+  "updated_at": "2026-11-12T21:33:41",
   "version": 3
 }
