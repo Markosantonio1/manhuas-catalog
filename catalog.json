@@ -387033,10 +387033,10 @@
       ],
       "hashtag": "#Subiendo_De_Nivel_10000_Años_En_El_Futuro",
       "id": "subiendo_de_nivel_10000_anos_en_el_futuro",
-      "latest_chapter": 366,
+      "latest_chapter": 367,
       "library_count": 11,
       "name": "Subiendo De Nivel 10000 Años En El Futuro",
-      "package_count": 104,
+      "package_count": 105,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -388963,6 +388963,21 @@
             366
           ],
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/8042_%E3%80%8C357-366%E3%80%8DSubiendo%20De%20Nivel%2010000%20A%C3%B1os%20En%20El%20Futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020017Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee75141391c8938889a01335db71dbdd8bd104dea64a02cb42448e6fe0e80ebd"
+        },
+        {
+          "name": "367",
+          "first": 367,
+          "last": 367,
+          "channel_id": -1003003829878,
+          "message_id": 8263,
+          "filename": "「367-367」Subiendo De Nivel 10000 Años En El Futuro (2).pdf",
+          "size": 1714927,
+          "date": "2026-11-13T13:06:18+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8263",
+          "download_ready": false,
+          "chapters": [
+            367
+          ]
         }
       ],
       "rating": 0,
@@ -446261,6 +446276,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-13T03:56:38.956088+00:00",
+  "updated_at": "2026-11-13T13:06:26.225860+00:00",
   "version": 3
 }
