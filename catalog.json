@@ -388974,10 +388974,11 @@
           "size": 1714927,
           "date": "2026-11-13T13:06:18+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8263",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             367
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/subiendo_de_nivel_10000_anos_en_el_futuro/8263_%E3%80%8C367-367%E3%80%8DSubiendo%20De%20Nivel%2010000%20A%C3%B1os%20En%20El%20Futuro%20%282%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261113%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T130701Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c29139634913d07e8f75aef6f8ad13408917835a1f4ebb0125dceab6abe40121"
         }
       ],
       "rating": 0,
