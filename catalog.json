@@ -445575,8 +445575,8 @@
           "name": "1.0-10.0",
           "date": "2026-11-13T02:55:52+00:00",
           "telegram_link": "https://t.me/c/3003829878/8245",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/inversor_con_la_habilidad_de_predecir_el_futuro/8245_%E3%80%8C1-10%E3%80%8DInversor%20Con%20La%20Habilidad%20de%20Predecir%20El%20Futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261113%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T032251Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec30545e25d1783319c8668f3774bf1096b93509f782c7b81e866acac11dd011",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -445600,8 +445600,8 @@
           "name": "11.0-20.0",
           "date": "2026-11-13T02:55:52+00:00",
           "telegram_link": "https://t.me/c/3003829878/8246",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/inversor_con_la_habilidad_de_predecir_el_futuro/8246_%E3%80%8C11-20%E3%80%8DInversor%20Con%20La%20Habilidad%20de%20Predecir%20El%20Futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261113%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T032750Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30483361aa6f514dad97b310218b38fc93498ab4272599e416dc005d034fad18",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -445618,8 +445618,8 @@
           "name": "21.0-23.0",
           "date": "2026-11-13T02:55:52+00:00",
           "telegram_link": "https://t.me/c/3003829878/8247",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/inversor_con_la_habilidad_de_predecir_el_futuro/8247_%E3%80%8C21-23%E3%80%8DInversor%20Con%20La%20Habilidad%20de%20Predecir%20El%20Futuro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261113%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261113T033032Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=968c85e0bf2f95828fc7c4b79e7098ee6c4cf32e9644835c817cfa5dcc296473",
+          "download_ready": true
         }
       ],
       "package_count": 3,
