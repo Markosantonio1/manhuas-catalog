@@ -44780,7 +44780,8 @@
     {
       "added_at": "2026-09-11T17:04:35+00:00",
       "aliases": [
-        "Archimago Trascendiendo a Través"
+        "Archimago Trascendiendo a Través",
+        "Archimago tracendiendo a travez"
       ],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/archimago_tracendiendo_a_travez.jpg",
       "cover_message_id": 34,
@@ -44792,11 +44793,11 @@
         "Aventura",
         "Sistema"
       ],
-      "hashtag": "#Archimago_tracendiendo_a_travez",
+      "hashtag": "#Archimago_trascendiendo_a_través_de_la_regresión",
       "id": "archimago_tracendiendo_a_travez",
       "latest_chapter": 220,
       "library_count": 19,
-      "name": "Archimago tracendiendo a travez",
+      "name": "Archimago trascendiendo a través de la regresión",
       "package_count": 80,
       "packages": [
         {
@@ -46223,7 +46224,8 @@
       "rating": 4.0,
       "rating_count": 4,
       "synopsis": "Mikhail Walpurgis, el único archimago de 9no círculo del mundo, cayó en batalla por culpa de un maldito héroe, y consiguió lanzar un último hechizo de magia avanzada,\n<Regresión del tiempo>. Al rebobinar el tiempo, retrocedió a 20 años atrás.",
-      "visible": true
+      "visible": true,
+      "updated_at": "2026-11-13T03:51:24"
     },
     {
       "added_at": "2026-10-22T16:50:03+00:00",
@@ -445525,6 +445527,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-13T01:44:46.391128+00:00",
+  "updated_at": "2026-11-13T03:51:24",
   "version": 3
 }
