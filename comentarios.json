@@ -1,8 +1,22 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T20:32:51.520156+00:00",
-  "total_comments": 21,
+  "updated_at": "2026-11-13T00:00:21.105108+00:00",
+  "total_comments": 22,
   "series": {
+    "emperador_magico": [
+      {
+        "id": "88330da7-bf9e-41d4-9d55-6f454c708561",
+        "user_name": "Lector BAEF",
+        "text": "es bueno?",
+        "created_at": 1794527801682
+      },
+      {
+        "id": "817f4c73-4fb4-4997-b62c-cb7ec7bb8140",
+        "user_name": "Kael",
+        "text": "Para el que no lo sabe y es insano de la maldad pura este no es para blandengues",
+        "created_at": 1794030305301
+      }
+    ],
     "campo_de_batalla_superhumano": [
       {
         "id": "5f8553f0-335a-4541-a223-949d5b80ae54",
@@ -47,14 +61,6 @@
         "user_name": "Lector 9E5F",
         "text": "buenas serie, la recomiendo",
         "created_at": 1793476438181
-      }
-    ],
-    "emperador_magico": [
-      {
-        "id": "817f4c73-4fb4-4997-b62c-cb7ec7bb8140",
-        "user_name": "Kael",
-        "text": "Para el que no lo sabe y es insano de la maldad pura este no es para blandengues",
-        "created_at": 1794030305301
       }
     ],
     "odisea_en_la_mazmorra": [
