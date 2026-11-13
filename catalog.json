@@ -445396,6 +445396,127 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "el_genio_marcial_que_lo_recuerda_todo",
+      "hashtag": "#El_Genio_Marcial_que_lo_Recuerda_Todo",
+      "name": "El Genio Marcial que lo Recuerda Todo",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Artes_Marciales",
+        "Aventura",
+        "Fantasía",
+        "Reencarnación"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_genio_marcial_que_lo_recuerda_todo.jpg",
+      "cover_message_id": 2857,
+      "cover_telegram_link": "https://t.me/c/4187372773/2857",
+      "synopsis": "[Del estudio que hizo: Nano machine, La venganza del sabueso de sangre de hierro, El Asesino de la Luna a la Deriva] Jin Sowoon es un guerrero mediocre con una habilidad inusual: una memoria perfecta. Viaja treinta años al pasado, justo antes de que el temible Culto Demoníaco regrese al poder. El problema es que no tiene poderes especiales, pertenece a un clan débil y su talento marcial es prácticamente nulo. Lejos de sentirse el elegido, él mismo reconoce que está en una posición muy desfavorable. La historia sigue su lucha por sobrevivir y cambiar un destino que ya conoce, armado únicamente con su memoria y su voluntad.",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8130,
+          "filename": "「1-10」El Genio Marcial que lo Recuerda Todo.pdf",
+          "size": 123686089,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-12T03:39:05+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8130",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8131,
+          "filename": "「11-20」El Genio Marcial que lo Recuerda Todo.pdf",
+          "size": 219885241,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-12T03:39:05+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8131",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8132,
+          "filename": "「21-30」El Genio Marcial que lo Recuerda Todo.pdf",
+          "size": 223828349,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-11-12T03:39:05+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8132",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8133,
+          "filename": "「31-34」El Genio Marcial que lo Recuerda Todo.pdf",
+          "size": 92586876,
+          "first": 31.0,
+          "last": 34.0,
+          "chapters": [
+            31.0,
+            32.0,
+            33.0,
+            34.0
+          ],
+          "name": "31.0-34.0",
+          "date": "2026-11-12T03:39:06+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8133",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 4,
+      "latest_chapter": 34.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-13T01:44:46.390263+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -445404,6 +445525,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-12T23:05:53.023179+00:00",
+  "updated_at": "2026-11-13T01:44:46.391128+00:00",
   "version": 3
 }
