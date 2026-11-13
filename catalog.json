@@ -445535,6 +445535,101 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "inversor_con_la_habilidad_de_predecir_el_futuro",
+      "hashtag": "#Inversor_Con_La_Habilidad_de_Predecir_El_Futuro",
+      "name": "Inversor Con La Habilidad de Predecir El Futuro",
+      "aliases": [],
+      "genres": [
+        "Fantasía",
+        "Magia",
+        "Recuerdos de la vida",
+        "Sistema",
+        "Sobrenatural"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/inversor_con_la_habilidad_de_predecir_el_futuro.jpg",
+      "cover_message_id": 2869,
+      "cover_telegram_link": "https://t.me/c/4187372773/2869",
+      "synopsis": "En una época en la que hay más de un millón de jóvenes desempleados, Jung Jin-ho es un hombre sin trabajo y sin ninguna cualificación.\n«Ven a trabajar a mi empresa».\nGracias a una oferta inesperada del director general de una empresa de valores —que, por cierto, también es el líder de su clan en un videojuego—, ¡da sin darse cuenta su primer paso en el mundo empresarial!\nEs allí donde se despierta la habilidad especial de Jin-ho. Con un simple «clic» del ratón, se mueven cientos de millones.\n¡Comienza la leyenda de un genio bursátil loco que arrasa con todo el dinero del distrito financiero!\nNombres Alternativos: Habilidad que siempre gana",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8245,
+          "filename": "「1-10」Inversor Con La Habilidad de Predecir El Futuro.pdf",
+          "size": 213326705,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-13T02:55:52+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8245",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8246,
+          "filename": "「11-20」Inversor Con La Habilidad de Predecir El Futuro.pdf",
+          "size": 207382500,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-13T02:55:52+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8246",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8247,
+          "filename": "「21-23」Inversor Con La Habilidad de Predecir El Futuro.pdf",
+          "size": 62279228,
+          "first": 21.0,
+          "last": 23.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0
+          ],
+          "name": "21.0-23.0",
+          "date": "2026-11-13T02:55:52+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8247",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 3,
+      "latest_chapter": 23.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-13T03:17:36.445073+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -445543,6 +445638,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-13T03:04:25.574282+00:00",
+  "updated_at": "2026-11-13T03:17:36.445108+00:00",
   "version": 3
 }
