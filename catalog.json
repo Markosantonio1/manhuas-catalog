@@ -392397,7 +392397,9 @@
     },
     {
       "added_at": "2026-08-27T02:29:07+00:00",
-      "aliases": [],
+      "aliases": [
+        "Surviving The Game as a Barbarian"
+      ],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/surviving_the_game_as_a_barbarian.jpg",
       "cover_message_id": 120,
       "cover_telegram_link": "https://t.me/c/-1004187372773/120",
@@ -392408,11 +392410,11 @@
         "Sistema",
         "Sobrenatural"
       ],
-      "hashtag": "#Surviving_The_Game_as_a_Barbarian",
+      "hashtag": "#Sobreviviendo_al_Juego_Siendo_un_Barbaro",
       "id": "surviving_the_game_as_a_barbarian",
       "latest_chapter": 168,
       "library_count": 19,
-      "name": "Surviving The Game as a Barbarian",
+      "name": "Sobreviviendo al Juego Siendo un Barbaro",
       "package_count": 43,
       "packages": [
         {
@@ -393232,7 +393234,8 @@
       "rating": 4.75,
       "rating_count": 4,
       "synopsis": "El protagonista, Lee Han-soo, llega a la etapa final del jefe después de jugar un juego [Dungeon & Stone] que nadie habia terminado hasta ahora.\nSin embargo, una vez que entró en la sala del jefe, aparece inmediatamente en [Dungeon & Stone] como un barbaro 'Bjjorn, hijo de Yandel' con un tutorial donde dice 'felicidades por completar el tutorial'.\nSólo ha habido una ciudad en el mundo desde su caída. Una vez al mes se abre [???], los aventureros pueden recibir y recibir bienes aclarando el misterio...",
-      "visible": true
+      "visible": true,
+      "updated_at": "2026-11-13T14:17:17"
     },
     {
       "added_at": "2026-10-23T01:17:14+00:00",
@@ -446277,6 +446280,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-13T13:06:26.225860+00:00",
+  "updated_at": "2026-11-13T14:17:17",
   "version": 3
 }
