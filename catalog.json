@@ -446549,6 +446549,50 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "mi_evoluci_n_a_partir_de_un_lago",
+      "hashtag": "#Mi_Evolución_a_Partir_de_un_Lago",
+      "name": "Mi Evolución a Partir de un Lago",
+      "aliases": [],
+      "genres": [
+        "Artes_Marciales",
+        "Cultivación",
+        "Fantasía",
+        "Reencarnación"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/mi_evoluci_n_a_partir_de_un_lago.jpg",
+      "cover_message_id": 2873,
+      "cover_telegram_link": "https://t.me/c/4187372773/2873",
+      "synopsis": "En este mundo abundan las deidades, dominando los cuatro puntos cardinales. Millones de razas siguen la ley de la selva, en guerra constante. Chu Shen renace en el Continente de Dioses y Demonios, transformándose en un lago. Con el sistema vinculado, inicia su feroz evolución. Lago de Poder Espiritual, Lago Elemental, Lago de las Reglas, Lago de la Fe& Sus afluentes atraviesan cientos de planos dimensionales, bendiciendo a incontables seres vivos y sepultando a miles de dioses y demonios. ¡Donde fluyen sus afluentes, ahí se extiende el territorio absoluto de Chu Shen!",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8262,
+          "filename": "「1-3」Mi Evolución a Partir de un Lago.pdf",
+          "size": 27347422,
+          "first": 1.0,
+          "last": 3.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0
+          ],
+          "name": "1.0-3.0",
+          "date": "2026-11-13T12:56:20+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8262",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 1,
+      "latest_chapter": 3.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-13T14:52:12.786827+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -446557,6 +446601,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-13T14:46:21.661109+00:00",
+  "updated_at": "2026-11-13T14:52:12.786861+00:00",
   "version": 3
 }
