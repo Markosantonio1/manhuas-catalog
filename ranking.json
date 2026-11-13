@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T20:32:47.450358+00:00",
-  "total_users": 261,
+  "updated_at": "2026-11-13T00:00:18.715562+00:00",
+  "total_users": 263,
   "ranking": [
     {
       "rank": 1,
@@ -63,8 +63,8 @@
       "rank": 9,
       "user_hash": "c5ef1fb8",
       "name": "Jair",
-      "reading_time_seconds": 256014,
-      "reading_time_hours": 71.11
+      "reading_time_seconds": 257396,
+      "reading_time_hours": 71.5
     },
     {
       "rank": 10,
@@ -110,38 +110,38 @@
     },
     {
       "rank": 16,
+      "user_hash": "16a53cdb",
+      "name": "Lector 16A5",
+      "reading_time_seconds": 188662,
+      "reading_time_hours": 52.41
+    },
+    {
+      "rank": 17,
       "user_hash": "7d94978f",
       "name": "Lector 7D94",
       "reading_time_seconds": 184780,
       "reading_time_hours": 51.33
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_hash": "47e0b2c4",
       "name": "Lector 47E0",
       "reading_time_seconds": 183034,
       "reading_time_hours": 50.84
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_hash": "0417f76e",
       "name": "squeky",
       "reading_time_seconds": 176744,
       "reading_time_hours": 49.1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_hash": "8a45374f",
       "name": "Lector 8A45",
       "reading_time_seconds": 171586,
       "reading_time_hours": 47.66
-    },
-    {
-      "rank": 20,
-      "user_hash": "16a53cdb",
-      "name": "Lector 16A5",
-      "reading_time_seconds": 168158,
-      "reading_time_hours": 46.71
     },
     {
       "rank": 21,
@@ -257,38 +257,38 @@
     },
     {
       "rank": 37,
+      "user_hash": "ae8b8b3e",
+      "name": "Jaime",
+      "reading_time_seconds": 111797,
+      "reading_time_hours": 31.05
+    },
+    {
+      "rank": 38,
       "user_hash": "4538e0e0",
       "name": "Lector 4538",
       "reading_time_seconds": 108894,
       "reading_time_hours": 30.25
     },
     {
-      "rank": 38,
+      "rank": 39,
       "user_hash": "435761b6",
       "name": "Lector 4357",
       "reading_time_seconds": 108028,
       "reading_time_hours": 30.01
     },
     {
-      "rank": 39,
+      "rank": 40,
       "user_hash": "1fb05549",
       "name": "Lector 1FB0",
       "reading_time_seconds": 106949,
       "reading_time_hours": 29.71
     },
     {
-      "rank": 40,
+      "rank": 41,
       "user_hash": "b5228826",
       "name": "Lector B522",
       "reading_time_seconds": 105368,
       "reading_time_hours": 29.27
-    },
-    {
-      "rank": 41,
-      "user_hash": "ae8b8b3e",
-      "name": "Jaime",
-      "reading_time_seconds": 100576,
-      "reading_time_hours": 27.94
     },
     {
       "rank": 42,
@@ -327,283 +327,283 @@
     },
     {
       "rank": 47,
+      "user_hash": "3bf7dd07",
+      "name": "Mirage",
+      "reading_time_seconds": 86513,
+      "reading_time_hours": 24.03
+    },
+    {
+      "rank": 48,
       "user_hash": "dccba5a0",
       "name": "Lector DCCB",
       "reading_time_seconds": 86170,
       "reading_time_hours": 23.94
     },
     {
-      "rank": 48,
+      "rank": 49,
       "user_hash": "c53d30f7",
       "name": "Lector C53D",
       "reading_time_seconds": 85077,
       "reading_time_hours": 23.63
     },
     {
-      "rank": 49,
+      "rank": 50,
       "user_hash": "bab75324",
       "name": "Lector BAB7",
       "reading_time_seconds": 82993,
       "reading_time_hours": 23.05
     },
     {
-      "rank": 50,
+      "rank": 51,
       "user_hash": "cd56cf4e",
       "name": "Dan",
       "reading_time_seconds": 82088,
       "reading_time_hours": 22.8
     },
     {
-      "rank": 51,
+      "rank": 52,
       "user_hash": "a2cfdb9b",
       "name": "Lector A2CF",
       "reading_time_seconds": 80753,
       "reading_time_hours": 22.43
     },
     {
-      "rank": 52,
+      "rank": 53,
       "user_hash": "43cc1205",
       "name": "NoHayPan",
       "reading_time_seconds": 79908,
       "reading_time_hours": 22.2
     },
     {
-      "rank": 53,
+      "rank": 54,
       "user_hash": "75a43ddb",
       "name": "Lector 75A4",
       "reading_time_seconds": 79765,
       "reading_time_hours": 22.16
     },
     {
-      "rank": 54,
+      "rank": 55,
       "user_hash": "06f3e50c",
       "name": "Lector 06F3",
       "reading_time_seconds": 78733,
       "reading_time_hours": 21.87
     },
     {
-      "rank": 55,
+      "rank": 56,
+      "user_hash": "9caa6989",
+      "name": "Lector 9CAA",
+      "reading_time_seconds": 77571,
+      "reading_time_hours": 21.55
+    },
+    {
+      "rank": 57,
       "user_hash": "0423bcfb",
       "name": "Lector 0423",
       "reading_time_seconds": 77316,
       "reading_time_hours": 21.48
     },
     {
-      "rank": 56,
+      "rank": 58,
       "user_hash": "35a74224",
       "name": "Lector 35A7",
       "reading_time_seconds": 75975,
       "reading_time_hours": 21.1
     },
     {
-      "rank": 57,
-      "user_hash": "9caa6989",
-      "name": "Lector 9CAA",
-      "reading_time_seconds": 75862,
-      "reading_time_hours": 21.07
-    },
-    {
-      "rank": 58,
+      "rank": 59,
       "user_hash": "7ae4d704",
       "name": "Lector 7AE4",
       "reading_time_seconds": 74187,
       "reading_time_hours": 20.61
     },
     {
-      "rank": 59,
+      "rank": 60,
       "user_hash": "4c7df2da",
       "name": "Masamunexn",
       "reading_time_seconds": 70253,
       "reading_time_hours": 19.51
     },
     {
-      "rank": 60,
+      "rank": 61,
       "user_hash": "c9755569",
       "name": "Lector C975",
       "reading_time_seconds": 70008,
       "reading_time_hours": 19.45
     },
     {
-      "rank": 61,
+      "rank": 62,
       "user_hash": "582d199d",
       "name": "Lector 582D",
       "reading_time_seconds": 69615,
       "reading_time_hours": 19.34
     },
     {
-      "rank": 62,
+      "rank": 63,
       "user_hash": "90ffd572",
       "name": "Lector 90FF",
       "reading_time_seconds": 62489,
       "reading_time_hours": 17.36
     },
     {
-      "rank": 63,
+      "rank": 64,
       "user_hash": "baefcf3a",
       "name": "Lector BAEF",
       "reading_time_seconds": 62104,
       "reading_time_hours": 17.25
     },
     {
-      "rank": 64,
+      "rank": 65,
       "user_hash": "6ed51a50",
       "name": "Churro",
-      "reading_time_seconds": 58027,
-      "reading_time_hours": 16.12
+      "reading_time_seconds": 58776,
+      "reading_time_hours": 16.33
     },
     {
-      "rank": 65,
+      "rank": 66,
       "user_hash": "85cba643",
       "name": "Lector 85CB",
       "reading_time_seconds": 57914,
       "reading_time_hours": 16.09
     },
     {
-      "rank": 66,
+      "rank": 67,
       "user_hash": "8c5c63a3",
       "name": "Lector 8C5C",
       "reading_time_seconds": 57870,
       "reading_time_hours": 16.07
     },
     {
-      "rank": 67,
+      "rank": 68,
       "user_hash": "afa8f4f0",
       "name": "Lector AFA8",
       "reading_time_seconds": 56326,
       "reading_time_hours": 15.65
     },
     {
-      "rank": 68,
+      "rank": 69,
       "user_hash": "125cbede",
       "name": "Lector 125C",
       "reading_time_seconds": 52139,
       "reading_time_hours": 14.48
     },
     {
-      "rank": 69,
+      "rank": 70,
       "user_hash": "7a1701df",
       "name": "Lector 7A17",
       "reading_time_seconds": 52016,
       "reading_time_hours": 14.45
     },
     {
-      "rank": 70,
+      "rank": 71,
       "user_hash": "9bc3fc28",
       "name": "Kael",
       "reading_time_seconds": 49408,
       "reading_time_hours": 13.72
     },
     {
-      "rank": 71,
+      "rank": 72,
       "user_hash": "ab91b50f",
       "name": "Lector AB91",
       "reading_time_seconds": 48340,
       "reading_time_hours": 13.43
     },
     {
-      "rank": 72,
+      "rank": 73,
       "user_hash": "5cf3f55e",
       "name": "Lector 5CF3",
       "reading_time_seconds": 47013,
       "reading_time_hours": 13.06
     },
     {
-      "rank": 73,
+      "rank": 74,
       "user_hash": "19e848fc",
       "name": "cielo oscuro",
       "reading_time_seconds": 46919,
       "reading_time_hours": 13.03
     },
     {
-      "rank": 74,
+      "rank": 75,
       "user_hash": "9220810e",
       "name": "Lector 9220",
       "reading_time_seconds": 45977,
       "reading_time_hours": 12.77
     },
     {
-      "rank": 75,
+      "rank": 76,
       "user_hash": "44333ed6",
       "name": "Lector 4433",
       "reading_time_seconds": 44467,
       "reading_time_hours": 12.35
     },
     {
-      "rank": 76,
+      "rank": 77,
       "user_hash": "400c1674",
       "name": "Lector 400C",
       "reading_time_seconds": 44340,
       "reading_time_hours": 12.32
     },
     {
-      "rank": 77,
+      "rank": 78,
       "user_hash": "b57e5521",
       "name": "reichell",
       "reading_time_seconds": 44188,
       "reading_time_hours": 12.27
     },
     {
-      "rank": 78,
+      "rank": 79,
       "user_hash": "e00f2c34",
       "name": "Lector E00F",
       "reading_time_seconds": 44000,
       "reading_time_hours": 12.22
     },
     {
-      "rank": 79,
-      "user_hash": "3bf7dd07",
-      "name": "Lector 3BF7",
-      "reading_time_seconds": 43033,
-      "reading_time_hours": 11.95
+      "rank": 80,
+      "user_hash": "060addb8",
+      "name": "Lector 060A",
+      "reading_time_seconds": 42901,
+      "reading_time_hours": 11.92
     },
     {
-      "rank": 80,
+      "rank": 81,
       "user_hash": "7b223541",
       "name": "Lector 7B22",
       "reading_time_seconds": 41171,
       "reading_time_hours": 11.44
     },
     {
-      "rank": 81,
+      "rank": 82,
       "user_hash": "d9b51cb4",
       "name": "Lector D9B5",
       "reading_time_seconds": 38845,
       "reading_time_hours": 10.79
     },
     {
-      "rank": 82,
+      "rank": 83,
       "user_hash": "cc61328f",
       "name": "Lector CC61",
       "reading_time_seconds": 36761,
       "reading_time_hours": 10.21
     },
     {
-      "rank": 83,
+      "rank": 84,
       "user_hash": "038ce187",
       "name": "Lector 038C",
       "reading_time_seconds": 36098,
       "reading_time_hours": 10.03
     },
     {
-      "rank": 84,
+      "rank": 85,
       "user_hash": "ce4378fb",
       "name": "Lector CE43",
       "reading_time_seconds": 35963,
       "reading_time_hours": 9.99
     },
     {
-      "rank": 85,
+      "rank": 86,
       "user_hash": "0b0c008f",
       "name": "Lector 0B0C",
       "reading_time_seconds": 34873,
       "reading_time_hours": 9.69
-    },
-    {
-      "rank": 86,
-      "user_hash": "060addb8",
-      "name": "Lector 060A",
-      "reading_time_seconds": 34429,
-      "reading_time_hours": 9.56
     },
     {
       "rank": 87,
@@ -1090,741 +1090,755 @@
     },
     {
       "rank": 156,
+      "user_hash": "e2a4cd2e",
+      "name": "Lector E2A4",
+      "reading_time_seconds": 5316,
+      "reading_time_hours": 1.48
+    },
+    {
+      "rank": 157,
       "user_hash": "5230fb19",
       "name": "Lector 5230",
       "reading_time_seconds": 5115,
       "reading_time_hours": 1.42
     },
     {
-      "rank": 157,
+      "rank": 158,
       "user_hash": "1f64c56d",
       "name": "Lector 1F64",
       "reading_time_seconds": 4892,
       "reading_time_hours": 1.36
     },
     {
-      "rank": 158,
+      "rank": 159,
       "user_hash": "23c4e03a",
       "name": "Lector 23C4",
       "reading_time_seconds": 4337,
       "reading_time_hours": 1.2
     },
     {
-      "rank": 159,
+      "rank": 160,
       "user_hash": "90f2329e",
       "name": "zonty",
       "reading_time_seconds": 3879,
       "reading_time_hours": 1.08
     },
     {
-      "rank": 160,
+      "rank": 161,
       "user_hash": "ac9815a4",
       "name": "Lector AC98",
       "reading_time_seconds": 3803,
       "reading_time_hours": 1.06
     },
     {
-      "rank": 161,
+      "rank": 162,
       "user_hash": "1c4b1a0c",
       "name": "Lector 1C4B",
       "reading_time_seconds": 3719,
       "reading_time_hours": 1.03
     },
     {
-      "rank": 162,
+      "rank": 163,
       "user_hash": "14a1f545",
       "name": "Lector 14A1",
       "reading_time_seconds": 3709,
       "reading_time_hours": 1.03
     },
     {
-      "rank": 163,
+      "rank": 164,
       "user_hash": "1c1b5377",
       "name": "Lector 1C1B",
       "reading_time_seconds": 3463,
       "reading_time_hours": 0.96
     },
     {
-      "rank": 164,
+      "rank": 165,
       "user_hash": "0cb82bcb",
       "name": "Lector 0CB8",
       "reading_time_seconds": 3225,
       "reading_time_hours": 0.9
     },
     {
-      "rank": 165,
+      "rank": 166,
       "user_hash": "db5d1995",
       "name": "Lector DB5D",
       "reading_time_seconds": 3141,
       "reading_time_hours": 0.87
     },
     {
-      "rank": 166,
+      "rank": 167,
       "user_hash": "cbadc9fa",
       "name": "Lector CBAD",
       "reading_time_seconds": 3020,
       "reading_time_hours": 0.84
     },
     {
-      "rank": 167,
+      "rank": 168,
       "user_hash": "8fcee444",
       "name": "Lector 8FCE",
       "reading_time_seconds": 2871,
       "reading_time_hours": 0.8
     },
     {
-      "rank": 168,
+      "rank": 169,
+      "user_hash": "c1970c01",
+      "name": "Lector C197",
+      "reading_time_seconds": 2467,
+      "reading_time_hours": 0.69
+    },
+    {
+      "rank": 170,
       "user_hash": "35599b5b",
       "name": "Lector 3559",
       "reading_time_seconds": 2436,
       "reading_time_hours": 0.68
     },
     {
-      "rank": 169,
+      "rank": 171,
       "user_hash": "5e58b3b3",
       "name": "Lector 5E58",
       "reading_time_seconds": 2436,
       "reading_time_hours": 0.68
     },
     {
-      "rank": 170,
+      "rank": 172,
       "user_hash": "4ad050ed",
       "name": "Lector 4AD0",
       "reading_time_seconds": 2416,
       "reading_time_hours": 0.67
     },
     {
-      "rank": 171,
+      "rank": 173,
       "user_hash": "faadf354",
       "name": "Lector FAAD",
       "reading_time_seconds": 2379,
       "reading_time_hours": 0.66
     },
     {
-      "rank": 172,
-      "user_hash": "c1970c01",
-      "name": "Lector C197",
-      "reading_time_seconds": 2287,
-      "reading_time_hours": 0.64
-    },
-    {
-      "rank": 173,
+      "rank": 174,
       "user_hash": "3db907e8",
       "name": "Lector 3DB9",
       "reading_time_seconds": 2122,
       "reading_time_hours": 0.59
     },
     {
-      "rank": 174,
+      "rank": 175,
       "user_hash": "29ce62d1",
       "name": "sead mh",
       "reading_time_seconds": 1946,
       "reading_time_hours": 0.54
     },
     {
-      "rank": 175,
+      "rank": 176,
       "user_hash": "168efdba",
       "name": "Lector 168E",
       "reading_time_seconds": 1888,
       "reading_time_hours": 0.52
     },
     {
-      "rank": 176,
+      "rank": 177,
       "user_hash": "cce0ede5",
       "name": "Lector CCE0",
       "reading_time_seconds": 1836,
       "reading_time_hours": 0.51
     },
     {
-      "rank": 177,
+      "rank": 178,
       "user_hash": "ec04d950",
       "name": "Lector EC04",
       "reading_time_seconds": 1760,
       "reading_time_hours": 0.49
     },
     {
-      "rank": 178,
+      "rank": 179,
       "user_hash": "62625ade",
       "name": "Lector 6262",
       "reading_time_seconds": 1697,
       "reading_time_hours": 0.47
     },
     {
-      "rank": 179,
+      "rank": 180,
       "user_hash": "18f7d9ee",
       "name": "JavierE03",
       "reading_time_seconds": 1385,
       "reading_time_hours": 0.38
     },
     {
-      "rank": 180,
+      "rank": 181,
       "user_hash": "d3f9cc0f",
       "name": "Lector D3F9",
       "reading_time_seconds": 1354,
       "reading_time_hours": 0.38
     },
     {
-      "rank": 181,
+      "rank": 182,
       "user_hash": "c54d9a42",
       "name": "Lector C54D",
       "reading_time_seconds": 1197,
       "reading_time_hours": 0.33
     },
     {
-      "rank": 182,
+      "rank": 183,
       "user_hash": "5cb59add",
       "name": "Lector 5CB5",
       "reading_time_seconds": 1164,
       "reading_time_hours": 0.32
     },
     {
-      "rank": 183,
+      "rank": 184,
       "user_hash": "eabf3da7",
       "name": "Lector EABF",
       "reading_time_seconds": 1139,
       "reading_time_hours": 0.32
     },
     {
-      "rank": 184,
+      "rank": 185,
       "user_hash": "af7797cc",
       "name": "Lector AF77",
       "reading_time_seconds": 1066,
       "reading_time_hours": 0.3
     },
     {
-      "rank": 185,
+      "rank": 186,
       "user_hash": "6833bbdc",
       "name": "Lector 6833",
       "reading_time_seconds": 1007,
       "reading_time_hours": 0.28
     },
     {
-      "rank": 186,
+      "rank": 187,
       "user_hash": "b02eb5d3",
       "name": "Lector B02E",
       "reading_time_seconds": 1001,
       "reading_time_hours": 0.28
     },
     {
-      "rank": 187,
+      "rank": 188,
       "user_hash": "d85163dd",
       "name": "Lector D851",
       "reading_time_seconds": 942,
       "reading_time_hours": 0.26
     },
     {
-      "rank": 188,
+      "rank": 189,
       "user_hash": "c207fb27",
       "name": "Lector C207",
       "reading_time_seconds": 890,
       "reading_time_hours": 0.25
     },
     {
-      "rank": 189,
+      "rank": 190,
       "user_hash": "07f67e66",
       "name": "Lector 07F6",
       "reading_time_seconds": 875,
       "reading_time_hours": 0.24
     },
     {
-      "rank": 190,
+      "rank": 191,
       "user_hash": "529870a4",
       "name": "Lector 5298",
       "reading_time_seconds": 661,
       "reading_time_hours": 0.18
     },
     {
-      "rank": 191,
+      "rank": 192,
       "user_hash": "614e490a",
       "name": "Lector 614E",
       "reading_time_seconds": 638,
       "reading_time_hours": 0.18
     },
     {
-      "rank": 192,
+      "rank": 193,
       "user_hash": "0eb08f5b",
       "name": "Lector 0EB0",
       "reading_time_seconds": 485,
       "reading_time_hours": 0.13
     },
     {
-      "rank": 193,
+      "rank": 194,
       "user_hash": "ecbee601",
       "name": "Lector ECBE",
       "reading_time_seconds": 409,
       "reading_time_hours": 0.11
     },
     {
-      "rank": 194,
+      "rank": 195,
       "user_hash": "cc38ff26",
       "name": "Lector CC38",
       "reading_time_seconds": 398,
       "reading_time_hours": 0.11
     },
     {
-      "rank": 195,
+      "rank": 196,
       "user_hash": "affa747c",
       "name": "Lector AFFA",
       "reading_time_seconds": 395,
       "reading_time_hours": 0.11
     },
     {
-      "rank": 196,
+      "rank": 197,
       "user_hash": "f29a9bde",
       "name": "Lector F29A",
       "reading_time_seconds": 382,
       "reading_time_hours": 0.11
     },
     {
-      "rank": 197,
+      "rank": 198,
       "user_hash": "5dc97f94",
       "name": "Lector 5DC9",
       "reading_time_seconds": 363,
       "reading_time_hours": 0.1
     },
     {
-      "rank": 198,
+      "rank": 199,
       "user_hash": "b9429a1c",
       "name": "Lector B942",
       "reading_time_seconds": 361,
       "reading_time_hours": 0.1
     },
     {
-      "rank": 199,
+      "rank": 200,
       "user_hash": "480ef5d2",
       "name": "Lector 480E",
       "reading_time_seconds": 355,
       "reading_time_hours": 0.1
     },
     {
-      "rank": 200,
+      "rank": 201,
       "user_hash": "f5dbd633",
       "name": "Lector F5DB",
       "reading_time_seconds": 316,
       "reading_time_hours": 0.09
     },
     {
-      "rank": 201,
+      "rank": 202,
       "user_hash": "93d6c355",
       "name": "Lector 93D6",
       "reading_time_seconds": 308,
       "reading_time_hours": 0.09
     },
     {
-      "rank": 202,
+      "rank": 203,
       "user_hash": "df0fa355",
       "name": "Lector DF0F",
       "reading_time_seconds": 304,
       "reading_time_hours": 0.08
     },
     {
-      "rank": 203,
+      "rank": 204,
       "user_hash": "6986bd73",
       "name": "Lector 6986",
       "reading_time_seconds": 302,
       "reading_time_hours": 0.08
     },
     {
-      "rank": 204,
+      "rank": 205,
       "user_hash": "a8495559",
       "name": "Lector A849",
       "reading_time_seconds": 297,
       "reading_time_hours": 0.08
     },
     {
-      "rank": 205,
+      "rank": 206,
       "user_hash": "6a0a2a16",
       "name": "Lector 6A0A",
       "reading_time_seconds": 265,
       "reading_time_hours": 0.07
     },
     {
-      "rank": 206,
+      "rank": 207,
       "user_hash": "6234c538",
       "name": "Lector 6234",
       "reading_time_seconds": 250,
       "reading_time_hours": 0.07
     },
     {
-      "rank": 207,
+      "rank": 208,
       "user_hash": "4abd3581",
       "name": "Lector 4ABD",
       "reading_time_seconds": 234,
       "reading_time_hours": 0.07
     },
     {
-      "rank": 208,
+      "rank": 209,
       "user_hash": "35e8585f",
       "name": "Lector 35E8",
       "reading_time_seconds": 230,
       "reading_time_hours": 0.06
     },
     {
-      "rank": 209,
+      "rank": 210,
       "user_hash": "f6734c1f",
       "name": "Lector F673",
       "reading_time_seconds": 220,
       "reading_time_hours": 0.06
     },
     {
-      "rank": 210,
+      "rank": 211,
       "user_hash": "10050a80",
       "name": "Lector 1005",
       "reading_time_seconds": 209,
       "reading_time_hours": 0.06
     },
     {
-      "rank": 211,
+      "rank": 212,
       "user_hash": "9476d3f9",
       "name": "Lector 9476",
       "reading_time_seconds": 205,
       "reading_time_hours": 0.06
     },
     {
-      "rank": 212,
+      "rank": 213,
       "user_hash": "40742761",
       "name": "Lector 4074",
       "reading_time_seconds": 175,
       "reading_time_hours": 0.05
     },
     {
-      "rank": 213,
+      "rank": 214,
       "user_hash": "9bd0dcb3",
       "name": "Lector 9BD0",
       "reading_time_seconds": 173,
       "reading_time_hours": 0.05
     },
     {
-      "rank": 214,
+      "rank": 215,
       "user_hash": "c6300142",
       "name": "Lector C630",
       "reading_time_seconds": 173,
       "reading_time_hours": 0.05
     },
     {
-      "rank": 215,
+      "rank": 216,
       "user_hash": "4be17ebe",
       "name": "Lector 4BE1",
       "reading_time_seconds": 170,
       "reading_time_hours": 0.05
     },
     {
-      "rank": 216,
+      "rank": 217,
       "user_hash": "7bb98fc1",
       "name": "Lector 7BB9",
       "reading_time_seconds": 130,
       "reading_time_hours": 0.04
     },
     {
-      "rank": 217,
+      "rank": 218,
       "user_hash": "7cefaf08",
       "name": "Lector 7CEF",
       "reading_time_seconds": 112,
       "reading_time_hours": 0.03
     },
     {
-      "rank": 218,
+      "rank": 219,
       "user_hash": "70af0da3",
       "name": "Lector 70AF",
       "reading_time_seconds": 92,
       "reading_time_hours": 0.03
     },
     {
-      "rank": 219,
+      "rank": 220,
       "user_hash": "55cc1711",
       "name": "Lector 55CC",
       "reading_time_seconds": 91,
       "reading_time_hours": 0.03
     },
     {
-      "rank": 220,
+      "rank": 221,
       "user_hash": "a037cb7f",
       "name": "Lector A037",
       "reading_time_seconds": 90,
       "reading_time_hours": 0.03
     },
     {
-      "rank": 221,
+      "rank": 222,
       "user_hash": "4e8bafab",
       "name": "Lector 4E8B",
       "reading_time_seconds": 87,
       "reading_time_hours": 0.02
     },
     {
-      "rank": 222,
+      "rank": 223,
       "user_hash": "d90fc364",
       "name": "Lector D90F",
       "reading_time_seconds": 81,
       "reading_time_hours": 0.02
     },
     {
-      "rank": 223,
+      "rank": 224,
       "user_hash": "f7fcab8a",
       "name": "Lector F7FC",
       "reading_time_seconds": 71,
       "reading_time_hours": 0.02
     },
     {
-      "rank": 224,
+      "rank": 225,
       "user_hash": "83960d58",
       "name": "Lector 8396",
       "reading_time_seconds": 57,
       "reading_time_hours": 0.02
     },
     {
-      "rank": 225,
+      "rank": 226,
       "user_hash": "6b34271f",
       "name": "Lector 6B34",
       "reading_time_seconds": 55,
       "reading_time_hours": 0.02
     },
     {
-      "rank": 226,
+      "rank": 227,
       "user_hash": "d7bdd297",
       "name": "Lector D7BD",
       "reading_time_seconds": 52,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 227,
+      "rank": 228,
       "user_hash": "901b92cd",
       "name": "Lector 901B",
       "reading_time_seconds": 50,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 228,
+      "rank": 229,
       "user_hash": "b173c5cc",
       "name": "Lector B173",
       "reading_time_seconds": 49,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 229,
+      "rank": 230,
       "user_hash": "4c44a1fc",
       "name": "Lector 4C44",
       "reading_time_seconds": 47,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 230,
+      "rank": 231,
       "user_hash": "2d2f9ff2",
       "name": "Lector 2D2F",
       "reading_time_seconds": 43,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 231,
+      "rank": 232,
       "user_hash": "44a1fc3a",
       "name": "Lector 44A1",
       "reading_time_seconds": 42,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 232,
+      "rank": 233,
       "user_hash": "8749cff3",
       "name": "Lector 8749",
       "reading_time_seconds": 42,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 233,
+      "rank": 234,
       "user_hash": "9d0792b9",
       "name": "Lector 9D07",
       "reading_time_seconds": 42,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 234,
+      "rank": 235,
       "user_hash": "07965709",
       "name": "Lector 0796",
       "reading_time_seconds": 37,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 235,
+      "rank": 236,
       "user_hash": "55a505ff",
       "name": "Lector 55A5",
       "reading_time_seconds": 37,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 236,
+      "rank": 237,
       "user_hash": "1eaa272c",
       "name": "Lector 1EAA",
       "reading_time_seconds": 35,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 237,
+      "rank": 238,
       "user_hash": "1f0d7837",
       "name": "Lector 1F0D",
       "reading_time_seconds": 34,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 238,
+      "rank": 239,
       "user_hash": "dd4de4af",
       "name": "Lector DD4D",
       "reading_time_seconds": 32,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 239,
+      "rank": 240,
       "user_hash": "7cc5c2f8",
       "name": "Lector 7CC5",
       "reading_time_seconds": 31,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 240,
+      "rank": 241,
       "user_hash": "3230b8fd",
       "name": "Lector 3230",
       "reading_time_seconds": 29,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 241,
+      "rank": 242,
+      "user_hash": "f0ca8863",
+      "name": "Lector F0CA",
+      "reading_time_seconds": 28,
+      "reading_time_hours": 0.01
+    },
+    {
+      "rank": 243,
       "user_hash": "35b176ea",
       "name": "Lector 35B1",
       "reading_time_seconds": 26,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 242,
+      "rank": 244,
       "user_hash": "9ea73778",
       "name": "Lector 9EA7",
       "reading_time_seconds": 24,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 243,
+      "rank": 245,
       "user_hash": "dc491af1",
       "name": "Lector DC49",
       "reading_time_seconds": 22,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 244,
+      "rank": 246,
       "user_hash": "77d3f124",
       "name": "Lector 77D3",
       "reading_time_seconds": 20,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 245,
+      "rank": 247,
       "user_hash": "ba23cab3",
       "name": "Lector BA23",
       "reading_time_seconds": 20,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 246,
+      "rank": 248,
       "user_hash": "3853aa28",
       "name": "Lector 3853",
       "reading_time_seconds": 19,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 247,
+      "rank": 249,
       "user_hash": "eedbff66",
       "name": "Lector EEDB",
       "reading_time_seconds": 19,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 248,
+      "rank": 250,
       "user_hash": "3dc41ec7",
       "name": "Lector 3DC4",
       "reading_time_seconds": 18,
       "reading_time_hours": 0.01
     },
     {
-      "rank": 249,
+      "rank": 251,
       "user_hash": "2b82b1ea",
       "name": "Lector 2B82",
       "reading_time_seconds": 15,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 250,
+      "rank": 252,
       "user_hash": "3d3c413a",
       "name": "Lector 3D3C",
       "reading_time_seconds": 13,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 251,
+      "rank": 253,
       "user_hash": "996c9bfd",
       "name": "Lector 996C",
       "reading_time_seconds": 11,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 252,
+      "rank": 254,
       "user_hash": "edea6c33",
       "name": "Lector EDEA",
       "reading_time_seconds": 11,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 253,
+      "rank": 255,
       "user_hash": "100b7297",
       "name": "Lector 100B",
       "reading_time_seconds": 9,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 254,
+      "rank": 256,
       "user_hash": "ef310036",
       "name": "Lector EF31",
       "reading_time_seconds": 9,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 255,
+      "rank": 257,
       "user_hash": "51ce8403",
       "name": "Lector 51CE",
       "reading_time_seconds": 8,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 256,
+      "rank": 258,
       "user_hash": "a2298d32",
       "name": "Lector A229",
       "reading_time_seconds": 8,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 257,
+      "rank": 259,
       "user_hash": "cf2e21cf",
       "name": "Lector CF2E",
       "reading_time_seconds": 7,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 258,
+      "rank": 260,
       "user_hash": "7b681e4a",
       "name": "Lector 7B68",
       "reading_time_seconds": 6,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 259,
+      "rank": 261,
       "user_hash": "4f805126",
       "name": "Lector 4F80",
       "reading_time_seconds": 5,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 260,
+      "rank": 262,
       "user_hash": "d9b8b9d5",
       "name": "Lector D9B8",
       "reading_time_seconds": 5,
       "reading_time_hours": 0.0
     },
     {
-      "rank": 261,
+      "rank": 263,
       "user_hash": "de47d687",
       "name": "Lector DE47",
       "reading_time_seconds": 5,
