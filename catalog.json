@@ -445783,12 +445783,13 @@
           "size": 30241395,
           "date": "2026-11-14T16:26:01+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8343",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             114,
             115,
             116
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_rey_ha_regredasado/8343_114-116%20El%20Rey%20Ha%20Regresado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T162918Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7a8b96a35f043bed8b40c540a4ab6d9a819cc539e2ae0a0f78a665f45a81664b"
         },
         {
           "channel_id": -1003003829878,
