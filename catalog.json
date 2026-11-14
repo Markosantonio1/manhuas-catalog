@@ -46724,10 +46724,10 @@
       ],
       "hashtag": "#Artes_Marciales_Supremas_Puedo_aplastar_Dioses_con_una_Sola_Mano",
       "id": "artes_marciales_supremas_puedo_aplastar_dioses_con_una_sola_mano",
-      "latest_chapter": 84,
+      "latest_chapter": 84.0,
       "library_count": 7,
       "name": "Artes Marciales Supremas Puedo aplastar Dioses con una Sola Mano",
-      "package_count": 33,
+      "package_count": 32,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -47277,22 +47277,6 @@
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/artes_marciales_supremas_puedo_aplastar_dioses_con_una_sola_mano/7850_76_82_Artes_Marciales_Supremas_%C2%A1Puedo_aplastar_Dioses_con_una_Sola.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020008Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c0c3adf2a89891eb635f602552d13ef06e0dda195d1b74a9c19af309e3984cb"
         },
         {
-          "name": "83",
-          "first": 83,
-          "last": 83,
-          "channel_id": -1003003829878,
-          "message_id": 8125,
-          "filename": "「83_83」Artes_Marciales_Supremas_Puedo_aplastar_Dioses_con_una_Sola.pdf",
-          "size": 3645169,
-          "date": "2026-11-12T02:23:33+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/8125",
-          "download_ready": true,
-          "chapters": [
-            83
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/artes_marciales_supremas_puedo_aplastar_dioses_con_una_sola_mano/8125_%E3%80%8C83_83%E3%80%8DArtes_Marciales_Supremas_Puedo_aplastar_Dioses_con_una_Sola.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T022526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed4d7d02bf613416dbab18ea021c11448c1a80cbf1b5c0ba1287925d55f69662"
-        },
-        {
           "name": "84",
           "first": 84,
           "last": 84,
@@ -47312,7 +47296,10 @@
       "rating": 5.0,
       "rating_count": 1,
       "synopsis": "¡El Dao marcial ha resurgido! Bestias feroces arrasan el mundo, las diez mil razas invaden la Tierra, ¡disputándole la gloria a la humanidad! El joven Su Hong despierta un sistema y desde el inicio obtiene un talento sin precedentes en toda la eternidad. ¿Técnica marcial rango C? ¡La domina en 1 segundo, la perfecciona en 2 segundos, y la completa al 100% en 3 segundos! ¿Habilidad de combate rango SSS? La aprende en 1 día, la domina en 7 días, y alcanza la maestría absoluta en 1 mes! Pero eso no es todo: cada vez que derrota a un enemigo, obtiene Puntos de Dao Marcial. Al consumir estos puntos, puede aumentar su Qi y sangre, fortalecer sus huesos, y forjar un Cuerpo Divino.",
-      "visible": true
+      "visible": true,
+      "published_chapters": [],
+      "incomplete": true,
+      "updated_at": "2026-11-14T22:16:49"
     },
     {
       "added_at": "2026-08-21T22:06:36+00:00",
@@ -450103,6 +450090,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T20:12:11.713406+00:00",
+  "updated_at": "2026-11-14T22:16:49",
   "version": 3
 }
