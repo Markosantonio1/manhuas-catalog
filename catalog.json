@@ -350406,7 +350406,8 @@
       "rating": 4.67,
       "rating_count": 3,
       "synopsis": "🌼🍃Sinopsis: Theo es el hijo ilegítimo de la Casa Ragnar, un linaje donde solo los más fuertes sobreviven. Aunque luchó hasta el límite, su falta de talento no le permitió romper las cadenas de su sangre, y finalmente fue marginado de la lucha por el trono. A pesar de ser un bastardo sin poderes, sus propios hermanos buscaron acabar con él. Traicionado incluso por el maestro que lo había instruido, Theo pierde todo y muere solo. En su último aliento, consumido por el arrepentimiento de toda su vida, ocurre lo impensable: regresa al pasado. El bastardo que regresó empuña la espada y se lanza de nuevo a la guerra por el trono.",
-      "visible": true
+      "visible": true,
+      "updated_at": "2026-11-14T17:00:08.492051+00:00"
     },
     {
       "added_at": "2026-10-23T23:16:06+00:00",
@@ -448997,6 +448998,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": null,
+  "updated_at": "2026-11-14T17:00:08.492051+00:00",
   "version": 3
 }
