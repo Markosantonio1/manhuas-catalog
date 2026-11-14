@@ -449744,8 +449744,8 @@
           "name": "68.0-68.0",
           "date": "2026-11-14T18:16:34+00:00",
           "telegram_link": "https://t.me/c/3003829878/8389",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_legendario_prodigio_del_ducado/8389_%5B%2368%5D%20%20%20El%20Legendario%20Prodigio%20Del%20Ducado.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T190028Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4d300d8a205cde84d3e24ecce48bdb508fe84e1a2a7c32161c3b94cdec40d045",
+          "download_ready": true
         }
       ],
       "package_count": 41,
