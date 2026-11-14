@@ -314529,10 +314529,10 @@
       ],
       "hashtag": "#Novato_solo_a_nivel_maximo",
       "id": "novato_de_nivel_maximo",
-      "latest_chapter": 284,
+      "latest_chapter": 285,
       "library_count": 15,
       "name": "Novato solo a nivel maximo",
-      "package_count": 61,
+      "package_count": 62,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -315739,6 +315739,21 @@
           "name": "284",
           "size": 23522811,
           "telegram_link": "https://t.me/manhuasgratis/7823"
+        },
+        {
+          "name": "285",
+          "first": 285,
+          "last": 285,
+          "channel_id": -1003003829878,
+          "message_id": 8347,
+          "filename": "「285-285」Novato solo a nivel maximo.pdf",
+          "size": 30376045,
+          "date": "2026-11-14T18:03:47+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8347",
+          "download_ready": false,
+          "chapters": [
+            285
+          ]
         }
       ],
       "rating": 5.0,
@@ -449037,6 +449052,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T17:44:15.111233+00:00",
+  "updated_at": "2026-11-14T18:03:53.928563+00:00",
   "version": 3
 }
