@@ -47286,10 +47286,11 @@
           "size": 22761790,
           "date": "2026-11-14T21:18:38+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8405",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             83
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/artes_marciales_supremas_puedo_aplastar_dioses_con_una_sola_mano/8405_%E3%80%8C83_83%E3%80%8DArtes_Marciales_Supremas_Puedo_aplastar_Dioses_con_una_Sola.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T212222Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f93e2780114eced2055c6b8a6a9fc68f351b68e4086f310cbeae85c2c01c530"
         },
         {
           "name": "84",
