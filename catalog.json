@@ -449045,6 +449045,717 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "el_legendario_prodigio_del_ducado",
+      "hashtag": "#El_Legendario_Prodigio_del_Ducado",
+      "name": "El Legendario Prodigio del Ducado",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Antiheroe",
+        "Finalizada",
+        "Reencarnación",
+        "Venganza"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_legendario_prodigio_del_ducado.jpg",
+      "cover_message_id": 2880,
+      "cover_telegram_link": "https://t.me/c/4187372773/2880",
+      "synopsis": "¡[Del estudio de <Estándar de la Reencarnación> y <La Regresión 100 Del Jugador De Nivel Máximo>]!\n\nHan Sung, un cazador de monstruos clase SSS de la Tierra, fue invocado a otro mundo donde tuvo que dedicar toda su vida.como perro de caza del Imperio.\nTras ser traicionado y perder la vida, reencarna como Dale, el primogénito de la casa ducal Saxen y heredero de 'Lord Black', el gran mago oscuro que reina en lo más alto de la Torre Oscura.\n“Derrocaré al Imperio con mis propias manos.”",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8349,
+          "filename": "[#00-10]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 72812849,
+          "first": 0.0,
+          "last": 10.0,
+          "chapters": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "0.0-10.0",
+          "date": "2026-11-14T18:16:30+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8349",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8350,
+          "filename": "[#11-20]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 62167743,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8350",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8351,
+          "filename": "[#21-30]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 65472644,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8351",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8352,
+          "filename": "[#31]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 7456907,
+          "first": 31.0,
+          "last": 31.0,
+          "chapters": [
+            31.0
+          ],
+          "name": "31.0-31.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8352",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8353,
+          "filename": "[#32]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12716396,
+          "first": 32.0,
+          "last": 32.0,
+          "chapters": [
+            32.0
+          ],
+          "name": "32.0-32.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8353",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8354,
+          "filename": "[#33]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12280621,
+          "first": 33.0,
+          "last": 33.0,
+          "chapters": [
+            33.0
+          ],
+          "name": "33.0-33.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8354",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8355,
+          "filename": "[#34]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13520535,
+          "first": 34.0,
+          "last": 34.0,
+          "chapters": [
+            34.0
+          ],
+          "name": "34.0-34.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8355",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8356,
+          "filename": "[#35]   El Legendario Prodigio del Ducado .pdf",
+          "size": 13824474,
+          "first": 35.0,
+          "last": 35.0,
+          "chapters": [
+            35.0
+          ],
+          "name": "35.0-35.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8356",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8357,
+          "filename": "[#36]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13838193,
+          "first": 36.0,
+          "last": 36.0,
+          "chapters": [
+            36.0
+          ],
+          "name": "36.0-36.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8357",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8358,
+          "filename": "[#37]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13079696,
+          "first": 37.0,
+          "last": 37.0,
+          "chapters": [
+            37.0
+          ],
+          "name": "37.0-37.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8358",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8359,
+          "filename": "[#38]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12990120,
+          "first": 38.0,
+          "last": 38.0,
+          "chapters": [
+            38.0
+          ],
+          "name": "38.0-38.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8359",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8360,
+          "filename": "[#39]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11782501,
+          "first": 39.0,
+          "last": 39.0,
+          "chapters": [
+            39.0
+          ],
+          "name": "39.0-39.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8360",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8361,
+          "filename": "[#40]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11870506,
+          "first": 40.0,
+          "last": 40.0,
+          "chapters": [
+            40.0
+          ],
+          "name": "40.0-40.0",
+          "date": "2026-11-14T18:16:31+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8361",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8362,
+          "filename": "[#41]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 10597859,
+          "first": 41.0,
+          "last": 41.0,
+          "chapters": [
+            41.0
+          ],
+          "name": "41.0-41.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8362",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8363,
+          "filename": "[#42]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12276747,
+          "first": 42.0,
+          "last": 42.0,
+          "chapters": [
+            42.0
+          ],
+          "name": "42.0-42.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8363",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8364,
+          "filename": "[#43]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12557284,
+          "first": 43.0,
+          "last": 43.0,
+          "chapters": [
+            43.0
+          ],
+          "name": "43.0-43.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8364",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8365,
+          "filename": "[#44]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11945170,
+          "first": 44.0,
+          "last": 44.0,
+          "chapters": [
+            44.0
+          ],
+          "name": "44.0-44.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8365",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8366,
+          "filename": "[#45]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12570075,
+          "first": 45.0,
+          "last": 45.0,
+          "chapters": [
+            45.0
+          ],
+          "name": "45.0-45.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8366",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8367,
+          "filename": "[#46]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11628104,
+          "first": 46.0,
+          "last": 46.0,
+          "chapters": [
+            46.0
+          ],
+          "name": "46.0-46.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8367",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8368,
+          "filename": "[#47]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 10722755,
+          "first": 47.0,
+          "last": 47.0,
+          "chapters": [
+            47.0
+          ],
+          "name": "47.0-47.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8368",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8369,
+          "filename": "[#48]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 10101305,
+          "first": 48.0,
+          "last": 48.0,
+          "chapters": [
+            48.0
+          ],
+          "name": "48.0-48.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8369",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8370,
+          "filename": "[#49]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12076179,
+          "first": 49.0,
+          "last": 49.0,
+          "chapters": [
+            49.0
+          ],
+          "name": "49.0-49.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8370",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8371,
+          "filename": "[#50]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 10634991,
+          "first": 50.0,
+          "last": 50.0,
+          "chapters": [
+            50.0
+          ],
+          "name": "50.0-50.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8371",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8372,
+          "filename": "[#51]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11718878,
+          "first": 51.0,
+          "last": 51.0,
+          "chapters": [
+            51.0
+          ],
+          "name": "51.0-51.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8372",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8373,
+          "filename": "[#52]   Legendario Prodigio Del Ducado.pdf",
+          "size": 11995349,
+          "first": 52.0,
+          "last": 52.0,
+          "chapters": [
+            52.0
+          ],
+          "name": "52.0-52.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8373",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8374,
+          "filename": "[#53]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 7167170,
+          "first": 53.0,
+          "last": 53.0,
+          "chapters": [
+            53.0
+          ],
+          "name": "53.0-53.0",
+          "date": "2026-11-14T18:16:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8374",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8375,
+          "filename": "[#54]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11010974,
+          "first": 54.0,
+          "last": 54.0,
+          "chapters": [
+            54.0
+          ],
+          "name": "54.0-54.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8375",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8376,
+          "filename": "[#55]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 11526012,
+          "first": 55.0,
+          "last": 55.0,
+          "chapters": [
+            55.0
+          ],
+          "name": "55.0-55.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8376",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8377,
+          "filename": "[#56]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 12742018,
+          "first": 56.0,
+          "last": 56.0,
+          "chapters": [
+            56.0
+          ],
+          "name": "56.0-56.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8377",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8378,
+          "filename": "[#57]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 10467699,
+          "first": 57.0,
+          "last": 57.0,
+          "chapters": [
+            57.0
+          ],
+          "name": "57.0-57.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8378",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8379,
+          "filename": "[#58]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13501608,
+          "first": 58.0,
+          "last": 58.0,
+          "chapters": [
+            58.0
+          ],
+          "name": "58.0-58.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8379",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8380,
+          "filename": "[#59]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13235935,
+          "first": 59.0,
+          "last": 59.0,
+          "chapters": [
+            59.0
+          ],
+          "name": "59.0-59.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8380",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8381,
+          "filename": "[#60]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13358380,
+          "first": 60.0,
+          "last": 60.0,
+          "chapters": [
+            60.0
+          ],
+          "name": "60.0-60.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8381",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8382,
+          "filename": "[#61]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13225241,
+          "first": 61.0,
+          "last": 61.0,
+          "chapters": [
+            61.0
+          ],
+          "name": "61.0-61.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8382",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8383,
+          "filename": "[#62]   Legendario Prodigio Del Ducado.pdf",
+          "size": 11560029,
+          "first": 62.0,
+          "last": 62.0,
+          "chapters": [
+            62.0
+          ],
+          "name": "62.0-62.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8383",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8384,
+          "filename": "[#63]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 14653255,
+          "first": 63.0,
+          "last": 63.0,
+          "chapters": [
+            63.0
+          ],
+          "name": "63.0-63.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8384",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8385,
+          "filename": "[#64]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 13079972,
+          "first": 64.0,
+          "last": 64.0,
+          "chapters": [
+            64.0
+          ],
+          "name": "64.0-64.0",
+          "date": "2026-11-14T18:16:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8385",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8386,
+          "filename": "[#65]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 14127732,
+          "first": 65.0,
+          "last": 65.0,
+          "chapters": [
+            65.0
+          ],
+          "name": "65.0-65.0",
+          "date": "2026-11-14T18:16:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8386",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8387,
+          "filename": "[#66]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 22481952,
+          "first": 66.0,
+          "last": 66.0,
+          "chapters": [
+            66.0
+          ],
+          "name": "66.0-66.0",
+          "date": "2026-11-14T18:16:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8387",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8388,
+          "filename": "[#67]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 24354108,
+          "first": 67.0,
+          "last": 67.0,
+          "chapters": [
+            67.0
+          ],
+          "name": "67.0-67.0",
+          "date": "2026-11-14T18:16:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8388",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8389,
+          "filename": "[#68]   El Legendario Prodigio Del Ducado.pdf",
+          "size": 23480293,
+          "first": 68.0,
+          "last": 68.0,
+          "chapters": [
+            68.0
+          ],
+          "name": "68.0-68.0",
+          "date": "2026-11-14T18:16:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8389",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 41,
+      "latest_chapter": 68.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-14T18:25:24.070193+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -449053,6 +449764,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T18:03:53.928563+00:00",
+  "updated_at": "2026-11-14T18:25:24.070225+00:00",
   "version": 3
 }
