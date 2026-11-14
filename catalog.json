@@ -314498,7 +314498,8 @@
     {
       "added_at": "2026-03-31T13:51:20+00:00",
       "aliases": [
-        "Max Level Newbie"
+        "Max Level Newbie",
+        "Novato De Nivel Máximo"
       ],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/novato_de_nivel_maximo.jpg",
       "cover_message_id": 160,
@@ -314510,11 +314511,11 @@
         "Sistema",
         "Fantasía"
       ],
-      "hashtag": "#Novato_De_Nivel_Máximo",
+      "hashtag": "#Novato_solo_a_nivel_maximo",
       "id": "novato_de_nivel_maximo",
       "latest_chapter": 284,
       "library_count": 15,
-      "name": "Novato De Nivel Máximo",
+      "name": "Novato solo a nivel maximo",
       "package_count": 61,
       "packages": [
         {
@@ -315727,7 +315728,8 @@
       "rating": 5.0,
       "rating_count": 1,
       "synopsis": "Jinhyuk, un Nutuber de juegos, fue la única persona que vio el final del juego [Torre de pruebas]. Sin embargo, cuando la popularidad del juego disminuyó, le resultó difícil seguir ganándose la vida como Nutuber de juegos. Como ya había visto el final del juego, estaba a punto de dejar de jugar. Pero ese día, [Torre de pruebas] se hizo realidad, y Jinhyuk, que conocía cada cosa del juego, ¡se apoderó de todo más rápido que nadie! “Te mostraré como es un verdadero profesional”.",
-      "visible": true
+      "visible": true,
+      "updated_at": "2026-11-14T18:08:02"
     },
     {
       "added_at": "2026-10-29T18:57:36+00:00",
@@ -448998,6 +449000,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T17:00:08.492051+00:00",
+  "updated_at": "2026-11-14T18:08:02",
   "version": 3
 }
