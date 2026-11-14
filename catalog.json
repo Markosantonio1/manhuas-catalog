@@ -46519,10 +46519,11 @@
           "size": 30333124,
           "date": "2026-11-14T12:02:32+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8338",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             223
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/archimago_tracendiendo_a_travez/8338_%E3%80%8C223_223%E3%80%8DArchimago_trascendiendo_a_trav%C3%A9s_de_la_regresi%C3%B3n.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T120956Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c3918a48a00e1ac3dc48712cb3f06bf15b56b3f43a8ccc592f562d263ee8490"
         }
       ],
       "rating": 4.0,
@@ -393812,10 +393813,11 @@
           "size": 30599961,
           "date": "2026-11-14T12:01:22+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8337",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             169
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/surviving_the_game_as_a_barbarian/8337_%E3%80%8C169-169%E3%80%8DSobreviviendo%20al%20Juego%20Siendo%20un%20Barbaro.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T121119Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d64ea3ff6eb56fb9b37af6c83df2e0ec5fb2b193deeb0c1ed173be410e03ccb"
         }
       ],
       "rating": 4.75,
