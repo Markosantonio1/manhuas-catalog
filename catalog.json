@@ -107334,10 +107334,10 @@
       ],
       "hashtag": "#El_Chico_Problemático_de_la_Torre_Mágica",
       "id": "el_chico_problematico_de_la_torre_magica",
-      "latest_chapter": 69,
+      "latest_chapter": 70,
       "library_count": 12,
       "name": "El Chico Problemático de la Torre Mágica",
-      "package_count": 15,
+      "package_count": 16,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -107632,6 +107632,21 @@
           "name": "69",
           "size": 21665384,
           "telegram_link": "https://t.me/manhuasgratis/7835"
+        },
+        {
+          "name": "70",
+          "first": 70,
+          "last": 70,
+          "channel_id": -1003003829878,
+          "message_id": 8344,
+          "filename": "「70-70」El Chico Problemático de la Torre Mágica.pdf",
+          "size": 27312529,
+          "date": "2026-11-14T16:53:20+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8344",
+          "download_ready": false,
+          "chapters": [
+            70
+          ]
         }
       ],
       "rating": 4.67,
@@ -350029,10 +350044,10 @@
       ],
       "hashtag": "#regresión_del_bastardo_del_clan_de_la_espada",
       "id": "regresion_del_bastardo_del_clan_de_la_espada",
-      "latest_chapter": 114.0,
+      "latest_chapter": 120,
       "library_count": 12,
       "name": "regresión del bastardo del clan de la espada",
-      "package_count": 17,
+      "package_count": 18,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -350403,6 +350418,26 @@
           "name": "114",
           "size": 14152062,
           "telegram_link": "https://t.me/manhuasgratis/5442"
+        },
+        {
+          "name": "115-120",
+          "first": 115,
+          "last": 120,
+          "channel_id": -1003003829878,
+          "message_id": 8345,
+          "filename": "「115-120」regresión del bastardo del clan de la espada.pdf",
+          "size": 249172270,
+          "date": "2026-11-14T17:26:46+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8345",
+          "download_ready": false,
+          "chapters": [
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ]
         }
       ],
       "rating": 4.67,
@@ -449000,6 +449035,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T18:08:02",
+  "updated_at": "2026-11-14T17:44:15.111233+00:00",
   "version": 3
 }
