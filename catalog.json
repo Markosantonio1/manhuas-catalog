@@ -450069,10 +450069,25 @@
           "telegram_link": "https://t.me/c/3003829878/8402",
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/espadach_n_a_tiempo_completo/8402_95_97%20Espadach%C3%ADn%20a%20Tiempo%20Completo.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T194648Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dffc1a3a309ab8770a51eb132a4479a7f27991e5d7ec306b3507743a0d21ca64",
           "download_ready": true
+        },
+        {
+          "name": "98",
+          "first": 98,
+          "last": 98,
+          "channel_id": -1003003829878,
+          "message_id": 8404,
+          "filename": "「98-98」Espadachín A Tiempo Completo.pdf",
+          "size": 24708744,
+          "date": "2026-11-14T20:10:08+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8404",
+          "download_ready": false,
+          "chapters": [
+            98
+          ]
         }
       ],
-      "package_count": 12,
-      "latest_chapter": 97.0,
+      "package_count": 13,
+      "latest_chapter": 98,
       "visible": true,
       "incomplete": false,
       "added_at": "2026-11-14T19:20:42.221652+00:00",
@@ -450087,6 +450102,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T21:07:20",
+  "updated_at": "2026-11-14T20:12:11.713406+00:00",
   "version": 3
 }
