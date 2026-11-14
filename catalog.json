@@ -445774,6 +445774,23 @@
           "download_ready": true
         },
         {
+          "name": "114-116",
+          "first": 114,
+          "last": 116,
+          "channel_id": -1003003829878,
+          "message_id": 8343,
+          "filename": "114-116 El Rey Ha Regresado.pdf",
+          "size": 30241395,
+          "date": "2026-11-14T16:26:01+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8343",
+          "download_ready": false,
+          "chapters": [
+            114,
+            115,
+            116
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "message_id": 8147,
           "filename": "「117-118」El Rey Ha Regresado.pdf",
@@ -445791,7 +445808,7 @@
           "download_ready": true
         }
       ],
-      "package_count": 13,
+      "package_count": 14,
       "latest_chapter": 118.0,
       "visible": true,
       "incomplete": true,
@@ -448980,6 +448997,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T16:15:52.353695+00:00",
+  "updated_at": "2026-11-14T16:27:39.894645+00:00",
   "version": 3
 }
