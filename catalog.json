@@ -350021,7 +350021,6 @@
       "cover_message_id": 177,
       "cover_telegram_link": "https://t.me/c/-1004187372773/177",
       "genres": [
-        "Finalizada",
         "Reencarnación",
         "Acción",
         "Aventura"
@@ -448998,6 +448997,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T16:27:39.894645+00:00",
+  "updated_at": null,
   "version": 3
 }
