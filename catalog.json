@@ -124134,10 +124134,10 @@
       ],
       "hashtag": "#El_Hijo_Menor_del_Maestro_de_la_Espada",
       "id": "el_hijo_menor_del_maestro_de_la_espada",
-      "latest_chapter": 220.0,
+      "latest_chapter": 221,
       "library_count": 47,
       "name": "El Hijo Menor del Maestro de la Espada",
-      "package_count": 38,
+      "package_count": 39,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -124931,6 +124931,21 @@
           "name": "220",
           "size": 29590946,
           "telegram_link": "https://t.me/manhuasgratis/7833"
+        },
+        {
+          "name": "221",
+          "first": 221,
+          "last": 221,
+          "channel_id": -1003003829878,
+          "message_id": 8339,
+          "filename": "「221-221」El Hijo Menor del Maestro de la Espada.pdf",
+          "size": 38926547,
+          "date": "2026-11-14T15:07:24+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8339",
+          "download_ready": false,
+          "chapters": [
+            221
+          ]
         }
       ],
       "rating": 4.75,
@@ -124954,7 +124969,7 @@
       ],
       "hashtag": "#El_Hijo_Menor_del_Renombrado_Clan_Mágico",
       "id": "el_hijo_menor_del_renombrado_clan_magico",
-      "latest_chapter": 141.0,
+      "latest_chapter": 141,
       "library_count": 10,
       "name": "El Hijo Menor del Renombrado Clan Mágico",
       "package_count": 35,
@@ -128003,7 +128018,7 @@
       ],
       "hashtag": "#El_Joven_Heredero_de_la_Familia_de_Nigromantes",
       "id": "el_joven_heredero_de_la_familia_de_nigromantes",
-      "latest_chapter": 67.0,
+      "latest_chapter": 67,
       "library_count": 27,
       "name": "El Joven Heredero de la Familia de Nigromantes",
       "package_count": 15,
@@ -129366,7 +129381,7 @@
       ],
       "hashtag": "#El_jugador_que_no_puede_subir_de_nivel",
       "id": "el_jugador_que_no_puede_subir_de_nivel",
-      "latest_chapter": 251.0,
+      "latest_chapter": 251,
       "library_count": 5,
       "name": "El jugador que no puede subir de nivel",
       "package_count": 72,
@@ -130722,7 +130737,7 @@
       ],
       "hashtag": "#El_Jugador_Que_Regreso_10000_Años_Despues",
       "id": "el_jugador_que_regreso_10000_anos_despues",
-      "latest_chapter": 166.0,
+      "latest_chapter": 166,
       "library_count": 10,
       "name": "El Jugador Que Regreso 10000 Años Despues",
       "package_count": 65,
@@ -131889,7 +131904,7 @@
       ],
       "hashtag": "#El_Legendario_Hijo_Menor_De_La_Casa_Del_Marqués",
       "id": "el_legendario_hijo_menor_de_la_casa_del_marques",
-      "latest_chapter": 185.0,
+      "latest_chapter": 185,
       "library_count": 8,
       "name": "El Legendario Hijo Menor De La Casa Del Marqués",
       "package_count": 24,
@@ -132840,7 +132855,7 @@
       ],
       "hashtag": "#El_Maestro_De_La_Espada_Acogedor_De_Estrellas",
       "id": "el_maestro_de_la_espada_acogedor_de_estrellas",
-      "latest_chapter": 146.0,
+      "latest_chapter": 146,
       "library_count": 38,
       "name": "El Maestro De La Espada Acogedor De Estrellas",
       "package_count": 45,
@@ -133688,7 +133703,7 @@
       ],
       "hashtag": "#El_Mago_Devorador_De_Dragones",
       "id": "el_mago_devorador_de_dragones",
-      "latest_chapter": 137.0,
+      "latest_chapter": 137,
       "library_count": 10,
       "name": "El Mago Devorador De Dragones",
       "package_count": 14,
@@ -448915,6 +448930,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T14:29:26.164900+00:00",
+  "updated_at": "2026-11-14T15:07:30.028612+00:00",
   "version": 3
 }
