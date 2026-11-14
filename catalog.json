@@ -449070,7 +449070,6 @@
       "genres": [
         "Acción",
         "Antiheroe",
-        "Finalizada",
         "Reencarnación",
         "Venganza"
       ],
@@ -449771,7 +449770,8 @@
       "added_at": "2026-11-14T18:25:24.070193+00:00",
       "rating": 0.0,
       "rating_count": 0,
-      "library_count": 0
+      "library_count": 0,
+      "updated_at": "2026-11-14T21:07:20"
     },
     {
       "id": "espadach_n_a_tiempo_completo",
@@ -450087,6 +450087,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T20:01:50.464109+00:00",
+  "updated_at": "2026-11-14T21:07:20",
   "version": 3
 }
