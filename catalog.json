@@ -124942,10 +124942,11 @@
           "size": 38926547,
           "date": "2026-11-14T15:07:24+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8339",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             221
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_hijo_menor_del_maestro_de_la_espada/8339_%E3%80%8C221-221%E3%80%8DEl%20Hijo%20Menor%20del%20Maestro%20de%20la%20Espada.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T150936Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9f0d9266caa62dba628c817330ba8fce18d09aec4227ac061c2a7c50a3bedcef"
         }
       ],
       "rating": 4.75,
