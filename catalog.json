@@ -321027,7 +321027,8 @@
           "download_ready": false,
           "chapters": [
             30
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/one_punch_man/6156_%E2%94%82Extras%20Tomo%2030%E2%94%82One%20Punch%20Man.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261114%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261114T140227Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc3117021f8f2aa3aa4f676e8b02156104d9f3b7cc6482f7fbc7d485cd454f4f"
         },
         {
           "channel_id": -1003003829878,
