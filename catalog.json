@@ -320923,7 +320923,7 @@
       "latest_chapter": 308,
       "library_count": 7,
       "name": "One Punch Man",
-      "package_count": 80,
+      "package_count": 81,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -321013,6 +321013,21 @@
           "name": "24-29",
           "size": 50497761,
           "telegram_link": "https://t.me/manhuasgratis/6120"
+        },
+        {
+          "name": "30",
+          "first": 30,
+          "last": 30,
+          "channel_id": -1003003829878,
+          "message_id": 6156,
+          "filename": "│Extras Tomo 30│One Punch Man.pdf",
+          "size": 2909710,
+          "date": "2026-10-20T22:28:17+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/6156",
+          "download_ready": false,
+          "chapters": [
+            30
+          ]
         },
         {
           "channel_id": -1003003829878,
@@ -447477,6 +447492,30 @@
           "download_ready": true
         },
         {
+          "name": "121-130",
+          "first": 121,
+          "last": 130,
+          "channel_id": -1003003829878,
+          "message_id": 1681,
+          "filename": "121_130 La Leyenda De La Estrella General.pdf",
+          "size": 138181354,
+          "date": "2026-08-18T01:49:56+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/1681",
+          "download_ready": false,
+          "chapters": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130
+          ]
+        },
+        {
           "channel_id": -1003003829878,
           "message_id": 8279,
           "filename": "「123.1-127.1」La Leyenda De La Estrella General.pdf",
@@ -448833,7 +448872,7 @@
           "download_ready": true
         }
       ],
-      "package_count": 81,
+      "package_count": 82,
       "latest_chapter": 387.0,
       "visible": true,
       "incomplete": true,
@@ -449138,6 +449177,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-14T12:08:30.036617+00:00",
+  "updated_at": "2026-11-14T14:02:00.839331+00:00",
   "version": 3
 }
