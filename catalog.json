@@ -445531,7 +445531,7 @@
           "size": 263386771,
           "date": "2026-11-15T12:19:27+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8530",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             1,
             2,
@@ -445543,7 +445543,8 @@
             8,
             9,
             10
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paladin_de_rango_sss_que_transciende_el_sentido_comun/8530_%E3%80%8C1_10%E3%80%8DPaladin_de_Rango_SSS_que_Transciende_el_Sentido_Comun.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T203325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7ac1a1d30a9af0bd2cc4f8e02f5d46eda8fe9d15da3e2532699dd2080df5153a"
         },
         {
           "name": "11-20",
@@ -445555,7 +445556,7 @@
           "size": 281701493,
           "date": "2026-11-15T12:24:41+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8532",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             11,
             12,
@@ -445567,7 +445568,8 @@
             18,
             19,
             20
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/paladin_de_rango_sss_que_transciende_el_sentido_comun/8532_%E3%80%8C11_20%E3%80%8DPaladin_de_Rango_SSS_que_Transciende_el_Sentido_Comun.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T203325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=07e633f68431ce93c60f60eed490ac7a4f85353f9ae1f5d5a5eadb49ebd05275"
         },
         {
           "name": "21-30",
