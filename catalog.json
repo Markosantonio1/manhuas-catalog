@@ -451909,6 +451909,231 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "the_regressed_demon_lord_is_kind",
+      "hashtag": "#The_Regressed_Demon_Lord_is_Kind",
+      "name": "The Regressed Demon Lord is Kind",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Antiheroe",
+        "Fantasía",
+        "Magia",
+        "Reencarnación"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/the_regressed_demon_lord_is_kind.jpg",
+      "cover_message_id": 2901,
+      "cover_telegram_link": "https://t.me/c/4187372773/2901",
+      "synopsis": "[¡Por el estudio que te trajo al Mago Devorador de Talentos y al Mago Devorador de Dragones!]\n\n\"¡Demonio Zeke Mohr, conviértete en alguien bueno en tu próxima vida!\" gritó el héroe al Rey Demonio del Poder, Zeke, mientras el Rey Demonio encontraba su perdición. Cuando abrió los ojos de nuevo, se encontró de vuelta como Zeke Steelwill, antes de convertirse en el rey demonio. No tenía ningún deseo de convertirse en el sucesor o el Rey Demonio en esta vida. ¿Entonces qué? ¡Sí! ¡Quizás haré \"bien\" como dijo ese héroe! Pero, ¿cómo se hace eso? El antiguo Rey Demonio del Poder no estaba familiarizado con el concepto de \"benevolencia\".",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8546,
+          "filename": "│01-10│La Regresión del Demonio Benevolente.pdf",
+          "size": 86410542,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-15T17:25:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8546",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8547,
+          "filename": "│11-20│La Regresión del Demonio Benevolente.pdf",
+          "size": 85665874,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-15T17:25:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8547",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8548,
+          "filename": "│21│La Regresión del Demonio Benevolente.pdf",
+          "size": 10583590,
+          "first": 21.0,
+          "last": 21.0,
+          "chapters": [
+            21.0
+          ],
+          "name": "21.0-21.0",
+          "date": "2026-11-15T17:25:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8548",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8549,
+          "filename": "│22│La Regresión del Demonio Benevolente.pdf",
+          "size": 11761574,
+          "first": 22.0,
+          "last": 22.0,
+          "chapters": [
+            22.0
+          ],
+          "name": "22.0-22.0",
+          "date": "2026-11-15T17:25:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8549",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8550,
+          "filename": "│23│La Regresión del Demonio Benevolente.pdf",
+          "size": 10313727,
+          "first": 23.0,
+          "last": 23.0,
+          "chapters": [
+            23.0
+          ],
+          "name": "23.0-23.0",
+          "date": "2026-11-15T17:25:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8550",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8551,
+          "filename": "│24│La Regresión del Demonio Benevolente.pdf",
+          "size": 10157821,
+          "first": 24.0,
+          "last": 24.0,
+          "chapters": [
+            24.0
+          ],
+          "name": "24.0-24.0",
+          "date": "2026-11-15T17:25:36+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8551",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8552,
+          "filename": "│25-26│La Regresión del Demonio Benevolente.pdf",
+          "size": 17032460,
+          "first": 25.0,
+          "last": 26.0,
+          "chapters": [
+            25.0,
+            26.0
+          ],
+          "name": "25.0-26.0",
+          "date": "2026-11-15T17:25:36+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8552",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8553,
+          "filename": "│27│La Regresión del Demonio Benevolente.pdf",
+          "size": 9764465,
+          "first": 27.0,
+          "last": 27.0,
+          "chapters": [
+            27.0
+          ],
+          "name": "27.0-27.0",
+          "date": "2026-11-15T17:25:36+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8553",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8554,
+          "filename": "│28│La Regresión del Demonio Benevolente.pdf",
+          "size": 9926243,
+          "first": 28.0,
+          "last": 28.0,
+          "chapters": [
+            28.0
+          ],
+          "name": "28.0-28.0",
+          "date": "2026-11-15T17:25:36+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8554",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8555,
+          "filename": "「29」La regresión del demonio benevolente.pdf",
+          "size": 13505372,
+          "first": 29.0,
+          "last": 29.0,
+          "chapters": [
+            29.0
+          ],
+          "name": "29.0-29.0",
+          "date": "2026-11-15T17:25:36+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8555",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8556,
+          "filename": "│30-33│La Regresión del Demonio Benevolente.pdf",
+          "size": 39606694,
+          "first": 30.0,
+          "last": 33.0,
+          "chapters": [
+            30.0,
+            31.0,
+            32.0,
+            33.0
+          ],
+          "name": "30.0-33.0",
+          "date": "2026-11-15T17:25:36+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8556",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 11,
+      "latest_chapter": 33.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-15T17:55:49.061867+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -451917,6 +452142,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-15T17:22:43.893214+00:00",
+  "updated_at": "2026-11-15T17:55:49.061896+00:00",
   "version": 3
 }
