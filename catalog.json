@@ -91752,10 +91752,10 @@
       ],
       "hashtag": "#Despertar_del_guerrero_del_Rayo_Clase_SSS",
       "id": "despertar_del_guerrero_del_rayo_clase_sss",
-      "latest_chapter": 101,
+      "latest_chapter": 86.0,
       "library_count": 11,
       "name": "Despertar del guerrero del Rayo Clase SSS",
-      "package_count": 56,
+      "package_count": 54,
       "packages": [
         {
           "channel_id": -1003003829878,
@@ -92652,57 +92652,15 @@
           "name": "84-86",
           "size": 28746742,
           "telegram_link": "https://t.me/manhuasgratis/2932"
-        },
-        {
-          "name": "87-96",
-          "first": 87,
-          "last": 96,
-          "channel_id": -1003003829878,
-          "message_id": 8032,
-          "filename": "「87-96」Despertar del guerrero del Rayo Clase SSS.pdf",
-          "size": 40655750,
-          "date": "2026-11-11T15:51:32+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/8032",
-          "download_ready": true,
-          "chapters": [
-            87,
-            88,
-            89,
-            90,
-            91,
-            92,
-            93,
-            94,
-            95,
-            96
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/despertar_del_guerrero_del_rayo_clase_sss/8032_%E3%80%8C87-96%E3%80%8DDespertar%20del%20guerrero%20del%20Rayo%20Clase%20SSS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=762e0f3cce96226b705721b13c9f5563f3cffff57fa5f873a8fceb2487116393"
-        },
-        {
-          "name": "97-101",
-          "first": 97,
-          "last": 101,
-          "channel_id": -1003003829878,
-          "message_id": 8033,
-          "filename": "「97-101」Despertar del guerrero del Rayo Clase SSS.pdf",
-          "size": 13327383,
-          "date": "2026-11-11T15:51:55+00:00",
-          "telegram_link": "https://t.me/manhuasgratis/8033",
-          "download_ready": true,
-          "chapters": [
-            97,
-            98,
-            99,
-            100,
-            101
-          ],
-          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/despertar_del_guerrero_del_rayo_clase_sss/8033_%E3%80%8C97-101%E3%80%8DDespertar%20del%20guerrero%20del%20Rayo%20Clase%20SSS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261112%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261112T020009Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4354c70fcd53f492bb94f4b6b344fc8a13adb15ad7d8f09ed9152d1f1c4690aa"
         }
       ],
       "rating": 4.5,
       "rating_count": 2,
       "synopsis": "En el mundo de la Estrella Azul, las bestias salvajes causan estragos, y todas las personas pueden despertar habilidades sobrenaturales, con la oportunidad de convertirse en poderosos que dominen una región. Sin embargo, Xu Jingming, que viajó a este mundo, solo posee una habilidad de nivel E. Por suerte, aparece el Sistema Azul Profundo, y su débil habilidad de electricidad de nivel E se eleva a Rayo Divino Zixiao de nivel S. ¡Con cada bestia que elimina, obtiene puntos de habilidad! Puntos de habilidad: -1,500,000, ¡el Rayo Divino Zixiao evoluciona! ¡Se convierte en el Rayo Divino del Caos de nivel SSS! Así, en la Estrella Azul, se forja la leyenda de Xu Jingming.",
-      "visible": true
+      "visible": true,
+      "published_chapters": [],
+      "incomplete": true,
+      "updated_at": "2026-11-15T04:31:58"
     },
     {
       "added_at": "2026-10-20T11:41:05+00:00",
@@ -451290,6 +451248,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-15T01:00:30.499899+00:00",
+  "updated_at": "2026-11-15T04:31:58",
   "version": 3
 }
