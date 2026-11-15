@@ -451270,8 +451270,8 @@
           "name": "185.0-185.0",
           "date": "2026-11-15T00:55:35+00:00",
           "telegram_link": "https://t.me/c/3003829878/8469",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/cr_nicas_de_la_facci_n_demon_aca/8469_185%20Cronicas%20de%20la%20faccion%20demoniaca.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T021638Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6ea2686e459d9723cff4146ad8bcc68e2dfc76fe4071d4b98e9bd8965567a2e5",
+          "download_ready": true
         }
       ],
       "package_count": 41,
