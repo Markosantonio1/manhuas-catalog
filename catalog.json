@@ -451523,8 +451523,8 @@
           "name": "101.0-103.0",
           "date": "2026-11-15T03:56:07+00:00",
           "telegram_link": "https://t.me/c/3003829878/8504",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_restaurante_del_m_s_all/8504_101-103%20El%20restaurante%20del%20m%C3%A1s%20all%C3%A1%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T042640Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8d2d9f4d496192b3432dec96a6b74938cff00b77e3bf6d3d07f6b1f051b4f136",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -451545,8 +451545,8 @@
           "name": "104.0-110.0",
           "date": "2026-11-15T03:56:07+00:00",
           "telegram_link": "https://t.me/c/3003829878/8505",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_restaurante_del_m_s_all/8505_104-110%20El%20restaurante%20del%20m%C3%A1s%20all%C3%A1%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T042837Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a163cb6bac95ced360cb2a1ba041e231aaa98a3dafd53ae075cbaa1f05bc9ae4",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -451564,8 +451564,8 @@
           "name": "111.0-114.0",
           "date": "2026-11-15T03:56:07+00:00",
           "telegram_link": "https://t.me/c/3003829878/8506",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_restaurante_del_m_s_all/8506_111-114%20El%20restaurante%20del%20m%C3%A1s%20all%C3%A1%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T042933Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=014a6a468933d486b35c5b04157c87d128b4cd29e9294afa89d09371c8b13c53",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -451595,8 +451595,8 @@
           "name": "115.0-130.0",
           "date": "2026-11-15T03:56:07+00:00",
           "telegram_link": "https://t.me/c/3003829878/8507",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_restaurante_del_m_s_all/8507_115-130%20El%20restaurante%20del%20m%C3%A1s%20all%C3%A1%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T043235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1035fc51f825f188def87b84cb94dc8793c7dda9307a2606ceaabae9f9e7109",
+          "download_ready": true
         },
         {
           "channel_id": -1003003829878,
@@ -451620,8 +451620,8 @@
           "name": "131.0-140.0",
           "date": "2026-11-15T03:56:07+00:00",
           "telegram_link": "https://t.me/c/3003829878/8508",
-          "download_url": null,
-          "download_ready": false
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_restaurante_del_m_s_all/8508_131-140%20El%20restaurante%20del%20m%C3%A1s%20all%C3%A1%20-.-.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261115%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261115T043440Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=758b0f4d6fbdc38e1866f31aa266a8d290e8da0e6b1647b52df001218058cfde",
+          "download_ready": true
         }
       ],
       "package_count": 15,
