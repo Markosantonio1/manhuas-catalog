@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T00:00:29.261320+00:00",
-  "total_comments": 22,
+  "updated_at": "2026-11-15T00:00:35.934729+00:00",
+  "total_comments": 24,
   "series": {
+    "gu_daoist_master": [
+      {
+        "id": "3ad26f42-bf1e-465f-a3c8-a4cde5ae1d7c",
+        "user_name": "Lector 1FB0",
+        "text": "Lo mejor que he leído, es tan atrapante la trama y sus personajes✨muchas gracias por subirlo ❤️",
+        "created_at": 1794650157804
+      }
+    ],
+    "gacha_infinito": [
+      {
+        "id": "f24b12ef-4e80-4630-aab7-b9d309d0bf68",
+        "user_name": "mika",
+        "text": "No se si sirva de apoyo un montón de palabras pero ÁNIMO con el manhua esta muy bueno, es entretenido y con cada capítulo que leía, no perdía el deseo de continuar leyendo. En serio está muy bueno",
+        "created_at": 1794615599956
+      }
+    ],
     "emperador_magico": [
       {
         "id": "88330da7-bf9e-41d4-9d55-6f454c708561",
