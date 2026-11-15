@@ -450456,6 +450456,832 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "cr_nicas_de_la_facci_n_demon_aca",
+      "hashtag": "#Crónicas_De_La_Facción_Demoníaca",
+      "name": "Crónicas De La Facción Demoníaca",
+      "aliases": [],
+      "genres": [
+        "Acción",
+        "Magia",
+        "Murin",
+        "Reencarnación"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/cr_nicas_de_la_facci_n_demon_aca.jpg",
+      "cover_message_id": 2883,
+      "cover_telegram_link": "https://t.me/c/4187372773/2883",
+      "synopsis": "Chun Hajin, el asesino más fuerte de la Ortodoxa Alianza Justa de Murim. Hajin pierde la vida cuando intenta escapar en busca de la libertad. Y entonces... 'El culto divino es inmortal, que todos los demonios se sometan'. ¡Felicidades por tu recuperación, tercer joven maestro!' Se reencarnó en el cuerpo del enemigo público de los Murim, el tercer joven maestro...",
+      "packages": [
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8429,
+          "filename": "01_10 Cronicas de la faccion demoniaca.pdf",
+          "size": 93541821,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-15T00:55:32+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8429",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8430,
+          "filename": "11_20 Cronicas de la faccion demoniaca.pdf",
+          "size": 96631872,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8430",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8431,
+          "filename": "21_30 Cronicas de la faccion demoniaca.pdf",
+          "size": 106143143,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8431",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8432,
+          "filename": "31_40 Cronicas de la faccion demoniaca.pdf",
+          "size": 105280540,
+          "first": 31.0,
+          "last": 40.0,
+          "chapters": [
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0,
+            38.0,
+            39.0,
+            40.0
+          ],
+          "name": "31.0-40.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8432",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8433,
+          "filename": "41_50 Cronicas de la faccion demoniaca.pdf",
+          "size": 100760513,
+          "first": 41.0,
+          "last": 50.0,
+          "chapters": [
+            41.0,
+            42.0,
+            43.0,
+            44.0,
+            45.0,
+            46.0,
+            47.0,
+            48.0,
+            49.0,
+            50.0
+          ],
+          "name": "41.0-50.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8433",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8434,
+          "filename": "51_60 Cronicas de la faccion demoniaca.pdf",
+          "size": 104316510,
+          "first": 51.0,
+          "last": 60.0,
+          "chapters": [
+            51.0,
+            52.0,
+            53.0,
+            54.0,
+            55.0,
+            56.0,
+            57.0,
+            58.0,
+            59.0,
+            60.0
+          ],
+          "name": "51.0-60.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8434",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8435,
+          "filename": "61_70 Cronicas de la faccion demoniaca.pdf",
+          "size": 122173123,
+          "first": 61.0,
+          "last": 70.0,
+          "chapters": [
+            61.0,
+            62.0,
+            63.0,
+            64.0,
+            65.0,
+            66.0,
+            67.0,
+            68.0,
+            69.0,
+            70.0
+          ],
+          "name": "61.0-70.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8435",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8436,
+          "filename": "71_80 Cronicas de la faccion demoniaca.pdf",
+          "size": 109130043,
+          "first": 71.0,
+          "last": 80.0,
+          "chapters": [
+            71.0,
+            72.0,
+            73.0,
+            74.0,
+            75.0,
+            76.0,
+            77.0,
+            78.0,
+            79.0,
+            80.0
+          ],
+          "name": "71.0-80.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8436",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8437,
+          "filename": "81_90 Cronicas de la faccion demoniaca.pdf",
+          "size": 130365389,
+          "first": 81.0,
+          "last": 90.0,
+          "chapters": [
+            81.0,
+            82.0,
+            83.0,
+            84.0,
+            85.0,
+            86.0,
+            87.0,
+            88.0,
+            89.0,
+            90.0
+          ],
+          "name": "81.0-90.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8437",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8438,
+          "filename": "91_100 Cronicas de la faccion demoniaca.pdf",
+          "size": 111703388,
+          "first": 91.0,
+          "last": 100.0,
+          "chapters": [
+            91.0,
+            92.0,
+            93.0,
+            94.0,
+            95.0,
+            96.0,
+            97.0,
+            98.0,
+            99.0,
+            100.0
+          ],
+          "name": "91.0-100.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8438",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8439,
+          "filename": "101_110 Cronicas de la faccion demoniaca.pdf",
+          "size": 99294654,
+          "first": 101.0,
+          "last": 110.0,
+          "chapters": [
+            101.0,
+            102.0,
+            103.0,
+            104.0,
+            105.0,
+            106.0,
+            107.0,
+            108.0,
+            109.0,
+            110.0
+          ],
+          "name": "101.0-110.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8439",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8440,
+          "filename": "111_120 Cronicas de la faccion demoniaca.pdf",
+          "size": 98298374,
+          "first": 111.0,
+          "last": 120.0,
+          "chapters": [
+            111.0,
+            112.0,
+            113.0,
+            114.0,
+            115.0,
+            116.0,
+            117.0,
+            118.0,
+            119.0,
+            120.0
+          ],
+          "name": "111.0-120.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8440",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8441,
+          "filename": "121_130 Cronicas de la faccion demoniaca.pdf",
+          "size": 96308817,
+          "first": 121.0,
+          "last": 130.0,
+          "chapters": [
+            121.0,
+            122.0,
+            123.0,
+            124.0,
+            125.0,
+            126.0,
+            127.0,
+            128.0,
+            129.0,
+            130.0
+          ],
+          "name": "121.0-130.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8441",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8442,
+          "filename": "131_140 Cronicas de la faccion demoniaca.pdf",
+          "size": 95659115,
+          "first": 131.0,
+          "last": 140.0,
+          "chapters": [
+            131.0,
+            132.0,
+            133.0,
+            134.0,
+            135.0,
+            136.0,
+            137.0,
+            138.0,
+            139.0,
+            140.0
+          ],
+          "name": "131.0-140.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8442",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8443,
+          "filename": "141_150 Cronicas de la faccion demoniaca.pdf",
+          "size": 85887326,
+          "first": 141.0,
+          "last": 150.0,
+          "chapters": [
+            141.0,
+            142.0,
+            143.0,
+            144.0,
+            145.0,
+            146.0,
+            147.0,
+            148.0,
+            149.0,
+            150.0
+          ],
+          "name": "141.0-150.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8443",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8444,
+          "filename": "151_152 Cronicas de la faccion demoniaca.pdf",
+          "size": 18603659,
+          "first": 151.0,
+          "last": 152.0,
+          "chapters": [
+            151.0,
+            152.0
+          ],
+          "name": "151.0-152.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8444",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8445,
+          "filename": "153 Cronicas de la faccion demoniaca.pdf",
+          "size": 13765564,
+          "first": 153.0,
+          "last": 153.0,
+          "chapters": [
+            153.0
+          ],
+          "name": "153.0-153.0",
+          "date": "2026-11-15T00:55:33+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8445",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8446,
+          "filename": "154 Cronicas de la faccion demoniaca.pdf",
+          "size": 12067384,
+          "first": 154.0,
+          "last": 154.0,
+          "chapters": [
+            154.0
+          ],
+          "name": "154.0-154.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8446",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8447,
+          "filename": "155 Cronicas de la faccion demoniaca.pdf",
+          "size": 13416137,
+          "first": 155.0,
+          "last": 155.0,
+          "chapters": [
+            155.0
+          ],
+          "name": "155.0-155.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8447",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8448,
+          "filename": "156 Cronicas de la faccion demoniaca.pdf",
+          "size": 11996817,
+          "first": 156.0,
+          "last": 156.0,
+          "chapters": [
+            156.0
+          ],
+          "name": "156.0-156.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8448",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8449,
+          "filename": "157_158 Cronicas de la faccion demoniaca.pdf",
+          "size": 25490506,
+          "first": 157.0,
+          "last": 158.0,
+          "chapters": [
+            157.0,
+            158.0
+          ],
+          "name": "157.0-158.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8449",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8450,
+          "filename": "159 Cronicas de la faccion demoniaca.pdf",
+          "size": 11170773,
+          "first": 159.0,
+          "last": 159.0,
+          "chapters": [
+            159.0
+          ],
+          "name": "159.0-159.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8450",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8451,
+          "filename": "160_161 Cronicas de la faccion demoniaca.pdf",
+          "size": 21229781,
+          "first": 160.0,
+          "last": 161.0,
+          "chapters": [
+            160.0,
+            161.0
+          ],
+          "name": "160.0-161.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8451",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8452,
+          "filename": "162 Cronicas de la faccion demoniaca.pdf",
+          "size": 12076134,
+          "first": 162.0,
+          "last": 162.0,
+          "chapters": [
+            162.0
+          ],
+          "name": "162.0-162.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8452",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8453,
+          "filename": "163_165 Cronicas de la faccion demoniaca.pdf",
+          "size": 35913905,
+          "first": 163.0,
+          "last": 165.0,
+          "chapters": [
+            163.0,
+            164.0,
+            165.0
+          ],
+          "name": "163.0-165.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8453",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8454,
+          "filename": "166 Cronicas de la faccion demoniaca.pdf",
+          "size": 12765140,
+          "first": 166.0,
+          "last": 166.0,
+          "chapters": [
+            166.0
+          ],
+          "name": "166.0-166.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8454",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8455,
+          "filename": "167 Cronicas de la faccion demoniaca.pdf",
+          "size": 13143150,
+          "first": 167.0,
+          "last": 167.0,
+          "chapters": [
+            167.0
+          ],
+          "name": "167.0-167.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8455",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8456,
+          "filename": "168 Cronicas de la faccion demoniaca.pdf",
+          "size": 15057562,
+          "first": 168.0,
+          "last": 168.0,
+          "chapters": [
+            168.0
+          ],
+          "name": "168.0-168.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8456",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8457,
+          "filename": "169_172 Cronicas de la faccion demoniaca.pdf",
+          "size": 64236672,
+          "first": 169.0,
+          "last": 172.0,
+          "chapters": [
+            169.0,
+            170.0,
+            171.0,
+            172.0
+          ],
+          "name": "169.0-172.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8457",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8458,
+          "filename": "173_174 Cronicas de la faccion demoniaca.pdf",
+          "size": 23106530,
+          "first": 173.0,
+          "last": 174.0,
+          "chapters": [
+            173.0,
+            174.0
+          ],
+          "name": "173.0-174.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8458",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8459,
+          "filename": "175 Cronicas de la faccion demoniaca.pdf",
+          "size": 13811669,
+          "first": 175.0,
+          "last": 175.0,
+          "chapters": [
+            175.0
+          ],
+          "name": "175.0-175.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8459",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8460,
+          "filename": "176 Cronicas de la faccion demoniaca.pdf",
+          "size": 12112874,
+          "first": 176.0,
+          "last": 176.0,
+          "chapters": [
+            176.0
+          ],
+          "name": "176.0-176.0",
+          "date": "2026-11-15T00:55:34+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8460",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8461,
+          "filename": "177 Cronicas de la faccion demoniaca.pdf",
+          "size": 10927468,
+          "first": 177.0,
+          "last": 177.0,
+          "chapters": [
+            177.0
+          ],
+          "name": "177.0-177.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8461",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8462,
+          "filename": "178 Cronicas de la faccion demoniaca.pdf",
+          "size": 12444525,
+          "first": 178.0,
+          "last": 178.0,
+          "chapters": [
+            178.0
+          ],
+          "name": "178.0-178.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8462",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8463,
+          "filename": "179 Cronicas de la faccion demoniaca.pdf",
+          "size": 13505099,
+          "first": 179.0,
+          "last": 179.0,
+          "chapters": [
+            179.0
+          ],
+          "name": "179.0-179.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8463",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8464,
+          "filename": "180 Cronicas de la faccion demoniaca.pdf",
+          "size": 14717766,
+          "first": 180.0,
+          "last": 180.0,
+          "chapters": [
+            180.0
+          ],
+          "name": "180.0-180.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8464",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8465,
+          "filename": "181 Cronicas de la faccion demoniaca.pdf",
+          "size": 11081960,
+          "first": 181.0,
+          "last": 181.0,
+          "chapters": [
+            181.0
+          ],
+          "name": "181.0-181.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8465",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8466,
+          "filename": "182 Cronicas de la faccion demoniaca.pdf",
+          "size": 13029721,
+          "first": 182.0,
+          "last": 182.0,
+          "chapters": [
+            182.0
+          ],
+          "name": "182.0-182.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8466",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8467,
+          "filename": "183 Cronicas de la faccion demoniaca.pdf",
+          "size": 13125080,
+          "first": 183.0,
+          "last": 183.0,
+          "chapters": [
+            183.0
+          ],
+          "name": "183.0-183.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8467",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8468,
+          "filename": "184 Cronicas de la faccion demoniaca.pdf",
+          "size": 11344131,
+          "first": 184.0,
+          "last": 184.0,
+          "chapters": [
+            184.0
+          ],
+          "name": "184.0-184.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8468",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1003003829878,
+          "message_id": 8469,
+          "filename": "185 Cronicas de la faccion demoniaca.pdf",
+          "size": 13801533,
+          "first": 185.0,
+          "last": 185.0,
+          "chapters": [
+            185.0
+          ],
+          "name": "185.0-185.0",
+          "date": "2026-11-15T00:55:35+00:00",
+          "telegram_link": "https://t.me/c/3003829878/8469",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 41,
+      "latest_chapter": 185.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-15T01:00:30.499863+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -450464,6 +451290,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-15T00:04:47.961408+00:00",
+  "updated_at": "2026-11-15T01:00:30.499899+00:00",
   "version": 3
 }
