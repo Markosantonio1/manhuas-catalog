@@ -325387,10 +325387,11 @@
           "size": 36429875,
           "date": "2026-11-16T23:04:16+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8583",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             348
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/overgeared/8583_%E3%80%8C348-348%E3%80%8DOvergeared.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261116%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T231029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=027aa5329843ab87483b24d5219aee9daeae85f17c69ad373eebe1e3131880ab"
         }
       ],
       "rating": 5.0,
@@ -452051,10 +452052,11 @@
           "size": 27357996,
           "date": "2026-11-16T22:48:56+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8573",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             142
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_restaurante_del_m_s_all/8573_%E3%80%8C142-142%E3%80%8DEl%20restaurante%20del%20m%C3%A1s%20all%C3%A1%20%283%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261116%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T231056Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a98eeb90648e6c0e095d2a32f9b63400563e73b90500f4b7daccc8103009c121"
         }
       ],
       "package_count": 17,
