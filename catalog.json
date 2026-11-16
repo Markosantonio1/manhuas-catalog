@@ -192799,7 +192799,8 @@
       "added_at": "2026-09-19T03:41:57+00:00",
       "aliases": [
         "Getting Rich with Automatic Hunting",
-        "Haciéndome Rico con la Caza Automática"
+        "Haciéndome Rico con la Caza Automática",
+        "Mr. Kim Strikes It Rich With Auto-Hunting"
       ],
       "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/haciendome_rico_con_la_caza_automatica.jpg",
       "cover_message_id": 30,
@@ -192984,7 +192985,8 @@
       "rating": 5.0,
       "rating_count": 2,
       "synopsis": "¡Gritemos hoy también: \"¡La seguridad es lo primero!\"! Una era donde destacan los Despertados y los Cazadores. Ha-jun, un trabajador diario en la construcción, despierta como \"Director de la Oficina de Empleo\". Pero... ¡¿los trabajadores que invoca despejan las mazmorras por sí solos?! Reclutando desde orcos hasta trabajadores de la más alta categoría, Ha-jun desarrolla su propio equipo de \"caza automática\". Mientras oculta su identidad, Ha-jun va aumentando su poder e influencia, pero su presencia comienza a llamar gradualmente la atención de los mejores cazadores del país y de las grandes potencias extranjeras...!",
-      "visible": true
+      "visible": true,
+      "updated_at": "2026-11-16T23:17:44.887415+00:00"
     },
     {
       "added_at": "2026-10-24T13:57:31+00:00",
@@ -452399,6 +452401,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-16T23:04:20.943721+00:00",
+  "updated_at": "2026-11-16T23:17:44.887415+00:00",
   "version": 3
 }
