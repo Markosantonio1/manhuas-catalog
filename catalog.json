@@ -481245,6 +481245,52 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "kimi_no_yume_o_mite_iru",
+      "hashtag": "#Kimi_no_Yume_o_Mite_Iru",
+      "name": "Kimi no Yume o Mite Iru",
+      "aliases": [],
+      "genres": [
+        "Boys_Love",
+        "Romance"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/kimi_no_yume_o_mite_iru.jpg",
+      "cover_message_id": 2905,
+      "cover_telegram_link": "https://t.me/c/4187372773/2905",
+      "synopsis": "Sinopsis no disponible.",
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13517,
+          "filename": "「1-7」Kimi no Yume o Mite Iru.pdf",
+          "size": 133449354,
+          "first": 1.0,
+          "last": 7.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0
+          ],
+          "name": "1.0-7.0",
+          "date": "2026-11-17T01:35:04+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13517",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 1,
+      "latest_chapter": 7.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-17T13:50:33.451358+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -481253,6 +481299,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-17T12:30:19.774710+00:00",
+  "updated_at": "2026-11-17T13:50:33.451383+00:00",
   "version": 3
 }
