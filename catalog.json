@@ -480256,7 +480256,9 @@
       "id": "the_regressed_demon_lord_is_kind",
       "hashtag": "#The_Regressed_Demon_Lord_is_Kind",
       "name": "The Regressed Demon Lord is Kind",
-      "aliases": [],
+      "aliases": [
+        "La regresión del demonio benevolente"
+      ],
       "genres": [
         "Acción",
         "Antiheroe",
@@ -480618,7 +480620,8 @@
         41,
         42,
         43
-      ]
+      ],
+      "updated_at": "2026-11-17T12:17:15.069781+00:00"
     }
   ],
   "source": {
@@ -480627,6 +480630,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-17T12:02:56.281326+00:00",
+  "updated_at": "2026-11-17T12:17:15.069781+00:00",
   "version": 3
 }
