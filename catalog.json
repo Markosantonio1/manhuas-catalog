@@ -94730,10 +94730,10 @@
       ],
       "hashtag": "#Despertar_del_guerrero_del_Rayo_Clase_SSS",
       "id": "despertar_del_guerrero_del_rayo_clase_sss",
-      "latest_chapter": 101,
+      "latest_chapter": 102,
       "library_count": 13,
       "name": "Despertar del guerrero del Rayo Clase SSS",
-      "package_count": 56,
+      "package_count": 57,
       "packages": [
         {
           "name": "1-10",
@@ -95675,6 +95675,21 @@
             101
           ],
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/despertar_del_guerrero_del_rayo_clase_sss/8534_%E3%80%8C97-101%E3%80%8DDespertar%20del%20guerrero%20del%20Rayo%20Clase%20SSS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261117%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T020015Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1047340a23b6e3325f765ec01f40224191b45e5ebfff3b9c1261c7c255e3c5f1"
+        },
+        {
+          "name": "102",
+          "first": 102,
+          "last": 102,
+          "channel_id": -1003003829878,
+          "message_id": 8610,
+          "filename": "「102-102」Despertar del guerrero del Rayo Clase SSS.pdf",
+          "size": 22639561,
+          "date": "2026-11-17T11:54:34+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8610",
+          "download_ready": false,
+          "chapters": [
+            102
+          ]
         }
       ],
       "rating": 4.5,
@@ -469925,10 +469940,25 @@
             67
           ],
           "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ascenso_del_caballero_errante/8080_%E3%80%8C61-67%E3%80%8DEl%20Ascenso%20del%20Caballero%20Errante.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261117%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T020024Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ae62e98b2a08b7b430a5ded89531ac6c2563daa7efdbfa8f1c4b0adacecf3be"
+        },
+        {
+          "name": "68",
+          "first": 68,
+          "last": 68,
+          "channel_id": -1003003829878,
+          "message_id": 8611,
+          "filename": "「68-68」El Ascenso del Caballero Errante.pdf",
+          "size": 21712820,
+          "date": "2026-11-17T11:57:20+00:00",
+          "telegram_link": "https://t.me/manhuasgratis/8611",
+          "download_ready": false,
+          "chapters": [
+            68
+          ]
         }
       ],
-      "package_count": 7,
-      "latest_chapter": 67,
+      "package_count": 8,
+      "latest_chapter": 68,
       "visible": true,
       "incomplete": false,
       "added_at": "2026-11-11T21:12:12.967698+00:00",
@@ -480595,6 +480625,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-17T04:36:24.004257+00:00",
+  "updated_at": "2026-11-17T12:02:56.281326+00:00",
   "version": 3
 }
