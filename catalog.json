@@ -481365,6 +481365,174 @@
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
+    },
+    {
+      "id": "el_pecado_del_santo",
+      "hashtag": "#El_Pecado_Del_Santo",
+      "name": "El Pecado Del Santo",
+      "aliases": [],
+      "genres": [
+        "Finalizada",
+        "Respaldo",
+        "Romance"
+      ],
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/el_pecado_del_santo.jpg",
+      "cover_message_id": 2912,
+      "cover_telegram_link": "https://t.me/c/4187372773/2912",
+      "synopsis": "McClart siempre ha odiado a las brujas y su deseo por acabar con ellas es cada día es más grande, pero no duraría mucho tiempo. En una de sus cacerías de brujas se encontraría con Bienny, la «Gran Bruja de Tempei». Este sigue las órdenes de su Santidad y la lleva de regreso a la capital, en dónde deberá entregarla a la Iglesia, sin embargo él decide hacer un trato con ella, él le «perdonaría la vida» si ella le decía dónde se encontraban las demás, sin pensarlo dos veces, Bienny acepta y guia a McClart hacia ellas. Con el paso de los días él comienza a sentirse atraído por ella, confundido comienza a sospechar que ella lo ha embrujado. La tensión que existe entre ambos es innegable, la atracción y el deseo se comenzarán apoderarse de ellos.",
+      "packages": [
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13520,
+          "filename": "01-10 El Pecado Del Santo.pdf",
+          "size": 77233770,
+          "first": 1.0,
+          "last": 10.0,
+          "chapters": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0
+          ],
+          "name": "1.0-10.0",
+          "date": "2026-11-17T12:47:52+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13520",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13521,
+          "filename": "11-20 El Pecado Del Santo.pdf",
+          "size": 110873064,
+          "first": 11.0,
+          "last": 20.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0
+          ],
+          "name": "11.0-20.0",
+          "date": "2026-11-17T12:47:52+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13521",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13522,
+          "filename": "21-30 El Pecado Del Santo.pdf",
+          "size": 77213361,
+          "first": 21.0,
+          "last": 30.0,
+          "chapters": [
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0,
+            30.0
+          ],
+          "name": "21.0-30.0",
+          "date": "2026-11-17T12:47:52+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13522",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13523,
+          "filename": "31-40 El Pecado Del Santo.pdf",
+          "size": 97293536,
+          "first": 31.0,
+          "last": 40.0,
+          "chapters": [
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0,
+            38.0,
+            39.0,
+            40.0
+          ],
+          "name": "31.0-40.0",
+          "date": "2026-11-17T12:47:52+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13523",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13524,
+          "filename": "41-43 El Pecado Del Santo.pdf",
+          "size": 84311198,
+          "first": 41.0,
+          "last": 43.0,
+          "chapters": [
+            41.0,
+            42.0,
+            43.0
+          ],
+          "name": "41.0-43.0",
+          "date": "2026-11-17T12:47:52+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13524",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13525,
+          "filename": "[Cap 44-53 FIN] El pecado del Santo⚜️.pdf",
+          "size": 95422157,
+          "first": 44.0,
+          "last": 53.0,
+          "chapters": [
+            44.0,
+            45.0,
+            46.0,
+            47.0,
+            48.0,
+            49.0,
+            50.0,
+            51.0,
+            52.0,
+            53.0
+          ],
+          "name": "44.0-53.0",
+          "date": "2026-11-17T12:47:52+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13525",
+          "download_url": null,
+          "download_ready": false
+        }
+      ],
+      "package_count": 6,
+      "latest_chapter": 53.0,
+      "visible": true,
+      "incomplete": false,
+      "added_at": "2026-11-17T13:55:43.164681+00:00",
+      "rating": 0.0,
+      "rating_count": 0,
+      "library_count": 0
     }
   ],
   "source": {
@@ -481373,6 +481541,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-17T13:53:41.635462+00:00",
+  "updated_at": "2026-11-17T13:55:43.164731+00:00",
   "version": 3
 }
