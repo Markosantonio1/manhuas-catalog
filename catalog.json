@@ -473611,7 +473611,9 @@
       "id": "la_leyenda_de_la_estrella_general",
       "hashtag": "#La_Leyenda_De_La_Estrella_General",
       "name": "La Leyenda De La Estrella General",
-      "aliases": [],
+      "aliases": [
+        "Legend of Star General"
+      ],
       "genres": [
         "Acción",
         "Aventura",
@@ -475995,7 +475997,8 @@
         385,
         386,
         387
-      ]
+      ],
+      "updated_at": "2026-11-17T01:05:59.327040+00:00"
     },
     {
       "id": "renunci_a_ser_el_rey_demonio",
@@ -479603,6 +479606,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-17T00:57:13.012179+00:00",
+  "updated_at": "2026-11-17T01:05:59.327040+00:00",
   "version": 3
 }
