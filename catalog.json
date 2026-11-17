@@ -481247,26 +481247,25 @@
       "library_count": 0
     },
     {
-      "id": "kimi_no_yume_o_mite_iru",
-      "hashtag": "#Kimi_no_Yume_o_Mite_Iru",
-      "name": "Kimi no Yume o Mite Iru",
+      "id": "escape_al_olvido",
+      "hashtag": "#Escape_Al_Olvido",
+      "name": "Escape Al Olvido",
       "aliases": [],
       "genres": [
-        "Boys_Love",
         "Romance"
       ],
-      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/kimi_no_yume_o_mite_iru.jpg",
-      "cover_message_id": 2905,
-      "cover_telegram_link": "https://t.me/c/4187372773/2905",
+      "cover": "https://raw.githubusercontent.com/Markosantonio1/manhuas-catalog/main/cover/escape_al_olvido.jpg",
+      "cover_message_id": 2904,
+      "cover_telegram_link": "https://t.me/c/4187372773/2904",
       "synopsis": "Sinopsis no disponible.",
       "packages": [
         {
           "channel_id": -1004367557958,
-          "message_id": 13517,
-          "filename": "「1-7」Kimi no Yume o Mite Iru.pdf",
-          "size": 133449354,
+          "message_id": 13512,
+          "filename": "「1-10」Escape Al Olvido.pdf",
+          "size": 97982410,
           "first": 1.0,
-          "last": 7.0,
+          "last": 10.0,
           "chapters": [
             1.0,
             2.0,
@@ -481274,20 +481273,95 @@
             4.0,
             5.0,
             6.0,
-            7.0
+            7.0,
+            8.0,
+            9.0,
+            10.0
           ],
-          "name": "1.0-7.0",
+          "name": "1.0-10.0",
           "date": "2026-11-17T01:35:04+00:00",
-          "telegram_link": "https://t.me/c/4367557958/13517",
+          "telegram_link": "https://t.me/c/4367557958/13512",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13513,
+          "filename": "「11-19」Escape Al Olvido.pdf",
+          "size": 81708078,
+          "first": 11.0,
+          "last": 19.0,
+          "chapters": [
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0
+          ],
+          "name": "11.0-19.0",
+          "date": "2026-11-17T01:35:04+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13513",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13514,
+          "filename": "「20-29」Escape Al Olvido.pdf",
+          "size": 72478681,
+          "first": 20.0,
+          "last": 29.0,
+          "chapters": [
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0,
+            28.0,
+            29.0
+          ],
+          "name": "20.0-29.0",
+          "date": "2026-11-17T01:35:04+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13514",
+          "download_url": null,
+          "download_ready": false
+        },
+        {
+          "channel_id": -1004367557958,
+          "message_id": 13515,
+          "filename": "「30-37」Escape Al Olvido.pdf",
+          "size": 40201952,
+          "first": 30.0,
+          "last": 37.0,
+          "chapters": [
+            30.0,
+            31.0,
+            32.0,
+            33.0,
+            34.0,
+            35.0,
+            36.0,
+            37.0
+          ],
+          "name": "30.0-37.0",
+          "date": "2026-11-17T01:35:04+00:00",
+          "telegram_link": "https://t.me/c/4367557958/13515",
           "download_url": null,
           "download_ready": false
         }
       ],
-      "package_count": 1,
-      "latest_chapter": 7.0,
+      "package_count": 4,
+      "latest_chapter": 37.0,
       "visible": true,
       "incomplete": false,
-      "added_at": "2026-11-17T13:50:33.451358+00:00",
+      "added_at": "2026-11-17T13:53:41.635388+00:00",
       "rating": 0.0,
       "rating_count": 0,
       "library_count": 0
@@ -481299,6 +481373,6 @@
     "portadas_channel": "-1004187372773",
     "type": "telegram"
   },
-  "updated_at": "2026-11-17T13:50:33.451383+00:00",
+  "updated_at": "2026-11-17T13:53:41.635462+00:00",
   "version": 3
 }
