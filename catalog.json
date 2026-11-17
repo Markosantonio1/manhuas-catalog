@@ -95686,10 +95686,11 @@
           "size": 22639561,
           "date": "2026-11-17T11:54:34+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8610",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             102
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/despertar_del_guerrero_del_rayo_clase_sss/8610_%E3%80%8C102-102%E3%80%8DDespertar%20del%20guerrero%20del%20Rayo%20Clase%20SSS.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261117%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T120408Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8f1aaa05053cae6016a217c1463c5963964d1d2842f614dfed19e5a849b3bd3d"
         }
       ],
       "rating": 4.5,
@@ -469951,10 +469952,11 @@
           "size": 21712820,
           "date": "2026-11-17T11:57:20+00:00",
           "telegram_link": "https://t.me/manhuasgratis/8611",
-          "download_ready": false,
+          "download_ready": true,
           "chapters": [
             68
-          ]
+          ],
+          "download_url": "https://pdf.s3.us-southeast-1.idrivee2.com/el_ascenso_del_caballero_errante/8611_%E3%80%8C68-68%E3%80%8DEl%20Ascenso%20del%20Caballero%20Errante.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L01XesFy3RgmqaeVQsOY%2F20261117%2Fus-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261117T120503Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=69ce7f49c577263de320be16ae0c2283872a20934f46f30606098bb2629d0fdc"
         }
       ],
       "package_count": 8,
