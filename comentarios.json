@@ -1,8 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T00:00:22.519930+00:00",
-  "total_comments": 27,
+  "updated_at": "2026-11-19T00:00:28.788286+00:00",
+  "total_comments": 29,
   "series": {
+    "punto_de_vista_del_lector_omnisciente": [
+      {
+        "id": "fb23c851-2419-44ed-9f25-f64c79d65479",
+        "user_name": "Loki970",
+        "text": "Cine 🙂‍↕️🖐🏽",
+        "created_at": 1794986233930
+      }
+    ],
+    "soldado_esqueleto": [
+      {
+        "id": "493eb1dd-6d6d-4025-812b-d783b90a6c64",
+        "user_name": "Loki970",
+        "text": "De las mejores obras que he leído en un buen tiempo",
+        "created_at": 1794986042171
+      }
+    ],
     "caballero_en_eterna_regresion": [
       {
         "id": "588eae42-fe5d-4442-afa7-84bd17be46c9",
