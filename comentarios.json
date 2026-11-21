@@ -1,8 +1,40 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T00:00:52.734522+00:00",
-  "total_comments": 30,
+  "updated_at": "2026-11-21T00:00:23.220101+00:00",
+  "total_comments": 34,
   "series": {
+    "el_mago_pastor": [
+      {
+        "id": "d9be4f74-f3dd-4b33-8419-ee1ca2c9fd32",
+        "user_name": "Ashura",
+        "text": "Al principio me pareció un poco raro pero hasta donde va me a encantado. Lo recomiendo para el que quiera salir un poco de la monotonía.",
+        "created_at": 1795214980250
+      }
+    ],
+    "el_maestro_de_la_espada_acogedor_de_estrellas": [
+      {
+        "id": "77d685d9-6d82-42cc-ae4e-78be4e53cc05",
+        "user_name": "Ashura",
+        "text": "Esto es puro cinema. Lo recomiendo muchísimo, no se van a arrepentir créanme",
+        "created_at": 1795214889788
+      }
+    ],
+    "oda_a_los_valientes": [
+      {
+        "id": "38777e4a-38e8-4de2-a975-644618226f89",
+        "user_name": "admin",
+        "text": "tremenda serie, ojalá se mantenga bastante",
+        "created_at": 1795203543919
+      }
+    ],
+    "escape_al_olvido": [
+      {
+        "id": "75d38841-584b-47d5-876a-25dffecf35b7",
+        "user_name": "UNKNOW",
+        "text": "Muy buena la trama, te atrapa desde el primer capítulo, aún sigue dejando muchas dudas , pero 100% recomendada. Muchísimas gracias por subirlo, son el mejor ❤️✨",
+        "created_at": 1795181932933
+      }
+    ],
     "el_hijo_menor_del_maestro_de_la_espada": [
       {
         "id": "55b00d41-df28-42f7-9780-9486b0da751d",
