@@ -1,6 +1,6 @@
 {
-  "version_code": 20,
-  "version_name": "3.4",
-  "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/3.4/manhuasgratis3.4.apk",
-  "changelog": "Añadido ajuste de autoeliminacion de leidos \n•Añadido respuesta a reportes de problemas.\n• retoques de deteccion de bugs.\n• 🐛 Correcciones internas y mejoras de estabilidad."
+  "version_code": 21,
+  "version_name": "3.5",
+  "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/3.5/manhuas.gratis3.5.apk",
+  "changelog": "resuelto problema de sinopsis \n•solucionado problemad e descargas.\n• retoques de deteccion de bugs.\n• 🐛 Correcciones internas y mejoras de estabilidad."
 }
