@@ -1,8 +1,38 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T00:00:23.220101+00:00",
-  "total_comments": 34,
+  "updated_at": "2026-11-22T00:00:54.149227+00:00",
+  "total_comments": 37,
   "series": {
+    "overgeared": [
+      {
+        "id": "3da74f21-089f-40c3-9535-4c35cc729ec5",
+        "user_name": "Loki970",
+        "text": "amo 😔🖐🏽",
+        "created_at": 1795299913295
+      }
+    ],
+    "cazador_suicida_de_clase_sss": [
+      {
+        "id": "e85b5ad1-e26f-4437-8757-953a5ea6b3b3",
+        "user_name": "Loki970",
+        "text": "Relamente muy bueno",
+        "created_at": 1795299899035
+      }
+    ],
+    "evolucion_insana_de_cero": [
+      {
+        "id": "9dc83f53-cdef-425d-a8f9-77ffffec0e69",
+        "user_name": "Lector E636",
+        "text": "Me encantó la trama",
+        "created_at": 1795267800458
+      },
+      {
+        "id": "56f6ff43-2971-40a3-b0a2-2af4489b387f",
+        "user_name": "Lector 8396",
+        "text": "Me gustó mucho, el prota evoluciona con esfuerzo y le toma años, no como otros Protas que se vuelven casi dioses por la fuerza del guión",
+        "created_at": 1794245860871
+      }
+    ],
     "el_mago_pastor": [
       {
         "id": "d9be4f74-f3dd-4b33-8419-ee1ca2c9fd32",
@@ -129,14 +159,6 @@
         "user_name": "Dan",
         "text": "Apenas he leído 10 capítulos y para mí gusto es muy buena, tengo mucha curiosidad de como se va ir desarrollando, ya que como lo plantea el título es un psicópata que termina en un mundo donde prácticamente para él es disney pero para su retorcida mente y técnicamente se presta demasiado para que él haga y deshaga a su antojo, me gusta bastante la premisa.",
         "created_at": 1794329289729
-      }
-    ],
-    "evolucion_insana_de_cero": [
-      {
-        "id": "56f6ff43-2971-40a3-b0a2-2af4489b387f",
-        "user_name": "Lector 8396",
-        "text": "Me gustó mucho, el prota evoluciona con esfuerzo y le toma años, no como otros Protas que se vuelven casi dioses por la fuerza del guión",
-        "created_at": 1794245860871
       }
     ],
     "artes_marciales_supremas_puedo_aplastar_dioses_con_una_sola_mano": [
