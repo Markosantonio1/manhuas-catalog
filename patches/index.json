@@ -1,1 +1,1 @@
-{"current_version":1,"patches":[{"id":1,"from_version":0,"to_version":1,"file":"000001.json","sha256":"eca49fb6e7b62c2e68b04e7d0ae5367ad4effaa4d2379e04f9216684035058c8"}]}
+{"current_version":1,"patches":[{"id":1,"from_version":0,"to_version":1,"file":"000001.json","sha256":"eca49fb6e7b62c2e68b04e7d0ae5367ad4effaa4d2379e04f9216684035058c8"},{"id":1,"from_version":1,"to_version":1,"file":"000001.json","sha256":"5e2f912ceb4cdbb010957c8c1ea85f44d9d55b80e6265dd75ea30ee7e444b8c9"}]}
