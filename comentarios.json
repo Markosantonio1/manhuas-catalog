@@ -1,8 +1,22 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T00:00:20.436904+00:00",
-  "total_comments": 40,
+  "updated_at": "2026-11-25T00:00:48.554333+00:00",
+  "total_comments": 41,
   "series": {
+    "punto_de_vista_del_lector_omnisciente": [
+      {
+        "id": "38aa3b92-df43-4a1a-a0e6-0ce830d83000",
+        "user_name": "admin",
+        "text": "pues si, cine",
+        "created_at": 1795562471211
+      },
+      {
+        "id": "fb23c851-2419-44ed-9f25-f64c79d65479",
+        "user_name": "Loki970",
+        "text": "Cine 🙂‍↕️🖐🏽",
+        "created_at": 1794986233930
+      }
+    ],
     "nano_machine": [
       {
         "id": "b6fbbea5-f834-4ba7-a723-34bea31cef2d",
@@ -111,14 +125,6 @@
         "user_name": "sead mh",
         "text": "che como nadie escribe aqui xd",
         "created_at": 1795092191928
-      }
-    ],
-    "punto_de_vista_del_lector_omnisciente": [
-      {
-        "id": "fb23c851-2419-44ed-9f25-f64c79d65479",
-        "user_name": "Loki970",
-        "text": "Cine 🙂‍↕️🖐🏽",
-        "created_at": 1794986233930
       }
     ],
     "soldado_esqueleto": [
