@@ -1,6 +1,6 @@
 {
-  "version_code": 26,
-  "version_name": "3.6",
-  "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/3.6/manhuasgratis3.6.apk",
-  "changelog": "Mejoras de actualizacion de series \n•Mejoras visuales.\n• retoques de deteccion de bugs.\n• 🐛 Correcciones internas y mejoras de estabilidad."
+  "version_code": 27,
+  "version_name": "3.7",
+  "apk_url": "https://github.com/Markosantonio1/manhuas-catalog/releases/download/3.7/manhuasgratis3.7.apk",
+  "changelog": "Mejoras en atualización automática de disponibles \n•Retoques visuales.\n• Agregado Boton de pedidos en la seccion disponibles.\n• 🐛 Correcciones internas y mejoras de estabilidad."
 }
