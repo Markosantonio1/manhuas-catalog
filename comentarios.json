@@ -1,8 +1,30 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T02:05:10.672306+00:00",
-  "total_comments": 41,
+  "updated_at": "2026-11-26T00:00:36.206008+00:00",
+  "total_comments": 43,
   "series": {
+    "un_marine_espacial_con_una_ventana_de_estado": [
+      {
+        "id": "12c8bcb1-1f49-4fc0-803b-0fd4ac7afeae",
+        "user_name": "admin",
+        "text": "la idea está bastante buena, hace falta que no se estanque la salida de capitul6",
+        "created_at": 1795608232583
+      }
+    ],
+    "el_hijo_menor_del_maestro_de_la_espada": [
+      {
+        "id": "fbc714e3-b652-4e7e-918a-cca2d5ad8295",
+        "user_name": "☆Miri☆",
+        "text": "Me encanta la adaptación!!, gracias por la traducción 🌼🩷",
+        "created_at": 1795581224149
+      },
+      {
+        "id": "55b00d41-df28-42f7-9780-9486b0da751d",
+        "user_name": "sead mh",
+        "text": "che como nadie escribe aqui xd",
+        "created_at": 1795092191928
+      }
+    ],
     "punto_de_vista_del_lector_omnisciente": [
       {
         "id": "38aa3b92-df43-4a1a-a0e6-0ce830d83000",
@@ -117,14 +139,6 @@
         "user_name": "UNKNOW",
         "text": "Muy buena la trama, te atrapa desde el primer capítulo, aún sigue dejando muchas dudas , pero 100% recomendada. Muchísimas gracias por subirlo, son el mejor ❤️✨",
         "created_at": 1795181932933
-      }
-    ],
-    "el_hijo_menor_del_maestro_de_la_espada": [
-      {
-        "id": "55b00d41-df28-42f7-9780-9486b0da751d",
-        "user_name": "sead mh",
-        "text": "che como nadie escribe aqui xd",
-        "created_at": 1795092191928
       }
     ],
     "soldado_esqueleto": [
