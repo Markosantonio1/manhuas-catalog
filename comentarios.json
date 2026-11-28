@@ -1,8 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T00:00:55.515840+00:00",
-  "total_comments": 43,
+  "updated_at": "2026-11-28T00:01:04.324822+00:00",
+  "total_comments": 47,
   "series": {
+    "me_convert_en_un_genio_de_las_ventas": [
+      {
+        "id": "ceefd844-619e-4881-9739-736842492a85",
+        "user_name": "admin",
+        "text": "no sé si sea el dibujo, o la historia, pero no me llama la atención",
+        "created_at": 1795818153842
+      }
+    ],
+    "el_guardi_n_de_los_diez_mil_mundos": [
+      {
+        "id": "f2b8428c-7ec4-4c16-ad25-e9ea23175a27",
+        "user_name": "Loki970",
+        "text": "Sabes cuando encuentras algo tan random q resulta super bueno? Bueno es esto",
+        "created_at": 1795765689777
+      }
+    ],
+    "realmente_no_soy_el_vasallo_del_dios_demonio": [
+      {
+        "id": "6f1fa4d7-7bdd-40a3-b763-4f420fc0236f",
+        "user_name": "Loki970",
+        "text": "Se agradece q la suban 🙂‍↕️🖐🏽 realmente muy buena obra",
+        "created_at": 1795763986433
+      }
+    ],
+    "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre": [
+      {
+        "id": "4010562c-560a-41d8-bdb3-d0c5d39ceaff",
+        "user_name": "Kim Jong-il",
+        "text": "이제 때가 됐지.",
+        "created_at": 1795739071364
+      },
+      {
+        "id": "e0aff90d-d115-450a-aa94-c846dc704829",
+        "user_name": "Lector F8F1",
+        "text": "alfin lo encuentro jsjzjs",
+        "created_at": 1793797969309
+      }
+    ],
     "un_marine_espacial_con_una_ventana_de_estado": [
       {
         "id": "12c8bcb1-1f49-4fc0-803b-0fd4ac7afeae",
@@ -273,14 +311,6 @@
         "user_name": "RapMonster",
         "text": "debería estar como +18",
         "created_at": 1793810512676
-      }
-    ],
-    "guia_de_estrategia_de_un_cobarde_para_conquistar_la_torre": [
-      {
-        "id": "e0aff90d-d115-450a-aa94-c846dc704829",
-        "user_name": "Lector F8F1",
-        "text": "alfin lo encuentro jsjzjs",
-        "created_at": 1793797969309
       }
     ],
     "supervivencia": [
